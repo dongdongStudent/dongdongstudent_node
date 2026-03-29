@@ -1,0 +1,1656 @@
+{
+  "metadata": {
+    "username": "weirenle",
+    "bank": "word_master",
+    "createdAt": "2026-03-11T12:26:08.330Z",
+    "lastActive": "2026-03-13T10:53:06.645Z",
+    "totalPractice": 56,
+    "totalCorrect": 40,
+    "totalWrong": 16,
+    "accuracy": 0.71,
+    "masteredCount": 0
+  },
+  "words": {
+    "101": {
+      "wordId": 101,
+      "extract_count": 6,
+      "correct_count": 3,
+      "wrong_count": 3,
+      "mastery_level": 25,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:53:06.644Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "为...感到自豪",
+          "correctAnswer": "许多，非常"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "当然不",
+          "correctAnswer": "许多，非常"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "许多，非常",
+          "correctAnswer": "许多，非常"
+        },
+        {
+          "date": "2026-03-13T10:48:10.752Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "许多，非常",
+          "correctAnswer": "许多，非常"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "许多，非常",
+          "correctAnswer": "许多，非常"
+        },
+        {
+          "date": "2026-03-13T10:53:06.644Z",
+          "mode": "cloze",
+          "result": false,
+          "time": 0,
+          "userAnswer": "an",
+          "correctAnswer": "a"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [
+          false
+        ],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 2,
+          "accuracy": 0.6
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "102": {
+      "wordId": 102,
+      "extract_count": 6,
+      "correct_count": 3,
+      "wrong_count": 3,
+      "mastery_level": 23,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "一场大火",
+          "correctAnswer": "在夜晚"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "当然不",
+          "correctAnswer": "在夜晚"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "为...感到自豪",
+          "correctAnswer": "在夜晚"
+        },
+        {
+          "date": "2026-03-13T10:48:10.752Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "在夜晚",
+          "correctAnswer": "在夜晚"
+        },
+        {
+          "date": "2026-03-13T10:48:42.175Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "在夜晚",
+          "correctAnswer": "在夜晚"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "在夜晚",
+          "correctAnswer": "在夜晚"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 3,
+          "accuracy": 0.5
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "103": {
+      "wordId": 103,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "警察局，派出所",
+          "correctAnswer": "警察局，派出所"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "警察局，派出所",
+          "correctAnswer": "警察局，派出所"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "104": {
+      "wordId": 104,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "消防站",
+          "correctAnswer": "消防站"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "消防站",
+          "correctAnswer": "消防站"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "105": {
+      "wordId": 105,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 60,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:53:06.644Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "警察，警官",
+          "correctAnswer": "警察，警官"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "警察，警官",
+          "correctAnswer": "警察，警官"
+        },
+        {
+          "date": "2026-03-13T10:53:06.644Z",
+          "mode": "cloze",
+          "result": true,
+          "time": 0,
+          "userAnswer": "police",
+          "correctAnswer": "police"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [
+          true
+        ],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "106": {
+      "wordId": 106,
+      "extract_count": 5,
+      "correct_count": 3,
+      "wrong_count": 2,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:53:06.644Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "点亮夜晚",
+          "correctAnswer": "出来"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "出来",
+          "correctAnswer": "出来"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "出来",
+          "correctAnswer": "出来"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "出来",
+          "correctAnswer": "出来"
+        },
+        {
+          "date": "2026-03-13T10:53:06.644Z",
+          "mode": "cloze",
+          "result": false,
+          "time": 0,
+          "userAnswer": "go",
+          "correctAnswer": "come"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [
+          false
+        ],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 1,
+          "accuracy": 0.75
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "107": {
+      "wordId": 107,
+      "extract_count": 6,
+      "correct_count": 3,
+      "wrong_count": 3,
+      "mastery_level": 23,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "为...感到自豪",
+          "correctAnswer": "猜一猜"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "感觉好多了",
+          "correctAnswer": "猜一猜"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "为...感到自豪",
+          "correctAnswer": "猜一猜"
+        },
+        {
+          "date": "2026-03-13T10:48:10.752Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "猜一猜",
+          "correctAnswer": "猜一猜"
+        },
+        {
+          "date": "2026-03-13T10:48:42.175Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "猜一猜",
+          "correctAnswer": "猜一猜"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "猜一猜",
+          "correctAnswer": "猜一猜"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 3,
+          "accuracy": 0.5
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "108": {
+      "wordId": 108,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "在田地里",
+          "correctAnswer": "在田地里"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "在田地里",
+          "correctAnswer": "在田地里"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "109": {
+      "wordId": 109,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "出租车司机",
+          "correctAnswer": "出租车司机"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "出租车司机",
+          "correctAnswer": "出租车司机"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "110": {
+      "wordId": 110,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 55,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:53:06.644Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "谈论",
+          "correctAnswer": "带回家"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "带回家",
+          "correctAnswer": "带回家"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "带回家",
+          "correctAnswer": "带回家"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "带回家",
+          "correctAnswer": "带回家"
+        },
+        {
+          "date": "2026-03-13T10:53:06.644Z",
+          "mode": "cloze",
+          "result": true,
+          "time": 0,
+          "userAnswer": "take",
+          "correctAnswer": "take"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [
+          true
+        ],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 1,
+          "accuracy": 0.75
+        },
+        "cloze": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "111": {
+      "wordId": 111,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 60,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:53:06.644Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "保证安全",
+          "correctAnswer": "保证安全"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "保证安全",
+          "correctAnswer": "保证安全"
+        },
+        {
+          "date": "2026-03-13T10:53:06.644Z",
+          "mode": "cloze",
+          "result": true,
+          "time": 0,
+          "userAnswer": "safe",
+          "correctAnswer": "safe"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [
+          true
+        ],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "112": {
+      "wordId": 112,
+      "extract_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "mastery_level": 10,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "努力工作",
+          "correctAnswer": "努力工作"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "为...感到自豪",
+          "correctAnswer": "努力工作"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          false
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 1,
+          "wrong": 1,
+          "accuracy": 0.5
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "113": {
+      "wordId": 113,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "点亮夜晚",
+          "correctAnswer": "点亮夜晚"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "点亮夜晚",
+          "correctAnswer": "点亮夜晚"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "114": {
+      "wordId": 114,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "日复一日",
+          "correctAnswer": "日复一日"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "日复一日",
+          "correctAnswer": "日复一日"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "115": {
+      "wordId": 115,
+      "extract_count": 6,
+      "correct_count": 3,
+      "wrong_count": 3,
+      "mastery_level": 23,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "朝...大喊",
+          "correctAnswer": "当然不"
+        },
+        {
+          "date": "2026-03-13T10:45:13.915Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "走在大街上",
+          "correctAnswer": "当然不"
+        },
+        {
+          "date": "2026-03-13T10:47:10.271Z",
+          "mode": "choice",
+          "result": false,
+          "time": 0,
+          "userAnswer": "努力工作",
+          "correctAnswer": "当然不"
+        },
+        {
+          "date": "2026-03-13T10:48:10.752Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "当然不",
+          "correctAnswer": "当然不"
+        },
+        {
+          "date": "2026-03-13T10:48:42.175Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "当然不",
+          "correctAnswer": "当然不"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "当然不",
+          "correctAnswer": "当然不"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 3,
+          "wrong": 3,
+          "accuracy": 0.5
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "116": {
+      "wordId": 116,
+      "extract_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "mastery_level": 33,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T10:43:41.511Z",
+      "last_practiced": "2026-03-13T10:51:52.853Z",
+      "history": [
+        {
+          "date": "2026-03-13T10:43:41.511Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "夜猫子，喜欢熬夜的人",
+          "correctAnswer": "夜猫子，喜欢熬夜的人"
+        },
+        {
+          "date": "2026-03-13T10:51:52.853Z",
+          "mode": "choice",
+          "result": true,
+          "time": 0,
+          "userAnswer": "夜猫子，喜欢熬夜的人",
+          "correctAnswer": "夜猫子，喜欢熬夜的人"
+        }
+      ],
+      "recent_results": {
+        "choice": [
+          true,
+          true
+        ],
+        "cloze": [],
+        "input": []
+      },
+      "mode_stats": {
+        "choice": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "cloze": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "input": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    }
+  },
+  "testHistory": [
+    {
+      "date": "2026-03-13T10:43:41.511Z",
+      "mode": "choice",
+      "totalQuestions": 16,
+      "correctCount": 10,
+      "timeSpent": 206,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "为...感到自豪",
+          "correct": "许多，非常",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 102,
+          "userAnswer": "一场大火",
+          "correct": "在夜晚",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 103,
+          "userAnswer": "警察局，派出所",
+          "correct": "警察局，派出所",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 104,
+          "userAnswer": "消防站",
+          "correct": "消防站",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 105,
+          "userAnswer": "警察，警官",
+          "correct": "警察，警官",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 106,
+          "userAnswer": "点亮夜晚",
+          "correct": "出来",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "为...感到自豪",
+          "correct": "猜一猜",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 108,
+          "userAnswer": "在田地里",
+          "correct": "在田地里",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 109,
+          "userAnswer": "出租车司机",
+          "correct": "出租车司机",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 110,
+          "userAnswer": "谈论",
+          "correct": "带回家",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 111,
+          "userAnswer": "保证安全",
+          "correct": "保证安全",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 112,
+          "userAnswer": "努力工作",
+          "correct": "努力工作",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 113,
+          "userAnswer": "点亮夜晚",
+          "correct": "点亮夜晚",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 114,
+          "userAnswer": "日复一日",
+          "correct": "日复一日",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "朝...大喊",
+          "correct": "当然不",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 116,
+          "userAnswer": "夜猫子，喜欢熬夜的人",
+          "correct": "夜猫子，喜欢熬夜的人",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:45:13.915Z",
+      "mode": "choice",
+      "totalQuestions": 6,
+      "correctCount": 2,
+      "timeSpent": 63,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "当然不",
+          "correct": "许多，非常",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 102,
+          "userAnswer": "当然不",
+          "correct": "在夜晚",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 106,
+          "userAnswer": "出来",
+          "correct": "出来",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 17,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "感觉好多了",
+          "correct": "猜一猜",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 110,
+          "userAnswer": "带回家",
+          "correct": "带回家",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 17,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "走在大街上",
+          "correct": "当然不",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:47:10.271Z",
+      "mode": "choice",
+      "totalQuestions": 6,
+      "correctCount": 3,
+      "timeSpent": 93,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "许多，非常",
+          "correct": "许多，非常",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 13,
+          "mastered": false
+        },
+        {
+          "wordId": 102,
+          "userAnswer": "为...感到自豪",
+          "correct": "在夜晚",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 106,
+          "userAnswer": "出来",
+          "correct": "出来",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "为...感到自豪",
+          "correct": "猜一猜",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        },
+        {
+          "wordId": 110,
+          "userAnswer": "带回家",
+          "correct": "带回家",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 27,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "努力工作",
+          "correct": "当然不",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 0,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:48:10.752Z",
+      "mode": "choice",
+      "totalQuestions": 4,
+      "correctCount": 4,
+      "timeSpent": 43,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "许多，非常",
+          "correct": "许多，非常",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 23,
+          "mastered": false
+        },
+        {
+          "wordId": 102,
+          "userAnswer": "在夜晚",
+          "correct": "在夜晚",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 12,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "猜一猜",
+          "correct": "猜一猜",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 12,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "当然不",
+          "correct": "当然不",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 12,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:48:42.175Z",
+      "mode": "choice",
+      "totalQuestions": 3,
+      "correctCount": 3,
+      "timeSpent": 19,
+      "results": [
+        {
+          "wordId": 102,
+          "userAnswer": "在夜晚",
+          "correct": "在夜晚",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 21,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "猜一猜",
+          "correct": "猜一猜",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 21,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "当然不",
+          "correct": "当然不",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 21,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:51:52.853Z",
+      "mode": "choice",
+      "totalQuestions": 16,
+      "correctCount": 15,
+      "timeSpent": 165,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "许多，非常",
+          "correct": "许多，非常",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 25,
+          "mastered": false
+        },
+        {
+          "wordId": 102,
+          "userAnswer": "在夜晚",
+          "correct": "在夜晚",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 23,
+          "mastered": false
+        },
+        {
+          "wordId": 103,
+          "userAnswer": "警察局，派出所",
+          "correct": "警察局，派出所",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 104,
+          "userAnswer": "消防站",
+          "correct": "消防站",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 105,
+          "userAnswer": "警察，警官",
+          "correct": "警察，警官",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 106,
+          "userAnswer": "出来",
+          "correct": "出来",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 28,
+          "mastered": false
+        },
+        {
+          "wordId": 107,
+          "userAnswer": "猜一猜",
+          "correct": "猜一猜",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 23,
+          "mastered": false
+        },
+        {
+          "wordId": 108,
+          "userAnswer": "在田地里",
+          "correct": "在田地里",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 109,
+          "userAnswer": "出租车司机",
+          "correct": "出租车司机",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 110,
+          "userAnswer": "带回家",
+          "correct": "带回家",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 28,
+          "mastered": false
+        },
+        {
+          "wordId": 111,
+          "userAnswer": "保证安全",
+          "correct": "保证安全",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 112,
+          "userAnswer": "为...感到自豪",
+          "correct": "努力工作",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 10,
+          "mastered": false
+        },
+        {
+          "wordId": 113,
+          "userAnswer": "点亮夜晚",
+          "correct": "点亮夜晚",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 114,
+          "userAnswer": "日复一日",
+          "correct": "日复一日",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        },
+        {
+          "wordId": 115,
+          "userAnswer": "当然不",
+          "correct": "当然不",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 23,
+          "mastered": false
+        },
+        {
+          "wordId": 116,
+          "userAnswer": "夜猫子，喜欢熬夜的人",
+          "correct": "夜猫子，喜欢熬夜的人",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 33,
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13T10:53:06.644Z",
+      "mode": "cloze",
+      "totalQuestions": 5,
+      "correctCount": 3,
+      "timeSpent": 40,
+      "results": [
+        {
+          "wordId": 101,
+          "userAnswer": "an",
+          "correct": "a",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 25,
+          "mastered": false
+        },
+        {
+          "wordId": 105,
+          "userAnswer": "police",
+          "correct": "police",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 60,
+          "mastered": false
+        },
+        {
+          "wordId": 106,
+          "userAnswer": "go",
+          "correct": "come",
+          "isCorrect": false,
+          "responseTime": 0,
+          "mastery_level": 28,
+          "mastered": false
+        },
+        {
+          "wordId": 110,
+          "userAnswer": "take",
+          "correct": "take",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 55,
+          "mastered": false
+        },
+        {
+          "wordId": 111,
+          "userAnswer": "safe",
+          "correct": "safe",
+          "isCorrect": true,
+          "responseTime": 0,
+          "mastery_level": 60,
+          "mastered": false
+        }
+      ]
+    }
+  ]
+}

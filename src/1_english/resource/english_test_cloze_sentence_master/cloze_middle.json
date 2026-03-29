@@ -1,0 +1,29 @@
+{
+    "questions": [
+        {
+            "id": "cloze_pets_002",
+            "number": 2,
+            "title": "Pets in Families",
+            "content": "Now a lot of families keep pets in their houses. Many pets are small animals like cats, dogs and birds. According to some people, dogs are people's favourite pet. ___11___ They are very cute and friendly.\n\nPeople usually see the pets as their family members. ___12___ They let them wear beautiful clothes and have nice names. They buy food for their pets in the pet shop. ___13___ People often take their pets out for a walk in the morning.\n\nChildren and old people love pets. ___14___ Many old people live alone. Their children don't live with them. They keep pets at home just because they often feel lonely (孤独的). ___15___ So pets are very important to them.",
+            "blanks": ["11", "12", "13", "14", "15"],
+            "options": [
+              { "key": "A", "text": "Some children like pets because they need a friend to play with at home." },
+              { "key": "B", "text": "They're very loyal to their owners." },
+              { "key": "C", "text": "They see their pets as their children and love them very much." },
+              { "key": "D", "text": "They keep their pets clean every day." },
+              { "key": "E", "text": "Not all people love to keep pets at home." },
+              { "key": "F", "text": "People look after the pets very well." }
+            ],
+            "correctAnswers": {
+              "11": "F",
+              "12": "C",
+              "13": "D",
+              "14": "A",
+              "15": "B"
+            },
+            "explanation": "【11题详解】前句说狗是人们最喜欢的宠物，后句说它们很可爱友好，中间需要一个过渡句说明人们如何对待宠物。F选项'人们很好地照顾宠物'承接上文，解释了宠物为何变得可爱友好。\n【12题详解】前句说人们把宠物当作家成员，后句描述给他们穿漂亮衣服、取好听名字的具体行为。C选项'他们把宠物当自己的孩子一样疼爱'是对前句的进一步解释和具体化。\n【13题详解】前句说在宠物店买食物，后句说带宠物散步，都是照顾宠物的具体方式。D选项'他们每天保持宠物清洁'是照顾宠物的另一个重要方面，形成逻辑连贯的照顾方式列举。\n【14题详解】前句总述孩子和老人爱宠物，后文开始具体说明老人爱宠物的原因，此处需要解释孩子爱宠物的原因。A选项说明孩子需要玩伴，与后文老人需要陪伴形成呼应。\n【15题详解】前句说老人养宠物因为孤独，后句总结宠物很重要，需要说明宠物能给老人带来什么。B选项'他们对主人非常忠诚'点明了宠物的重要品质，正是老人需要的陪伴和忠诚。",
+            "category": "生活",
+            "difficulty": 2
+          }
+    ]
+  }

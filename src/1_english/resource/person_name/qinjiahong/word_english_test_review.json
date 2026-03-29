@@ -1,0 +1,250 @@
+{
+  "flying": {
+    "chinese": "飞行",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T01:46:18.660Z"
+  },
+  "buy": {
+    "chinese": "买",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:35.528Z"
+  },
+  "think": {
+    "chinese": "认为",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:35.722Z"
+  },
+  "kind": {
+    "chinese": "友善的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:35.862Z"
+  },
+  "smart": {
+    "chinese": "聪明",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.001Z"
+  },
+  "the post office": {
+    "chinese": "邮局",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.152Z"
+  },
+  "opposite": {
+    "chinese": "相反的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.290Z"
+  },
+  "ping-pong": {
+    "chinese": "乒乓球",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.445Z"
+  },
+  "good": {
+    "chinese": "好的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.582Z"
+  },
+  "going": {
+    "chinese": "去",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.724Z"
+  },
+  "magazines": {
+    "chinese": "杂志",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:36.873Z"
+  },
+  "read": {
+    "chinese": "阅读",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.011Z"
+  },
+  "your": {
+    "chinese": "你的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.149Z"
+  },
+  "nanjing": {
+    "chinese": "南京",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.291Z"
+  },
+  "match": {
+    "chinese": "比赛",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.430Z"
+  },
+  "some": {
+    "chinese": "一些",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.569Z"
+  },
+  "cabbages": {
+    "chinese": "卷心菜",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.709Z"
+  },
+  "mine": {
+    "chinese": "矿",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.848Z"
+  },
+  "theirs": {
+    "chinese": "他们的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:37.998Z"
+  },
+  "week": {
+    "chinese": "周",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.136Z"
+  },
+  "license": {
+    "chinese": "许可证",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.278Z"
+  },
+  "notes": {
+    "chinese": "笔记",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.417Z"
+  },
+  "films": {
+    "chinese": "电影",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.559Z"
+  },
+  "chopping board": {
+    "chinese": "砧板",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.698Z"
+  },
+  "always": {
+    "chinese": "总是",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.836Z"
+  },
+  "interested": {
+    "chinese": "感兴趣的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:38.988Z"
+  },
+  "difficult": {
+    "chinese": "困难的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:39.126Z"
+  },
+  "boring": {
+    "chinese": "无聊的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:39.270Z"
+  },
+  "terrible": {
+    "chinese": "可怕的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:39.417Z"
+  },
+  "dangerous": {
+    "chinese": "危险的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:39.566Z"
+  },
+  "strict": {
+    "chinese": "严格的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-28T12:22:39.710Z"
+  }
+}

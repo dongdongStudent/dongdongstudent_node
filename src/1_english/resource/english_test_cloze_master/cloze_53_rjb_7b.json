@@ -1,0 +1,1689 @@
+{
+  "passages": [
+    {
+      "id": "cloze_a1b2c3d4e5",
+      "title": "01_Families Keep Pets",
+      "category": "生活",
+      "difficulty": 2,
+      "source": "2023 河北石家庄外国语教育集团期中",
+      "createdAt": "2026-03-01T08:00:00.000Z",
+      "content": "Now a lot of families keep pets in their houses. Many ___31___ are small animals like cats, dogs and birds. Dogs are people's first favorite pets. The ___32___ favorite is the cat and the third favorite is the bird. These small animals are very cute and ___33___. People ___34___ see the pets as their family members. People look after the pets very well. They let them ___35___ beautiful clothes and have nice names. They buy food for their pets in the pet shops. They keep their pets ___36___ every day. Many pets have their houses and beds. People often take their pets out to take a ___37___ in the morning.\n\nSome children like pets because they need a friend that they can ___38___ at home. Many old people live alone. Their children don't live with them. They ___39___ pets at home just because they often feel lonely (孤独的). They see their pets as their children and love them very much. So pets are very ___40___ to them.",
+      "questions": [
+        {
+          "id": "cloze_a1b2c3d4e5_q31",
+          "number": 31,
+          "options": ["A. races", "B. shops", "C. pets", "D. flags"],
+          "correct": "C",
+          "explanation": "根据上下文，许多家庭养宠物，很多宠物是小动物，如猫、狗和鸟。pets表示宠物。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q32",
+          "number": 32,
+          "options": ["A. first", "B. second", "C. third", "D. fourth"],
+          "correct": "B",
+          "explanation": "狗是人们最喜欢的宠物，猫是第二喜欢的，鸟是第三喜欢的。second表示第二。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q33",
+          "number": 33,
+          "options": ["A. bad", "B. lazy", "C. warm", "D. friendly"],
+          "correct": "D",
+          "explanation": "这些小动物非常可爱和友好，friendly表示友好的。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q34",
+          "number": 34,
+          "options": ["A. usually", "B. still", "C. either", "D. down"],
+          "correct": "A",
+          "explanation": "人们通常把宠物视为家庭成员，usually表示通常。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q35",
+          "number": 35,
+          "options": ["A. take", "B. wear", "C. talk", "D. run"],
+          "correct": "B",
+          "explanation": "他们让宠物穿漂亮的衣服，wear表示穿。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q36",
+          "number": 36,
+          "options": ["A. young", "B. shy", "C. clean", "D. scary"],
+          "correct": "C",
+          "explanation": "他们每天保持宠物清洁，keep clean表示保持清洁。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q37",
+          "number": 37,
+          "options": ["A. trip", "B. job", "C. shower", "D. walk"],
+          "correct": "D",
+          "explanation": "人们经常早上带宠物出去散步，take a walk表示散步。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q38",
+          "number": 38,
+          "options": [
+            "A. play with",
+            "B. write with",
+            "C. draw with",
+            "D. work with"
+          ],
+          "correct": "A",
+          "explanation": "孩子们需要可以在家一起玩的朋友，play with表示一起玩。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q39",
+          "number": 39,
+          "options": ["A. miss", "B. keep", "C. study", "D. wash"],
+          "correct": "B",
+          "explanation": "老人在家养宠物，keep pets表示养宠物。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q40",
+          "number": 40,
+          "options": ["A. happy", "B. sorry", "C. sad", "D. important"],
+          "correct": "D",
+          "explanation": "所以宠物对他们来说非常重要，important表示重要的。"
+        }
+      ]
+    },
+    {
+        "id": "0.cloze_subway_rule_e7202002",
+        "title": "02_New Subway Rule",
+        "category": "社会",
+        "difficulty": 2,
+        "source": "E7202002",
+        "createdAt": "2026-03-01T08:00:00.000Z",
+        "content": "A new rule in our city says that people can't eat or drink on the subway.\n\nMany people think it is a good idea, ___31___ they don't like the smell of food on the subway. \"I take the subway home from school every day. I often feel ___32___ and hungry at that time. If people eat food next to me, the smell will make me feel bad,\" says Sun Run. \"And there are always a lot of people on the ___33___. If the food falls on the floor, how can we ___34___ the air and the ground nice and clean?\"\n\nBut some people don't like the ___35___. \"I go to school by subway. It always ___36___ me a long time. So I need to get up ___37___ in the morning. Sometimes I want to have my ___38___ on the subway so I can save time. This rule is really not ___39___ for me,\" says Zhao Xin. \"If someone feels thirsty (口渴的) on the subway, does he or she need to ___40___ the subway just to have a drink? I think they can at least drink water.\"\n\nWhat do you think of the rule? E7202002",
+        "questions": [
+          {
+            "id": "cloze_subway_rule_e7202002_q31",
+            "number": 31,
+            "options": ["A. but", "B. because", "C. so", "D. or"],
+            "correct": "B",
+            "explanation": "很多人认为这是个好主意，因为他们不喜欢地铁上食物的味道。because表示原因。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q32",
+            "number": 32,
+            "options": ["A. happy", "B. warm", "C. easy", "D. tired"],
+            "correct": "D",
+            "explanation": "放学回家时经常感到疲惫和饥饿，tired表示疲惫的。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q33",
+            "number": 33,
+            "options": ["A. station", "B. restaurant", "C. subway", "D. school"],
+            "correct": "C",
+            "explanation": "地铁上总是有很多人，on the subway表示在地铁上。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q34",
+            "number": 34,
+            "options": ["A. sweep", "B. help", "C. check", "D. keep"],
+            "correct": "D",
+            "explanation": "我们如何保持空气和地面干净整洁，keep...nice and clean表示保持……干净整洁。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q35",
+            "number": 35,
+            "options": ["A. rule", "B. plan", "C. program", "D. subject"],
+            "correct": "A",
+            "explanation": "但有些人不喜欢这个规定，rule表示规定。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q36",
+            "number": 36,
+            "options": ["A. wants", "B. takes", "C. pays", "D. spends"],
+            "correct": "B",
+            "explanation": "坐地铁总是花费我很长时间，It takes sb. time是固定句型，表示花费某人时间。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q37",
+            "number": 37,
+            "options": ["A. loudly", "B. quietly", "C. early", "D. late"],
+            "correct": "C",
+            "explanation": "所以我需要早上早起，get up early表示早起。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q38",
+            "number": 38,
+            "options": ["A. drink", "B. lunch", "C. dinner", "D. breakfast"],
+            "correct": "D",
+            "explanation": "有时我想在地铁上吃早餐以节省时间，breakfast表示早餐。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q39",
+            "number": 39,
+            "options": ["A. good", "B. difficult", "C. healthy", "D. special"],
+            "correct": "A",
+            "explanation": "这个规定对我来说真的不好，not good for me表示对我不利。"
+          },
+          {
+            "id": "cloze_subway_rule_e7202002_q40",
+            "number": 40,
+            "options": ["A. get on", "B. get off", "C. put on", "D. put up"],
+            "correct": "B",
+            "explanation": "如果有人在地铁上口渴，他需要下车喝水吗？get off表示下车。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_jackson_zoo_e7202003",
+        "title": "03_Jackson's Zoo Day",
+        "category": "日常生活",
+        "difficulty": 2,
+        "source": "E7202003",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "My name is Jackson. I'm ___ 21 ___ 11-year-old boy. I go to school from Monday to Friday. Today is Sunday, and it's my favorite day of a week because I don't ___ 22 ___ go to school. My parents take me to the zoo.\n\nWe go to the zoo ___ 23 ___ bus. Everyone is quiet on the bus because we must follow the rules. When we get there, we see two elephants first. They are very smart. Do you know where they are ___ 24 ___? South Africa! Then we see monkeys. Some monkeys ___ 25 ___ bananas and others are playing with each other. I think the most interesting animals are the dolphins (海豚). It's great fun ___ 26 ___ them swim and jump. They swim fast and jump very high. They are very kind to people. If you fall into the water and can't swim, they will come up to help you. But some animals are not ___ 27 ___ like tigers, lions, and bears. That's ___ 28 ___ they have to stay in cages (笼子). But I don't think it's good for animals. They get food easily ___ 29 ___ lose their freedom (自由). I feel kind of sorry for them.\n\nAll in all, I like animals and I think ___ 30 ___ are our good friends. We should love and protect them.",
+        "questions": [
+          {
+            "id": "cloze_jackson_zoo_e7202003_q21",
+            "number": 21,
+            "options": ["A. a", "B. an", "C. the", "D. /"],
+            "correct": "B",
+            "explanation": "11-year-old以元音音素开头，所以用an。an用于元音音素开头的单词前。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q22",
+            "number": 22,
+            "options": ["A. want", "B. wants", "C. has to", "D. have to"],
+            "correct": "D",
+            "explanation": "主语I是第一人称，后面用have to表示'不得不'。don't have to表示'不必'，符合句意。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q23",
+            "number": 23,
+            "options": ["A. on", "B. in", "C. by", "D. at"],
+            "correct": "C",
+            "explanation": "by bus是固定搭配，表示'乘公交车'。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q24",
+            "number": 24,
+            "options": ["A. come from", "B. comes from", "C. from", "D. be from"],
+            "correct": "C",
+            "explanation": "Where are they from?是固定句型，表示'它们来自哪里？'，from表示'来自'。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q25",
+            "number": 25,
+            "options": ["A. eats", "B. eat", "C. is eating", "D. are eating"],
+            "correct": "D",
+            "explanation": "some monkeys是复数主语，后面用are eating表示正在进行的动作，与后半句的are playing对应。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q26",
+            "number": 26,
+            "options": ["A. watch", "B. watched", "C. to watch", "D. watches"],
+            "correct": "C",
+            "explanation": "It's great fun to do sth.是固定句型，表示'做某事很有趣'，动词不定式作主语。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q27",
+            "number": 27,
+            "options": ["A. friend", "B. friendly", "C. health", "D. healthy"],
+            "correct": "B",
+            "explanation": "根据上下文，有些动物不友好，friendly表示'友好的'。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q28",
+            "number": 28,
+            "options": ["A. why", "B. where", "C. how", "D. what"],
+            "correct": "A",
+            "explanation": "That's why...表示'那就是为什么……'，解释前面提到的原因。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q29",
+            "number": 29,
+            "options": ["A. and", "B. but", "C. if", "D. when"],
+            "correct": "B",
+            "explanation": "它们很容易得到食物，但失去了自由。前后是转折关系，用but。"
+          },
+          {
+            "id": "cloze_jackson_zoo_e7202003_q30",
+            "number": 30,
+            "options": ["A. they", "B. them", "C. us", "D. we"],
+            "correct": "A",
+            "explanation": "宾语从句中缺少主语，用they指代前面的animals。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_healthy_tips_e7202004",
+        "title": "04_Healthy Living Tips",
+        "category": "健康",
+        "difficulty": 2,
+        "source": "E7202004",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Everyone wants to have a healthy body, but do you know how to keep healthy? Here are some tips.\n\nFirstly, good ___31___ habits are very important. It's necessary to have breakfast on time. Many students ___32___ to eat junk food. Maybe it tastes good, but it's ___33___ for our health. And many students only eat their favourite food. We should eat many kinds of ___34___. It's good to eat more fruit and vegetables because they can ___35___ us keep healthy. And we should have a balanced diet (均衡的饮食). It can give us lots of energy (能量) and keep our body ___36___.\n\n___37___, we should exercise often. A strong and healthy body comes from enough exercise. We can ___38___ some time doing our favorite sports every day. We'd better not watch TV ___39___.\n\nFinally, we should have good living habits, for example, early to bed and ___40___ to rise. Never stay up too late.",
+        "questions": [
+          {
+            "id": "cloze_healthy_tips_e7202004_q31",
+            "number": 31,
+            "options": ["A. studying", "B. eating", "C. drinking", "D. living"],
+            "correct": "B",
+            "explanation": "根据上下文，这里讲的是饮食习惯，eating habits表示'饮食习惯'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q32",
+            "number": 32,
+            "options": ["A. hope", "B. hate", "C. like", "D. dislike"],
+            "correct": "C",
+            "explanation": "很多学生喜欢吃垃圾食品，like to do sth.表示'喜欢做某事'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q33",
+            "number": 33,
+            "options": ["A. good", "B. bad", "C. well", "D. nice"],
+            "correct": "B",
+            "explanation": "垃圾食品虽然好吃，但对健康不好，be bad for表示'对……有害'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q34",
+            "number": 34,
+            "options": ["A. food", "B. drinks", "C. sports", "D. water"],
+            "correct": "A",
+            "explanation": "我们应该吃多种食物，many kinds of food表示'多种食物'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q35",
+            "number": 35,
+            "options": ["A. give", "B. tell", "C. help", "D. ask"],
+            "correct": "C",
+            "explanation": "水果和蔬菜能帮助我们保持健康，help sb. do sth.表示'帮助某人做某事'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q36",
+            "number": 36,
+            "options": ["A. weak", "B. unhealthy", "C. strong", "D. safe"],
+            "correct": "C",
+            "explanation": "均衡饮食能给我们能量，保持身体强壮，keep our body strong表示'保持身体强壮'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q37",
+            "number": 37,
+            "options": ["A. Firstly", "B. Secondly", "C. Thirdly", "D. Finally"],
+            "correct": "B",
+            "explanation": "文章首先讲饮食习惯，接下来讲锻炼，用Secondly表示'其次'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q38",
+            "number": 38,
+            "options": ["A. pay", "B. take", "C. spend", "D. cost"],
+            "correct": "C",
+            "explanation": "spend time doing sth.表示'花费时间做某事'，是固定搭配。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q39",
+            "number": 39,
+            "options": ["A. too many", "B. many too", "C. too much", "D. much too"],
+            "correct": "C",
+            "explanation": "watch TV是动词短语，too much修饰动词，表示'太多'。"
+          },
+          {
+            "id": "cloze_healthy_tips_e7202004_q40",
+            "number": 40,
+            "options": ["A. early", "B. late", "C. hard", "D. fast"],
+            "correct": "A",
+            "explanation": "early to bed and early to rise是谚语，表示'早睡早起'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_helen_daily_life_e7202005",
+        "title": "05_Helen's Daily Life",
+        "category": "日常生活",
+        "difficulty": 1,
+        "source": "E7202005",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "My name is Helen. I am 13 years old. My ___31___ is October 25th. I ___32___ in America with my parents and my brother Frank. I ___33___ at a middle school with Frank. My favourite ___34___ are music and art. I like listening to music and talking with my friends when I am ___35___. I don't like history because it's ___36___.\n\nI always have meals at school. I have good eating habits. For breakfast, I like to have two pieces of bread and a glass of milk. And for lunch, I like to eat chicken, rice and vegetables. I think they are ___37___ and can make me strong. For dinner, I usually ___38___ a small bowl of tomato and egg noodles. They are delicious.\n\nTo keep fit, I always ___39___ some time playing sports. I often ___40___ early in the morning to run in the park. And in the afternoon, I often play ping-pong with my classmates after school.",
+        "questions": [
+          {
+            "id": "cloze_helen_daily_life_e7202005_q31",
+            "number": 31,
+            "options": ["A. birthday", "B. time", "C. week", "D. date"],
+            "correct": "A",
+            "explanation": "根据后文的October 25th可知，这里说的是生日日期，birthday表示'生日'。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q32",
+            "number": 32,
+            "options": ["A. help", "B. come", "C. take", "D. live"],
+            "correct": "D",
+            "explanation": "live in America表示'住在美国'，描述居住地。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q33",
+            "number": 33,
+            "options": ["A. work", "B. teach", "C. study", "D. play"],
+            "correct": "C",
+            "explanation": "study at a middle school表示'在一所中学学习'，符合学生身份。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q34",
+            "number": 34,
+            "options": ["A. days", "B. subjects", "C. schools", "D. people"],
+            "correct": "B",
+            "explanation": "根据后文的music and art可知，这是学科，subjects表示'学科'。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q35",
+            "number": 35,
+            "options": ["A. busy", "B. free", "C. hungry", "D. full"],
+            "correct": "B",
+            "explanation": "when I am free表示'当我有空的时候'，符合语境。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q36",
+            "number": 36,
+            "options": ["A. interesting", "B. exciting", "C. boring", "D. good"],
+            "correct": "C",
+            "explanation": "不喜欢历史是因为它枯燥，boring表示'枯燥的，无聊的'。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q37",
+            "number": 37,
+            "options": ["A. weak", "B. beautiful", "C. terrible", "D. healthy"],
+            "correct": "D",
+            "explanation": "鸡肉、米饭和蔬菜是健康的食物，healthy表示'健康的'。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q38",
+            "number": 38,
+            "options": ["A. drink", "B. eat", "C. wash", "D. cut"],
+            "correct": "B",
+            "explanation": "吃面条用eat noodles，表示'吃面条'。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q39",
+            "number": 39,
+            "options": ["A. take", "B. pay", "C. spend", "D. cost"],
+            "correct": "C",
+            "explanation": "spend some time doing sth.表示'花费时间做某事'，是固定搭配。"
+          },
+          {
+            "id": "cloze_helen_daily_life_e7202005_q40",
+            "number": 40,
+            "options": ["A. come up", "B. stay up", "C. get away", "D. get up"],
+            "correct": "D",
+            "explanation": "get up early表示'早起'，为了去公园跑步。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_dr_know_advice_e7202006",
+        "title": "06_Dr. Know's Advice",
+        "category": "健康",
+        "difficulty": 1,
+        "source": "E7202006",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Dear Dr. Know,\n\nI am a ___21___ girl. I think I'm too fat! I used to get to school by ___22___ bus. Now I run five kilometers every day to school because I want to lose some weight (减肥), ___23___ it doesn't work at all. I feel sad. What can I do? Can you help ___24___?\n\nTina\n\n---\n\nDear Tina,\n\nI know ___25___ you feel. To work out your problem, I think you need to have good ___26___ habits. First, form the habit of going to bed early and rising early. Remember that eight ___27___ sleep can be very good for your body. Second, you must eat well. Try to eat more vegetables and fruit. Don't eat too ___28___ unhealthy food. Ice cream ___29___ good, but it can easily make people fat. Third, you can do different kinds of sports like swimming or running so that you won't get bored.\n\nIt's important ___30___ you to know that everyone is different. You will be truly happy when you learn to like yourself for who you are. I hope you can become happy soon!\n\nGood luck!\n\nDr. Know",
+        "questions": [
+          {
+            "id": "cloze_dr_know_advice_e7202006_q21",
+            "number": 21,
+            "options": ["A. 14 years old", "B. 14-year-old", "C. 14-years-old"],
+            "correct": "B",
+            "explanation": "复合形容词作定语时用连字符连接，且名词用单数，14-year-old表示'14岁的'。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q22",
+            "number": 22,
+            "options": ["A. a", "B. the", "C. /"],
+            "correct": "C",
+            "explanation": "by bus是固定搭配，表示'乘公交车'，中间不加冠词。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q23",
+            "number": 23,
+            "options": ["A. and", "B. but", "C. so"],
+            "correct": "B",
+            "explanation": "每天跑步想减肥，但没有效果，前后是转折关系，用but。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q24",
+            "number": 24,
+            "options": ["A. me", "B. I", "C. mine"],
+            "correct": "A",
+            "explanation": "help是动词，后面接宾格me，表示'帮助我'。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q25",
+            "number": 25,
+            "options": ["A. what", "B. how", "C. why"],
+            "correct": "B",
+            "explanation": "I know how you feel表示'我知道你的感受'，how引导宾语从句。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q26",
+            "number": 26,
+            "options": ["A. live", "B. to live", "C. living"],
+            "correct": "C",
+            "explanation": "living habits表示'生活习惯'，living是动名词作定语。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q27",
+            "number": 27,
+            "options": ["A. hour", "B. hour's", "C. hours'"],
+            "correct": "C",
+            "explanation": "eight hours' sleep表示'八小时的睡眠'，复数名词的所有格加撇号。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q28",
+            "number": 28,
+            "options": ["A. many", "B. much", "C. lots"],
+            "correct": "B",
+            "explanation": "too much修饰不可数名词unhealthy food，表示'太多不健康的食物'。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q29",
+            "number": 29,
+            "options": ["A. taste", "B. tastes", "C. is tasting"],
+            "correct": "B",
+            "explanation": "ice cream是单数，一般现在时用tastes，表示'尝起来'。"
+          },
+          {
+            "id": "cloze_dr_know_advice_e7202006_q30",
+            "number": 30,
+            "options": ["A. for", "B. of", "C. to"],
+            "correct": "A",
+            "explanation": "It's important for sb. to do sth.是固定句型，表示'对某人来说做某事很重要'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_family_rules_e7202007",
+        "title": "07_Family Rules",
+        "category": "家庭生活",
+        "difficulty": 1,
+        "source": "E7202007",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "There are many rules at my home. We must keep our room ___31___ and do the dishes after dinner. We must come back home before 6:30 pm on weekdays. Our parents say these rules are ___32___ because they help us to develop (养成) good habits.\n\nMy ___33___ Jane doesn't come back home at 7:00 pm today. Our parents ___34___ many of her friends, but no one knows ___35___ she is.\n\nWhen our parents plan to look for her, Jane walks in.\n\n\"Oh, dear, you're back. We ___36___ you,\" says Mom.\n\n\"I play ping-pong with Kate after school. I forget to look at the ___37___ ,\" my sister says.\n\n\"___38___ to call us next time!\" Dad says.\n\nOur parents are so worried. Seeing our parents' worried faces, Jane feels ___39___. After this, she ___40___ forgets to call them when she can't get home on time.",
+        "questions": [
+          {
+            "id": "cloze_family_rules_e7202007_q31",
+            "number": 31,
+            "options": ["A. small", "B. clean", "C. dirty", "D. early"],
+            "correct": "B",
+            "explanation": "keep our room clean表示'保持房间干净'，是家规之一。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q32",
+            "number": 32,
+            "options": ["A. important", "B. difficult", "C. terrible", "D. boring"],
+            "correct": "A",
+            "explanation": "父母说这些规则很重要，因为它们帮助养成好习惯，important表示'重要的'。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q33",
+            "number": 33,
+            "options": ["A. friend", "B. aunt", "C. cousin", "D. sister"],
+            "correct": "D",
+            "explanation": "根据后文my sister可知，Jane是作者的妹妹。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q34",
+            "number": 34,
+            "options": ["A. feel", "B. help", "C. call", "D. know"],
+            "correct": "C",
+            "explanation": "父母打电话给她的很多朋友询问她的下落，call表示'打电话'。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q35",
+            "number": 35,
+            "options": ["A. why", "B. where", "C. how", "D. when"],
+            "correct": "B",
+            "explanation": "没有人知道她在哪里，where引导宾语从句，表示地点。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q36",
+            "number": 36,
+            "options": ["A. worry about", "B. wake up", "C. shout at", "D. stay up"],
+            "correct": "A",
+            "explanation": "We worry about you表示'我们担心你'，符合父母的心情。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q37",
+            "number": 37,
+            "options": ["A. chair", "B. photo", "C. watch", "D. ruler"],
+            "correct": "C",
+            "explanation": "忘记看手表上的时间，watch表示'手表'。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q38",
+            "number": 38,
+            "options": ["A. Follow", "B. Finish", "C. Remember", "D. Write"],
+            "correct": "C",
+            "explanation": "Remember to call us表示'记得给我们打电话'，是父亲的叮嘱。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q39",
+            "number": 39,
+            "options": ["A. sorry", "B. right", "C. short", "D. excited"],
+            "correct": "A",
+            "explanation": "看到父母担心的脸，Jane感到抱歉，sorry表示'抱歉的'。"
+          },
+          {
+            "id": "cloze_family_rules_e7202007_q40",
+            "number": 40,
+            "options": ["A. always", "B. usually", "C. often", "D. never"],
+            "correct": "D",
+            "explanation": "经过这次教训，她再也不会忘记打电话了，never表示'从不'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_zoo_trip_e7202008",
+        "title": "08_Zoo Trip",
+        "category": "日常生活",
+        "difficulty": 1,
+        "source": "E7202008",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "It's Sunday today and my family are all free. So we go to a ___31___ .\n\nThere are many people in the zoo. My brother likes lions best, so we go to see ___32___ first. Look! Some koalas are ___33___ leaves and others are sleeping under trees. My brother says, \"They are so lazy!\" But I don't think so. I love them. I think they are kind of ___34___ .\n\nNext, we see the giraffes. My sister is very happy. They are her favorite animals. My sister ___35___ to give some food to them. My mother stops her, \"Don't do that! We can't give food or ___36___ to these animals. It's one of the ___37___ in the zoo.\" Then we also see many other animals in the zoo. We're very happy.\n\nAfter we come home from the zoo, my parents ___38___ us, \"Animals are our friends. We should be good ___39___ them. We can do some things to save them because ___40___ many animals in danger now.\" It's a great day and I learn a lot.",
+        "questions": [
+          {
+            "id": "cloze_zoo_trip_e7202008_q31",
+            "number": 31,
+            "options": ["A. shop", "B. zoo", "C. club", "D. pool"],
+            "correct": "B",
+            "explanation": "根据后文可知他们去了动物园，go to a zoo表示'去动物园'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q32",
+            "number": 32,
+            "options": ["A. them", "B. him", "C. it", "D. her"],
+            "correct": "A",
+            "explanation": "lions是复数，用them指代，表示'去看它们'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q33",
+            "number": 33,
+            "options": ["A. sleeping", "B. watching", "C. drinking", "D. eating"],
+            "correct": "D",
+            "explanation": "考拉在吃树叶，eating leaves表示'吃树叶'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q34",
+            "number": 34,
+            "options": ["A. cute", "B. scary", "C. dirty", "D. boring"],
+            "correct": "A",
+            "explanation": "作者喜欢考拉，认为它们有点可爱，kind of cute表示'有点可爱'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q35",
+            "number": 35,
+            "options": ["A. keeps", "B. has", "C. listens", "D. wants"],
+            "correct": "D",
+            "explanation": "妹妹想要给它们食物，wants to do sth.表示'想要做某事'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q36",
+            "number": 36,
+            "options": ["A. drinks", "B. pets", "C. children", "D. hair"],
+            "correct": "A",
+            "explanation": "不能给动物食物或饮料，drinks表示'饮料'，与food并列。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q37",
+            "number": 37,
+            "options": ["A. states", "B. races", "C. rules", "D. places"],
+            "correct": "C",
+            "explanation": "这是动物园的规定之一，one of the rules表示'规定之一'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q38",
+            "number": 38,
+            "options": ["A. tell", "B. say", "C. speak", "D. talk"],
+            "correct": "A",
+            "explanation": "父母告诉我们，tell sb. sth.表示'告诉某人某事'。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q39",
+            "number": 39,
+            "options": ["A. at", "B. with", "C. for", "D. in"],
+            "correct": "B",
+            "explanation": "be good with表示'和……相处得好'，这里指善待动物。"
+          },
+          {
+            "id": "cloze_zoo_trip_e7202008_q40",
+            "number": 40,
+            "options": ["A. has", "B. have", "C. there is", "D. there are"],
+            "correct": "D",
+            "explanation": "there are表示'有'，many animals是复数。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_harry_physics_e7202009",
+        "title": "09_Harry's Physics Class",
+        "category": "学校生活",
+        "difficulty": 1,
+        "source": "E7202009",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Harry is a student. He ___31___ many subjects at school. Geography is his favorite ___32___. He thinks it is fun (有趣的) and ___33___. He often reads books about geography and people. He can learn a lot from them. But he doesn't like physics. He thinks it is ___34___ difficult.\n\nNow they are having a ___35___ class. Mr. Brown, their physics teacher, knows that Harry doesn't like the subject and finds that he is ___36___ on some geography problems. So he says to Harry, \"Harry, why ___37___ you listen to me?\"\n\n\"Because I can't ___38___ it well,\" Harry says.\n\n\"You're a clever boy. Your geography is good. I believe (相信) you can ___39___ learn physics well, right?\" Mr. Brown smiles and says.\n\nHearing these words, Harry begins to listen to the teacher ___40___. He believes he can learn physics well.",
+        "questions": [
+          {
+            "id": "cloze_harry_physics_e7202009_q31",
+            "number": 31,
+            "options": ["A. studies", "B. makes", "C. works"],
+            "correct": "A",
+            "explanation": "studies many subjects表示'学习许多科目'，符合学生身份。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q32",
+            "number": 32,
+            "options": ["A. picture", "B. stamp", "C. subject"],
+            "correct": "C",
+            "explanation": "地理是他最喜欢的科目，subject表示'科目'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q33",
+            "number": 33,
+            "options": ["A. different", "B. easy", "C. difficult"],
+            "correct": "B",
+            "explanation": "他认为地理有趣又容易，easy表示'容易的'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q34",
+            "number": 34,
+            "options": ["A. a few", "B. little", "C. a little"],
+            "correct": "C",
+            "explanation": "a little修饰形容词difficult，表示'有点困难'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q35",
+            "number": 35,
+            "options": ["A. physics", "B. math", "C. geography"],
+            "correct": "A",
+            "explanation": "根据后文可知是物理课，physics class表示'物理课'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q36",
+            "number": 36,
+            "options": ["A. putting", "B. working", "C. getting"],
+            "correct": "B",
+            "explanation": "working on表示'致力于，研究'，他在研究地理问题。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q37",
+            "number": 37,
+            "options": ["A. don't", "B. aren't", "C. doesn't"],
+            "correct": "A",
+            "explanation": "why don't you do sth.?是建议句型，表示'你为什么不……？'"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q38",
+            "number": 38,
+            "options": ["A. know", "B. guess", "C. learn"],
+            "correct": "A",
+            "explanation": "can't know it well表示'不能很好地理解'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q39",
+            "number": 39,
+            "options": ["A. too", "B. also", "C. so"],
+            "correct": "B",
+            "explanation": "also用于句中，表示'也'，you can also learn表示'你也能学好'。"
+          },
+          {
+            "id": "cloze_harry_physics_e7202009_q40",
+            "number": 40,
+            "options": ["A. quickly", "B. sadly", "C. carefully"],
+            "correct": "C",
+            "explanation": "听完老师的话，Harry开始认真听课，carefully表示'认真地'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_jenny_hangzhou_e7202010",
+        "title": "10_Jenny's Life in Hangzhou",
+        "category": "日常生活",
+        "difficulty": 1,
+        "source": "E7202010",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Jenny is a student in Hangzhou now. She moves (搬家) to this ___31___ with her family ___32___ Hangzhou is a beautiful place and they like it very much. They are very pleased with their ___33___ in Hangzhou. The city is beautiful and clean. The people are kind and ___34___ to them. Now Jenny's parents work ___35___ a bank (银行) and Jenny ___36___ at a great middle school. Everything is going ___37___. But there is a big problem. They don't like the ___38___ in Hangzhou. Jenny said, \"It's too hot in summer while too cold in winter. On hot days, I have to stay at home. When it's very cold, it often ___39___. I can't go out to play, either (也). That's really ___40__.\"",
+        "questions": [
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q31",
+            "number": 31,
+            "options": ["A. city", "B. country", "C. town", "D. capital"],
+            "correct": "A",
+            "explanation": "根据前文Hangzhou可知，他们搬到这个城市，city表示'城市'。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q32",
+            "number": 32,
+            "options": ["A. but", "B. because", "C. so", "D. or"],
+            "correct": "B",
+            "explanation": "因为杭州是个美丽的地方，所以他们搬到这，because表示原因。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q33",
+            "number": 33,
+            "options": ["A. work", "B. life", "C. study", "D. sport"],
+            "correct": "B",
+            "explanation": "他们对在杭州的生活很满意，life表示'生活'。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q34",
+            "number": 34,
+            "options": ["A. sad", "B. surprised", "C. relaxed", "D. friendly"],
+            "correct": "D",
+            "explanation": "人们很友善，friendly表示'友好的'。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q35",
+            "number": 35,
+            "options": ["A. on", "B. in", "C. under", "D. to"],
+            "correct": "B",
+            "explanation": "work in a bank表示'在银行工作'，in表示地点。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q36",
+            "number": 36,
+            "options": ["A. stays", "B. studies", "C. works", "D. swims"],
+            "correct": "B",
+            "explanation": "studies at a great middle school表示'在一所很好的中学学习'。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q37",
+            "number": 37,
+            "options": ["A. good", "B. best", "C. well", "D. beautiful"],
+            "correct": "C",
+            "explanation": "Everything is going well表示'一切顺利'，well修饰动词going。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q38",
+            "number": 38,
+            "options": ["A. people", "B. hospital", "C. food", "D. weather"],
+            "correct": "D",
+            "explanation": "根据后文描述天气，可知他们不喜欢杭州的天气，weather表示'天气'。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q39",
+            "number": 39,
+            "options": ["A. rain", "B. rainy", "C. is raining", "D. rains"],
+            "correct": "D",
+            "explanation": "it often rains表示'经常下雨'，一般现在时第三人称单数。"
+          },
+          {
+            "id": "cloze_jenny_hangzhou_e7202010_q40",
+            "number": 40,
+            "options": ["A. great", "B. scary", "C. terrible", "D. exciting"],
+            "correct": "C",
+            "explanation": "不能出去玩真的很糟糕，terrible表示'糟糕的，可怕的'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_park_activities_e7202011",
+        "title": "11_Park Activities",
+        "category": "日常生活",
+        "difficulty": 1,
+        "source": "E7202011",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "It's a fine Saturday morning. There are many people in the park. Some of ___21___ are young and some are old.\n\nSome children are ___22___ games over there. Two boys are playing ___23___ their toy boats. There is a lake in the park. The water is ___24___. There are some ___25___ on the lake. ___26___ the lake a young man is reading. There is a house near the lake. Beside ___27___ house two men are working. Look at that big tree! There are some birds ___28___ it. There are some men under it. Four of them are playing cards. One of them is looking at two cats. The cats are ___29___ the tree. What do they ___30___ to do? They want to catch the birds.",
+        "questions": [
+          {
+            "id": "cloze_park_activities_e7202011_q21",
+            "number": 21,
+            "options": ["A. they", "B. them", "C. their", "D. theirs"],
+            "correct": "B",
+            "explanation": "some of them表示'他们中的一些'，of后面用宾格them。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q22",
+            "number": 22,
+            "options": ["A. play", "B. plays", "C. playing", "D. played"],
+            "correct": "C",
+            "explanation": "are playing games表示'正在玩游戏'，现在进行时。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q23",
+            "number": 23,
+            "options": ["A. to", "B. on", "C. for", "D. with"],
+            "correct": "D",
+            "explanation": "play with sth.表示'玩某物'，playing with their toy boats表示'玩玩具船'。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q24",
+            "number": 24,
+            "options": ["A. clear", "B. tall", "C. funny", "D. young"],
+            "correct": "A",
+            "explanation": "水是清澈的，clear表示'清澈的'。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q25",
+            "number": 25,
+            "options": ["A. water", "B. boats", "C. rain", "D. buses"],
+            "correct": "B",
+            "explanation": "湖上有一些船，boats表示'船'。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q26",
+            "number": 26,
+            "options": ["A. At", "B. To", "C. Near", "D. Next"],
+            "correct": "C",
+            "explanation": "near the lake表示'在湖附近'，介词短语作状语。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q27",
+            "number": 27,
+            "options": ["A. a", "B. /", "C. the", "D. an"],
+            "correct": "C",
+            "explanation": "前文提到过house，再次出现用定冠词the。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q28",
+            "number": 28,
+            "options": ["A. for", "B. on", "C. in", "D. with"],
+            "correct": "C",
+            "explanation": "birds in the tree表示'树上的鸟'，外来物体用in。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q29",
+            "number": 29,
+            "options": ["A. climbing", "B. climb", "C. climbed", "D. climbs"],
+            "correct": "A",
+            "explanation": "are climbing表示'正在爬'，现在进行时。"
+          },
+          {
+            "id": "cloze_park_activities_e7202011_q30",
+            "number": 30,
+            "options": ["A. to want", "B. wanting", "C. wants", "D. want"],
+            "correct": "D",
+            "explanation": "do they want to do是疑问句，助动词do后用动词原形want。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_london_trip_e7202012",
+        "title": "12_London Trip",
+        "category": "旅行",
+        "difficulty": 1,
+        "source": "E7202012",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "I had a great time last summer holiday. I went on a ___31___ to England with my parents. We spend three days in London.\n\nDuring our stay, the weather in London was ___32___ and foggy (有雾的), so we took umbrellas (伞) every day. But there were also some sunny days. We thought we were very ___33___. On the first day, we ___34___ ourselves at the London Eye. We could see the beautiful views of the whole ___35___ of London. After that, we ___36___ Big Ben and Buckingham Palace. On the second day, we visited Shakespeare's former residence (故居). I ___37___ a lot about this great writer in English history. On the ___38___ day, we visited many other places of interest there, such as the National Gallery and the British Museum. I met a girl in the British Museum. She could ___39___ Chinese and she told me a lot about the museum.\n\nThe trip was ___40___. I hope I can visit London again one day. I will never forget the trip.",
+        "questions": [
+          {
+            "id": "cloze_london_trip_e7202012_q31",
+            "number": 31,
+            "options": ["A. way", "B. trip", "C. idea", "D. place"],
+            "correct": "B",
+            "explanation": "went on a trip表示'去旅行'，是固定搭配。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q32",
+            "number": 32,
+            "options": ["A. windy", "B. sunny", "C. cloudy", "D. rainy"],
+            "correct": "D",
+            "explanation": "根据后文带伞可知天气多雨，rainy表示'多雨的'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q33",
+            "number": 33,
+            "options": ["A. lucky", "B. lovely", "C. friendly", "D. healthy"],
+            "correct": "A",
+            "explanation": "遇到晴天觉得自己很幸运，lucky表示'幸运的'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q34",
+            "number": 34,
+            "options": ["A. liked", "B. helped", "C. enjoyed", "D. played"],
+            "correct": "C",
+            "explanation": "enjoyed ourselves表示'玩得开心'，是固定短语。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q35",
+            "number": 35,
+            "options": ["A. country", "B. city", "C. village", "D. town"],
+            "correct": "B",
+            "explanation": "the whole city of London表示'整个伦敦市'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q36",
+            "number": 36,
+            "options": ["A. took", "B. moved", "C. left", "D. visited"],
+            "correct": "D",
+            "explanation": "visited Big Ben表示'参观大本钟'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q37",
+            "number": 37,
+            "options": ["A. forgot", "B. learned", "C. taught", "D. minded"],
+            "correct": "B",
+            "explanation": "learned a lot about表示'学到了很多关于……的知识'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q38",
+            "number": 38,
+            "options": ["A. first", "B. second", "C. third", "D. fourth"],
+            "correct": "C",
+            "explanation": "前面提到第一天、第二天，这里是第三天，third表示'第三'。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q39",
+            "number": 39,
+            "options": ["A. say", "B. talk", "C. tell", "D. speak"],
+            "correct": "D",
+            "explanation": "speak Chinese表示'说中文'，speak后接语言。"
+          },
+          {
+            "id": "cloze_london_trip_e7202012_q40",
+            "number": 40,
+            "options": ["A. wonderful", "B. boring", "C. terrible", "D. bad"],
+            "correct": "A",
+            "explanation": "根据全文情感，这次旅行很精彩，wonderful表示'精彩的'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_king_midas_e7202013",
+        "title": "13_The King and the Gold",
+        "category": "寓言故事",
+        "difficulty": 2,
+        "source": "E7202013",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Once upon a time, there was a king in Greece. He loved gold.\n\nOne day, he asked the God (神) to ___31___ him more gold. The God thought the king was greedy (贪婪的) ___32___ he decided to give him a lesson. He said to the king, \"OK! When you ___33___ tomorrow, you'll find everything you touch will turn into gold.\" The king was so ___34___ when he heard this.\n\nThe next morning, he got up very early. When he touched his bed, it turned into gold. \"Gold!\" he cried ___35___. The king went to have breakfast. He took a piece of ___36___, and it turned into gold, too. He couldn't eat anything and he felt very ___37___. Then, he went to the garden. His daughter was playing with a ball there. He ___38___ his daughter. At once, ___39___ turned into gold.\n\nThe king was sad and asked the God to take back the special ability. The God told him to wash his hands in a ___40___. He did it. Soon everything returned to the same as before after he came back from the river.\n\nThe king learned an important lesson: Gold doesn't always bring happiness.",
+        "questions": [
+          {
+            "id": "cloze_king_midas_e7202013_q31",
+            "number": 31,
+            "options": ["A. give", "B. draw", "C. tell"],
+            "correct": "A",
+            "explanation": "国王请求神给他更多金子，give him more gold表示'给他更多金子'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q32",
+            "number": 32,
+            "options": ["A. or", "B. but", "C. so"],
+            "correct": "C",
+            "explanation": "神认为国王贪婪，所以决定给他一个教训，so表示因果关系。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q33",
+            "number": 33,
+            "options": ["A. stand up", "B. get up", "C. jump up"],
+            "correct": "B",
+            "explanation": "当你明天起床时，get up表示'起床'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q34",
+            "number": 34,
+            "options": ["A. excited", "B. bored", "C. worried"],
+            "correct": "A",
+            "explanation": "听到这个消息国王很兴奋，excited表示'兴奋的'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q35",
+            "number": 35,
+            "options": ["A. sadly", "B. happily", "C. carefully"],
+            "correct": "B",
+            "explanation": "他高兴地喊道，happily表示'高兴地'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q36",
+            "number": 36,
+            "options": ["A. paper", "B. music", "C. bread"],
+            "correct": "C",
+            "explanation": "他拿了一片面包，a piece of bread表示'一片面包'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q37",
+            "number": 37,
+            "options": ["A. safe", "B. hungry", "C. healthy"],
+            "correct": "B",
+            "explanation": "他吃不了任何东西，感到很饿，hungry表示'饥饿的'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q38",
+            "number": 38,
+            "options": ["A. watched", "B. asked", "C. kissed"],
+            "correct": "C",
+            "explanation": "他亲吻了他的女儿，kissed表示'亲吻'。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q39",
+            "number": 39,
+            "options": ["A. she", "B. he", "C. they"],
+            "correct": "A",
+            "explanation": "她(女儿)变成了金子，she指代他的女儿。"
+          },
+          {
+            "id": "cloze_king_midas_e7202013_q40",
+            "number": 40,
+            "options": ["A. forest", "B. river", "C. lake"],
+            "correct": "B",
+            "explanation": "根据后文came back from the river可知是在河里洗手，river表示'河'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_bats_echolocation_e7202014",
+        "title": "14_How Bats Find Their Way",
+        "category": "动物科学",
+        "difficulty": 2,
+        "source": "E7202014",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "It says that bats (蝙蝠) are almost blind (瞎的), but how do bats find the way? In fact, bats find their way ___7___ their ears' help. Bats ___8___ ultrasound (超声), but we can't hear it at all. They cry when they fly and the echoes (回声) of these cries come back to their ___9___. In this way they can know where they should go. Bats fly out in the ___10___. In the daytime, they just stay together in ___11___ homes.\n\nWhen the night comes, they begin to ___12___ and look for food. The next morning, they come back from work to sleep ___13___ the evening. Some people ___14___ that bats are bad animals. In fact, they are very ___15___. They catch and eat pests (害虫). This is very good for people.",
+        "questions": [
+          {
+            "id": "cloze_bats_echolocation_e7202014_q6",
+            "number": 6,
+            "options": ["A. what", "B. how", "C. when", "D. where"],
+            "correct": "B",
+            "explanation": "根据上下文，这里问蝙蝠如何找到路，how表示'如何'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q7",
+            "number": 7,
+            "options": ["A. with", "B. at", "C. on", "D. in"],
+            "correct": "A",
+            "explanation": "with one's help表示'在某人的帮助下'，with their ears' help表示'借助耳朵的帮助'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q8",
+            "number": 8,
+            "options": ["A. make", "B. shout", "C. play", "D. open"],
+            "correct": "A",
+            "explanation": "make ultrasound表示'发出超声波'，是固定搭配。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q9",
+            "number": 9,
+            "options": ["A. eyes", "B. faces", "C. ears", "D. mouths"],
+            "correct": "C",
+            "explanation": "回声回到它们的耳朵里，ears表示'耳朵'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q10",
+            "number": 10,
+            "options": ["A. morning", "B. afternoon", "C. day", "D. evening"],
+            "correct": "D",
+            "explanation": "根据后文夜晚出来活动，蝙蝠在傍晚飞出，evening表示'傍晚，晚上'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q11",
+            "number": 11,
+            "options": ["A. their", "B. our", "C. his", "D. her"],
+            "correct": "A",
+            "explanation": "their homes表示'它们的家'，指蝙蝠的家。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q12",
+            "number": 12,
+            "options": ["A. come in", "B. go out", "C. try on", "D. have a rest"],
+            "correct": "B",
+            "explanation": "夜晚来临，它们开始出去觅食，go out表示'出去'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q13",
+            "number": 13,
+            "options": ["A. after", "B. as", "C. till", "D. when"],
+            "correct": "C",
+            "explanation": "睡到傍晚，till表示'直到'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q14",
+            "number": 14,
+            "options": ["A. see", "B. think", "C. speak", "D. have"],
+            "correct": "B",
+            "explanation": "一些人认为蝙蝠是坏动物，think that表示'认为'。"
+          },
+          {
+            "id": "cloze_bats_echolocation_e7202014_q15",
+            "number": 15,
+            "options": ["A. good", "B. bad", "C. rude", "D. careful"],
+            "correct": "A",
+            "explanation": "事实上它们很好，因为它们吃害虫，good表示'好的'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_elephant_lesson_e7202015",
+        "title": "15_The Elephant's Lesson",
+        "category": "寓言故事",
+        "difficulty": 2,
+        "source": "E7202015",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "I didn't do well in my study last term, so I want to do it well this term, but I haven't got any ideas about how to make it better.\n\nOne day, I saw a big elephant. ___21___ people tied its legs with a rope. It was only a small rope. The elephant ___22___ break free from the rope easily, but it didn't. I asked a man, \"Sir, look, the big elephant ___23___ there. Why doesn't it try to break free from the rope?\" He said, \"___24___ it was very young, we used the same small rope to tie its legs. It tried to run away, ___25___ it failed because it was too small. Now ___26___ elephant is very big, but it thinks it will fail again and it never has a try.\" At that moment, I knew I was just ___27___ that elephant. So I told ___28___ that I should never stop trying. Now I like to try everything new and I do very ___29___ in my study.\n\nYou may fail when you have a try. But never ___30___ trying.",
+        "questions": [
+          {
+            "id": "cloze_elephant_lesson_e7202015_q21",
+            "number": 21,
+            "options": ["A. Little", "B. Much", "C. Some", "D. Any"],
+            "correct": "C",
+            "explanation": "一些人用绳子绑住大象的腿，some people表示'一些人'。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q22",
+            "number": 22,
+            "options": ["A. could", "B. should", "C. must", "D. need"],
+            "correct": "A",
+            "explanation": "大象能够轻易挣脱，could表示'能够'。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q23",
+            "number": 23,
+            "options": ["A. stand", "B. stands", "C. stood", "D. is standing"],
+            "correct": "D",
+            "explanation": "大象正站在那里，用现在进行时is standing。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q24",
+            "number": 24,
+            "options": ["A. If", "B. When", "C. Though", "D. Because"],
+            "correct": "B",
+            "explanation": "当它很小的时候，when表示'当……时候'。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q25",
+            "number": 25,
+            "options": ["A. or", "B. so", "C. and", "D. but"],
+            "correct": "D",
+            "explanation": "它试图逃跑，但是失败了，前后转折用but。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q26",
+            "number": 26,
+            "options": ["A. a", "B. an", "C. the", "D. /"],
+            "correct": "C",
+            "explanation": "前文已提到过elephant，再次出现用定冠词the。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q27",
+            "number": 27,
+            "options": ["A. like", "B. with", "C. for", "D. from"],
+            "correct": "A",
+            "explanation": "just like that elephant表示'就像那头大象一样'。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q28",
+            "number": 28,
+            "options": ["A. me", "B. my", "C. mine", "D. myself"],
+            "correct": "D",
+            "explanation": "told myself表示'告诉我自己'，反身代词。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q29",
+            "number": 29,
+            "options": ["A. good", "B. well", "C. better", "D. best"],
+            "correct": "B",
+            "explanation": "do well in表示'在……方面做得好'，well修饰动词do。"
+          },
+          {
+            "id": "cloze_elephant_lesson_e7202015_q30",
+            "number": 30,
+            "options": ["A. stop", "B. stops", "C. stopped", "D. stopping"],
+            "correct": "A",
+            "explanation": "never stop trying表示'永不停止尝试'，祈使句用动词原形。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_class_rules_e7202016",
+        "title": "16_Class Rules",
+        "category": "学校生活",
+        "difficulty": 1,
+        "source": "E7202016",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Hello, boys and girls. Welcome to this new class. I'm your class teacher. You can call ___1___ Ms. Li. Now I'd like to tell you some class ___2___.\n\nBehave (表现) well in class. Listen to the teachers ___3___. Don't talk with others in class because you should keep ___4___. When you want to ask a question, please ___5___ your hand first.\n\nKeep our classroom clean and tidy. You should take turns (轮流) to clean the classroom every day. Don't ___6___ any food in the classroom. Put your school things in their right ___7___.\n\nBe kind all the time. You should be kind to all the teachers and ___8___. Remember to use kind words. You should say \"please\" when you want to ask someone for help. You should say \"___9___\" after someone helps you.\n\nPlease remember the rules and try to ___10___ them. You will have a good time in this new class.",
+        "questions": [
+          {
+            "id": "cloze_class_rules_e7202016_q1",
+            "number": 1,
+            "options": ["A. her", "B. you", "C. us", "D. me"],
+            "correct": "D",
+            "explanation": "call me Ms. Li表示'叫我李老师'，me是宾格，作宾语。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q2",
+            "number": 2,
+            "options": ["A. plans", "B. ideas", "C. rules", "D. habits"],
+            "correct": "C",
+            "explanation": "根据后文内容，这里讲的是班级规则，class rules表示'班规'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q3",
+            "number": 3,
+            "options": ["A. loudly", "B. slowly", "C. quickly", "D. carefully"],
+            "correct": "D",
+            "explanation": "仔细听老师讲课，carefully表示'仔细地'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q4",
+            "number": 4,
+            "options": ["A. quiet", "B. busy", "C. healthy", "D. safe"],
+            "correct": "A",
+            "explanation": "keep quiet表示'保持安静'，是课堂规则。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q5",
+            "number": 5,
+            "options": ["A. give up", "B. put up", "C. clean up", "D. get up"],
+            "correct": "B",
+            "explanation": "put up your hand表示'举手'，是固定短语。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q6",
+            "number": 6,
+            "options": ["A. buy", "B. sell", "C. eat", "D. drink"],
+            "correct": "C",
+            "explanation": "不要在教室里吃东西，eat food表示'吃食物'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q7",
+            "number": 7,
+            "options": ["A. rooms", "B. seats", "C. classrooms", "D. places"],
+            "correct": "D",
+            "explanation": "把学习用品放在正确的地方，places表示'地方'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q8",
+            "number": 8,
+            "options": ["A. classmates", "B. teachers", "C. parents", "D. friends"],
+            "correct": "A",
+            "explanation": "对所有的老师和同学友善，classmates表示'同学'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q9",
+            "number": 9,
+            "options": ["A. sorry", "B. excuse me", "C. thank you", "D. please"],
+            "correct": "C",
+            "explanation": "别人帮助后应该说谢谢，thank you表示'谢谢'。"
+          },
+          {
+            "id": "cloze_class_rules_e7202016_q10",
+            "number": 10,
+            "options": ["A. study", "B. follow", "C. forget", "D. teach"],
+            "correct": "B",
+            "explanation": "try to follow them表示'努力遵守它们'，follow rules表示'遵守规则'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_bingxin_cat_e7202017",
+        "title": "17_Bing Xin and Her Cat Mimi",
+        "category": "人与动物",
+        "difficulty": 2,
+        "source": "E7202017",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "A lot of families keep pets in their houses. Most pets are ___11___ animals, such as cats and dogs.\n\nPeople usually think of pets as our family members. We let them wear beautiful clothes, eat healthy and delicious ___12___ and have nice names. We keep ___13___ clean every day.\n\nCats are really cute and beautiful animals, ___14___ many people like them. Bing Xin, ___15___ great writer (作家) in China, had a very nice white ___16___.\n\nBing Xin loved the cat a lot. She was just ___17___ a mother to it. She called it \"Mimi\" and ___18___ looked after it very well. When she read books, she often took Mimi in her arms. The cat liked being with her, too. You can ___19___ Mimi in many of her photos!\n\nBing Xin ___20___ many interesting stories about Mimi. One day, Mimi was lost and she was very worried. She ___21___ it everywhere. Luckily (幸运地), she found it at last. Many people also liked Mimi because of these ___22___, and some of them even wanted to come to see Mimi.\n\nWith Bing Xin's help, Mimi could ___23___ a good life. But after she died, Mimi was never ___24___. It stayed in the writer's room all day. And it didn't eat or drink. Only some days later, it died, too.\n\nAnimals are our good friends. They can ___25___ us happiness and make our life colorful. We should love them and let them go into our life.",
+        "questions": [
+          {
+            "id": "cloze_bingxin_cat_e7202017_q11",
+            "number": 11,
+            "options": ["A. big", "B. small", "C. strict", "D. scary"],
+            "correct": "B",
+            "explanation": "大多数宠物是小动物，如猫和狗，small animals表示'小动物'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q12",
+            "number": 12,
+            "options": ["A. food", "B. milk", "C. water", "D. ice cream"],
+            "correct": "A",
+            "explanation": "吃健康美味的食物，food表示'食物'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q13",
+            "number": 13,
+            "options": ["A. me", "B. you", "C. her", "D. them"],
+            "correct": "D",
+            "explanation": "keep them clean表示'让它们保持干净'，them指代pets。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q14",
+            "number": 14,
+            "options": ["A. or", "B. so", "C. but", "D. because"],
+            "correct": "B",
+            "explanation": "猫可爱漂亮，所以很多人喜欢它们，so表示结果。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q15",
+            "number": 15,
+            "options": ["A. a", "B. an", "C. the", "D. /"],
+            "correct": "A",
+            "explanation": "a great writer表示'一位伟大的作家'，泛指。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q16",
+            "number": 16,
+            "options": ["A. bird", "B. dog", "C. fish", "D. cat"],
+            "correct": "D",
+            "explanation": "根据后文可知她养了一只猫，cat表示'猫'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q17",
+            "number": 17,
+            "options": ["A. for", "B. like", "C. with", "D. about"],
+            "correct": "B",
+            "explanation": "just like a mother表示'就像一位母亲一样'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q18",
+            "number": 18,
+            "options": ["A. only", "B. never", "C. always", "D. sometimes"],
+            "correct": "C",
+            "explanation": "总是很好地照顾它，always表示'总是'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q19",
+            "number": 19,
+            "options": ["A. see", "B. talk", "C. feel", "D. listen"],
+            "correct": "A",
+            "explanation": "在许多照片中能看到Mimi，see表示'看见'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q20",
+            "number": 20,
+            "options": ["A. read", "B. drew", "C. found", "D. wrote"],
+            "correct": "D",
+            "explanation": "写了关于Mimi的有趣故事，wrote表示'写'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q21",
+            "number": 21,
+            "options": ["A. looked at", "B. looked up", "C. looked after", "D. looked for"],
+            "correct": "D",
+            "explanation": "到处找它，looked for表示'寻找'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q22",
+            "number": 22,
+            "options": ["A. flags", "B. shows", "C. games", "D. stories"],
+            "correct": "D",
+            "explanation": "因为这些故事，很多人也喜欢Mimi，stories表示'故事'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q23",
+            "number": 23,
+            "options": ["A. live", "B. make", "C. miss", "D. leave"],
+            "correct": "A",
+            "explanation": "live a good life表示'过上好生活'，是固定搭配。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q24",
+            "number": 24,
+            "options": ["A. lazy", "B. tidy", "C. happy", "D. friendly"],
+            "correct": "C",
+            "explanation": "Mimi再也没有快乐过，never happy表示'从不快乐'。"
+          },
+          {
+            "id": "cloze_bingxin_cat_e7202017_q25",
+            "number": 25,
+            "options": ["A. take", "B. bring", "C. think", "D. forget"],
+            "correct": "B",
+            "explanation": "bring us happiness表示'给我们带来快乐'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_rose_cactus_e7202018",
+        "title": "18_The Rose and the Cactus",
+        "category": "寓言故事",
+        "difficulty": 2,
+        "source": "E7202018",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "One spring day, a rose came out in the garden. When she met her neighbors, including a cactus (仙人掌) and other plants, she said to the cactus, \"I'm the most beautiful flower here, but you are full of thorns (刺) and so ___26___!\"\n\nDay after day, the rose never stopped being unfriendly to the cactus. However, the cactus never ___27___ sad or angry, and he replied calmly every time, \"Every life has a purpose to be what it is.\"\n\nAs summer came, it was hot and ___28___. The rose lost a lot of water and became weaker and weaker, but the cactus grew well. He was good at ___29___ water in his body.\n\nOne day, the rose saw a bird make a small ___30___ in the cactus. The thirsty bird drank the water inside the cactus through the hole.\n\n\"It must hurt,\" said the rose.\n\n\"Yes,\" the cactus replied, \"but I don't want to see my bird friend suffer.\"\n\nThe rose was so ___31___ that she asked the cactus for water. The cactus kindly agreed. He asked the bird to carry the water to the rose's roots.\n\nThe rose was ashamed (羞愧的) of what she had said to the cactus in the past. From then on, she ___32___ judging (评判) others by their looks.",
+        "questions": [
+          {
+            "id": "cloze_rose_cactus_e7202018_q26",
+            "number": 26,
+            "options": ["A. ugly", "B. lazy", "C. strong"],
+            "correct": "A",
+            "explanation": "玫瑰说仙人掌满身是刺，如此丑陋，ugly表示'丑陋的'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q27",
+            "number": 27,
+            "options": ["A. get", "B. gets", "C. got"],
+            "correct": "C",
+            "explanation": "仙人掌从不感到伤心或生气，故事用过去时，got表示'变得'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q28",
+            "number": 28,
+            "options": ["A. dry", "B. wet", "C. dirty"],
+            "correct": "A",
+            "explanation": "夏天炎热干燥，dry表示'干燥的'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q29",
+            "number": 29,
+            "options": ["A. discovering", "B. saving", "C. wasting"],
+            "correct": "B",
+            "explanation": "仙人掌擅长在体内储存水分，saving water表示'储存水分'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q30",
+            "number": 30,
+            "options": ["A. hole", "B. meal", "C. house"],
+            "correct": "A",
+            "explanation": "鸟在仙人掌上啄了一个小洞，hole表示'洞'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q31",
+            "number": 31,
+            "options": ["A. shy", "B. thirsty", "C. angry"],
+            "correct": "B",
+            "explanation": "玫瑰非常口渴，所以向仙人掌要水，thirsty表示'口渴的'。"
+          },
+          {
+            "id": "cloze_rose_cactus_e7202018_q32",
+            "number": 32,
+            "options": ["A. kept", "B. began", "C. stopped"],
+            "correct": "C",
+            "explanation": "从那以后，她不再以貌取人，stopped doing表示'停止做某事'。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_last_leaf_e7202019",
+        "title": "19_The Last Leaf",
+        "category": "寓言故事",
+        "difficulty": 2,
+        "source": "E7202019",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "It was in autumn. A young woman was ill. She ___31___ in the hospital. There was a tree ___32___ her room. She saw the leaves fall down. Day after day, there were fewer and fewer leaves on the tree. The woman ___33___ very sad. She didn't eat or drink, and she didn't want ___34___. The doctor asked her to ___35___ and take a walk. She ___36___ do that. She became worse day by day. One day she said, \"When the last leaf falls down, I will die, too.\"\n\nAn old artist knew that. He decided to help ___37___. One night, all yellow leaves fell down. The artist painted a green and yellow leaf, ___38___ put it in the tree. The next morning, when the woman looked out of the window and saw the last leaf, she was filled with ___39___. She would like to be alive. She didn't want to fall down like other ___40___. From then on, she became better and better and lived a long time.\n\nDon't give up your hope at any time.",
+        "questions": [
+          {
+            "id": "cloze_last_leaf_e7202019_q31",
+            "number": 31,
+            "options": ["A. played", "B. stayed", "C. worked"],
+            "correct": "B",
+            "explanation": "她住在医院里，stayed in the hospital表示'住在医院'。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q32",
+            "number": 32,
+            "options": ["A. outside", "B. inside", "C. in"],
+            "correct": "A",
+            "explanation": "outside her room表示'在她的房间外面'，树在窗外。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q33",
+            "number": 33,
+            "options": ["A. feel", "B. feels", "C. felt"],
+            "correct": "C",
+            "explanation": "故事用过去时，felt very sad表示'感到非常伤心'。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q34",
+            "number": 34,
+            "options": ["A. talk", "B. to talk", "C. talked"],
+            "correct": "B",
+            "explanation": "didn't want to talk表示'不想说话'，want to do sth.结构。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q35",
+            "number": 35,
+            "options": ["A. fall asleep", "B. hurry up", "C. get up"],
+            "correct": "C",
+            "explanation": "医生让她起床散步，get up表示'起床'。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q36",
+            "number": 36,
+            "options": ["A. wouldn't", "B. can't", "C. won't"],
+            "correct": "A",
+            "explanation": "她不愿意这样做，wouldn't表示'不愿意'，过去时。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q37",
+            "number": 37,
+            "options": ["A. she", "B. him", "C. her"],
+            "correct": "C",
+            "explanation": "help her表示'帮助她'，her是宾格，指代那位年轻女士。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q38",
+            "number": 38,
+            "options": ["A. then", "B. though", "C. but"],
+            "correct": "A",
+            "explanation": "then put it in the tree表示'然后把它放在树上'，表示先后顺序。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q39",
+            "number": 39,
+            "options": ["A. doubt", "B. hope", "C. sadness"],
+            "correct": "B",
+            "explanation": "她充满了希望，was filled with hope表示'充满希望'。"
+          },
+          {
+            "id": "cloze_last_leaf_e7202019_q40",
+            "number": 40,
+            "options": ["A. leaf", "B. leaves", "C. leave"],
+            "correct": "B",
+            "explanation": "other leaves表示'其他叶子'，leaves是leaf的复数形式。"
+          }
+        ]
+      },
+      {
+        "id": "0.cloze_two_farmers_e7202020",
+        "title": "20_Two Farmers",
+        "category": "寓言故事",
+        "difficulty": 2,
+        "source": "E7202020",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Long ago, there were two farmers in a small village. Harry was very hard-working while Peter was ___31___. Every day Harry got up early and came home late, but Peter walked around for fun.\n\nOne summer there was no ___32___ and the crops (庄稼) were dying. Harry thought, \"I must do something to save these crops, or they will die.\" With this thought in mind, he went out to find a ___33___ so that he could dig a canal (灌溉渠) to his field. He walked on and on, feeling tired and thirsty. After a ___34___ search, he found a river full of water. He was very happy. He started digging a canal to his field. At noon his wife sent their daughter to bring Harry home for ___35___. But Harry did not go home. He didn't want to leave his work unfinished. He completed his work ___36___ at night. He was very happy. He went home, had a good meal and ___37___ into a sound sleep. Peter ___38___ the same. But he was not determined (有决心的) at all. He also ___39___ digging a canal to his field, but he didn't finish his work. His field did not get ___40___ water and all his crops died.\n\nHarry's field would be watered when needed. He had a good harvest (收获) because of his hard work.",
+        "questions": [
+          {
+            "id": "cloze_two_farmers_e7202020_q31",
+            "number": 31,
+            "options": ["A. kind", "B. lazy", "C. careless", "D. foolish"],
+            "correct": "B",
+            "explanation": "与hard-working相对，Peter是懒惰的，lazy表示'懒惰的'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q32",
+            "number": 32,
+            "options": ["A. rain", "B. wind", "C. cloud", "D. river"],
+            "correct": "A",
+            "explanation": "庄稼快死了是因为没有雨水，rain表示'雨水'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q33",
+            "number": 33,
+            "options": ["A. crop", "B. farmer", "C. river", "D. cow"],
+            "correct": "C",
+            "explanation": "他出去找一条河，以便挖灌溉渠引水，river表示'河流'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q34",
+            "number": 34,
+            "options": ["A. quick", "B. long", "C. slow", "D. special"],
+            "correct": "B",
+            "explanation": "经过长时间的寻找，long search表示'长时间的寻找'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q35",
+            "number": 35,
+            "options": ["A. breakfast", "B. lunch", "C. supper", "D. fun"],
+            "correct": "B",
+            "explanation": "at noon是中午，所以是叫他回家吃午饭，lunch表示'午餐'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q36",
+            "number": 36,
+            "options": ["A. early", "B. far", "C. late", "D. deep"],
+            "correct": "C",
+            "explanation": "他晚上很晚才完成工作，late at night表示'深夜'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q37",
+            "number": 37,
+            "options": ["A. fell", "B. looked", "C. turned", "D. walked"],
+            "correct": "A",
+            "explanation": "fell into a sound sleep表示'沉沉睡去'，fall into sleep是固定搭配。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q38",
+            "number": 38,
+            "options": ["A. planted", "B. played", "C. did", "D. had"],
+            "correct": "C",
+            "explanation": "Peter did the same表示'Peter做了同样的事'，指他也去挖渠。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q39",
+            "number": 39,
+            "options": ["A. stopped", "B. wanted", "C. forgot", "D. started"],
+            "correct": "D",
+            "explanation": "他也开始挖灌溉渠，started digging表示'开始挖'。"
+          },
+          {
+            "id": "cloze_two_farmers_e7202020_q40",
+            "number": 40,
+            "options": ["A. clean", "B. enough", "C. little", "D. fresh"],
+            "correct": "B",
+            "explanation": "他的田地没有得到足够的水，enough water表示'足够的水'。"
+          }
+        ]
+      },
+      {
+        "id": "reading_mountain_trip_20260302",
+        "title": "A Mountain Trip",
+        "category": "书信",
+        "difficulty": 2,
+        "source": "日常阅读",
+        "createdAt": "2026-03-02T08:00:00.000Z",
+        "content": "Dear Sarah,\n\nI hope you are doing well! I want to share my holiday with you. Last month, my family and I went on a fantastic trip to a beautiful mountain.\n\nWe started our trip early in the morning, driving for about one hour to a small village and then it took us half an hour to get to the foot of the mountain. The air was fresh and the mountain was green. It was like a big park and we felt so good to be away from the busy city life.\n\nOn the first day, we went for a walk. We walked along a beautiful trail through the forest. Along the way, we saw many different kinds of plants and animals. We stopped for lunch by a river, listening to the sound of the water. In the afternoon, we finally got to the top of the mountain. It was great! We took many photos to remember this special day.\n\nOn the second day, we did many wonderful things. We visited a nearby lake, and even tried fishing there. We heard the birds singing happily in the trees.\n\nThis trip to the mountain let me see the beauty of nature and the importance of taking a break and enjoying it. I can't wait to go back again someday.\n\nI hope to know about your holiday! Please write back soon when you can.\n\nLove,\nMary",
+        "questions": [
+          {
+            "id": "reading_mountain_trip_20260302_q51",
+            "number": 51,
+            "options": ["A. A letter.", "B. A poem.", "C. A story.", "D. An ad."],
+            "correct": "A",
+            "explanation": "文章以'Dear Sarah'开头，以'Love, Mary'结尾，是典型的书信格式，因此这是一封信。"
+          },
+          {
+            "id": "reading_mountain_trip_20260302_q52",
+            "number": 52,
+            "options": ["A. Two hours.", "B. One hour.", "C. Half an hour.", "D. Fifteen minutes."],
+            "correct": "C",
+            "explanation": "根据文中'it took us half an hour to get to the foot of the mountain'可知，从小村庄到山脚需要半小时。"
+          },
+          {
+            "id": "reading_mountain_trip_20260302_q53",
+            "number": 53,
+            "options": ["A. Because they visited a big park in the morning.", "B. Because they were away from the busy city life.", "C. Because they walked along a beautiful trail.", "D. Because they enjoyed the fresh air in the mountain."],
+            "correct": "B",
+            "explanation": "文中提到'we felt so good to be away from the busy city life'，说明他们感觉良好是因为远离了繁忙的城市生活。"
+          },
+          {
+            "id": "reading_mountain_trip_20260302_q54",
+            "number": 54,
+            "options": ["A. They saw different kinds of plants.", "B. They had lunch by a river.", "C. They took photos of many animals.", "D. They went fishing by a lake."],
+            "correct": "D",
+            "explanation": "根据文中'On the second day...We visited a nearby lake, and even tried fishing there'可知，第二天他们去湖边钓鱼了。"
+          },
+          {
+            "id": "reading_mountain_trip_20260302_q55",
+            "number": 55,
+            "options": ["A. The way to relax.", "B. The history of the village.", "C. The importance of being busy.", "D. The beauty of our nature."],
+            "correct": "D",
+            "explanation": "文中最后一段说'This trip...let me see the beauty of nature'，说明她从这次旅行中认识到了自然之美。"
+          }
+        ]
+      }
+  ]
+}

@@ -1,0 +1,862 @@
+[
+  {
+    "word": "cereal",
+    "translation": "谷物",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "roads",
+    "translation": "道路",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "museum",
+    "translation": "博物馆",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "need to",
+    "translation": "需要",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "tell",
+    "translation": "告诉",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "leave",
+    "translation": "离开",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "groaned",
+    "translation": "呻吟",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "told",
+    "translation": "告诉",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "stay",
+    "translation": "停留",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "any more.",
+    "translation": "再。",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "shouting",
+    "translation": "喊叫",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "walls",
+    "translation": "壁",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "shake",
+    "translation": "摇",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "I mean it",
+    "translation": "我是认真的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "powers",
+    "translation": "权力",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "kept",
+    "translation": "保持",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "manage",
+    "translation": "管理",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "invisible",
+    "translation": "无形的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "I turn invisible for no reason",
+    "translation": "我无缘无故地变得隐形",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "tells",
+    "translation": "告诉",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "programme",
+    "translation": "方案",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "gardening",
+    "translation": "园艺",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "special",
+    "translation": "特别的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "schoolwork",
+    "translation": "功课",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Once upon a time",
+    "translation": "从前",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "died",
+    "translation": "死亡",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "job",
+    "translation": "工作",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "right",
+    "translation": "正确的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "for",
+    "translation": "对于",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "wants",
+    "translation": "想要",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "palace",
+    "translation": "宫、院",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "seed",
+    "translation": "种子",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "flowerpot",
+    "translation": "花盆",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "chose",
+    "translation": "选择",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "passed",
+    "translation": "通过",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "would",
+    "translation": "将",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Majesty",
+    "translation": "陛下",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "best",
+    "translation": "最好的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "still",
+    "translation": "仍然",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "didn’t",
+    "translation": "没有",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "None",
+    "translation": "无",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "showed",
+    "translation": "表明",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "honest",
+    "translation": "诚实",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "pot",
+    "translation": "锅",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "had to",
+    "translation": "不得不",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "brought",
+    "translation": "带来",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Even though",
+    "translation": "尽管",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Suddenly",
+    "translation": "突然",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "selling",
+    "translation": "销售",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "take",
+    "translation": "拿",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "enough",
+    "translation": "足够的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "bought",
+    "translation": "买了",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "gave",
+    "translation": "给",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "held",
+    "translation": "举行",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "smiled",
+    "translation": "微笑",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "speak",
+    "translation": "说话",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "disappointed",
+    "translation": "失望",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "couldn’t",
+    "translation": "不能",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "felt",
+    "translation": "感觉",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "judgement",
+    "translation": "判断",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "spend",
+    "translation": "花费",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "understanding",
+    "translation": "理解",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "change",
+    "translation": "更改",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "mind",
+    "translation": "介意",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "country",
+    "translation": "国家",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "judge",
+    "translation": "法官",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Weighed",
+    "translation": "称重",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "ago",
+    "translation": "以前",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "were",
+    "translation": "是",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "State",
+    "translation": "状态",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "excited",
+    "translation": "兴奋的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "weigh",
+    "translation": "称重",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "scales",
+    "translation": "鳞片",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "nobody",
+    "translation": "没有人",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "believed",
+    "translation": "相信",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "thought",
+    "translation": "思想",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "should",
+    "translation": "应该",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "ministers",
+    "translation": "部长们",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "stand",
+    "translation": "站",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Draw",
+    "translation": "绘制",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "line",
+    "translation": "线",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "level",
+    "translation": "水平",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Collect",
+    "translation": "收集",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "stones",
+    "translation": "石头",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "until",
+    "translation": "直到",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "falls",
+    "translation": "落下",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

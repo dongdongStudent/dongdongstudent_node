@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "username": "tanweifeng",
+    "bank": "中考",
+    "createdAt": "2026-03-04T19:44:29.548Z",
+    "lastActive": "2026-03-05T05:18:59.030Z",
+    "totalExtracts": 106,
+    "totalQuestionsAttempted": 10,
+    "totalCorrect": 2,
+    "totalWrong": 8,
+    "accuracy": 0.2,
+    "avgMastery": 0.2,
+    "practicedQuestions": 5
+  },
+  "questions": {
+    "c2e_mid_010": {
+      "extract_count": 21,
+      "answer_count": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-04T19:44:29.565Z",
+      "last_practiced": "2026-03-05T05:18:59.028Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T04:38:25.520Z",
+          "result": false,
+          "time": 19,
+          "userAnswer": [
+            "why",
+            "because"
+          ],
+          "correctAnswer": "[{\"position\":0,\"correctForms\":[\"Why\",\"Why are Jenny and Jack\"]},{\"position\":1,\"correctForms\":[\"Because\",\"Because today\"]}]"
+        },
+        {
+          "date": "2026-03-05T05:18:59.028Z",
+          "result": false,
+          "time": 11,
+          "userAnswer": [
+            "why",
+            "because"
+          ],
+          "correctAnswer": "[{\"position\":0,\"correctForms\":[\"Why\",\"Why are Jenny and Jack\"]},{\"position\":1,\"correctForms\":[\"Because\",\"Because today\"]}]"
+        }
+      ]
+    },
+    "c2e_mid_006": {
+      "extract_count": 22,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-04T19:44:29.565Z",
+      "last_practiced": "2026-03-05T05:18:59.028Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-05T04:38:25.520Z",
+          "result": false,
+          "time": 12,
+          "userAnswer": [
+            "take care of"
+          ],
+          "correctAnswer": "look after"
+        },
+        {
+          "date": "2026-03-05T05:18:59.028Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": [
+            "look after"
+          ],
+          "correctAnswer": "look after"
+        }
+      ]
+    },
+    "c2e_mid_007": {
+      "extract_count": 22,
+      "answer_count": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-04T19:44:33.382Z",
+      "last_practiced": "2026-03-05T05:18:59.028Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T04:38:25.520Z",
+          "result": false,
+          "time": 19,
+          "userAnswer": [
+            "favouri animal"
+          ],
+          "correctAnswer": "favorite animal"
+        },
+        {
+          "date": "2026-03-05T05:18:59.028Z",
+          "result": false,
+          "time": 17,
+          "userAnswer": [
+            "fav anima"
+          ],
+          "correctAnswer": "favorite animal"
+        }
+      ]
+    },
+    "c2e_mid_008": {
+      "extract_count": 21,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-04T19:44:33.382Z",
+      "last_practiced": "2026-03-05T05:18:59.028Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-05T04:38:25.520Z",
+          "result": false,
+          "time": 5,
+          "userAnswer": [
+            "what should"
+          ],
+          "correctAnswer": "When should"
+        },
+        {
+          "date": "2026-03-05T05:18:59.028Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": [
+            "when should"
+          ],
+          "correctAnswer": "When should"
+        }
+      ]
+    },
+    "c2e_mid_009": {
+      "extract_count": 20,
+      "answer_count": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-04T19:58:07.394Z",
+      "last_practiced": "2026-03-05T05:18:59.028Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T04:38:25.520Z",
+          "result": false,
+          "time": 14,
+          "userAnswer": [
+            "asd",
+            "asd "
+          ],
+          "correctAnswer": "[{\"position\":0,\"correctForms\":[\"Where do\",\"Where\"]},{\"position\":1,\"correctForms\":[\"come from\",\"from\"]}]"
+        },
+        {
+          "date": "2026-03-05T05:18:59.028Z",
+          "result": false,
+          "time": 18,
+          "userAnswer": [
+            "where are",
+            "from"
+          ],
+          "correctAnswer": "[{\"position\":0,\"correctForms\":[\"Where do\",\"Where\"]},{\"position\":1,\"correctForms\":[\"come from\",\"from\"]}]"
+        }
+      ]
+    }
+  }
+}

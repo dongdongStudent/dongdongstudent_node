@@ -1,0 +1,195 @@
+{
+  "passages": [
+    {
+      "id": "five_select_001",
+      "title": "五选五基础练习",
+      "description": "根据句子意思，从所给词中选择正确的单词填空",
+      "category": "基础词汇",
+      "difficulty": 2,
+      "totalQuestions": 5,
+      "givenWords": ["clever", "fly", "give", "warm", "fast"],
+      "questions": [
+        {
+          "id": "five_select_001_q1",
+          "number": 1,
+          "givenWord": "clever",
+          "correctForm": "clever",
+          "blankPosition": "______",
+          "sentence": "It would be great having such a ______ hat in icy winter.",
+          "sentenceWithBlank": "It would be great having such a {blank} hat in icy winter.",
+          "explanation": "【2024 安徽中考改编】形容词 clever 修饰名词 hat，表示\"聪明的帽子\"，这里指帽子设计巧妙或好看。",
+          "source": {
+            "passageId": "five_select_001",
+            "passageTitle": "五选五基础练习",
+            "category": "生活",
+            "difficulty": 2,
+            "exam": "2024 安徽中考改编"
+          }
+        },
+        {
+          "id": "five_select_001_q2",
+          "number": 2,
+          "givenWord": "fast",
+          "correctForm": "fast",
+          "blankPosition": "______",
+          "sentence": "My brother runs very ______, and he wants to be a good runner.",
+          "sentenceWithBlank": "My brother runs very {blank}, and he wants to be a good runner.",
+          "explanation": "副词 fast 修饰动词 runs，表示\"跑得快\"。fast 既是形容词也是副词，这里需要用副词形式。",
+          "source": {
+            "passageId": "five_select_001",
+            "passageTitle": "五选五基础练习",
+            "category": "生活",
+            "difficulty": 2
+          }
+        },
+        {
+          "id": "five_select_001_q3",
+          "number": 3,
+          "givenWord": "fly",
+          "correctForm": "fly",
+          "blankPosition": "______",
+          "sentence": "The bird has wings and it can ______.",
+          "sentenceWithBlank": "The bird has wings and it can {blank}.",
+          "explanation": "情态动词 can 后面必须接动词原形，所以用 fly 的原形。",
+          "source": {
+            "passageId": "five_select_001",
+            "passageTitle": "五选五基础练习",
+            "category": "科普",
+            "difficulty": 1
+          }
+        },
+        {
+          "id": "five_select_001_q4",
+          "number": 4,
+          "givenWord": "give",
+          "correctForm": "give",
+          "blankPosition": "______",
+          "sentence": "—Please ______ me the book on the desk.  —OK. Here you are.",
+          "sentenceWithBlank": "—Please {blank} me the book on the desk.  —OK. Here you are.",
+          "explanation": "这是一个祈使句，Please 后面要用动词原形，give me the book 是双宾语结构（give sb. sth.）。",
+          "source": {
+            "passageId": "five_select_001",
+            "passageTitle": "五选五基础练习",
+            "category": "日常",
+            "difficulty": 1
+          }
+        },
+        {
+          "id": "five_select_001_q5",
+          "number": 5,
+          "givenWord": "warm",
+          "correctForm": "warm",
+          "blankPosition": "______",
+          "sentence": "Mark is a very ______ boy who dreams of being a scientist.",
+          "sentenceWithBlank": "Mark is a very {blank} boy who dreams of being a scientist.",
+          "explanation": "【2024 黑龙江哈尔滨中考改编】形容词 warm 修饰名词 boy，表示\"温暖的男孩\"，这里指性格温和或热情。",
+          "source": {
+            "passageId": "five_select_001",
+            "passageTitle": "五选五基础练习",
+            "category": "生活",
+            "difficulty": 2,
+            "exam": "2024 黑龙江哈尔滨中考改编"
+          }
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "five_select_002",
+      "title": "五选五进阶练习",
+      "description": "根据句子意思，从所给词中选择正确的单词填空",
+      "category": "进阶词汇",
+      "difficulty": 3,
+      "totalQuestions": 5,
+      "givenWords": ["arrive", "follow", "polite", "litter", "order"],
+      "questions": [
+        {
+          "id": "five_select_002_q1",
+          "number": 1,
+          "givenWord": "litter",
+          "correctForm": "litter",
+          "blankPosition": "______",
+          "sentence": "The sign \"No ______.\" on the wall tells students to keep the classroom clean and tidy.",
+          "sentenceWithBlank": "The sign \"No {blank}.\" on the wall tells students to keep the classroom clean and tidy.",
+          "explanation": "【2025 吉林中考改编】'No litter' 表示'禁止乱扔垃圾'，litter 在这里是名词，意为'垃圾'。",
+          "source": {
+            "passageId": "five_select_002",
+            "passageTitle": "五选五进阶练习",
+            "category": "校园",
+            "difficulty": 2,
+            "exam": "2025 吉林中考改编"
+          }
+        },
+        {
+          "id": "five_select_002_q2",
+          "number": 2,
+          "givenWord": "polite",
+          "correctForm": "polite",
+          "blankPosition": "______",
+          "sentence": "David is ______ and we all want to make friends with him.",
+          "sentenceWithBlank": "David is {blank} and we all want to make friends with him.",
+          "explanation": "形容词 polite 表示'有礼貌的'，用于描述人的性格特征。",
+          "source": {
+            "passageId": "five_select_002",
+            "passageTitle": "五选五进阶练习",
+            "category": "性格",
+            "difficulty": 2
+          }
+        },
+        {
+          "id": "five_select_002_q3",
+          "number": 3,
+          "givenWord": "follow",
+          "correctForm": "follow",
+          "blankPosition": "______",
+          "sentence": "You must ______ the traffic rules when riding a bike.",
+          "sentenceWithBlank": "You must {blank} the traffic rules when riding a bike.",
+          "explanation": "【2024 福建中考改编】情态动词 must 后接动词原形，follow the rules 表示'遵守规则'。",
+          "source": {
+            "passageId": "five_select_002",
+            "passageTitle": "五选五进阶练习",
+            "category": "交通",
+            "difficulty": 2,
+            "exam": "2024 福建中考改编"
+          }
+        },
+        {
+          "id": "five_select_002_q4",
+          "number": 4,
+          "givenWord": "arrive",
+          "correctForm": "arrive",
+          "blankPosition": "______",
+          "sentence": "I will ______ in Nanjing tomorrow. Can you go to the airport to pick me up?",
+          "sentenceWithBlank": "I will {blank} in Nanjing tomorrow. Can you go to the airport to pick me up?",
+          "explanation": "动词 arrive 表示'到达'，arrive in + 大城市/国家。",
+          "source": {
+            "passageId": "five_select_002",
+            "passageTitle": "五选五进阶练习",
+            "category": "旅行",
+            "difficulty": 2
+          }
+        },
+        {
+          "id": "five_select_002_q5",
+          "number": 5,
+          "givenWord": "order",
+          "correctForm": "order",
+          "blankPosition": "______",
+          "sentence": "If we want to have delicious food cooked in the restaurant, we can ______ food through mobiles.",
+          "sentenceWithBlank": "If we want to have delicious food cooked in the restaurant, we can {blank} food through mobiles.",
+          "explanation": "【2024 黑龙江哈尔滨中考改编】情态动词 can 后接动词原形，order food 表示'点餐'。",
+          "source": {
+            "passageId": "five_select_002",
+            "passageTitle": "五选五进阶练习",
+            "category": "生活",
+            "difficulty": 2,
+            "exam": "2024 黑龙江哈尔滨中考改编"
+          }
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

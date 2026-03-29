@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "username": "tanweifeng",
+    "bank": "中考",
+    "createdAt": "2026-03-03T11:53:26.277Z",
+    "lastActive": "2026-03-03T11:57:42.994Z",
+    "totalExtracts": 0,
+    "totalQuestionsAttempted": 0,
+    "totalCorrect": 0,
+    "totalWrong": 0,
+    "accuracy": 0,
+    "avgMastery": 0,
+    "practicedQuestions": 14
+  },
+  "questions": {
+    "005_a1b2c3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "007_d4e5f6": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "011_7f9a2b": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "002_a1b2c3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:53:40.564Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "001_a1b2c3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:53:40.564Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "015_7f9a2b": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "009_d4e5f6": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:53:40.564Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "006_d4e5f6": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "003_a1b2c3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:53:40.564Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "010_d4e5f6": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:53:40.564Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "014_7f9a2b": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:57:42.993Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "004_a1b2c3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:57:42.993Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "013_7f9a2b": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:57:42.993Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "012_7f9a2b": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-03T11:57:42.993Z",
+      "last_practiced": "2026-03-03T11:57:42.993Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

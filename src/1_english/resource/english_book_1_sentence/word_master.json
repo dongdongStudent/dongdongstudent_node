@@ -1,0 +1,532 @@
+{
+    "words": [
+      {
+        "id": 101,
+        "word": "a lot",
+        "translation": "许多，非常",
+        "meaning": "表示大量或频繁",
+        "unit": 1,
+        "category": "基础短语",
+        "examples": [
+          "I have a lot of friends.",
+          "Thanks a lot!"
+        ],
+        "options": {
+          "a": ["a", "an", "the", "one"],
+          "lot": ["lot", "lots", "many", "much"]
+        }
+      },
+      {
+        "id": 102,
+        "word": "at night",
+        "translation": "在夜晚",
+        "meaning": "在夜间的时候",
+        "unit": 1,
+        "category": "时间短语",
+        "examples": [
+          "I study at night.",
+          "Stars appear at night."
+        ],
+        "options": {
+          "at": ["at", "in", "on", "by"],
+          "night": ["night", "nights", "evening", "midnight"]
+        }
+      },
+      {
+        "id": 103,
+        "word": "police station",
+        "translation": "警察局，派出所",
+        "meaning": "警察办公的地方",
+        "unit": 1,
+        "category": "地点",
+        "examples": [
+          "The police station is on Main Street.",
+          "He works at the police station."
+        ],
+        "options": {
+          "police": ["police", "policeman", "cop", "officer"],
+          "station": ["station", "office", "department", "bureau"]
+        }
+      },
+      {
+        "id": 104,
+        "word": "fire station",
+        "translation": "消防站",
+        "meaning": "消防员工作的地方",
+        "unit": 1,
+        "category": "地点",
+        "examples": [
+          "The fire station has red trucks.",
+          "They live near the fire station."
+        ],
+        "options": {
+          "fire": ["fire", "fireman", "firefighter", "flame"],
+          "station": ["station", "house", "department", "truck"]
+        }
+      },
+      {
+        "id": 105,
+        "word": "police officer",
+        "translation": "警察，警官",
+        "meaning": "维护法律的职业",
+        "unit": 1,
+        "category": "职业",
+        "examples": [
+          "My uncle is a police officer.",
+          "The police officer helped us."
+        ],
+        "options": {
+          "police": ["police", "policeman", "cop", "law"],
+          "officer": ["officer", "official", "agent", "deputy"]
+        }
+      },
+      {
+        "id": 106,
+        "word": "come out",
+        "translation": "出来",
+        "meaning": "从里面到外面",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "Please come out of the room.",
+          "The sun came out."
+        ],
+        "options": {
+          "come": ["come", "go", "walk", "run"],
+          "out": ["out", "in", "outside", "away"]
+        }
+      },
+      {
+        "id": 107,
+        "word": "have a guess",
+        "translation": "猜一猜",
+        "meaning": "尝试猜测",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "Have a guess at the answer.",
+          "I'll have a guess."
+        ],
+        "options": {
+          "have": ["have", "take", "make", "do"],
+          "a": ["a", "an", "the", "one"],
+          "guess": ["guess", "try", "shot", "attempt"]
+        }
+      },
+      {
+        "id": 108,
+        "word": "in the fields",
+        "translation": "在田地里",
+        "meaning": "在农田里",
+        "unit": 1,
+        "category": "地点短语",
+        "examples": [
+          "Farmers work in the fields.",
+          "Children play in the fields."
+        ],
+        "options": {
+          "in": ["in", "on", "at", "among"],
+          "the": ["the", "a", "an", "these"],
+          "fields": ["fields", "field", "farm", "ground"]
+        }
+      },
+      {
+        "id": 109,
+        "word": "taxi driver",
+        "translation": "出租车司机",
+        "meaning": "开出租车的人",
+        "unit": 1,
+        "category": "职业",
+        "examples": [
+          "The taxi driver knows all the streets.",
+          "My father is a taxi driver."
+        ],
+        "options": {
+          "taxi": ["taxi", "cab", "car", "bus"],
+          "driver": ["driver", "rider", "pilot", "operator"]
+        }
+      },
+      {
+        "id": 110,
+        "word": "take home",
+        "translation": "带回家",
+        "meaning": "带某人或某物回家",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "I'll take you home.",
+          "Please take this book home."
+        ],
+        "options": {
+          "take": ["take", "bring", "carry", "get"],
+          "home": ["home", "house", "back", "away"]
+        }
+      },
+      {
+        "id": 111,
+        "word": "keep safe",
+        "translation": "保证安全",
+        "meaning": "保护免受伤害",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "Keep your money safe.",
+          "The mother kept her child safe."
+        ],
+        "options": {
+          "keep": ["keep", "maintain", "hold", "stay"],
+          "safe": ["safe", "secure", "protected", "safely"]
+        }
+      },
+      {
+        "id": 112,
+        "word": "work hard",
+        "translation": "努力工作",
+        "meaning": "付出很多努力",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "You need to work hard.",
+          "She works hard every day."
+        ],
+        "options": {
+          "work": ["work", "labor", "job", "task"],
+          "hard": ["hard", "hardly", "tough", "difficult"]
+        }
+      },
+      {
+        "id": 113,
+        "word": "brighten the night",
+        "translation": "点亮夜晚",
+        "meaning": "让夜晚变得明亮",
+        "unit": 1,
+        "category": "动词短语",
+        "examples": [
+          "Stars brighten the night sky.",
+          "Fireworks brighten the night."
+        ],
+        "options": {
+          "brighten": ["brighten", "light", "shine", "illuminate"],
+          "the": ["the", "a", "an", "this"],
+          "night": ["night", "evening", "dark", "sky"]
+        }
+      },
+      {
+        "id": 114,
+        "word": "day after day",
+        "translation": "日复一日",
+        "meaning": "每天重复",
+        "unit": 1,
+        "category": "时间短语",
+        "examples": [
+          "He goes to work day after day.",
+          "Day after day, the same routine."
+        ],
+        "options": {
+          "day": ["day", "time", "week", "month"],
+          "after": ["after", "before", "following", "by"],
+          "day2": ["day", "night", "time", "week"]
+        }
+      },
+      {
+        "id": 115,
+        "word": "of course not",
+        "translation": "当然不",
+        "meaning": "表示强烈否定",
+        "unit": 1,
+        "category": "常用表达",
+        "examples": [
+          "Can I borrow money? Of course not!",
+          "Of course not, I don't agree."
+        ],
+        "options": {
+          "of": ["of", "in", "on", "at"],
+          "course": ["course", "class", "lesson", "subject"],
+          "not": ["not", "no", "never", "none"]
+        }
+      },
+      {
+        "id": 116,
+        "word": "night owl",
+        "translation": "夜猫子，喜欢熬夜的人",
+        "meaning": "喜欢熬夜的人",
+        "unit": 1,
+        "category": "习语",
+        "examples": [
+          "I'm a night owl, I stay up late.",
+          "Night owls work best at night."
+        ],
+        "options": {
+          "night": ["night", "evening", "late", "dark"],
+          "owl": ["owl", "bird", "bat", "animal"]
+        }
+      },
+      {
+        "id": 201,
+        "word": "talk about",
+        "translation": "谈论",
+        "meaning": "讨论某件事情",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "Let's talk about your plans.",
+          "They are talking about the movie."
+        ],
+        "options": {
+          "talk": ["talk", "speak", "say", "tell"],
+          "about": ["about", "of", "on", "regarding"]
+        }
+      },
+      {
+        "id": 202,
+        "word": "take part in",
+        "translation": "参加",
+        "meaning": "参与某活动",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "She wants to take part in the competition.",
+          "Many students take part in sports."
+        ],
+        "options": {
+          "take": ["take", "join", "enter", "attend"],
+          "part": ["part", "role", "place", "position"],
+          "in": ["in", "at", "on", "for"]
+        }
+      },
+      {
+        "id": 203,
+        "word": "the next day",
+        "translation": "第二天",
+        "meaning": "次日",
+        "unit": 2,
+        "category": "时间短语",
+        "examples": [
+          "We arrived and the next day we went sightseeing.",
+          "The next day, he called me."
+        ],
+        "options": {
+          "the": ["the", "a", "an", "next"],
+          "next": ["next", "following", "coming", "subsequent"],
+          "day": ["day", "morning", "afternoon", "evening"]
+        }
+      },
+      {
+        "id": 204,
+        "word": "a month later",
+        "translation": "一个月以后",
+        "meaning": "一个月之后",
+        "unit": 2,
+        "category": "时间短语",
+        "examples": [
+          "A month later, they got married.",
+          "He returned a month later."
+        ],
+        "options": {
+          "a": ["a", "one", "per", "each"],
+          "month": ["month", "week", "year", "day"],
+          "later": ["later", "after", "following", "subsequently"]
+        }
+      },
+      {
+        "id": 205,
+        "word": "next time",
+        "translation": "下一次",
+        "meaning": "下次",
+        "unit": 2,
+        "category": "时间短语",
+        "examples": [
+          "Next time, be more careful.",
+          "I'll do better next time."
+        ],
+        "options": {
+          "next": ["next", "coming", "following", "future"],
+          "time": ["time", "occasion", "opportunity", "chance"]
+        }
+      },
+      {
+        "id": 206,
+        "word": "feel better",
+        "translation": "感觉好多了",
+        "meaning": "感觉好转",
+        "unit": 2,
+        "category": "状态表达",
+        "examples": [
+          "I hope you feel better soon.",
+          "After resting, I felt better."
+        ],
+        "options": {
+          "feel": ["feel", "get", "become", "grow"],
+          "better": ["better", "well", "good", "fine"]
+        }
+      },
+      {
+        "id": 207,
+        "word": "happy birthday",
+        "translation": "生日快乐",
+        "meaning": "生日祝福",
+        "unit": 2,
+        "category": "祝福语",
+        "examples": [
+          "Happy birthday to you!",
+          "She said happy birthday to me."
+        ],
+        "options": {
+          "happy": ["happy", "merry", "joyful", "glad"],
+          "birthday": ["birthday", "anniversary", "celebration", "day"]
+        }
+      },
+      {
+        "id": 208,
+        "word": "ship model",
+        "translation": "轮船模型",
+        "meaning": "船的模型",
+        "unit": 2,
+        "category": "名词短语",
+        "examples": [
+          "He built a ship model.",
+          "The ship model is on the shelf."
+        ],
+        "options": {
+          "ship": ["ship", "boat", "vessel", "craft"],
+          "model": ["model", "replica", "miniature", "toy"]
+        }
+      },
+      {
+        "id": 209,
+        "word": "run back to",
+        "translation": "跑回",
+        "meaning": "跑回去",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "The dog ran back to its owner.",
+          "I need to run back to the office."
+        ],
+        "options": {
+          "run": ["run", "go", "rush", "hurry"],
+          "back": ["back", "return", "again", "reverse"],
+          "to": ["to", "towards", "into", "onto"]
+        }
+      },
+      {
+        "id": 210,
+        "word": "shout at",
+        "translation": "朝...大喊",
+        "meaning": "对某人大声说话",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "Don't shout at me!",
+          "The teacher shouted at the students."
+        ],
+        "options": {
+          "shout": ["shout", "yell", "cry", "scream"],
+          "at": ["at", "to", "towards", "against"]
+        }
+      },
+      {
+        "id": 211,
+        "word": "the colour of",
+        "translation": "...的颜色",
+        "meaning": "事物的颜色",
+        "unit": 2,
+        "category": "名词短语",
+        "examples": [
+          "The colour of the sky is blue.",
+          "What's the colour of your car?"
+        ],
+        "options": {
+          "the": ["the", "a", "an", "this"],
+          "colour": ["colour", "color", "shade", "tone"],
+          "of": ["of", "for", "in", "from"]
+        }
+      },
+      {
+        "id": 212,
+        "word": "a huge fire",
+        "translation": "一场大火",
+        "meaning": "大型火灾",
+        "unit": 2,
+        "category": "名词短语",
+        "examples": [
+          "A huge fire destroyed the building.",
+          "They saw a huge fire in the distance."
+        ],
+        "options": {
+          "a": ["a", "an", "the", "one"],
+          "huge": ["huge", "large", "big", "massive"],
+          "fire": ["fire", "flame", "blaze", "inferno"]
+        }
+      },
+      {
+        "id": 213,
+        "word": "walk on the street",
+        "translation": "走在大街上",
+        "meaning": "在街道上行走",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "People walk on the street.",
+          "Don't walk on the street at night alone."
+        ],
+        "options": {
+          "walk": ["walk", "go", "stroll", "wander"],
+          "on": ["on", "along", "down", "upon"],
+          "the": ["the", "a", "an", "this"],
+          "street": ["street", "road", "avenue", "path"]
+        }
+      },
+      {
+        "id": 214,
+        "word": "hit my head",
+        "translation": "撞到我的头",
+        "meaning": "头部被撞击",
+        "unit": 2,
+        "category": "动词短语",
+        "examples": [
+          "I hit my head on the door.",
+          "He fell and hit his head."
+        ],
+        "options": {
+          "hit": ["hit", "bump", "strike", "knock"],
+          "my": ["my", "his", "her", "the"],
+          "head": ["head", "forehead", "skull", "face"]
+        }
+      },
+      {
+        "id": 215,
+        "word": "Beijing opera show",
+        "translation": "京剧表演",
+        "meaning": "京剧演出",
+        "unit": 2,
+        "category": "文化活动",
+        "examples": [
+          "We watched a Beijing opera show.",
+          "The Beijing opera show was amazing."
+        ],
+        "options": {
+          "Beijing": ["Beijing", "Chinese", "Peking", "traditional"],
+          "opera": ["opera", "drama", "play", "performance"],
+          "show": ["show", "performance", "presentation", "act"]
+        }
+      },
+      {
+        "id": 216,
+        "word": "be proud of",
+        "translation": "为...感到自豪",
+        "meaning": "感到骄傲",
+        "unit": 2,
+        "category": "情感表达",
+        "examples": [
+          "I'm proud of you.",
+          "She is proud of her achievements."
+        ],
+        "options": {
+          "be": ["be", "feel", "become", "get"],
+          "proud": ["proud", "honored", "pleased", "satisfied"],
+          "of": ["of", "about", "for", "with"]
+        }
+      }
+    ]
+  }

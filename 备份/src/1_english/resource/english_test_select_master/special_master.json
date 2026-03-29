@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-01",
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "id": "sp_001",
+      "type": "single_choice",
+      "difficulty": "medium",
+      "stars": 3,
+      "category": "虚拟语气",
+      "source": "语法专项",
+      "tags": ["虚拟语气", "if从句"],
+      "question": "If I ________ you, I would accept the offer.",
+      "options": [
+        { "label": "A", "text": "am" },
+        { "label": "B", "text": "were" },
+        { "label": "C", "text": "was" },
+        { "label": "D", "text": "be" }
+      ],
+      "correct": "B",
+      "explanation": "与现在事实相反的虚拟语气，if从句用一般过去时，be动词用were。"
+    },
+    {
+      "id": "sp_002",
+      "type": "single_choice",
+      "difficulty": "hard",
+      "stars": 4,
+      "category": "非谓语",
+      "source": "语法专项",
+      "tags": ["非谓语", "不定式"],
+      "question": "The teacher asked us ________ the classroom before 5 pm.",
+      "options": [
+        { "label": "A", "text": "clean" },
+        { "label": "B", "text": "cleaning" },
+        { "label": "C", "text": "to clean" },
+        { "label": "D", "text": "cleaned" }
+      ],
+      "correct": "C",
+      "explanation": "ask sb to do sth 是固定搭配，表示要求某人做某事。"
+    }
+  ]
+}

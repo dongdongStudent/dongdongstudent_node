@@ -1,0 +1,68 @@
+{
+  "sentences": {
+    "1774436241679": {
+      "chinese": "这是一只小狗。",
+      "text": "This is a puppy.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-25T10:57:21.775Z",
+      "id": "1774436241679"
+    },
+    "1774436245549": {
+      "chinese": "这是一只幼崽。",
+      "text": "This is a cub.",
+      "pass": false,
+      "extraction_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-28T00:04:28.338Z",
+      "time": "2026-03-28T00:04:28.338Z"
+    },
+    "1774436246576": {
+      "chinese": "这是一头小牛。",
+      "text": "This is a calf.",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-28T01:12:11.003Z",
+      "time": "2026-03-28T01:12:11.003Z"
+    },
+    "1774436249149": {
+      "chinese": "这是一个孩子。",
+      "text": "This is a kid.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-25T10:57:29.244Z",
+      "id": "1774436249149"
+    },
+    "1774660443539": {
+      "chinese": "很久以前，一个充满好奇心的小男孩住在一个遥远的国度。",
+      "text": "Long ago, a curious young boy lived in a far-off land.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-28T01:14:04.130Z",
+      "id": "1774660443539"
+    },
+    "1774660446002": {
+      "chinese": "东边是连绵的山脉。",
+      "text": "To the east there were mountains.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-28T01:14:06.547Z",
+      "id": "1774660446002"
+    }
+  }
+}

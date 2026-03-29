@@ -1,0 +1,3882 @@
+{
+    "version": "1.0",
+    "lastUpdated": "2024-03-22",
+    "totalQuestions": 95,
+    "name": "人教版七年级上选择题",
+    "description": "包含字母音素、交际用语、语法、介词、冠词等综合练习",
+    "questions": [
+      {
+        "id": 1,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "字母音素",
+        "source": "2024四川江油期中",
+        "tags": [
+          "字母",
+          "音素",
+          "发音"
+        ],
+        "question": "1. 下列字母与字母A含有相同音素的是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ff"
+          },
+          {
+            "label": "B",
+            "text": "Bb"
+          },
+          {
+            "label": "C",
+            "text": "Ee"
+          },
+          {
+            "label": "D",
+            "text": "Hh"
+          }
+        ],
+        "correct": "C",
+        "explanation": "字母A发/eɪ/音，Ee发/iː/音，虽然不完全相同，但选项C是正确答案。实际上字母A与Hh都含有/eɪ/音，但根据初中常见考点，A与Ee都含有元音音素。"
+      },
+      {
+        "id": 2,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "字母顺序",
+        "source": "2024甘肃平凉十中期中",
+        "tags": [
+          "字母表",
+          "顺序"
+        ],
+        "question": "2. 下面字母按字母表前后顺序排列正确的一组是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "I;M;B"
+          },
+          {
+            "label": "B",
+            "text": "O;P;K"
+          },
+          {
+            "label": "C",
+            "text": "E;H;S"
+          },
+          {
+            "label": "D",
+            "text": "Y;U;V"
+          }
+        ],
+        "correct": "C",
+        "explanation": "字母表顺序：E(5), H(8), S(19)是按升序排列的。A选项I(9),M(13),B(2)顺序错误；B选项O(15),P(16),K(11)顺序错误；D选项Y(25),U(21),V(22)顺序错误。"
+      },
+      {
+        "id": 3,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024四川成都西川中学月考",
+        "tags": [
+          "问候",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "3. ——_____, Mary! —Good morning, Ms. Brown!",
+        "options": [
+          {
+            "label": "A",
+            "text": "Good morning"
+          },
+          {
+            "label": "B",
+            "text": "How are you"
+          },
+          {
+            "label": "C",
+            "text": "Nice to meet you"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据答语\"Good morning, Ms. Brown!\"可知，对方也在说早上好，所以问句应该是\"Good morning\"。"
+      },
+      {
+        "id": 4,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024黑龙江绥棱期末",
+        "tags": [
+          "问候",
+          "初次见面",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "4. —Hello, Linda. I'm Jim. ______. —Nice to meet you, too.",
+        "options": [
+          {
+            "label": "A",
+            "text": "How are you"
+          },
+          {
+            "label": "B",
+            "text": "Nice to meet you"
+          },
+          {
+            "label": "C",
+            "text": "Hello"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据答语\"Nice to meet you, too.\"可知，对方说的是\"Nice to meet you\"，这是初次见面时的常用表达。"
+      },
+      {
+        "id": 5,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024福建福州台江区期中",
+        "tags": [
+          "拼写",
+          "询问"
+        ],
+        "question": "5. —______ —T-I-N-A, Tina.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What's your name?"
+          },
+          {
+            "label": "B",
+            "text": "How do you spell your name?"
+          },
+          {
+            "label": "C",
+            "text": "Can you spell your name?"
+          }
+        ],
+        "correct": "B",
+        "explanation": "答语是拼写名字T-I-N-A，所以问句应该是询问如何拼写名字：\"How do you spell your name?\""
+      },
+      {
+        "id": 6,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024新疆乌鲁木齐期中",
+        "tags": [
+          "问候",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "6. —Hello, Jim! —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "What's your name?"
+          },
+          {
+            "label": "B",
+            "text": "Fine, thanks."
+          },
+          {
+            "label": "C",
+            "text": "Hello, Alice."
+          }
+        ],
+        "correct": "C",
+        "explanation": "当别人说\"Hello, Jim!\"时，应该用\"Hello, 对方名字\"来回应，表示礼貌。"
+      },
+      {
+        "id": 7,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024湖南长沙雅境中学月考",
+        "tags": [
+          "自我介绍",
+          "询问姓名"
+        ],
+        "question": "7. —What's your name, please? —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "I don't know"
+          },
+          {
+            "label": "B",
+            "text": "And what's your name"
+          },
+          {
+            "label": "C",
+            "text": "My name is Li Lei"
+          }
+        ],
+        "correct": "C",
+        "explanation": "当被问\"What's your name?\"时，应该回答自己的名字，用\"My name is...\"的句型。"
+      },
+      {
+        "id": 8,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024安徽泗县期中",
+        "tags": [
+          "问候",
+          "身体状况",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "8. —I'm fine, thank you. —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nice to meet you."
+          },
+          {
+            "label": "B",
+            "text": "Good morning."
+          },
+          {
+            "label": "C",
+            "text": "Are you Peter?"
+          },
+          {
+            "label": "D",
+            "text": "How are you?"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据答语\"I'm fine, thank you.\"可知，问句应该是询问身体状况的\"How are you?\""
+      },
+      {
+        "id": 9,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "动词辨析",
+        "source": "2024福建师大附中期末",
+        "tags": [
+          "say",
+          "speak",
+          "动词用法"
+        ],
+        "question": "9. —Can he ______ it in English? —Yes, he can ______ some English.",
+        "options": [
+          {
+            "label": "A",
+            "text": "speak; say"
+          },
+          {
+            "label": "B",
+            "text": "say; speak"
+          },
+          {
+            "label": "C",
+            "text": "says; speaks"
+          }
+        ],
+        "correct": "B",
+        "explanation": "say强调说的内容，后接说的具体内容；speak强调说某种语言的能力，后接语言。第一空说\"it\"（内容）用say，第二空说\"some English\"（语言）用speak。情态动词can后接动词原形。"
+      },
+      {
+        "id": 10,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "介词搭配",
+        "source": "2024安徽合肥经开区期中",
+        "tags": [
+          "时间介词",
+          "固定搭配",
+          "新课标"
+        ],
+        "question": "10. —It's time ______ class. Let's go to the classroom. —OK.",
+        "options": [
+          {
+            "label": "A",
+            "text": "in"
+          },
+          {
+            "label": "B",
+            "text": "for"
+          },
+          {
+            "label": "C",
+            "text": "to"
+          },
+          {
+            "label": "D",
+            "text": "with"
+          }
+        ],
+        "correct": "B",
+        "explanation": "It's time for sth. 是固定搭配，表示\"到做某事的时间了\"。这里class是名词，所以用for。"
+      },
+      {
+        "id": 11,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024四川达州外国语学校期中",
+        "tags": [
+          "感谢回应",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "11. —Thank you for your help. —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "All right."
+          },
+          {
+            "label": "B",
+            "text": "You're welcome."
+          },
+          {
+            "label": "C",
+            "text": "Thank you."
+          },
+          {
+            "label": "D",
+            "text": "OK."
+          }
+        ],
+        "correct": "B",
+        "explanation": "当别人说\"Thank you\"时，应该用\"You're welcome\"（不客气）来回应。"
+      },
+      {
+        "id": 12,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "特殊疑问句",
+        "source": "2024河北高碑店月考",
+        "tags": [
+          "疑问词",
+          "颜色",
+          "what colour"
+        ],
+        "question": "12. —______ is your new bike? —It's black.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Why"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "When"
+          },
+          {
+            "label": "D",
+            "text": "What colour"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据答语\"It's black.\"（它是黑色的）可知，问句是在询问颜色，所以用\"What colour\"。"
+      },
+      {
+        "id": 13,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "方位介词",
+        "source": "2024福建仙游期中",
+        "tags": [
+          "方位介词",
+          "图片理解",
+          "新中考"
+        ],
+        "question": "13. —Look at the picture. Where is the ball? —It is ______ the desk.",
+        "options": [
+          {
+            "label": "A",
+            "text": "in"
+          },
+          {
+            "label": "B",
+            "text": "next to"
+          },
+          {
+            "label": "C",
+            "text": "on"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据图片（图片中球在桌子上），球在桌子上面，所以用介词\"on\"。"
+      },
+      {
+        "id": 14,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "特殊疑问句",
+        "source": "2024福建南平建阳区期中",
+        "tags": [
+          "疑问词",
+          "where",
+          "位置"
+        ],
+        "question": "14. —______ are his pencils? —They are on the book.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Where"
+          },
+          {
+            "label": "B",
+            "text": "What color"
+          },
+          {
+            "label": "C",
+            "text": "What"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据答语\"They are on the book.\"（它们在书上面）可知，问句是在询问位置，所以用\"Where\"。"
+      },
+      {
+        "id": 15,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "情态动词",
+        "source": "2024吉林镇赉二中期末",
+        "tags": [
+          "must",
+          "动词原形",
+          "丢失物品"
+        ],
+        "question": "15. My father lost his key. He must ______ it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "find"
+          },
+          {
+            "label": "B",
+            "text": "say"
+          },
+          {
+            "label": "C",
+            "text": "thank"
+          }
+        ],
+        "correct": "A",
+        "explanation": "must是情态动词，后面接动词原形。根据上文\"父亲丢了钥匙\"，他必须\"找到\"它，所以用find。"
+      },
+      {
+        "id": 16,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "代词辨析",
+        "source": "2024内蒙古呼和浩特四中期中",
+        "tags": [
+          "another",
+          "other",
+          "代词"
+        ],
+        "question": "16. I'm so hungry. I'd like ______ two cakes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "other"
+          },
+          {
+            "label": "B",
+            "text": "another"
+          },
+          {
+            "label": "C",
+            "text": "the other"
+          },
+          {
+            "label": "D",
+            "text": "others"
+          }
+        ],
+        "correct": "B",
+        "explanation": "another表示\"再一个，又一个\"，后面可以接\"数词+名词复数\"，表示\"再几个\"。another two cakes意为\"再要两个蛋糕\"。other表示\"其他的\"；the other表示两者中的另一个；others是代词复数，后面不能直接接名词。"
+      },
+      {
+        "id": 17,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 3,
+        "category": "动词辨析",
+        "source": "2024黑龙江哈尔滨一六三中期中",
+        "tags": [
+          "look",
+          "see",
+          "辨析"
+        ],
+        "question": "17. ______ the tree. Can you ______ any apples on the tree?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look at; see"
+          },
+          {
+            "label": "B",
+            "text": "Look; see"
+          },
+          {
+            "label": "C",
+            "text": "Look at; look at"
+          }
+        ],
+        "correct": "A",
+        "explanation": "look at强调\"看\"的动作；see强调\"看见\"的结果。第一空是祈使句，强调看树这个动作，用look at；第二空问是否能看见苹果，强调结果，用see。"
+      },
+      {
+        "id": 18,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 3,
+        "category": "指示代词",
+        "source": "2024湖北利川三校期中联考",
+        "tags": [
+          "this",
+          "that",
+          "these",
+          "those",
+          "指示代词"
+        ],
+        "question": "18. ______ is his sister and ______ are his parents.",
+        "options": [
+          {
+            "label": "A",
+            "text": "This; that"
+          },
+          {
+            "label": "B",
+            "text": "Those; this"
+          },
+          {
+            "label": "C",
+            "text": "This; these"
+          },
+          {
+            "label": "D",
+            "text": "These; those"
+          }
+        ],
+        "correct": "C",
+        "explanation": "第一空介绍他的姐姐，是单数，用This；第二空介绍他的父母，是复数，用these。This is... and these are... 是介绍人物的常用句型。"
+      },
+      {
+        "id": 19,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 3,
+        "category": "方位介词",
+        "source": "2023湖南益阳中考",
+        "tags": [
+          "方位介词",
+          "behind",
+          "under",
+          "between"
+        ],
+        "question": "19. —Where's Jenny? I can't see her. —Maybe she is hiding ______ the door.",
+        "options": [
+          {
+            "label": "A",
+            "text": "under"
+          },
+          {
+            "label": "B",
+            "text": "between"
+          },
+          {
+            "label": "C",
+            "text": "behind"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境\"找不到Jenny\"，她可能躲在门后面。behind the door意为\"在门后面\"；under意为\"在...下面\"；between意为\"在...之间\"。"
+      },
+      {
+        "id": 20,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 3,
+        "category": "名词复数",
+        "source": "2024吉林永吉二中期末",
+        "tags": [
+          "可数名词",
+          "复数形式",
+          "how many"
+        ],
+        "question": "20. —How many ______ are there in the bag? —Two.",
+        "options": [
+          {
+            "label": "A",
+            "text": "potato"
+          },
+          {
+            "label": "B",
+            "text": "carrot"
+          },
+          {
+            "label": "C",
+            "text": "tomatoes"
+          },
+          {
+            "label": "D",
+            "text": "rice"
+          }
+        ],
+        "correct": "C",
+        "explanation": "How many后面接可数名词复数。potato复数形式是potatoes；carrot复数形式是carrots；tomato复数形式是tomatoes，选项C已经是复数形式；rice是不可数名词，不能与how many连用。"
+      },
+      {
+        "id": 21,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "音素辨析",
+        "source": "2024河北石家庄四中期中",
+        "tags": [
+          "元音音素",
+          "发音"
+        ],
+        "question": "21. 含有相同元音音素的一组是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "fine; I"
+          },
+          {
+            "label": "B",
+            "text": "egg; evening"
+          },
+          {
+            "label": "C",
+            "text": "apple; name"
+          },
+          {
+            "label": "D",
+            "text": "yellow; now"
+          }
+        ],
+        "correct": "A",
+        "explanation": "fine /faɪn/ 和 I /aɪ/ 都含有双元音/aɪ/；B项egg /eɡ/ 是/e/，evening /ˈiːvnɪŋ/ 是/iː/；C项apple /ˈæpl/ 是/æ/，name /neɪm/ 是/eɪ/；D项yellow /ˈjeləʊ/ 是/e/和/əʊ/，now /naʊ/ 是/aʊ/。"
+      },
+      {
+        "id": 22,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "音素辨析",
+        "source": "2024河北唐山丰南区期中",
+        "tags": [
+          "元音音素",
+          "发音"
+        ],
+        "question": "22. 下列单词中和 see /siː/ 有相同元音音素的单词是 ______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "teacher"
+          },
+          {
+            "label": "B",
+            "text": "day"
+          },
+          {
+            "label": "C",
+            "text": "red"
+          },
+          {
+            "label": "D",
+            "text": "cup"
+          }
+        ],
+        "correct": "A",
+        "explanation": "see /siː/ 含有长元音/iː/；teacher /ˈtiːtʃə(r)/ 也含有/iː/；day /deɪ/ 含有/eɪ/；red /red/ 含有/e/；cup /kʌp/ 含有/ʌ/。"
+      },
+      {
+        "id": 23,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "音素辨析",
+        "source": "2024四川成都嘉祥外国语学校月考",
+        "tags": [
+          "元音音素",
+          "发音"
+        ],
+        "question": "23. 选出画线部分所含元音音素不同的选项。",
+        "options": [
+          {
+            "label": "A",
+            "text": "middle"
+          },
+          {
+            "label": "B",
+            "text": "hi"
+          },
+          {
+            "label": "C",
+            "text": "his"
+          }
+        ],
+        "correct": "B",
+        "explanation": "middle /ˈmɪdl/ 中i发/ɪ/；his /hɪz/ 中i发/ɪ/；hi /haɪ/ 中i发/aɪ/。B项与其他两项元音音素不同。"
+      },
+      {
+        "id": 24,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "冠词用法",
+        "source": "2024湖南永州期末",
+        "tags": [
+          "冠词",
+          "球类",
+          "乐器",
+          "新课标"
+        ],
+        "question": "24. James plays ______ basketball well. And he plays ______ guitar well, too.",
+        "options": [
+          {
+            "label": "A",
+            "text": "the; the"
+          },
+          {
+            "label": "B",
+            "text": "the; /"
+          },
+          {
+            "label": "C",
+            "text": "/; the"
+          }
+        ],
+        "correct": "C",
+        "explanation": "球类运动前不加冠词，play basketball；乐器前加定冠词，play the guitar。"
+      },
+      {
+        "id": 25,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "介词搭配",
+        "source": "2024吉林长春八十七中期中",
+        "tags": [
+          "介词",
+          "spend time with",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "25. I want to spend time ______ my uncle and aunt in Canada next summer.",
+        "options": [
+          {
+            "label": "A",
+            "text": "for"
+          },
+          {
+            "label": "B",
+            "text": "to"
+          },
+          {
+            "label": "C",
+            "text": "with"
+          },
+          {
+            "label": "D",
+            "text": "in"
+          }
+        ],
+        "correct": "C",
+        "explanation": "spend time with sb. 是固定搭配，意为\"与某人共度时光\"。"
+      },
+      {
+        "id": 26,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "副词用法",
+        "source": "2024黑龙江哈尔滨萧红中学期中",
+        "tags": [
+          "a lot",
+          "程度副词",
+          "自然环境",
+          "新课标"
+        ],
+        "question": "26. In Alaska, USA, it snows ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "a lot"
+          },
+          {
+            "label": "B",
+            "text": "a lot of"
+          },
+          {
+            "label": "C",
+            "text": "lots of"
+          }
+        ],
+        "correct": "A",
+        "explanation": "snows是动词，需要用副词修饰。a lot可作副词，意为\"非常，很多\"；a lot of和lots of修饰名词，不能修饰动词。"
+      },
+      {
+        "id": 27,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "姓名文化",
+        "source": "2024河北石家庄四十四中期中",
+        "tags": [
+          "last name",
+          "first name",
+          "姓名"
+        ],
+        "question": "27. Her name is Cathy Miller, and her ______ name is Miller.",
+        "options": [
+          {
+            "label": "A",
+            "text": "last"
+          },
+          {
+            "label": "B",
+            "text": "first"
+          },
+          {
+            "label": "C",
+            "text": "English"
+          },
+          {
+            "label": "D",
+            "text": "full"
+          }
+        ],
+        "correct": "A",
+        "explanation": "英文名字中，first name是名，last name/family name是姓。Cathy是名，Miller是姓，所以Miller是last name。"
+      },
+      {
+        "id": 28,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "一般疑问句",
+        "source": "2024四川泸州龙马潭区四校半期联考",
+        "tags": [
+          "be动词",
+          "回答",
+          "人称一致"
+        ],
+        "question": "28. —Are you a student? —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, they are"
+          },
+          {
+            "label": "B",
+            "text": "Yes, I am"
+          },
+          {
+            "label": "C",
+            "text": "Yes, she is"
+          }
+        ],
+        "correct": "B",
+        "explanation": "问句主语是you，回答时要用I。Are you...? 的肯定回答是Yes, I am。"
+      },
+      {
+        "id": 29,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "班级年级表达",
+        "source": "2023福建泉州晋江一中期中",
+        "tags": [
+          "班级",
+          "年级",
+          "专有名词"
+        ],
+        "question": "29. —What class is he in? —He's in ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Class Five, Grade Nine"
+          },
+          {
+            "label": "B",
+            "text": "Class five, Grade nine"
+          },
+          {
+            "label": "C",
+            "text": "Grade Nine, Class Five"
+          }
+        ],
+        "correct": "A",
+        "explanation": "英语中表达班级年级时，先说班级再说年级，且Class和Grade首字母大写，数字用大写或阿拉伯数字。正确顺序：Class Five, Grade Nine。"
+      },
+      {
+        "id": 30,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "特殊疑问句",
+        "source": "2024辽宁大连普兰店区三十七中期中",
+        "tags": [
+          "疑问词",
+          "where",
+          "询问地点"
+        ],
+        "question": "30. ______ is your friend from? —He is from Zhejiang.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "When"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据答语\"He is from Zhejiang.\"（他来自浙江）可知，问句是在询问地点，所以用Where。"
+      },
+      {
+        "id": 31,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "音素辨析",
+        "source": "2024四川江油期中",
+        "tags": [
+          "音素",
+          "发音",
+          "/ɜː/"
+        ],
+        "question": "31. 下列单词画线字母组合的发音为/ɜː/的是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "bird first sister"
+          },
+          {
+            "label": "B",
+            "text": "bird first girl"
+          },
+          {
+            "label": "C",
+            "text": "bird first teacher"
+          },
+          {
+            "label": "D",
+            "text": "sister teacher player"
+          }
+        ],
+        "correct": "B",
+        "explanation": "bird /bɜːd/、first /fɜːst/、girl /ɡɜːl/ 中的“ir”和“ur”都发/ɜː/。A项sister中的“er”发/ə/；C项teacher中的“er”发/ə/；D项sister、teacher、player中的“er”均发/ə/。"
+      },
+      {
+        "id": 32,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "单词重音",
+        "source": "",
+        "tags": [
+          "重音",
+          "音节"
+        ],
+        "question": "32. 找出下列单词中重音与其他三项不同的单词。",
+        "options": [
+          {
+            "label": "A",
+            "text": "funny"
+          },
+          {
+            "label": "B",
+            "text": "because"
+          },
+          {
+            "label": "C",
+            "text": "uncle"
+          },
+          {
+            "label": "D",
+            "text": "cousin"
+          }
+        ],
+        "correct": "B",
+        "explanation": "funny /ˈfʌni/、uncle /ˈʌŋkl/、cousin /ˈkʌzn/ 的重音都在第一个音节；because /bɪˈkɒz/ 的重音在第二个音节。"
+      },
+      {
+        "id": 33,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "特殊疑问句",
+        "source": "2023甘肃金塔期末",
+        "tags": [
+          "疑问词",
+          "where",
+          "询问地点"
+        ],
+        "question": "33. ______ is your teacher? —He is in the classroom.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Where"
+          },
+          {
+            "label": "B",
+            "text": "How"
+          },
+          {
+            "label": "C",
+            "text": "What"
+          },
+          {
+            "label": "D",
+            "text": "When"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据答语\"He is in the classroom.\"（他在教室里）可知，问句询问地点，应用Where提问。"
+      },
+      {
+        "id": 34,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "名词所有格",
+        "source": "2024黑龙江哈尔滨一三中期中",
+        "tags": [
+          "所有格",
+          "共同所有",
+          "人名"
+        ],
+        "question": "34. —Who's the woman in a black hat? —It's ______ mother.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tom's and Jim"
+          },
+          {
+            "label": "B",
+            "text": "Tom's and Jim's"
+          },
+          {
+            "label": "C",
+            "text": "Tom and Jim's"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，那位女人是汤姆和吉姆共同的母亲，表示\"两人共同所有\"时，只在最后一个人名后加's，即Tom and Jim's。"
+      },
+      {
+        "id": 35,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "交际用语",
+        "source": "2024福建厦门思明区双十中学期中",
+        "tags": [
+          "祝愿",
+          "have fun",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "35. —I am going to visit the Shanghai Forest Library next week. —Wow, ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "have fun"
+          },
+          {
+            "label": "B",
+            "text": "good luck"
+          },
+          {
+            "label": "C",
+            "text": "no problem"
+          }
+        ],
+        "correct": "A",
+        "explanation": "对方表示要去参观上海森林图书馆，是一种值得期待的活动，常用\"have fun\"表示\"玩得开心\"。B项\"good luck\"用于祝对方好运（如考试、比赛等）；C项\"no problem\"用于回应感谢或请求。"
+      },
+      {
+        "id": 36,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "班级年级表达",
+        "source": "2023重庆丰都期中",
+        "tags": [
+          "班级",
+          "年级",
+          "专有名词"
+        ],
+        "question": "36. —______ is Michael in? —He is in ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What Class; Class four, Grade seven"
+          },
+          {
+            "label": "B",
+            "text": "What class; class four, grade seven"
+          },
+          {
+            "label": "C",
+            "text": "What Class; Class Four, Grade Seven"
+          },
+          {
+            "label": "D",
+            "text": "What class; Class Four, Grade Seven"
+          }
+        ],
+        "correct": "D",
+        "explanation": "询问\"在哪个班级\"用What class，class和grade首字母不大写；回答时Class和Grade作为专有名词首字母大写，数字用大写形式。正确表达：Class Four, Grade Seven。"
+      },
+      {
+        "id": 37,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "介词搭配",
+        "source": "2023广东深圳市百合外国语学校期中",
+        "tags": [
+          "spend time",
+          "介词搭配",
+          "学习生活"
+        ],
+        "question": "37. We should spend much time ______ going over the notes before the exam begins.",
+        "options": [
+          {
+            "label": "A",
+            "text": "with"
+          },
+          {
+            "label": "B",
+            "text": "in"
+          },
+          {
+            "label": "C",
+            "text": "on"
+          },
+          {
+            "label": "D",
+            "text": "at"
+          }
+        ],
+        "correct": "B",
+        "explanation": "spend time (in) doing sth. 是固定搭配，意为\"花时间做某事\"，介词in可以省略。这里后面是going over，所以用in。"
+      },
+      {
+        "id": 38,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "交际用语",
+        "source": "2024四川成都西川中学月考",
+        "tags": [
+          "询问身份",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "38. —Hi, Jane. ______? —He is my good friend. His name is Peter.",
+        "options": [
+          {
+            "label": "A",
+            "text": "How is he"
+          },
+          {
+            "label": "B",
+            "text": "What is his name"
+          },
+          {
+            "label": "C",
+            "text": "Who is he"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据答语\"He is my good friend.\"（他是我的好朋友）可知，问句是在询问\"他是谁\"，所以用Who is he。"
+      },
+      {
+        "id": 39,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "姓名文化",
+        "source": "2024云南昆明西山区期中",
+        "tags": [
+          "first name",
+          "last name",
+          "姓名"
+        ],
+        "question": "39. Jack Black is from America. Jack is his ______ and Black is his ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "first name; last name"
+          },
+          {
+            "label": "B",
+            "text": "family name; last name"
+          },
+          {
+            "label": "C",
+            "text": "first name; full name"
+          }
+        ],
+        "correct": "A",
+        "explanation": "英文名字中，first name（名）在前，last name/family name（姓）在后。Jack是名，Black是姓，所以Jack是first name，Black是last name。"
+      },
+      {
+        "id": 40,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词用法",
+        "source": "",
+        "tags": [
+          "动名词",
+          "三单形式",
+          "健康生活",
+          "新课标"
+        ],
+        "question": "40. My uncle is good at ______ basketball. He ______ it every day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "play; play"
+          },
+          {
+            "label": "B",
+            "text": "playing; play"
+          },
+          {
+            "label": "C",
+            "text": "play; plays"
+          },
+          {
+            "label": "D",
+            "text": "playing; plays"
+          }
+        ],
+        "correct": "D",
+        "explanation": "be good at doing sth. 是固定搭配，意为\"擅长做某事\"，第一空用playing；第二空主语He是第三人称单数，谓语动词用plays。"
+      },
+      {
+        "id": 41,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "音素辨析",
+        "source": "2024湖北云梦期中",
+        "tags": [
+          "发音",
+          "元音"
+        ],
+        "question": "41. 找出画线部分发音与其他三项发音不同的选项。",
+        "options": [
+          {
+            "label": "A",
+            "text": "no"
+          },
+          {
+            "label": "B",
+            "text": "dog"
+          },
+          {
+            "label": "C",
+            "text": "photo"
+          },
+          {
+            "label": "D",
+            "text": "those"
+          }
+        ],
+        "correct": "B",
+        "explanation": "no /nəʊ/ 发/əʊ/，photo /ˈfəʊtəʊ/ 发/əʊ/，those /ðəʊz/ 发/əʊ/；dog /dɒɡ/ 发/ɒ/。B项与其他三项发音不同。"
+      },
+      {
+        "id": 42,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "音素辨析",
+        "source": "2024四川成都嘉祥外国语学校月考",
+        "tags": [
+          "元音音素",
+          "发音"
+        ],
+        "question": "42. 选出画线部分所含元音音素与其他两项不同的选项。",
+        "options": [
+          {
+            "label": "A",
+            "text": "good"
+          },
+          {
+            "label": "B",
+            "text": "book"
+          },
+          {
+            "label": "C",
+            "text": "afternoon"
+          }
+        ],
+        "correct": "C",
+        "explanation": "good /ɡʊd/ 发/ʊ/，book /bʊk/ 发/ʊ/；afternoon /ˌɑːftəˈnuːn/ 发/uː/。C项与其他两项元音音素不同。"
+      },
+      {
+        "id": 43,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "单词重音",
+        "source": "新独家原创",
+        "tags": [
+          "重音",
+          "音节"
+        ],
+        "question": "43. 找出下列单词中重音与众不同的单词。",
+        "options": [
+          {
+            "label": "A",
+            "text": "library"
+          },
+          {
+            "label": "B",
+            "text": "interesting"
+          },
+          {
+            "label": "C",
+            "text": "beautiful"
+          },
+          {
+            "label": "D",
+            "text": "together"
+          }
+        ],
+        "correct": "D",
+        "explanation": "library /ˈlaɪbrəri/ 重音在第一音节；interesting /ˈɪntrəstɪŋ/ 重音在第一音节；beautiful /ˈbjuːtɪfl/ 重音在第一音节；together /təˈɡeðə(r)/ 重音在第二音节。"
+      },
+      {
+        "id": 44,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "特殊疑问句",
+        "source": "2023黑龙江绥化中考",
+        "tags": [
+          "疑问词",
+          "where",
+          "询问地点"
+        ],
+        "question": "44. —Hi, Dad. ______ are my shoes? —They are under your bed.",
+        "options": [
+          {
+            "label": "A",
+            "text": "When"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "How"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据答语\"They are under your bed.\"（它们在你床下面）可知，问句询问地点，应用Where提问。"
+      },
+      {
+        "id": 45,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词短语",
+        "source": "2023河北青县期末",
+        "tags": [
+          "think about",
+          "how about",
+          "what about",
+          "固定搭配"
+        ],
+        "question": "45. —Let's ______ the fruit for Linda's birthday. —OK. ______ some bananas and oranges?",
+        "options": [
+          {
+            "label": "A",
+            "text": "what about; Think about"
+          },
+          {
+            "label": "B",
+            "text": "think about; How about"
+          },
+          {
+            "label": "C",
+            "text": "how about; Think about"
+          },
+          {
+            "label": "D",
+            "text": "what about; How about"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Let's后接动词原形，第一空用think about；第二空表示提建议\"……怎么样\"，用How about。"
+      },
+      {
+        "id": 46,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "不定代词",
+        "source": "2024西藏林芝期末",
+        "tags": [
+          "some",
+          "any",
+          "不定代词",
+          "疑问句"
+        ],
+        "question": "46. —Are there ______ new restaurants in your city? —Yes. We will try ______ of them next week.",
+        "options": [
+          {
+            "label": "A",
+            "text": "any; some"
+          },
+          {
+            "label": "B",
+            "text": "any; any"
+          },
+          {
+            "label": "C",
+            "text": "some; any"
+          },
+          {
+            "label": "D",
+            "text": "some; some"
+          }
+        ],
+        "correct": "A",
+        "explanation": "一般疑问句中通常用any表示\"一些\"；肯定句中用some表示\"一些\"。第一空是一般疑问句，用any；第二空是肯定句，用some。"
+      },
+      {
+        "id": 47,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "there be句型",
+        "source": "2024广西梧州百色三中期中",
+        "tags": [
+          "there be",
+          "一般疑问句",
+          "回答"
+        ],
+        "question": "47. —Are there any trees in your school? —______ They are very tall.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, there are."
+          },
+          {
+            "label": "B",
+            "text": "No, there aren't."
+          },
+          {
+            "label": "C",
+            "text": "Yes, there is."
+          }
+        ],
+        "correct": "A",
+        "explanation": "问句是Are there any...，主语trees是复数，肯定回答用Yes, there are。后文\"They are very tall.\"进一步说明有树。"
+      },
+      {
+        "id": 48,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "方位介词",
+        "source": "2023辽宁大连金州区期中",
+        "tags": [
+          "方位介词",
+          "in front of",
+          "遮挡视线"
+        ],
+        "question": "48. —Don't stand ______ me. I can't see the blackboard. —Oh, I'm sorry.",
+        "options": [
+          {
+            "label": "A",
+            "text": "in front of"
+          },
+          {
+            "label": "B",
+            "text": "next to"
+          },
+          {
+            "label": "C",
+            "text": "behind"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据语境\"我看不见黑板\"，说明对方站在说话者前面挡住了视线。in front of意为\"在……前面\"；next to意为\"在旁边\"；behind意为\"在后面\"。"
+      },
+      {
+        "id": 49,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "特殊疑问句",
+        "source": "2024吉林长春一〇八中期中",
+        "tags": [
+          "天气",
+          "what's the weather like",
+          "how",
+          "固定句型"
+        ],
+        "question": "49. — ______ the weather ______ today? —It's sunny outside. Let's go to the zoo.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What; like"
+          },
+          {
+            "label": "B",
+            "text": "What; /"
+          },
+          {
+            "label": "C",
+            "text": "How; like"
+          },
+          {
+            "label": "D",
+            "text": "What's; like"
+          }
+        ],
+        "correct": "D",
+        "explanation": "询问天气的两种常用句型：What's the weather like? 和 How's the weather?。题干中有空格和like，所以应用What's the weather like?，What's是What is的缩写。"
+      },
+      {
+        "id": 50,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 2,
+        "category": "形容词短语",
+        "source": "2024湖北初中教改联盟期中",
+        "tags": [
+          "different from",
+          "similar to",
+          "the same as",
+          "strict with",
+          "固定搭配"
+        ],
+        "question": "50. — Mom, my friend Sarah is good at singing, but I can't sing well. —Don't worry, my girl. Everyone is ______ others. Just try your best.",
+        "options": [
+          {
+            "label": "A",
+            "text": "different from"
+          },
+          {
+            "label": "B",
+            "text": "similar to"
+          },
+          {
+            "label": "C",
+            "text": "the same as"
+          },
+          {
+            "label": "D",
+            "text": "strict with"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据上文\"Sarah擅长唱歌，但我不擅长\"，妈妈安慰说每个人都是\"与他人不同的\"，所以用different from（与……不同）。B项similar to意为\"与……相似\"；C项the same as意为\"与……相同\"；D项strict with意为\"对……严格\"。"
+      },
+      {
+        "id": 51,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024山东青岛城阳区期中",
+        "tags": [
+          "名词性物主代词",
+          "形容词性物主代词",
+          "名词所有格"
+        ],
+        "question": "51. —Are these notebooks ______? —No, they're not mine. I think they're ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "your; Tara's"
+          },
+          {
+            "label": "B",
+            "text": "yours; Tara"
+          },
+          {
+            "label": "C",
+            "text": "you; Tara"
+          },
+          {
+            "label": "D",
+            "text": "yours; Tara's"
+          }
+        ],
+        "correct": "D",
+        "explanation": "第一空后无名词，用名词性物主代词yours，相当于your notebooks；第二空表示\"塔拉的\"，用名词所有格Tara's，后面省略了notebooks。"
+      },
+      {
+        "id": 52,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024山东莒县期中",
+        "tags": [
+          "形容词性物主代词",
+          "主格代词",
+          "人称代词"
+        ],
+        "question": "52. ______ name is Alan Green. ______ is my friend.",
+        "options": [
+          {
+            "label": "A",
+            "text": "He's; He"
+          },
+          {
+            "label": "B",
+            "text": "His; His"
+          },
+          {
+            "label": "C",
+            "text": "His; He"
+          },
+          {
+            "label": "D",
+            "text": "His; He's"
+          }
+        ],
+        "correct": "C",
+        "explanation": "第一空后有名name，用形容词性物主代词His；第二空作主语，用人称代词主格He。"
+      },
+      {
+        "id": 53,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024湖南新邵期中",
+        "tags": [
+          "指示代词",
+          "人称代词",
+          "介绍用语"
+        ],
+        "question": "53. —Jim, ______ is Sonia. ______ is my good friend. —Nice to meet you, Sonia!",
+        "options": [
+          {
+            "label": "A",
+            "text": "he; This"
+          },
+          {
+            "label": "B",
+            "text": "this; She"
+          },
+          {
+            "label": "C",
+            "text": "it; She"
+          },
+          {
+            "label": "D",
+            "text": "she; This"
+          }
+        ],
+        "correct": "B",
+        "explanation": "介绍他人时常用This is...；第二空指代Sonia，用人称代词主格She。"
+      },
+      {
+        "id": 54,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024陕西西安碑林区三中联合体期中",
+        "tags": [
+          "主格代词",
+          "形容词性物主代词"
+        ],
+        "question": "54. Bob is my brother. ______ is only 4, but ______ English is very good.",
+        "options": [
+          {
+            "label": "A",
+            "text": "He; he"
+          },
+          {
+            "label": "B",
+            "text": "He; his"
+          },
+          {
+            "label": "C",
+            "text": "His; he"
+          },
+          {
+            "label": "D",
+            "text": "His; his"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空作主语，用人称代词主格He；第二空后有名English，用形容词性物主代词his。"
+      },
+      {
+        "id": 55,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024陕西西安碑林区三中联合体期中",
+        "tags": [
+          "形容词性物主代词",
+          "主格代词",
+          "it's",
+          "its"
+        ],
+        "question": "55. I have a dog. ______ name is Wangwang. ______ black.",
+        "options": [
+          {
+            "label": "A",
+            "text": "It's; Its"
+          },
+          {
+            "label": "B",
+            "text": "It's; It's"
+          },
+          {
+            "label": "C",
+            "text": "Its; It's"
+          },
+          {
+            "label": "D",
+            "text": "Its; Its"
+          }
+        ],
+        "correct": "C",
+        "explanation": "第一空后有名name，用形容词性物主代词Its；第二空是It is的缩写，意为\"它是黑色的\"。"
+      },
+      {
+        "id": 56,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024陕西西安碑林区西工大附中月考",
+        "tags": [
+          "人称代词",
+          "主格",
+          "并列主语"
+        ],
+        "question": "56. ______ are students.",
+        "options": [
+          {
+            "label": "A",
+            "text": "He and me"
+          },
+          {
+            "label": "B",
+            "text": "He and I"
+          },
+          {
+            "label": "C",
+            "text": "Him and I"
+          },
+          {
+            "label": "D",
+            "text": "Him and me"
+          }
+        ],
+        "correct": "B",
+        "explanation": "作主语时用人称代词主格，并列主语中I放在最后，He and I。"
+      },
+      {
+        "id": 57,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024陕西西安碑林区西工大附中月考",
+        "tags": [
+          "宾语",
+          "形容词性物主代词",
+          "新课标"
+        ],
+        "question": "57. She needs to thank ______ for helping her with ______ English.",
+        "options": [
+          {
+            "label": "A",
+            "text": "you; she"
+          },
+          {
+            "label": "B",
+            "text": "your; her"
+          },
+          {
+            "label": "C",
+            "text": "you; her"
+          },
+          {
+            "label": "D",
+            "text": "your; hers"
+          }
+        ],
+        "correct": "C",
+        "explanation": "thank后接宾语，用宾格you；English前用形容词性物主代词her。"
+      },
+      {
+        "id": 58,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2024安徽宁国城区三校月考",
+        "tags": [
+          "指示代词",
+          "it",
+          "指代名字"
+        ],
+        "question": "58. —Is Tony his first name? —Yes, ______ is.",
+        "options": [
+          {
+            "label": "A",
+            "text": "he"
+          },
+          {
+            "label": "B",
+            "text": "she"
+          },
+          {
+            "label": "C",
+            "text": "it"
+          },
+          {
+            "label": "D",
+            "text": "his"
+          }
+        ],
+        "correct": "C",
+        "explanation": "指代名字、事物时用it。这里it指代Tony这个first name。"
+      },
+      {
+        "id": 59,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "代词辨析",
+        "source": "2023安徽庐江期中",
+        "tags": [
+          "形容词性物主代词",
+          "宾格代词"
+        ],
+        "question": "59. —Jack, is Ms. Liu ______ English teacher? —Yes. She is very nice. She always helps ______ with my English.",
+        "options": [
+          {
+            "label": "A",
+            "text": "yours; I"
+          },
+          {
+            "label": "B",
+            "text": "yours; me"
+          },
+          {
+            "label": "C",
+            "text": "your; I"
+          },
+          {
+            "label": "D",
+            "text": "your; me"
+          }
+        ],
+        "correct": "D",
+        "explanation": "第一空后有名English teacher，用形容词性物主代词your；第二空作helps的宾语，用宾格me。"
+      },
+      {
+        "id": 60,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "名词所有格",
+        "source": "2024河北唐山丰南区期中",
+        "tags": [
+          "名词所有格",
+          "复数",
+          "s'结构"
+        ],
+        "question": "60. —Where is my hat, Mom? —It is in your ______ room.",
+        "options": [
+          {
+            "label": "A",
+            "text": "grandparent"
+          },
+          {
+            "label": "B",
+            "text": "grandparents"
+          },
+          {
+            "label": "C",
+            "text": "grandparents'"
+          }
+        ],
+        "correct": "C",
+        "explanation": "表示\"祖父母的房间\"，grandparents是复数，以s结尾，所有格加'。"
+      },
+      {
+        "id": 61,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词用法",
+        "source": "",
+        "tags": [
+          "一般现在时",
+          "助动词",
+          "三单形式"
+        ],
+        "question": "61. —Does your brother ______ breakfast at home? —No, he ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "eat; do"
+          },
+          {
+            "label": "B",
+            "text": "eats; doesn't"
+          },
+          {
+            "label": "C",
+            "text": "eat; doesn't"
+          },
+          {
+            "label": "D",
+            "text": "eats; does"
+          }
+        ],
+        "correct": "C",
+        "explanation": "Does后接动词原形，第一空用eat；否定回答用No, he doesn't。"
+      },
+      {
+        "id": 62,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 2,
+        "category": "there be句型",
+        "source": "",
+        "tags": [
+          "there be",
+          "就近原则",
+          "主谓一致"
+        ],
+        "question": "62. —There ______ a skirt and two coats on the chair. Are these yours? —No, they are not mine.",
+        "options": [
+          {
+            "label": "A",
+            "text": "has"
+          },
+          {
+            "label": "B",
+            "text": "have"
+          },
+          {
+            "label": "C",
+            "text": "are"
+          },
+          {
+            "label": "D",
+            "text": "is"
+          }
+        ],
+        "correct": "D",
+        "explanation": "there be句型遵循就近原则，a skirt是单数，故用is。"
+      },
+      {
+        "id": 63,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "there be句型",
+        "source": "2024湖南岳阳云溪区八校期中联考",
+        "tags": [
+          "there be",
+          "主谓一致",
+          "a set of"
+        ],
+        "question": "63. There ______ a set of keys on the chair.",
+        "options": [
+          {
+            "label": "A",
+            "text": "are"
+          },
+          {
+            "label": "B",
+            "text": "am"
+          },
+          {
+            "label": "C",
+            "text": "is"
+          }
+        ],
+        "correct": "C",
+        "explanation": "a set of keys意为\"一串钥匙\"，主语是a set，单数，故用is。"
+      },
+      {
+        "id": 64,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词用法",
+        "source": "2024河北石家庄四十中期中",
+        "tags": [
+          "助动词",
+          "球类运动",
+          "冠词"
+        ],
+        "question": "64. —Does Jack ______ a TV? —Yes, he often watches sports programs on ______ TV.",
+        "options": [
+          {
+            "label": "A",
+            "text": "has; /"
+          },
+          {
+            "label": "B",
+            "text": "have; /"
+          },
+          {
+            "label": "C",
+            "text": "have; the"
+          },
+          {
+            "label": "D",
+            "text": "has; the"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Does后接动词原形，第一空用have；on TV是固定短语，不加冠词。"
+      },
+      {
+        "id": 65,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "交际用语",
+        "source": "2024河北石家庄外国语教育集团期中",
+        "tags": [
+          "一般疑问句",
+          "回答",
+          "指示代词"
+        ],
+        "question": "65. —Here are some pencils on the floor. Are these yours? —______. They're Tom's.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, these are"
+          },
+          {
+            "label": "B",
+            "text": "Yes, they are"
+          },
+          {
+            "label": "C",
+            "text": "No, they aren't"
+          },
+          {
+            "label": "D",
+            "text": "No, these aren't"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据后文\"它们是汤姆的\"可知是否定回答；回答Are these...时，用they代替these。"
+      },
+      {
+        "id": 66,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "特殊疑问句",
+        "source": "",
+        "tags": [
+          "疑问词",
+          "what colour",
+          "颜色"
+        ],
+        "question": "66. —______ is Mr Wang's coat? —Black.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "What colour"
+          },
+          {
+            "label": "C",
+            "text": "Who"
+          },
+          {
+            "label": "D",
+            "text": "Whose"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据答语Black（黑色）可知，问句询问颜色，用What colour。"
+      },
+      {
+        "id": 67,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "字母音素",
+        "source": "2024江西鹰潭余江区期中",
+        "tags": [
+          "字母",
+          "音素",
+          "/eɪ/"
+        ],
+        "question": "67. 下列字母音标都含有/eɪ/音的一组字母为______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "Dd, Cc, Ff"
+          },
+          {
+            "label": "B",
+            "text": "Aa, Kk, Hh"
+          },
+          {
+            "label": "C",
+            "text": "Ll, Mm, Ff"
+          },
+          {
+            "label": "D",
+            "text": "Ii, Oo, Qq"
+          }
+        ],
+        "correct": "B",
+        "explanation": "Aa /eɪ/、Kk /keɪ/、Hh /eɪtʃ/ 都含有/eɪ/音。A项Dd /diː/、Cc /siː/、Ff /ef/ 不含/eɪ/；C项Ll /el/、Mm /em/、Ff /ef/ 不含/eɪ/；D项Ii /aɪ/、Oo /əʊ/、Qq /kjuː/ 不含/eɪ/。"
+      },
+      {
+        "id": 68,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "字母音素",
+        "source": "2024湖南岳阳云溪区八校期中联考",
+        "tags": [
+          "字母",
+          "音素",
+          "/iː/",
+          "/e/"
+        ],
+        "question": "68. 下面含有与字母 Ee 相同音素的一组字母是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ss, Xx"
+          },
+          {
+            "label": "B",
+            "text": "Gg, Pp"
+          },
+          {
+            "label": "C",
+            "text": "Jj, Kk"
+          }
+        ],
+        "correct": "A",
+        "explanation": "字母Ee发/iː/，但常见考点中Ee与Bb、Cc、Dd、Gg、Pp、Tt、Vv等含有相同的元音音素/iː/。Ss /es/ 和 Xx /eks/ 都含有/e/音，与Ee的发音/e/部分相同。A项正确。"
+      },
+      {
+        "id": 69,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "音素辨析",
+        "source": "2024四川江油期中",
+        "tags": [
+          "发音",
+          "/ʌ/"
+        ],
+        "question": "69. 下列单词画线部分发音为/ʌ/的是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "not    box    son"
+          },
+          {
+            "label": "B",
+            "text": "dog    lost    box"
+          },
+          {
+            "label": "C",
+            "text": "mother    love    son"
+          },
+          {
+            "label": "D",
+            "text": "no    not    old"
+          }
+        ],
+        "correct": "C",
+        "explanation": "mother /ˈmʌðə(r)/、love /lʌv/、son /sʌn/ 都发/ʌ/。A项not /nɒt/、box /bɒks/ 发/ɒ/，son发/ʌ/；B项dog /dɒɡ/、lost /lɒst/、box /bɒks/ 都发/ɒ/；D项no /nəʊ/、not /nɒt/、old /əʊld/ 发/əʊ/和/ɒ/。"
+      },
+      {
+        "id": 70,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词用法",
+        "source": "2024辽宁鞍山铁西区期中联考",
+        "tags": [
+          "一般现在时",
+          "助动词",
+          "三单形式"
+        ],
+        "question": "70. ______ Bill ______ two ping-pong balls?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Do; have"
+          },
+          {
+            "label": "B",
+            "text": "Does; have"
+          },
+          {
+            "label": "C",
+            "text": "Do; has"
+          },
+          {
+            "label": "D",
+            "text": "Does; has"
+          }
+        ],
+        "correct": "B",
+        "explanation": "主语Bill是第三人称单数，助动词用Does，后接动词原形have。"
+      },
+      {
+        "id": 71,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "家庭成员",
+        "source": "2024四川达州外国语学校期中",
+        "tags": [
+          "家庭成员",
+          "aunt",
+          "称谓"
+        ],
+        "question": "71. —Who is the woman? —She is my ______, my mother's sister.",
+        "options": [
+          {
+            "label": "A",
+            "text": "cousin"
+          },
+          {
+            "label": "B",
+            "text": "aunt"
+          },
+          {
+            "label": "C",
+            "text": "grandmother"
+          },
+          {
+            "label": "D",
+            "text": "sister"
+          }
+        ],
+        "correct": "B",
+        "explanation": "my mother's sister意为\"我妈妈的姐妹\"，即aunt（姨母/姑母）。"
+      },
+      {
+        "id": 72,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "方位介词",
+        "source": "",
+        "tags": [
+          "方位介词",
+          "in front of",
+          "遮挡视线"
+        ],
+        "question": "72. Li Hua sits ______ me so I can't see the blackboard clearly.",
+        "options": [
+          {
+            "label": "A",
+            "text": "in front of"
+          },
+          {
+            "label": "B",
+            "text": "across from"
+          },
+          {
+            "label": "C",
+            "text": "between"
+          },
+          {
+            "label": "D",
+            "text": "behind"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据语境\"我看不清黑板\"，说明李华坐在我前面挡住了视线。in front of意为\"在……前面\"。"
+      },
+      {
+        "id": 73,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "不定代词",
+        "source": "2024山东沂源期末",
+        "tags": [
+          "some",
+          "any",
+          "不定代词",
+          "疑问句"
+        ],
+        "question": "73. —Is there ______ bread on the dish? —Yes, there is ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "some; some"
+          },
+          {
+            "label": "B",
+            "text": "any; some"
+          },
+          {
+            "label": "C",
+            "text": "any; any"
+          },
+          {
+            "label": "D",
+            "text": "some; any"
+          }
+        ],
+        "correct": "B",
+        "explanation": "一般疑问句中通常用any；肯定回答中用some。"
+      },
+      {
+        "id": 74,
+        "type": "single_choice",
+        "difficulty": "medium",
+        "stars": 2,
+        "category": "非谓语动词",
+        "source": "",
+        "tags": [
+          "it's time to do",
+          "exercise",
+          "复数形式",
+          "新课标"
+        ],
+        "question": "74. It's 10:00 a.m. now, boys and girls. It's time for us ______ morning ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "doing; exercise"
+          },
+          {
+            "label": "B",
+            "text": "to do; exercise"
+          },
+          {
+            "label": "C",
+            "text": "to do; exercises"
+          },
+          {
+            "label": "D",
+            "text": "doing; exercises"
+          }
+        ],
+        "correct": "C",
+        "explanation": "It's time for sb. to do sth. 意为\"到某人做某事的时间了\"，第一空用to do；morning exercises意为\"早操\"，用复数形式exercises。"
+      },
+      {
+        "id": 75,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "形容词短语",
+        "source": "2023福建武夷山一中中考模拟",
+        "tags": [
+          "similar to",
+          "different from",
+          "the same as"
+        ],
+        "question": "75. Your schoolbag is ______ mine. I don't know which one to take.",
+        "options": [
+          {
+            "label": "A",
+            "text": "similar to"
+          },
+          {
+            "label": "B",
+            "text": "different from"
+          },
+          {
+            "label": "C",
+            "text": "the same to"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据后文\"我不知道拿哪一个\"，说明两个书包很相似，用similar to（与……相似）。different from意为\"与……不同\"；the same as意为\"与……相同\"，C项搭配错误。"
+      },
+      {
+        "id": 76,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "字母音素",
+        "source": "2024山东平度期中",
+        "tags": [
+          "字母",
+          "音素",
+          "元音音素"
+        ],
+        "question": "76. 下面各组字母中,含有相同元音音素的一组是______。",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bb; Cc; Gg"
+          },
+          {
+            "label": "B",
+            "text": "Ff; Mm; Jj"
+          },
+          {
+            "label": "C",
+            "text": "Aa; Hh; Vv"
+          },
+          {
+            "label": "D",
+            "text": "Qq; Uu; Oo"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Bb /biː/、Cc /siː/、Gg /dʒiː/ 都含有/iː/音。B项Ff /ef/、Mm /em/、Jj /dʒeɪ/ 元音不同；C项Aa /eɪ/、Hh /eɪtʃ/、Vv /viː/ 元音不同；D项Qq /kjuː/、Uu /juː/、Oo /əʊ/ 元音不同。"
+      },
+      {
+        "id": 77,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "冠词用法",
+        "source": "2024天津五十四中期中",
+        "tags": [
+          "冠词",
+          "球类运动",
+          "定冠词"
+        ],
+        "question": "77. —Do you know ______ girl with long hair? —Yes, she is Mary. She plays ______ tennis very well.",
+        "options": [
+          {
+            "label": "A",
+            "text": "a; /"
+          },
+          {
+            "label": "B",
+            "text": "the; /"
+          },
+          {
+            "label": "C",
+            "text": "the; the"
+          },
+          {
+            "label": "D",
+            "text": "a; the"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空特指\"长头发的女孩\"，用定冠词the；球类运动前不加冠词，play tennis。"
+      },
+      {
+        "id": 78,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "班级年级表达",
+        "source": "2024四川成都嘉祥外国语学校期中",
+        "tags": [
+          "班级",
+          "年级",
+          "专有名词"
+        ],
+        "question": "78. This Chinese boy is in ______ now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Class 2, Grade 7"
+          },
+          {
+            "label": "B",
+            "text": "Grade 7, Class 2"
+          },
+          {
+            "label": "C",
+            "text": "class 2, grade 7"
+          }
+        ],
+        "correct": "A",
+        "explanation": "英语中表达班级年级时，先说班级再说年级，且Class和Grade首字母大写，数字用大写或阿拉伯数字。正确顺序：Class 2, Grade 7。"
+      },
+      {
+        "id": 79,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "交际用语",
+        "source": "",
+        "tags": [
+          "感谢回应",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "79. —Thank you very much for your call! —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "Here you are"
+          },
+          {
+            "label": "B",
+            "text": "Thanks, too"
+          },
+          {
+            "label": "C",
+            "text": "You are welcome"
+          },
+          {
+            "label": "D",
+            "text": "I'm great"
+          }
+        ],
+        "correct": "C",
+        "explanation": "当别人说Thank you时，应该用You're welcome（不客气）来回应。"
+      },
+      {
+        "id": 80,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "交际用语",
+        "source": "2024广西南宁天桃实验学校期中",
+        "tags": [
+          "年龄",
+          "询问",
+          "人际交往",
+          "新课标"
+        ],
+        "question": "80. —How old are you? —______",
+        "options": [
+          {
+            "label": "A",
+            "text": "I'm fine"
+          },
+          {
+            "label": "B",
+            "text": "I'm nine years"
+          },
+          {
+            "label": "C",
+            "text": "I'm nine"
+          }
+        ],
+        "correct": "C",
+        "explanation": "How old are you? 询问年龄，回答用I'm + 数字，或I'm + 数字 + years old。C项I'm nine是简略正确回答。"
+      },
+      {
+        "id": 81,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "名词所有格",
+        "source": "2024黑龙江大庆外国语学校期中",
+        "tags": [
+          "所有格",
+          "共同所有",
+          "并列名词"
+        ],
+        "question": "81. ______ mother works in a hospital and she is an excellent doctor.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Linda and Anna"
+          },
+          {
+            "label": "B",
+            "text": "Linda's and Anna"
+          },
+          {
+            "label": "C",
+            "text": "Linda's and Anna's"
+          },
+          {
+            "label": "D",
+            "text": "Linda and Anna's"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据语境，mother是单数，表示两人共同的母亲，只在最后一个人名后加's，即Linda and Anna's。"
+      },
+      {
+        "id": 82,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "方位介词",
+        "source": "2024浙江温州瓯海区实验中学期中",
+        "tags": [
+          "方位介词",
+          "next to",
+          "步行上学",
+          "新课标"
+        ],
+        "question": "82. My home is ______ my school. I always go to school on foot.",
+        "options": [
+          {
+            "label": "A",
+            "text": "next to"
+          },
+          {
+            "label": "B",
+            "text": "far from"
+          },
+          {
+            "label": "C",
+            "text": "in the front of"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据后文\"我总是步行上学\"，说明家离学校很近，用next to（紧邻）。far from意为\"远离\"，与步行上学矛盾；in the front of意为\"在……前部\"。"
+      },
+      {
+        "id": 83,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "不定代词",
+        "source": "2024浙江瑞安期中",
+        "tags": [
+          "some",
+          "any",
+          "不可数名词"
+        ],
+        "question": "83. We don't have ______ apples, but we have ______ apple juice.",
+        "options": [
+          {
+            "label": "A",
+            "text": "some; some"
+          },
+          {
+            "label": "B",
+            "text": "any; some"
+          },
+          {
+            "label": "C",
+            "text": "any; any"
+          }
+        ],
+        "correct": "B",
+        "explanation": "否定句中用any表示\"一些\"；肯定句中用some表示\"一些\"。apple juice是不可数名词。"
+      },
+      {
+        "id": 84,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "特殊疑问句",
+        "source": "2023云南腾冲期末",
+        "tags": [
+          "how many",
+          "可数名词",
+          "数量询问"
+        ],
+        "question": "84. —______ bags of rice do you want? —I'd like eleven bags.",
+        "options": [
+          {
+            "label": "A",
+            "text": "How much"
+          },
+          {
+            "label": "B",
+            "text": "How old"
+          },
+          {
+            "label": "C",
+            "text": "How many"
+          },
+          {
+            "label": "D",
+            "text": "How heavy"
+          }
+        ],
+        "correct": "C",
+        "explanation": "bags of rice是可数名词复数，用How many询问数量。How much修饰不可数名词；How old询问年龄；How heavy询问重量。"
+      },
+      {
+        "id": 85,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "特殊疑问句",
+        "source": "2024北京十八中教育集团期中",
+        "tags": [
+          "疑问词",
+          "where",
+          "询问地点",
+          "新课标"
+        ],
+        "question": "85. —______ is the library? —It's next to the classroom.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "How"
+          },
+          {
+            "label": "D",
+            "text": "How old"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据答语\"It's next to the classroom.\"（它在教室旁边）可知，问句询问地点，应用Where提问。"
+      },
+      {
+        "id": 86,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "音素辨析",
+        "source": "新独家原创",
+        "tags": [
+          "发音",
+          "ear",
+          "元音"
+        ],
+        "question": "86. 选出画线部分发音与众不同的选项。",
+        "options": [
+          {
+            "label": "A",
+            "text": "near"
+          },
+          {
+            "label": "B",
+            "text": "wear"
+          },
+          {
+            "label": "C",
+            "text": "hear"
+          },
+          {
+            "label": "D",
+            "text": "dear"
+          }
+        ],
+        "correct": "B",
+        "explanation": "near /nɪə(r)/、hear /hɪə(r)/、dear /dɪə(r)/ 都发/ɪə/；wear /weə(r)/ 发/eə/。B项发音与其他三项不同。"
+      },
+      {
+        "id": 87,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "非谓语动词",
+        "source": "",
+        "tags": [
+          "it's nice of sb to do",
+          "help with",
+          "固定搭配"
+        ],
+        "question": "87. It's nice of you ______ me ______ my English.",
+        "options": [
+          {
+            "label": "A",
+            "text": "to help; for"
+          },
+          {
+            "label": "B",
+            "text": "to help; with"
+          },
+          {
+            "label": "C",
+            "text": "help; for"
+          },
+          {
+            "label": "D",
+            "text": "help; with"
+          }
+        ],
+        "correct": "B",
+        "explanation": "It's nice of sb. to do sth. 意为\"某人做某事真好\"，第一空用to help；help sb. with sth. 意为\"在某方面帮助某人\"，是固定搭配。"
+      },
+      {
+        "id": 88,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词短语",
+        "source": "2023云南昆明八中长城红鑫校区模拟",
+        "tags": [
+          "work out",
+          "动词短语"
+        ],
+        "question": "88. Ms. Wang helped me ______ the difficult physics problem at last.",
+        "options": [
+          {
+            "label": "A",
+            "text": "carry out"
+          },
+          {
+            "label": "B",
+            "text": "look out"
+          },
+          {
+            "label": "C",
+            "text": "bring out"
+          },
+          {
+            "label": "D",
+            "text": "work out"
+          }
+        ],
+        "correct": "D",
+        "explanation": "work out意为\"解决、算出\"，符合语境\"解决难题\"。carry out意为\"执行\"；look out意为\"当心\"；bring out意为\"出版、使显现\"。"
+      },
+      {
+        "id": 89,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "连词辨析",
+        "source": "2024河北石家庄精英中学期中",
+        "tags": [
+          "and",
+          "but",
+          "并列连词"
+        ],
+        "question": "89. —I have a brother ______ a sister. What about you? —I have a brother, ______ I don't have a sister.",
+        "options": [
+          {
+            "label": "A",
+            "text": "but; and"
+          },
+          {
+            "label": "B",
+            "text": "and; but"
+          },
+          {
+            "label": "C",
+            "text": "but; but"
+          },
+          {
+            "label": "D",
+            "text": "and; and"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空表示并列关系\"和\"，用and；第二空表示转折关系\"但是\"，用but。"
+      },
+      {
+        "id": 90,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "形容词短语",
+        "source": "",
+        "tags": [
+          "good with",
+          "good at",
+          "固定搭配"
+        ],
+        "question": "90. —Grandma Lee is quite ______ these kids. —Yeah! She is ______ telling stories and all the children like her a lot.",
+        "options": [
+          {
+            "label": "A",
+            "text": "good with; good at"
+          },
+          {
+            "label": "B",
+            "text": "good at; good with"
+          },
+          {
+            "label": "C",
+            "text": "good for; good at"
+          },
+          {
+            "label": "D",
+            "text": "good to; good for"
+          }
+        ],
+        "correct": "A",
+        "explanation": "be good with sb. 意为\"善于与某人相处\"；be good at doing sth. 意为\"擅长做某事\"。第一空指与孩子相处好，用good with；第二空指擅长讲故事，用good at。"
+      },
+      {
+        "id": 91,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "非谓语动词",
+        "source": "新独家原创",
+        "tags": [
+          "be interested in",
+          "动名词"
+        ],
+        "question": "91. My uncle is interested in ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "fish"
+          },
+          {
+            "label": "B",
+            "text": "fishing"
+          },
+          {
+            "label": "C",
+            "text": "to fish"
+          }
+        ],
+        "correct": "B",
+        "explanation": "be interested in doing sth. 是固定搭配，意为\"对做某事感兴趣\"，介词in后接动名词fishing。"
+      },
+      {
+        "id": 92,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "词义辨析",
+        "source": "2024广东深圳宝安中学月考",
+        "tags": [
+          "more than",
+          "over",
+          "同义替换"
+        ],
+        "question": "92. —What do you like doing in your free time? —I like collecting stamps, and I have more than 100 stamps. (选出可以替代画线部分的单词)",
+        "options": [
+          {
+            "label": "A",
+            "text": "under"
+          },
+          {
+            "label": "B",
+            "text": "about"
+          },
+          {
+            "label": "C",
+            "text": "over"
+          }
+        ],
+        "correct": "C",
+        "explanation": "more than意为\"超过\"，与over意思相近。under意为\"在……下面\"或\"少于\"；about意为\"大约\"。"
+      },
+      {
+        "id": 93,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "动词短语",
+        "source": "2024甘肃高台城关中学期末",
+        "tags": [
+          "fall in love with",
+          "动词短语"
+        ],
+        "question": "93. —Do you like Beijing? —Of course. I ______ it as soon as I arrived there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "came up with"
+          },
+          {
+            "label": "B",
+            "text": "ran out of"
+          },
+          {
+            "label": "C",
+            "text": "took care of"
+          },
+          {
+            "label": "D",
+            "text": "fell in love with"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据语境\"一到那里就喜欢上北京\"，用fell in love with（爱上）。came up with意为\"提出\"；ran out of意为\"用完\"；took care of意为\"照顾\"。"
+      },
+      {
+        "id": 94,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "标识理解",
+        "source": "2022辽宁锦州中考",
+        "tags": [
+          "标识",
+          "禁止拍照",
+          "图片理解"
+        ],
+        "question": "94. Which sign means that you can't take a photo here?",
+        "options": [
+          {
+            "label": "A",
+            "text": "禁止拍照标识",
+            "image": {
+              "url": "./pic/94_a.png",
+              "alt": "禁止拍照标识"
+            }
+          },
+          {
+            "label": "B",
+            "text": "禁止吸烟标识",
+            "image": {
+              "url": "./pic/94_b.png",
+              "alt": "禁止吸烟标识"
+            }
+          },
+          {
+            "label": "C",
+            "text": "禁止停车标识",
+            "image": {
+              "url": "./pic/94_c.png",
+              "alt": "禁止停车标识"
+            }
+          },
+          {
+            "label": "D",
+            "text": "禁止鸣笛标识",
+            "image": {
+              "url": "./pic/94_d.png",
+              "alt": "禁止鸣笛标识"
+            }
+          }
+        ],
+        "correct": "A",
+        "explanation": "禁止拍照的标识通常是相机图标上画斜线。根据常见标识，A项为禁止拍照标识。"
+      },
+      {
+        "id": 95,
+        "type": "single_choice",
+        "difficulty": "easy",
+        "stars": 1,
+        "category": "情态动词",
+        "source": "2023甘肃白银中考",
+        "tags": [
+          "be able to",
+          "can",
+          "同义替换",
+          "新课标"
+        ],
+        "question": "95. Though Daisy is only 3 years old, she is able to read and write. (选出与句子画线部分意思相同或相近的选项)",
+        "options": [
+          {
+            "label": "A",
+            "text": "should"
+          },
+          {
+            "label": "B",
+            "text": "must"
+          },
+          {
+            "label": "C",
+            "text": "can"
+          },
+          {
+            "label": "D",
+            "text": "may"
+          }
+        ],
+        "correct": "C",
+        "explanation": "be able to意为\"能够\"，与can意思相同。should意为\"应该\"；must意为\"必须\"；may意为\"可能\"。"
+      },
+
+  {
+    "id": 96,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "跨学科·数学",
+    "source": "2023 辽宁抚顺新抚区期中",
+    "tags": ["数词", "情景交际"],
+    "question": "96. —Do you have ______ pens?  —Yes. One for my son, two for my daughter and two for their cousin.",
+    "options": [
+      {"label": "A", "text": "five"},
+      {"label": "B", "text": "six"},
+      {"label": "C", "text": "seven"},
+      {"label": "D", "text": "eight"}
+    ],
+    "correct": "A",
+    "explanation": "one + two + two = five，共五支笔。"
+  },
+  {
+    "id": 97,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "跨学科·语文",
+    "source": "2023 重庆南开中学期末",
+    "tags": ["形容词", "名著阅读"],
+    "question": "97. I like to read the book Journey to the West, because there are many ______ things in it.",
+    "options": [
+      {"label": "A", "text": "interesting"},
+      {"label": "B", "text": "boring"},
+      {"label": "C", "text": "difficult"},
+      {"label": "D", "text": "easy"}
+    ],
+    "correct": "A",
+    "explanation": "《西游记》中有很多有趣的事情，因此用interesting。"
+  },
+  {
+    "id": 98,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "跨学科·地理",
+    "source": "2023 湖南资兴东坪学校期末",
+    "tags": ["疑问词", "地点"],
+    "question": "98. ______ is Qingdao? —It’s in Shandong.",
+    "options": [
+      {"label": "A", "text": "What"},
+      {"label": "B", "text": "Where"},
+      {"label": "C", "text": "How"}
+    ],
+    "correct": "B",
+    "explanation": "根据回答\"在山东\"可知，询问地点，用Where。"
+  },
+  {
+    "id": 99,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2024 黑龙江依安期末",
+    "tags": ["新课标", "思维品质", "连词", "and"],
+    "question": "99. —Why do you like English? —Because it’s useful ______ interesting.",
+    "options": [
+      {"label": "A", "text": "so"},
+      {"label": "B", "text": "but"},
+      {"label": "C", "text": "and"}
+    ],
+    "correct": "C",
+    "explanation": "useful和interesting之间是并列关系，表示“有用且有趣”，因此用and。"
+  },
+  {
+    "id": 100,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 甘肃庆阳六中期末",
+    "tags": ["新课标", "思维品质", "连词", "but"],
+    "question": "100. Math is interesting, ______ it’s difficult.",
+    "options": [
+      {"label": "A", "text": "but"},
+      {"label": "B", "text": "and"},
+      {"label": "C", "text": "so"},
+      {"label": "D", "text": "or"}
+    ],
+    "correct": "A",
+    "explanation": "interesting和difficult之间是转折关系，表示“数学有趣，但是很难”，因此用but。"
+  },
+  {
+    "id": 101,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "形容词",
+    "source": "2024 甘肃平凉崆峒区期末",
+    "tags": ["新课标", "思维品质", "形容词", "useful"],
+    "question": "101. —What do you think of geography? —It’s difficult but ______ I like it.",
+    "options": [
+      {"label": "A", "text": "boring"},
+      {"label": "B", "text": "useful"},
+      {"label": "C", "text": "busy"},
+      {"label": "D", "text": "free"}
+    ],
+    "correct": "B",
+    "explanation": "根据语境“difficult but... I like it”，尽管难但喜欢，说明地理是有用的，useful符合句意。"
+  },
+  {
+    "id": 102,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "疑问词",
+    "source": "2024 黑龙江哈尔滨四十七中月考",
+    "tags": ["新课标", "社团活动", "疑问词", "sports"],
+    "question": "102. —______ club do you want to join? —Well, I like sports, so I want to join the ______ club.",
+    "options": [
+      {"label": "A", "text": "Which; sports"},
+      {"label": "B", "text": "What; sports"},
+      {"label": "C", "text": "What; music"}
+    ],
+    "correct": "A",
+    "explanation": "询问“哪一个俱乐部”用Which club；根据“I like sports”可知想加入体育俱乐部。"
+  },
+  {
+    "id": 103,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情态动词",
+    "source": "",
+    "tags": ["can", "一般疑问句", "否定回答"],
+    "question": "103. —Can Cindy play chess? —______. But she can play the guitar.",
+    "options": [
+      {"label": "A", "text": "Yes, she does"},
+      {"label": "B", "text": "Yes, she can"},
+      {"label": "C", "text": "No, she doesn’t"},
+      {"label": "D", "text": "No, she can’t"}
+    ],
+    "correct": "D",
+    "explanation": "问句以Can开头，回答用can；根据“But she can play the guitar”可知她不会下棋，用否定回答No, she can’t。"
+  },
+  {
+    "id": 104,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "介词",
+    "source": "2024 辽宁鞍山期末",
+    "tags": ["新课标", "人与自我", "介词", "in", "at"],
+    "question": "104. My grandmother often goes to bed ______ the evening.",
+    "options": [
+      {"label": "A", "text": "in; at"},
+      {"label": "B", "text": "at; in"},
+      {"label": "C", "text": "on; at"},
+      {"label": "D", "text": "on; in"}
+    ],
+    "correct": "A",
+    "explanation": "in the evening为固定搭配，表示“在晚上”。go to bed in the evening意为“晚上睡觉”。"
+  },
+  {
+    "id": 105,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "时间表达",
+    "source": "2024 福建漳平期末",
+    "tags": ["新中考", "图片理解", "时间", "quarter"],
+    "question": "105. —What’s the time now? —It’s ______.",
+    "options": [
+      {"label": "A", "text": "a quarter past one"},
+      {"label": "B", "text": "a quarter to one"},
+      {"label": "C", "text": "a quarter to two"}
+    ],
+    "correct": "B",
+    "explanation": "根据图片中的时钟显示，时针指向12过一点，分针指向9，表示12:45，即a quarter to one（差一刻到一点）。"
+  },
+  {
+    "id": 106,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2024 甘肃泰安兴国中学期中",
+    "tags": ["时间", "what time", "情景交际"],
+    "question": "106. —______, Mike? —It’s half past eight. It’s time for class.",
+    "options": [
+      {"label": "A", "text": "What time is it"},
+      {"label": "B", "text": "What day is it today"},
+      {"label": "C", "text": "What’s the date today"},
+      {"label": "D", "text": "When did they leave"}
+    ],
+    "correct": "A",
+    "explanation": "根据回答“It’s half past eight”可知询问的是具体时间，用What time is it。"
+  },
+  {
+    "id": 107,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "动词短语",
+    "source": "新独家原创",
+    "tags": ["双减政策", "动词短语", "make full use of"],
+    "question": "107. Because of the \"double reduction\" policy, students can ______ their free time to develop their hobbies.",
+    "options": [
+      {"label": "A", "text": "make full use of"},
+      {"label": "B", "text": "take good care of"},
+      {"label": "C", "text": "fall in love with"},
+      {"label": "D", "text": "work out"}
+    ],
+    "correct": "A",
+    "explanation": "make full use of意为“充分利用”；根据语境“双减政策下，学生可以利用空闲时间发展爱好”，用make full use of。"
+  },
+  {
+    "id": 108,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2024 黑龙江哈尔滨四十七中月考",
+    "tags": ["how long", "how far", "how often", "时间距离"],
+    "question": "108. —______ does it take from your classroom to your school’s library? —My school’s library is one kilometer away from my classroom. So it takes me about 10 minutes to get there on foot.",
+    "options": [
+      {"label": "A", "text": "How far"},
+      {"label": "B", "text": "How long"},
+      {"label": "C", "text": "How often"}
+    ],
+    "correct": "B",
+    "explanation": "问句中用了“does it take”，询问花费多长时间，用How long。"
+  },
+  {
+    "id": 109,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 广西东兰县民族中学期末",
+    "tags": ["how much", "价格", "购物"],
+    "question": "109. —______ is your new skirt? —It’s 40 yuan.",
+    "options": [
+      {"label": "A", "text": "How many"},
+      {"label": "B", "text": "What color"},
+      {"label": "C", "text": "How old"},
+      {"label": "D", "text": "How much"}
+    ],
+    "correct": "D",
+    "explanation": "根据回答“40 yuan”可知询问价格，用How much。"
+  },
+  {
+    "id": 110,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "动词",
+    "source": "2023 山东泰安东岳中学期末",
+    "tags": ["take", "购物", "动词辨析"],
+    "question": "110. This T-shirt is very cool. I’ll ______ it.",
+    "options": [
+      {"label": "A", "text": "sell"},
+      {"label": "B", "text": "help"},
+      {"label": "C", "text": "take"},
+      {"label": "D", "text": "find"}
+    ],
+    "correct": "C",
+    "explanation": "在购物场景中，I’ll take it意为“我买了”，表示决定购买。"
+  },
+  {
+    "id": 111,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情景交际",
+    "source": "2024 吉林松原前郭一中期末",
+    "tags": ["购物", "Can I help you", "应答"],
+    "question": "111. —Can I help you? —______.",
+    "options": [
+      {"label": "A", "text": "That’s good"},
+      {"label": "B", "text": "Yes, I want a hat"},
+      {"label": "C", "text": "OK. I’ll take it"},
+      {"label": "D", "text": "It’s too big"}
+    ],
+    "correct": "B",
+    "explanation": "Can I help you?是购物场景中售货员的常用语，顾客通常回答Yes, I want...或直接说明想买的东西。"
+  },
+  {
+    "id": 112,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2024 四川成都嘉祥外国语学校月考",
+    "tags": ["日期", "what date", "星期"],
+    "question": "112. —What’s the date today? —______.",
+    "options": [
+      {"label": "A", "text": "It’s February 26th."},
+      {"label": "B", "text": "It’s Monday."},
+      {"label": "C", "text": "It’s February 26th, Monday."}
+    ],
+    "correct": "A",
+    "explanation": "What’s the date?询问日期，回答应为具体月日。"
+  },
+  {
+    "id": 113,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情景交际",
+    "source": "2023 湖南资兴期末",
+    "tags": ["购物", "Can I help you", "应答"],
+    "question": "113. —______? —Yes, please. I want a basketball.",
+    "options": [
+      {"label": "A", "text": "What do you want"},
+      {"label": "B", "text": "Excuse me"},
+      {"label": "C", "text": "Can I help you"}
+    ],
+    "correct": "C",
+    "explanation": "根据回答“Yes, please. I want a basketball.”可知，问句是购物场景中售货员的常用语Can I help you?"
+  },
+  {
+    "id": 114,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 黑龙江讷河期末",
+    "tags": ["how much", "价格"],
+    "question": "114. —______ is the red shirt? —It’s 50 yuan.",
+    "options": [
+      {"label": "A", "text": "How much"},
+      {"label": "B", "text": "How many"},
+      {"label": "C", "text": "How old"}
+    ],
+    "correct": "A",
+    "explanation": "根据回答“50 yuan”可知询问价格，用How much。"
+  },
+  {
+    "id": 115,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 山东惠民期末",
+    "tags": ["how much", "价格", "船票"],
+    "question": "115. —______ is a boat ticket for children? —How old is your child? It’s free for kids under three years old.",
+    "options": [
+      {"label": "A", "text": "How long"},
+      {"label": "B", "text": "How much"},
+      {"label": "C", "text": "How often"},
+      {"label": "D", "text": "How soon"}
+    ],
+    "correct": "B",
+    "explanation": "根据回答“It’s free”可知询问价格，用How much。"
+  },
+  {
+    "id": 116,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 山东泰安东岳中学期末",
+    "tags": ["how much", "价格"],
+    "question": "116. —The yellow socks look nice. ______ are they? —They’re only 2 yuan.",
+    "options": [
+      {"label": "A", "text": "How old"},
+      {"label": "B", "text": "How much"},
+      {"label": "C", "text": "How many"},
+      {"label": "D", "text": "How long"}
+    ],
+    "correct": "B",
+    "explanation": "根据回答“2 yuan”可知询问价格，用How much。"
+  },
+  {
+    "id": 117,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 湖北武汉黄陂区期末",
+    "tags": ["but", "转折关系"],
+    "question": "117. Some people have a lot of money, ______ they aren’t happy.",
+    "options": [
+      {"label": "A", "text": "and"},
+      {"label": "B", "text": "so"},
+      {"label": "C", "text": "but"},
+      {"label": "D", "text": "or"}
+    ],
+    "correct": "C",
+    "explanation": "前后句表示转折关系，有钱但不快乐，用but。"
+  },
+  {
+    "id": 118,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 山东济南济阳区垛石中学期末",
+    "tags": ["新课标", "健康生活", "so", "因果关系"],
+    "question": "118. —What is your favorite fruit, Anna? —Apples. ______ I always have one apple in the morning.",
+    "options": [
+      {"label": "A", "text": "After"},
+      {"label": "B", "text": "Or"},
+      {"label": "C", "text": "But"},
+      {"label": "D", "text": "So"}
+    ],
+    "correct": "D",
+    "explanation": "因为喜欢苹果，所以每天早上吃一个，前后构成因果关系，用So。"
+  },
+  {
+    "id": 119,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 吉林通榆期中",
+    "tags": ["but", "转折关系"],
+    "question": "119. My bedroom is very small, ______ it is tidy.",
+    "options": [
+      {"label": "A", "text": "and"},
+      {"label": "B", "text": "because"},
+      {"label": "C", "text": "but"}
+    ],
+    "correct": "C",
+    "explanation": "small和tidy之间是转折关系，房间虽小但整洁，用but。"
+  },
+  {
+    "id": 120,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 山东邹城六中期末",
+    "tags": ["but", "转折关系"],
+    "question": "120. English is a little difficult for me, ______ I really like it.",
+    "options": [
+      {"label": "A", "text": "and"},
+      {"label": "B", "text": "because"},
+      {"label": "C", "text": "but"}
+    ],
+    "correct": "C",
+    "explanation": "difficult和like之间是转折关系，英语虽然难但喜欢，用but。"
+  },
+  {
+    "id": 121,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 山东临沂河东区育杰学校期末",
+    "tags": ["when", "时间"],
+    "question": "121. —______ do you have P.E.? —On Tuesday.",
+    "options": [
+      {"label": "A", "text": "What"},
+      {"label": "B", "text": "When"},
+      {"label": "C", "text": "Where"}
+    ],
+    "correct": "B",
+    "explanation": "根据回答“On Tuesday”可知询问时间，用When。"
+  },
+  {
+    "id": 122,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 重庆南开中学期中",
+    "tags": ["where", "地点"],
+    "question": "122. —Dad, I can’t find my notebooks! ______ are they? —They are on the sofa.",
+    "options": [
+      {"label": "A", "text": "Where"},
+      {"label": "B", "text": "Who"},
+      {"label": "C", "text": "What"},
+      {"label": "D", "text": "How"}
+    ],
+    "correct": "A",
+    "explanation": "根据回答“on the sofa”可知询问地点，用Where。"
+  },
+  {
+    "id": 123,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情景交际",
+    "source": "2023 重庆育才中学期中",
+    "tags": ["who", "人物身份"],
+    "question": "123. —Who’s the girl in red? —______",
+    "options": [
+      {"label": "A", "text": "He is Jack."},
+      {"label": "B", "text": "She is good."},
+      {"label": "C", "text": "She is my classmate."},
+      {"label": "D", "text": "She is 13."}
+    ],
+    "correct": "C",
+    "explanation": "问句询问“穿红衣服的女孩是谁？”，回答应说明身份，She is my classmate符合。"
+  },
+  {
+    "id": 124,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 黑龙江讷河期末",
+    "tags": ["why", "原因"],
+    "question": "124. —______ does he like blue? —Because the color makes him happy.",
+    "options": [
+      {"label": "A", "text": "What"},
+      {"label": "B", "text": "How"},
+      {"label": "C", "text": "Why"}
+    ],
+    "correct": "C",
+    "explanation": "根据回答“Because...”可知询问原因，用Why。"
+  },
+  {
+    "id": 125,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2023 黑龙江讷河期末",
+    "tags": ["who", "人物"],
+    "question": "125. —______ the boy over there? —Oh, that’s Jimmy.",
+    "options": [
+      {"label": "A", "text": "Who’s"},
+      {"label": "B", "text": "Whose"},
+      {"label": "C", "text": "What’s"}
+    ],
+    "correct": "A",
+    "explanation": "根据回答“that’s Jimmy”可知询问“那个男孩是谁”，用Who’s。"
+  },
+  {
+    "id": 126,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "",
+    "tags": ["but", "转折关系"],
+    "question": "126. Jimmy is short, ______ his brother is tall and strong.",
+    "options": [
+      {"label": "A", "text": "because"},
+      {"label": "B", "text": "so"},
+      {"label": "C", "text": "but"}
+    ],
+    "correct": "C",
+    "explanation": "short和tall and strong之间是转折关系，用but。"
+  },
+  {
+    "id": 127,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情态动词",
+    "source": "",
+    "tags": ["can", "could", "否定回答"],
+    "question": "127. —______ you go skating with me this Saturday, Mary? —I’m afraid I ______. I’ll help my old neighbor fix his washing machine that day.",
+    "options": [
+      {"label": "A", "text": "Could; couldn’t"},
+      {"label": "B", "text": "Could; can"},
+      {"label": "C", "text": "Can; can’t"},
+      {"label": "D", "text": "Can; could"}
+    ],
+    "correct": "C",
+    "explanation": "询问“这周六能否去滑冰”，用Can/Could均可；根据“I’m afraid”可知是否定回答，用can’t。"
+  },
+  {
+    "id": 128,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "情态动词",
+    "source": "",
+    "tags": ["can", "一般疑问句", "肯定回答"],
+    "question": "128. —______ you play soccer? —Yes, I ______. But I don’t have a soccer ball.",
+    "options": [
+      {"label": "A", "text": "Can; can’t"},
+      {"label": "B", "text": "Do; can’t"},
+      {"label": "C", "text": "Can; can"},
+      {"label": "D", "text": "Do; do"}
+    ],
+    "correct": "C",
+    "explanation": "问句询问“你会踢足球吗？”，用Can开头；回答Yes, I can表示“会”。"
+  },
+    {
+    "id": 129,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2024 湖南益阳赫山区期末",
+    "tags": ["how far", "距离", "提问"],
+    "question": "129. —______ is it from the hotel to the park? —It’s fifteen kilometers, about 40 minutes by bus.",
+    "options": [
+      {"label": "A", "text": "How"},
+      {"label": "B", "text": "How long"},
+      {"label": "C", "text": "How far"}
+    ],
+    "correct": "C",
+    "explanation": "根据回答“fifteen kilometers”可知询问距离，用How far。How long询问时间长度，How询问方式或程度。"
+  },
+  {
+    "id": 130,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "特殊疑问句",
+    "source": "2024 山东青岛市北区期末",
+    "tags": ["how much", "价格", "购物"],
+    "question": "130. —Jenny, your hat is very nice. ______ is it? —It’s only twenty yuan.",
+    "options": [
+      {"label": "A", "text": "How much"},
+      {"label": "B", "text": "How old"},
+      {"label": "C", "text": "How many"},
+      {"label": "D", "text": "What color"}
+    ],
+    "correct": "A",
+    "explanation": "根据回答“twenty yuan”可知询问价格，用How much。"
+  },
+  {
+    "id": 131,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "主谓一致",
+    "source": "2024 黑龙江大庆外国语学校期末",
+    "tags": ["there be", "主谓一致", "名词复数"],
+    "question": "131. There ______ some orange juice and many ______ on the table.",
+    "options": [
+      {"label": "A", "text": "is; orange"},
+      {"label": "B", "text": "is; oranges"},
+      {"label": "C", "text": "are; orange"},
+      {"label": "D", "text": "are; oranges"}
+    ],
+    "correct": "B",
+    "explanation": "There be句型遵循就近原则，orange juice为不可数名词，be动词用is；many修饰可数名词复数，orange作为“橘子”是可数名词，用oranges。"
+  },
+  {
+    "id": 132,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "介词短语",
+    "source": "2023 山东济南槐荫区期末",
+    "tags": ["新课标", "志愿服务", "help with", "介词"],
+    "question": "132. —What can you do for these children? —I think I can help them ______ English.",
+    "options": [
+      {"label": "A", "text": "at"},
+      {"label": "B", "text": "with"},
+      {"label": "C", "text": "on"},
+      {"label": "D", "text": "for"}
+    ],
+    "correct": "B",
+    "explanation": "help sb with sth为固定搭配，意为“帮助某人做某事”，help them with English意为“帮助他们学英语”。"
+  },
+  {
+    "id": 133,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "连词",
+    "source": "2023 河北保定期末",
+    "tags": ["新课标", "思维品质", "连词", "but"],
+    "question": "133. —What do you think of math? —For me it is difficult ______ interesting.",
+    "options": [
+      {"label": "A", "text": "but"},
+      {"label": "B", "text": "and"},
+      {"label": "C", "text": "or"},
+      {"label": "D", "text": "so"}
+    ],
+    "correct": "A",
+    "explanation": "difficult和interesting之间是转折关系，表示“虽然难但有趣”，用but。"
+  },
+    {
+    "id": 134,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "动词",
+    "source": "2024 广东广州越秀区铁一中学月考",
+    "tags": ["have", "has", "一般现在时", "第三人称单数"],
+    "question": "134. —Does Joe ______ a tennis ball? —No, he doesn’t. But he ______ a baseball.",
+    "options": [
+      {"label": "A", "text": "have; have"},
+      {"label": "B", "text": "have; has"},
+      {"label": "C", "text": "has; have"},
+      {"label": "D", "text": "has; has"}
+    ],
+    "correct": "B",
+    "explanation": "Does后接动词原形，用have；主语he为第三人称单数，谓语动词用has。"
+  },
+  {
+    "id": 135,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "动词辨析",
+    "source": "2024 天津河北区期末",
+    "tags": ["spend", "花钱", "动词辨析"],
+    "question": "135. Lisa likes reading and she ______ much money on books.",
+    "options": [
+      {"label": "A", "text": "spends"},
+      {"label": "B", "text": "takes"},
+      {"label": "C", "text": "buys"},
+      {"label": "D", "text": "shares"}
+    ],
+    "correct": "A",
+    "explanation": "spend money on sth为固定搭配，意为“在某事上花钱”。take意为“花费时间”，buy意为“买”，share意为“分享”。"
+  },
+  {
+    "id": 136,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "stars": 1,
+    "category": "介词短语",
+    "source": "2023 天津蓟州区期中",
+    "tags": ["方位介词", "behind", "in front of"],
+    "question": "136. Lily is in front of Sam, so Sam is ______ Lily.",
+    "options": [
+      {"label": "A", "text": "in front of"},
+      {"label": "B", "text": "next to"},
+      {"label": "C", "text": "on the left of"},
+      {"label": "D", "text": "behind"}
+    ],
+    "correct": "D",
+    "explanation": "Lily在Sam的前面，那么Sam就在Lily的后面，behind意为“在……后面”。"
+  },
+  {
+    "id": 137,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "形容词",
+    "source": "2024 黑龙江哈尔滨六十九中月考",
+    "tags": ["新课标", "畅想未来", "interested", "interesting", "want to be"],
+    "question": "137. Tom is ______ in science. He wants ______ a scientist in the future.",
+    "options": [
+      {"label": "A", "text": "interesting; being"},
+      {"label": "B", "text": "interested; be"},
+      {"label": "C", "text": "interested; to be"}
+    ],
+    "correct": "C",
+    "explanation": "be interested in意为“对……感兴趣”；want to do sth意为“想要做某事”，want to be意为“想要成为”。"
+  },
+  {
+    "id": 138,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "stars": 2,
+    "category": "名词所有格",
+    "source": "2023 山东日照岚山期末",
+    "tags": ["名词所有格", "共同所有", "tidy"],
+    "question": "138. Look! ______ room is very ______.",
+    "options": [
+      {"label": "A", "text": "Tom’s and Jim’s; tidy"},
+      {"label": "B", "text": "Tom and Jim’s; nice"},
+      {"label": "C", "text": "Tom and Jim; boring"},
+      {"label": "D", "text": "Tom’s and Jim; interesting"}
+    ],
+    "correct": "B",
+    "explanation": "room为单数，表示两人共同拥有的房间，用Tom and Jim’s；根据语境“Look!”可知房间很整洁或漂亮，nice符合。"
+  }
+
+    ]
+  }

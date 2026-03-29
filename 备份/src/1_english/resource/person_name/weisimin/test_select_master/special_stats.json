@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "专项",
+    "createdAt": "2026-02-27T12:06:17.955Z",
+    "lastActive": "2026-02-27T12:13:08.763Z",
+    "totalAttempts": 0,
+    "totalCorrect": 0,
+    "totalWrong": 0,
+    "accuracy": 0
+  },
+  "stats": {
+    "sp_002": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:08.763Z",
+      "last_extracted": "2026-02-27T12:13:08.763Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "sp_001": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:08.763Z",
+      "last_extracted": "2026-02-27T12:13:08.763Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "hello": {
+    "chinese": "你好",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.035Z"
+  },
+  "boys": {
+    "chinese": "男孩",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.224Z"
+  },
+  "and": {
+    "chinese": "和",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.381Z"
+  },
+  "girls": {
+    "chinese": "女孩",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.523Z"
+  },
+  "do": {
+    "chinese": "做",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.681Z"
+  },
+  "you": {
+    "chinese": "你",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.837Z"
+  },
+  "like": {
+    "chinese": "喜欢,像",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:13.979Z"
+  },
+  "to": {
+    "chinese": "到",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T13:52:14.121Z"
+  },
+  "don't": {
+    "chinese": "不",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:26.529Z"
+  },
+  "questions": {
+    "chinese": "问题",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:26.690Z"
+  },
+  "say": {
+    "chinese": "说",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:26.826Z"
+  },
+  "please": {
+    "chinese": "请",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:26.971Z"
+  },
+  "friends": {
+    "chinese": "朋友",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.112Z"
+  },
+  "them": {
+    "chinese": "他们",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.253Z"
+  },
+  "wrong": {
+    "chinese": "错误的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.393Z"
+  },
+  "classmates": {
+    "chinese": "同学",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.535Z"
+  },
+  "your": {
+    "chinese": "你的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.677Z"
+  },
+  "can": {
+    "chinese": "可以",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.817Z"
+  },
+  "enough": {
+    "chinese": "足够的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-31T14:14:27.959Z"
+  }
+}

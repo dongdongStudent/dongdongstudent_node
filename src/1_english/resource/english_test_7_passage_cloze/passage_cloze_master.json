@@ -1,0 +1,282 @@
+{
+    "passages": [
+      {
+        "id": "zoo_passage_001",
+        "title": "A Visit to the Zoo",
+        "description": "阅读短文，从方框中选出正确的词并用其适当形式填空，使短文通顺、意思完整。每空限填一词，每词限用一次。",
+        "category": "动物",
+        "difficulty": 2,
+        "totalQuestions": 10,
+        "givenWords": [
+          "scary",
+          "come",
+          "elephant",
+          "lovely",
+          "eat",
+          "they",
+          "giraffe",
+          "different",
+          "live",
+          "first"
+        ],
+        "content": "Jane is very happy because her mother takes her to the zoo today. There are many ___1___ kinds of animals in it. It is so interesting to go there. ___2___, Jane and her mother go to see lions and tigers. Lions and tigers are ___3___ animals. When they are in zoos, they ___4___ in strong cages (笼子). They can’t walk freely (自由地). They eat a lot of meat every day.\n\nThere are also two big ___5___ and a small one. The elephants are friendly. Jane likes ___6___ very much.\n\nIn the zoo there are also some ___7___ pandas. They are fat and shy. So people need to be very quiet when they see them.\n\nThere are five ___8___ in the zoo, too. They ___9___ from Africa. They are interesting and smart. They like ___10___ grass (草) and leaves very much.",
+        "questions": [
+          {
+            "id": "zoo_001_q1",
+            "number": 1,
+            "givenWord": "different",
+            "correctForm": "different",
+            "blankPosition": "___1___",
+            "sentence": "There are many different kinds of animals in it.",
+            "explanation": "different 是形容词，修饰 kinds，表示'不同种类的'。"
+          },
+          {
+            "id": "zoo_001_q2",
+            "number": 2,
+            "givenWord": "first",
+            "correctForm": "first",
+            "blankPosition": "___2___",
+            "sentence": "First, Jane and her mother go to see lions and tigers.",
+            "explanation": "first 是副词，表示'首先'，用于描述顺序。"
+          },
+          {
+            "id": "zoo_001_q3",
+            "number": 3,
+            "givenWord": "scary",
+            "correctForm": "scary",
+            "blankPosition": "___3___",
+            "sentence": "Lions and tigers are scary animals.",
+            "explanation": "scary 是形容词，修饰 animals，表示'可怕的'动物。"
+          },
+          {
+            "id": "zoo_001_q4",
+            "number": 4,
+            "givenWord": "live",
+            "correctForm": "live",
+            "blankPosition": "___4___",
+            "sentence": "When they are in zoos, they live in strong cages.",
+            "explanation": "live 是动词，表示'居住'，主语 they 是复数，用原形。"
+          },
+          {
+            "id": "zoo_001_q5",
+            "number": 5,
+            "givenWord": "elephant",
+            "correctForm": "elephants",
+            "blankPosition": "___5___",
+            "sentence": "There are also two big elephants and a small one.",
+            "explanation": "elephant 是可数名词，two 后面要用复数形式 elephants。"
+          },
+          {
+            "id": "zoo_001_q6",
+            "number": 6,
+            "givenWord": "they",
+            "correctForm": "them",
+            "blankPosition": "___6___",
+            "sentence": "Jane likes them very much.",
+            "explanation": "likes 是动词，后面要用宾格 them，指代 elephants。"
+          },
+          {
+            "id": "zoo_001_q7",
+            "number": 7,
+            "givenWord": "lovely",
+            "correctForm": "lovely",
+            "blankPosition": "___7___",
+            "sentence": "In the zoo there are also some lovely pandas.",
+            "explanation": "lovely 是形容词，修饰 pandas，表示'可爱的'。"
+          },
+          {
+            "id": "zoo_001_q8",
+            "number": 8,
+            "givenWord": "giraffe",
+            "correctForm": "giraffes",
+            "blankPosition": "___8___",
+            "sentence": "There are five giraffes in the zoo, too.",
+            "explanation": "giraffe 是可数名词，five 后面要用复数形式 giraffes。"
+          },
+          {
+            "id": "zoo_001_q9",
+            "number": 9,
+            "givenWord": "come",
+            "correctForm": "come",
+            "blankPosition": "___9___",
+            "sentence": "They come from Africa.",
+            "explanation": "come from 表示'来自'，主语 they 是复数，用原形。"
+          },
+          {
+            "id": "zoo_001_q10",
+            "number": 10,
+            "givenWord": "eat",
+            "correctForm": "eating",
+            "blankPosition": "___10___",
+            "sentence": "They like eating grass and leaves very much.",
+            "explanation": "like doing sth. 表示'喜欢做某事'，所以用 eating。"
+          }
+        ],
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "daily_routine_001",
+        "title": "My Daily Routine",
+        "description": "阅读短文，从方框中选出正确的词并用其适当形式填空，使短文通顺、意思完整。每空限填一词，每词限用一次。",
+        "category": "生活",
+        "difficulty": 1,
+        "totalQuestions": 8,
+        "givenWords": [
+          "brush",
+          "get",
+          "have",
+          "go",
+          "take",
+          "do",
+          "watch",
+          "read"
+        ],
+        "content": "I am a student. I usually ___1___ up at 6:30 in the morning. Then I ___2___ my teeth and wash my face. I ___3___ breakfast at 7:00. After breakfast, I ___4___ to school. I ___5___ four classes in the morning. At noon, I ___6___ lunch at school. In the afternoon, I ___7___ my homework. In the evening, I ___8___ TV or ___9___ books. I go to bed at 9:30.",
+        "questions": [
+          {
+            "id": "daily_001_q1",
+            "number": 1,
+            "givenWord": "get",
+            "correctForm": "get",
+            "blankPosition": "___1___",
+            "sentence": "I usually get up at 6:30 in the morning.",
+            "explanation": "get up 是固定搭配，表示'起床'。"
+          },
+          {
+            "id": "daily_001_q2",
+            "number": 2,
+            "givenWord": "brush",
+            "correctForm": "brush",
+            "blankPosition": "___2___",
+            "sentence": "Then I brush my teeth and wash my face.",
+            "explanation": "brush teeth 表示'刷牙'，主语 I 用动词原形。"
+          },
+          {
+            "id": "daily_001_q3",
+            "number": 3,
+            "givenWord": "have",
+            "correctForm": "have",
+            "blankPosition": "___3___",
+            "sentence": "I have breakfast at 7:00.",
+            "explanation": "have breakfast 表示'吃早餐'。"
+          },
+          {
+            "id": "daily_001_q4",
+            "number": 4,
+            "givenWord": "go",
+            "correctForm": "go",
+            "blankPosition": "___4___",
+            "sentence": "After breakfast, I go to school.",
+            "explanation": "go to school 表示'去上学'。"
+          },
+          {
+            "id": "daily_001_q5",
+            "number": 5,
+            "givenWord": "have",
+            "correctForm": "have",
+            "blankPosition": "___5___",
+            "sentence": "I have four classes in the morning.",
+            "explanation": "have classes 表示'上课'。"
+          },
+          {
+            "id": "daily_001_q6",
+            "number": 6,
+            "givenWord": "have",
+            "correctForm": "have",
+            "blankPosition": "___6___",
+            "sentence": "At noon, I have lunch at school.",
+            "explanation": "have lunch 表示'吃午餐'。"
+          },
+          {
+            "id": "daily_001_q7",
+            "number": 7,
+            "givenWord": "do",
+            "correctForm": "do",
+            "blankPosition": "___7___",
+            "sentence": "In the afternoon, I do my homework.",
+            "explanation": "do homework 表示'做作业'。"
+          },
+          {
+            "id": "daily_001_q8",
+            "number": 8,
+            "givenWord": "watch",
+            "correctForm": "watch",
+            "blankPosition": "___8___",
+            "sentence": "In the evening, I watch TV or read books.",
+            "explanation": "watch TV 表示'看电视'。"
+          },
+          {
+            "id": "daily_001_q9",
+            "number": 9,
+            "givenWord": "read",
+            "correctForm": "read",
+            "blankPosition": "___9___",
+            "sentence": "In the evening, I watch TV or read books.",
+            "explanation": "read books 表示'看书'。"
+          }
+        ],
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "hermit_crab_passage_001",
+        "title": "Hermit Crabs",
+        "description": "阅读短文，从方框中选出正确的词并用其适当形式填空，使短文通顺、意思完整。每空限填一词，每词限用一次。",
+        "category": "动物",
+        "difficulty": 2,
+        "totalQuestions": 5,
+        "givenWords": ["without", "slow", "such as", "grow", "in this way"],
+        "content": "Hermit crabs (寄居蟹) are small animals that live in the ocean or on the beach. The crab has its own hard shell (外壳) but it only covers part of its body. The soft part cannot be protected ______ 1 ______ a shell. So the crab will find an empty shell and climb inside to stay safe. As a hermit crab ______ 2 ______, it needs a bigger shell. Groups of hermit crabs gather to exchange shells. Sometimes, they fight over shells or line up to get the best one. Hermit crabs eat just about any food they can find, ______ 3 ______ plants, dead fish or even food left on the beach. ______ 4 ______, they help keep beaches clean. However, pollution can make it harder for hermit crabs to find real shells. Sometimes plastic bottles and caps are mistaken for real shells. Once inside, many cannot get out and ______ 5 ______ die. Beach cleanups, recycling, and using less plastic can make a big difference.",
+        "questions": [
+          {
+            "id": "hermit_001_q1",
+            "number": 1,
+            "givenWord": "without",
+            "correctForm": "without",
+            "blankPosition": "______ 1 ______",
+            "sentence": "The soft part cannot be protected without a shell.",
+            "explanation": "without 是介词，表示'没有'，这里指没有外壳的保护。"
+          },
+          {
+            "id": "hermit_001_q2",
+            "number": 2,
+            "givenWord": "grow",
+            "correctForm": "grows",
+            "blankPosition": "______ 2 ______",
+            "sentence": "As a hermit crab grows, it needs a bigger shell.",
+            "explanation": "grow 是动词，主语 a hermit crab 是单数，所以用第三人称单数形式 grows。"
+          },
+          {
+            "id": "hermit_001_q3",
+            "number": 3,
+            "givenWord": "such as",
+            "correctForm": "such as",
+            "blankPosition": "______ 3 ______",
+            "sentence": "Hermit crabs eat just about any food they can find, such as plants, dead fish or even food left on the beach.",
+            "explanation": "such as 是固定短语，表示'例如'，用于列举例子。"
+          },
+          {
+            "id": "hermit_001_q4",
+            "number": 4,
+            "givenWord": "in this way",
+            "correctForm": "In this way",
+            "blankPosition": "______ 4 ______",
+            "sentence": "In this way, they help keep beaches clean.",
+            "explanation": "in this way 是固定短语，表示'通过这种方式'，注意句首首字母大写。"
+          },
+          {
+            "id": "hermit_001_q5",
+            "number": 5,
+            "givenWord": "slow",
+            "correctForm": "slowly",
+            "blankPosition": "______ 5 ______",
+            "sentence": "Once inside, many cannot get out and slowly die.",
+            "explanation": "slow 是形容词，这里需要副词形式 slowly 修饰动词 die，表示'慢慢地死亡'。"
+          }
+        ],
+        "createdAt": "2024-01-01T00:00:00.000Z",
+        "updatedAt": "2024-01-01T00:00:00.000Z"
+      }
+    ]
+  }

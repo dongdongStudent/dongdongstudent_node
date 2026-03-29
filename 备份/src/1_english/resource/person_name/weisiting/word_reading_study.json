@@ -1,0 +1,192 @@
+[
+  {
+    "word": "Hello",
+    "translation": "你好",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "boys",
+    "translation": "男孩",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "and",
+    "translation": "和",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "girls",
+    "translation": "女孩",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Do",
+    "translation": "做",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "you",
+    "translation": "你",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "like",
+    "translation": "喜欢,像",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "to",
+    "translation": "到",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "don't",
+    "translation": "不",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "questions",
+    "translation": "问题",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "say",
+    "translation": "说",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "please",
+    "translation": "请",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "friends",
+    "translation": "朋友",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "them",
+    "translation": "他们",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "wrong",
+    "translation": "错误的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "classmates",
+    "translation": "同学",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "your",
+    "translation": "你的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "can",
+    "translation": "可以",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "enough",
+    "translation": "足够的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

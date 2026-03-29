@@ -1,0 +1,3883 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "doctor",
+      "translation": "医生，大夫",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈdɒktə/",
+      "example": "My father is a doctor.",
+      "exampleTranslation": "我的父亲是一名医生。",
+      "images": [
+        {
+          "id": "img_doctor_1",
+          "url": "./pic/wy_4b/doctor.png",
+          "alt": "医生",
+          "description": "医生在工作"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "fireman",
+      "translation": "消防队员",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈfaɪəmən/",
+      "example": "The fireman puts out the fire.",
+      "exampleTranslation": "消防员扑灭了火。",
+      "images": [
+        {
+          "id": "img_fireman_1",
+          "url": "./pic/wy_4b/fireman.png",
+          "alt": "消防队员",
+          "description": "消防员在灭火"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "farmer",
+      "translation": "农民；农场主；养殖场主",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈfɑːmə/",
+      "example": "The farmer works in the field.",
+      "exampleTranslation": "农民在田里工作。",
+      "images": [
+        {
+          "id": "img_farmer_1",
+          "url": "./pic/wy_4b/farmer.png",
+          "alt": "农民",
+          "description": "农民在田间劳作"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "word": "cook",
+      "translation": "厨师，炊事员",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/kʊk/",
+      "example": "The cook prepares delicious food.",
+      "exampleTranslation": "厨师准备美味的食物。",
+      "images": [
+        {
+          "id": "img_cook_1",
+          "url": "./pic/wy_4b/cook.png",
+          "alt": "厨师",
+          "description": "厨师在烹饪"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "police",
+      "translation": "警察",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/pəˈliːs/",
+      "example": "The police officer helps people.",
+      "exampleTranslation": "警察帮助人们。",
+      "images": [
+        {
+          "id": "img_police_1",
+          "url": "./pic/wy_4b/police.png",
+          "alt": "警察",
+          "description": "警察在执勤"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "police officer",
+      "translation": "警察，警官",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/pəˈliːs ˈɒfɪsə/",
+      "example": "The police officer helps people.",
+      "exampleTranslation": "警察帮助人们。",
+      "images": [
+        {
+          "id": "img_police_officer_1",
+          "url": "./pic/wy_4b/police officer.png",
+          "alt": "警官",
+          "description": "警官在执勤"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "station",
+      "translation": "所；站；台；局",
+      "unit": 1,
+      "category": "地点",
+      "phonetic": "/ˈsteɪʃən/",
+      "example": "We wait at the bus station.",
+      "exampleTranslation": "我们在公交车站等待。",
+      "images": [
+        {
+          "id": "img_station_1",
+          "url": "./pic/wy_4b/station.png",
+          "alt": "车站",
+          "description": "公交车站"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "police station",
+      "translation": "警察（分）局，派出所",
+      "unit": 1,
+      "category": "地点",
+      "phonetic": "/pəˈliːs ˈsteɪʃən/",
+      "example": "The police station is near here.",
+      "exampleTranslation": "警察局就在附近。",
+      "images": [
+        {
+          "id": "img_police_station_1",
+          "url": "./pic/wy_4b/police station.png",
+          "alt": "警察局",
+          "description": "警察局建筑"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "often",
+      "translation": "经常，时常，多次",
+      "unit": 1,
+      "category": "副词",
+      "phonetic": "/ˈɒfən/",
+      "example": "I often go to the park.",
+      "exampleTranslation": "我经常去公园。",
+      "images": [
+        {
+          "id": "img_often_1",
+          "url": "./pic/wy_4b/often.png",
+          "alt": "经常",
+          "description": "日历上标记的经常活动"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "field",
+      "translation": "田地，田野",
+      "unit": 1,
+      "category": "地点",
+      "phonetic": "/fiːld/",
+      "example": "The farmer works in the field.",
+      "exampleTranslation": "农民在田里工作。",
+      "images": [
+        {
+          "id": "img_field_1",
+          "url": "./pic/wy_4b/field.png",
+          "alt": "田野",
+          "description": "广阔的田野"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "painter",
+      "translation": "画家",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈpeɪntə/",
+      "example": "The painter paints beautiful pictures.",
+      "exampleTranslation": "画家画美丽的画。",
+      "images": [
+        {
+          "id": "img_painter_1",
+          "url": "./pic/wy_4b/painter.png",
+          "alt": "画家",
+          "description": "画家在作画"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "use",
+      "translation": "用，使用",
+      "unit": 1,
+      "category": "动词",
+      "phonetic": "/juːz/",
+      "example": "I use a pen to write.",
+      "exampleTranslation": "我用钢笔写字。",
+      "images": [
+        {
+          "id": "img_use_1",
+          "url": "./pic/wy_4b/use.png",
+          "alt": "使用",
+          "description": "人在使用工具"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "brush",
+      "translation": "刷子；毛刷",
+      "unit": 1,
+      "category": "物品",
+      "phonetic": "/brʌʃ/",
+      "example": "I brush my teeth with a toothbrush.",
+      "exampleTranslation": "我用牙刷刷牙。",
+      "images": [
+        {
+          "id": "img_brush_1",
+          "url": "./pic/wy_4b/brush.png",
+          "alt": "刷子",
+          "description": "各种刷子"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "scientist",
+      "translation": "科学家",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "example": "The scientist does experiments.",
+      "exampleTranslation": "科学家做实验。",
+      "images": [
+        {
+          "id": "img_scientist_1",
+          "url": "./pic/wy_4b/scientist.png",
+          "alt": "科学家",
+          "description": "科学家在实验室"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "writer",
+      "translation": "作家；作者",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈraɪtə/",
+      "example": "The writer writes books.",
+      "exampleTranslation": "作家写书。",
+      "images": [
+        {
+          "id": "img_writer_1",
+          "url": "./pic/wy_4b/writer.png",
+          "alt": "作家",
+          "description": "作家在写作"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "worker",
+      "translation": "工人",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈwɜːkə/",
+      "example": "The worker is building a house.",
+      "exampleTranslation": "工人在建造房子。",
+      "images": [
+        {
+          "id": "img_worker_1",
+          "url": "./pic/wy_4b/worker.png",
+          "alt": "工人",
+          "description": "工人在建筑工地"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "aunt",
+      "translation": "姑母；姨母",
+      "unit": 1,
+      "category": "家庭",
+      "phonetic": "/ɑːnt/",
+      "example": "My aunt is a nurse.",
+      "exampleTranslation": "我的姑妈是一名护士。",
+      "images": [
+        {
+          "id": "img_aunt_1",
+          "url": "./pic/wy_4b/aunt.png",
+          "alt": "姑母",
+          "description": "慈祥的阿姨"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "night",
+      "translation": "夜晚，夜间",
+      "unit": 1,
+      "category": "时间",
+      "phonetic": "/naɪt/",
+      "example": "The stars shine at night.",
+      "exampleTranslation": "夜晚星星闪烁。",
+      "images": [
+        {
+          "id": "img_night_1",
+          "url": "./pic/wy_4b/night.png",
+          "alt": "夜晚",
+          "description": "夜空和月亮"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "owl",
+      "translation": "猫头鹰",
+      "unit": 1,
+      "category": "动物",
+      "phonetic": "/aʊl/",
+      "example": "The owl hoots at night.",
+      "exampleTranslation": "猫头鹰在夜晚鸣叫。",
+      "images": [
+        {
+          "id": "img_owl_1",
+          "url": "./pic/wy_4b/owl.png",
+          "alt": "猫头鹰",
+          "description": "猫头鹰在树上"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "night owl",
+      "translation": "夜猫子，喜欢熬夜的人",
+      "unit": 1,
+      "category": "习语",
+      "phonetic": "/naɪt aʊl/",
+      "example": "He is a night owl, he stays up late.",
+      "exampleTranslation": "他是个夜猫子，经常熬夜。",
+      "images": [
+        {
+          "id": "img_night_owl_1",
+          "url": "./pic/wy_4b/night owl.png",
+          "alt": "夜猫子",
+          "description": "熬夜的人"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "driver",
+      "translation": "司机，驾驶员",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈdraɪvə/",
+      "example": "The bus driver drives carefully.",
+      "exampleTranslation": "公交车司机小心驾驶。",
+      "images": [
+        {
+          "id": "img_driver_1",
+          "url": "./pic/wy_4b/driver.png",
+          "alt": "司机",
+          "description": "司机在开车"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "taxi",
+      "translation": "出租车，计程车",
+      "unit": 1,
+      "category": "交通",
+      "phonetic": "/ˈtæksi/",
+      "example": "I take a taxi to the airport.",
+      "exampleTranslation": "我坐出租车去机场。",
+      "images": [
+        {
+          "id": "img_taxi_1",
+          "url": "./pic/wy_4b/taxi.png",
+          "alt": "出租车",
+          "description": "黄色出租车"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "safe",
+      "translation": "安全的，没有危险的",
+      "unit": 1,
+      "category": "形容词",
+      "phonetic": "/seɪf/",
+      "example": "We are safe at home.",
+      "exampleTranslation": "我们在家很安全。",
+      "images": [
+        {
+          "id": "img_safe_1",
+          "url": "./pic/wy_4b/safe.png",
+          "alt": "安全",
+          "description": "安全标志"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "nurse",
+      "translation": "护士",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/nɜːs/",
+      "example": "The nurse takes care of patients.",
+      "exampleTranslation": "护士照顾病人。",
+      "images": [
+        {
+          "id": "img_nurse_1",
+          "url": "./pic/wy_4b/nurse.png",
+          "alt": "护士",
+          "description": "护士在照顾病人"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "light",
+      "translation": "照亮",
+      "unit": 1,
+      "category": "动词",
+      "phonetic": "/laɪt/",
+      "example": "The sun lights the earth.",
+      "exampleTranslation": "太阳照亮地球。",
+      "images": [
+        {
+          "id": "img_light_1",
+          "url": "./pic/wy_4b/light.png",
+          "alt": "照亮",
+          "description": "阳光照亮大地"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "uncle",
+      "translation": "叔叔，伯伯",
+      "unit": 1,
+      "category": "家庭",
+      "phonetic": "/ˈʌŋkl/",
+      "example": "My uncle is a farmer.",
+      "exampleTranslation": "我的叔叔是农民。",
+      "images": [
+        {
+          "id": "img_uncle_1",
+          "url": "./pic/wy_4b/uncle.png",
+          "alt": "叔叔",
+          "description": "和蔼的叔叔"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "bake",
+      "translation": "烘，烤，焙",
+      "unit": 1,
+      "category": "动词",
+      "phonetic": "/beɪk/",
+      "example": "My mother bakes bread.",
+      "exampleTranslation": "我妈妈烤面包。",
+      "images": [
+        {
+          "id": "img_bake_1",
+          "url": "./pic/wy_4b/bake.png",
+          "alt": "烘焙",
+          "description": "烤面包"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "bee",
+      "translation": "蜜蜂",
+      "unit": 1,
+      "category": "动物",
+      "phonetic": "/biː/",
+      "example": "The bee makes honey.",
+      "exampleTranslation": "蜜蜂酿蜜。",
+      "images": [
+        {
+          "id": "img_bee_1",
+          "url": "./pic/wy_4b/bee.png",
+          "alt": "蜜蜂",
+          "description": "蜜蜂在采蜜"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "same",
+      "translation": "相同的，完全相同的，一模一样的",
+      "unit": 1,
+      "category": "形容词",
+      "phonetic": "/seɪm/",
+      "example": "We are in the same class.",
+      "exampleTranslation": "我们在同一个班级。",
+      "images": [
+        {
+          "id": "img_same_1",
+          "url": "./pic/wy_4b/same.png",
+          "alt": "相同",
+          "description": "两个相同的物体"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "sound",
+      "translation": "声，声音",
+      "unit": 1,
+      "category": "名词",
+      "phonetic": "/saʊnd/",
+      "example": "I hear a strange sound.",
+      "exampleTranslation": "我听到一个奇怪的声音。",
+      "images": [
+        {
+          "id": "img_sound_1",
+          "url": "./pic/wy_4b/sound.png",
+          "alt": "声音",
+          "description": "声音波纹"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "postman",
+      "translation": "邮递员",
+      "unit": 1,
+      "category": "职业",
+      "phonetic": "/ˈpəʊstmən/",
+      "example": "The postman delivers letters.",
+      "exampleTranslation": "邮递员送信。",
+      "images": [
+        {
+          "id": "img_postman_1",
+          "url": "./pic/wy_4b/postman.png",
+          "alt": "邮递员",
+          "description": "邮递员在送信"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "life",
+      "translation": "生活",
+      "unit": 1,
+      "category": "名词",
+      "phonetic": "/laɪf/",
+      "example": "Life is beautiful.",
+      "exampleTranslation": "生活是美好的。",
+      "images": [
+        {
+          "id": "img_life_1",
+          "url": "./pic/wy_4b/life.png",
+          "alt": "生活",
+          "description": "美好生活的场景"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "mountain",
+      "translation": "高山",
+      "unit": 1,
+      "category": "自然",
+      "phonetic": "/ˈmaʊntɪn/",
+      "example": "We climb the mountain.",
+      "exampleTranslation": "我们爬山。",
+      "images": [
+        {
+          "id": "img_mountain_1",
+          "url": "./pic/wy_4b/mountain.png",
+          "alt": "高山",
+          "description": "雄伟的高山"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "cry",
+      "translation": "哭，哭泣",
+      "unit": 2,
+      "category": "动词",
+      "phonetic": "/kraɪ/",
+      "example": "Don't cry.",
+      "exampleTranslation": "不要哭。",
+      "images": [
+        {
+          "id": "img_cry_1",
+          "url": "./pic/wy_4b/cry.png",
+          "alt": "哭泣",
+          "description": "哭泣的表情"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "gift",
+      "translation": "礼物",
+      "unit": 2,
+      "category": "名词",
+      "phonetic": "/gɪft/",
+      "example": "This is a gift for you.",
+      "exampleTranslation": "这是给你的礼物。",
+      "images": [
+        {
+          "id": "img_gift_1",
+          "url": "./pic/wy_4b/gift.png",
+          "alt": "礼物",
+          "description": "包装精美的礼物"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "hit",
+      "translation": "撞击，碰撞",
+      "unit": 2,
+      "category": "动词",
+      "phonetic": "/hɪt/",
+      "example": "The ball hit the window.",
+      "exampleTranslation": "球撞到了窗户。",
+      "images": [
+        {
+          "id": "img_hit_1",
+          "url": "./pic/wy_4b/hit.png",
+          "alt": "撞击",
+          "description": "球撞击窗户"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "feeling",
+      "translation": "感觉，感触",
+      "unit": 2,
+      "category": "名词",
+      "phonetic": "/ˈfiːlɪŋ/",
+      "example": "I have a good feeling.",
+      "exampleTranslation": "我有一种好的感觉。",
+      "images": [
+        {
+          "id": "img_feeling_1",
+          "url": "./pic/wy_4b/feeling.png",
+          "alt": "感觉",
+          "description": "表达感觉的图标"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "huge",
+      "translation": "巨大的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/hjuːdʒ/",
+      "example": "It's a huge house.",
+      "exampleTranslation": "这是一个巨大的房子。",
+      "images": [
+        {
+          "id": "img_huge_1",
+          "url": "./pic/wy_4b/huge.png",
+          "alt": "巨大",
+          "description": "巨大的建筑物"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "should",
+      "translation": "应当，应该",
+      "unit": 2,
+      "category": "情态动词",
+      "phonetic": "/ʃʊd/",
+      "example": "You should study hard.",
+      "exampleTranslation": "你应该努力学习。",
+      "images": [
+        {
+          "id": "img_should_1",
+          "url": "./pic/wy_4b/should.png",
+          "alt": "应该",
+          "description": "应该做的提示"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "next",
+      "translation": "(时间) 紧接着的；下次的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/nekst/",
+      "example": "See you next week.",
+      "exampleTranslation": "下周见。",
+      "images": [
+        {
+          "id": "img_next_1",
+          "url": "./pic/wy_4b/next.png",
+          "alt": "下一个",
+          "description": "日历上的下一页"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "street",
+      "translation": "大街，街道",
+      "unit": 2,
+      "category": "名词",
+      "phonetic": "/striːt/",
+      "example": "The street is busy.",
+      "exampleTranslation": "街道很繁忙。",
+      "images": [
+        {
+          "id": "img_street_1",
+          "url": "./pic/wy_4b/street.png",
+          "alt": "街道",
+          "description": "繁忙的街道"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "worried",
+      "translation": "担心的，焦虑的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/ˈwʌrid/",
+      "example": "She is worried about the test.",
+      "exampleTranslation": "她担心考试。",
+      "images": [
+        {
+          "id": "img_worried_1",
+          "url": "./pic/wy_4b/worried.png",
+          "alt": "担心",
+          "description": "担心的表情"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "laugh",
+      "translation": "发出笑声，(大)笑",
+      "unit": 2,
+      "category": "动词",
+      "phonetic": "/lɑːf/",
+      "example": "They laugh at the joke.",
+      "exampleTranslation": "他们听到笑话笑了。",
+      "images": [
+        {
+          "id": "img_laugh_1",
+          "url": "./pic/wy_4b/laugh.png",
+          "alt": "大笑",
+          "description": "大笑的表情"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "sad",
+      "translation": "不愉快的，伤心的，难过的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/sæd/",
+      "example": "He feels sad.",
+      "exampleTranslation": "他感到悲伤。",
+      "images": [
+        {
+          "id": "img_sad_1",
+          "url": "./pic/wy_4b/sad.png",
+          "alt": "悲伤",
+          "description": "悲伤的表情"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "scared",
+      "translation": "害怕的，恐惧的；紧张的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/skeəd/",
+      "example": "The child is scared of the dark.",
+      "exampleTranslation": "孩子害怕黑暗。",
+      "images": [
+        {
+          "id": "img_scared_1",
+          "url": "./pic/wy_4b/scared.png",
+          "alt": "害怕",
+          "description": "害怕的表情"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "angry",
+      "translation": "发怒的，生气的，气愤的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/ˈæŋɡri/",
+      "example": "My mother is angry.",
+      "exampleTranslation": "我妈妈生气了。",
+      "images": [
+        {
+          "id": "img_angry_1",
+          "url": "./pic/wy_4b/angry.png",
+          "alt": "生气",
+          "description": "生气的表情"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "excited",
+      "translation": "兴奋的，激动的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "example": "The kids are excited.",
+      "exampleTranslation": "孩子们很兴奋。",
+      "images": [
+        {
+          "id": "img_excited_1",
+          "url": "./pic/wy_4b/excited.png",
+          "alt": "兴奋",
+          "description": "兴奋的表情"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "opera",
+      "translation": "歌剧",
+      "unit": 2,
+      "category": "艺术",
+      "phonetic": "/ˈɒpərə/",
+      "example": "She likes to watch opera.",
+      "exampleTranslation": "她喜欢看歌剧。",
+      "images": [
+        {
+          "id": "img_opera_1",
+          "url": "./pic/wy_4b/opera.png",
+          "alt": "歌剧",
+          "description": "歌剧表演"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "word": "cough",
+      "translation": "咳嗽，咳",
+      "unit": 2,
+      "category": "动词",
+      "phonetic": "/kɒf/",
+      "example": "He coughs because he is sick.",
+      "exampleTranslation": "他因为生病而咳嗽。",
+      "images": [
+        {
+          "id": "img_cough_1",
+          "url": "./pic/wy_4b/cough.png",
+          "alt": "咳嗽",
+          "description": "咳嗽的人"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "word": "better",
+      "translation": "(健康状况)好转的；(疼痛、伤势等)减轻的",
+      "unit": 2,
+      "category": "形容词",
+      "phonetic": "/ˈbetə/",
+      "example": "I feel better today.",
+      "exampleTranslation": "我今天感觉好多了。",
+      "images": [
+        {
+          "id": "img_better_1",
+          "url": "./pic/wy_4b/better.png",
+          "alt": "好转",
+          "description": "健康状况好转"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "word": "model",
+      "translation": "(尤指可拼装的)模型",
+      "unit": 2,
+      "category": "物品",
+      "phonetic": "/ˈmɒdəl/",
+      "example": "He builds model planes.",
+      "exampleTranslation": "他制作模型飞机。",
+      "images": [
+        {
+          "id": "img_model_1",
+          "url": "./pic/wy_4b/model.png",
+          "alt": "模型",
+          "description": "模型飞机"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "word": "shout",
+      "translation": "大声说，喊叫，呼喊",
+      "unit": 2,
+      "category": "动词",
+      "phonetic": "/ʃaʊt/",
+      "example": "Don't shout in class.",
+      "exampleTranslation": "不要在课堂上大喊大叫。",
+      "images": [
+        {
+          "id": "img_shout_1",
+          "url": "./pic/wy_4b/shout.png",
+          "alt": "喊叫",
+          "description": "大声喊叫的人"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "word": "a lot",
+      "translation": "许多，非常",
+      "meaning": "表示大量或频繁",
+      "unit": 1,
+      "category": "基础短语",
+      "examples": [
+        "I have a lot of friends.",
+        "Thanks a lot!"
+      ]
+    },
+    {
+      "id": 102,
+      "word": "at night",
+      "translation": "在夜晚",
+      "meaning": "在夜间的时候",
+      "unit": 1,
+      "category": "时间短语",
+      "examples": [
+        "I study at night.",
+        "Stars appear at night."
+      ]
+    },
+    {
+      "id": 103,
+      "word": "police station",
+      "translation": "警察局，派出所",
+      "meaning": "警察办公的地方",
+      "unit": 1,
+      "category": "地点",
+      "examples": [
+        "The police station is on Main Street.",
+        "He works at the police station."
+      ]
+    },
+    {
+      "id": 104,
+      "word": "fire station",
+      "translation": "消防站",
+      "meaning": "消防员工作的地方",
+      "unit": 1,
+      "category": "地点",
+      "examples": [
+        "The fire station has red trucks.",
+        "They live near the fire station."
+      ]
+    },
+    {
+      "id": 105,
+      "word": "police officer",
+      "translation": "警察，警官",
+      "meaning": "维护法律的职业",
+      "unit": 1,
+      "category": "职业",
+      "examples": [
+        "My uncle is a police officer.",
+        "The police officer helped us."
+      ]
+    },
+    {
+      "id": 106,
+      "word": "come out",
+      "translation": "出来",
+      "meaning": "从里面到外面",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "Please come out of the room.",
+        "The sun came out."
+      ]
+    },
+    {
+      "id": 107,
+      "word": "have a guess",
+      "translation": "猜一猜",
+      "meaning": "尝试猜测",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "Have a guess at the answer.",
+        "I'll have a guess."
+      ]
+    },
+    {
+      "id": 108,
+      "word": "in the fields",
+      "translation": "在田地里",
+      "meaning": "在农田里",
+      "unit": 1,
+      "category": "地点短语",
+      "examples": [
+        "Farmers work in the fields.",
+        "Children play in the fields."
+      ]
+    },
+    {
+      "id": 109,
+      "word": "taxi driver",
+      "translation": "出租车司机",
+      "meaning": "开出租车的人",
+      "unit": 1,
+      "category": "职业",
+      "examples": [
+        "The taxi driver knows all the streets.",
+        "My father is a taxi driver."
+      ]
+    },
+    {
+      "id": 110,
+      "word": "take home",
+      "translation": "带回家",
+      "meaning": "带某人或某物回家",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "I'll take you home.",
+        "Please take this book home."
+      ]
+    },
+    {
+      "id": 111,
+      "word": "keep safe",
+      "translation": "保证安全",
+      "meaning": "保护免受伤害",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "Keep your money safe.",
+        "The mother kept her child safe."
+      ]
+    },
+    {
+      "id": 112,
+      "word": "work hard",
+      "translation": "努力工作",
+      "meaning": "付出很多努力",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "You need to work hard.",
+        "She works hard every day."
+      ]
+    },
+    {
+      "id": 113,
+      "word": "brighten the night",
+      "translation": "点亮夜晚",
+      "meaning": "让夜晚变得明亮",
+      "unit": 1,
+      "category": "动词短语",
+      "examples": [
+        "Stars brighten the night sky.",
+        "Fireworks brighten the night."
+      ]
+    },
+    {
+      "id": 114,
+      "word": "day after day",
+      "translation": "日复一日",
+      "meaning": "每天重复",
+      "unit": 1,
+      "category": "时间短语",
+      "examples": [
+        "He goes to work day after day.",
+        "Day after day, the same routine."
+      ]
+    },
+    {
+      "id": 115,
+      "word": "of course not",
+      "translation": "当然不",
+      "meaning": "表示强烈否定",
+      "unit": 1,
+      "category": "常用表达",
+      "examples": [
+        "Can I borrow money? Of course not!",
+        "Of course not, I don't agree."
+      ]
+    },
+    {
+      "id": 116,
+      "word": "night owl",
+      "translation": "夜猫子，喜欢熬夜的人",
+      "meaning": "喜欢熬夜的人",
+      "unit": 1,
+      "category": "习语",
+      "examples": [
+        "I'm a night owl, I stay up late.",
+        "Night owls work best at night."
+      ]
+    },
+    {
+      "id": 201,
+      "word": "talk about",
+      "translation": "谈论",
+      "meaning": "讨论某件事情",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "Let's talk about your plans.",
+        "They are talking about the movie."
+      ]
+    },
+    {
+      "id": 202,
+      "word": "take part in",
+      "translation": "参加",
+      "meaning": "参与某活动",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "She wants to take part in the competition.",
+        "Many students take part in sports."
+      ]
+    },
+    {
+      "id": 203,
+      "word": "the next day",
+      "translation": "第二天",
+      "meaning": "次日",
+      "unit": 2,
+      "category": "时间短语",
+      "examples": [
+        "We arrived and the next day we went sightseeing.",
+        "The next day, he called me."
+      ]
+    },
+    {
+      "id": 204,
+      "word": "a month later",
+      "translation": "一个月以后",
+      "meaning": "一个月之后",
+      "unit": 2,
+      "category": "时间短语",
+      "examples": [
+        "A month later, they got married.",
+        "He returned a month later."
+      ]
+    },
+    {
+      "id": 205,
+      "word": "next time",
+      "translation": "下一次",
+      "meaning": "下次",
+      "unit": 2,
+      "category": "时间短语",
+      "examples": [
+        "Next time, be more careful.",
+        "I'll do better next time."
+      ]
+    },
+    {
+      "id": 206,
+      "word": "feel better",
+      "translation": "感觉好多了",
+      "meaning": "感觉好转",
+      "unit": 2,
+      "category": "状态表达",
+      "examples": [
+        "I hope you feel better soon.",
+        "After resting, I felt better."
+      ]
+    },
+    {
+      "id": 207,
+      "word": "happy birthday",
+      "translation": "生日快乐",
+      "meaning": "生日祝福",
+      "unit": 2,
+      "category": "祝福语",
+      "examples": [
+        "Happy birthday to you!",
+        "She said happy birthday to me."
+      ]
+    },
+    {
+      "id": 208,
+      "word": "ship model",
+      "translation": "轮船模型",
+      "meaning": "船的模型",
+      "unit": 2,
+      "category": "名词短语",
+      "examples": [
+        "He built a ship model.",
+        "The ship model is on the shelf."
+      ]
+    },
+    {
+      "id": 209,
+      "word": "run back to",
+      "translation": "跑回",
+      "meaning": "跑回去",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "The dog ran back to its owner.",
+        "I need to run back to the office."
+      ]
+    },
+    {
+      "id": 210,
+      "word": "shout at",
+      "translation": "朝...大喊",
+      "meaning": "对某人大声说话",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "Don't shout at me!",
+        "The teacher shouted at the students."
+      ]
+    },
+    {
+      "id": 211,
+      "word": "the colour of",
+      "translation": "...的颜色",
+      "meaning": "事物的颜色",
+      "unit": 2,
+      "category": "名词短语",
+      "examples": [
+        "The colour of the sky is blue.",
+        "What's the colour of your car?"
+      ]
+    },
+    {
+      "id": 212,
+      "word": "a huge fire",
+      "translation": "一场大火",
+      "meaning": "大型火灾",
+      "unit": 2,
+      "category": "名词短语",
+      "examples": [
+        "A huge fire destroyed the building.",
+        "They saw a huge fire in the distance."
+      ]
+    },
+    {
+      "id": 213,
+      "word": "walk on the street",
+      "translation": "走在大街上",
+      "meaning": "在街道上行走",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "People walk on the street.",
+        "Don't walk on the street at night alone."
+      ]
+    },
+    {
+      "id": 214,
+      "word": "hit my head",
+      "translation": "撞到我的头",
+      "meaning": "头部被撞击",
+      "unit": 2,
+      "category": "动词短语",
+      "examples": [
+        "I hit my head on the door.",
+        "He fell and hit his head."
+      ]
+    },
+    {
+      "id": 215,
+      "word": "Beijing opera show",
+      "translation": "京剧表演",
+      "meaning": "京剧演出",
+      "unit": 2,
+      "category": "文化活动",
+      "examples": [
+        "We watched a Beijing opera show.",
+        "The Beijing opera show was amazing."
+      ]
+    },
+    {
+      "id": 216,
+      "word": "be proud of",
+      "translation": "为...感到自豪",
+      "meaning": "感到骄傲",
+      "unit": 2,
+      "category": "情感表达",
+      "examples": [
+        "I'm proud of you.",
+        "She is proud of her achievements."
+      ]
+    },
+    {
+      "id": "3_1",
+      "word": "magic",
+      "translation": "魔术，戏法",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/ˈmædʒɪk/",
+      "example": "He is going to do magic at the party.",
+      "exampleTranslation": "他将在派对上表演魔术。",
+      "images": [
+        {
+          "id": "img_3_1_magic",
+          "url": "./pic/wy_4b/magic.png",
+          "alt": "魔术",
+          "description": "变魔术"
+        }
+      ]
+    },
+    {
+      "id": "3_2",
+      "word": "puzzle",
+      "translation": "拼图游戏",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/ˈpʌzl/",
+      "example": "I like to do puzzles in my free time.",
+      "exampleTranslation": "我喜欢在空闲时间玩拼图。",
+      "images": [
+        {
+          "id": "img_3_2_puzzle",
+          "url": "./pic/wy_4b/puzzle.png",
+          "alt": "拼图游戏",
+          "description": "玩拼图"
+        }
+      ]
+    },
+    {
+      "id": "3_3",
+      "word": "dancer",
+      "translation": "舞蹈演员",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/ˈdɑːnsər/",
+      "example": "She is a great dancer.",
+      "exampleTranslation": "她是一位很棒的舞蹈演员。",
+      "images": [
+        {
+          "id": "img_3_3_dancer",
+          "url": "./pic/wy_4b/dancer.png",
+          "alt": "舞蹈演员",
+          "description": "舞蹈演员在表演"
+        }
+      ]
+    },
+    {
+      "id": "3_4",
+      "word": "boy",
+      "translation": "男孩；儿子",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/bɔɪ/",
+      "example": "The boy is playing football.",
+      "exampleTranslation": "那个男孩在踢足球。",
+      "images": [
+        {
+          "id": "img_3_4_boy",
+          "url": "./pic/wy_4b/boy.png",
+          "alt": "男孩",
+          "description": "一个小男孩"
+        }
+      ]
+    },
+    {
+      "id": "3_5",
+      "word": "talent",
+      "translation": "天资，天赋，才能",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/ˈtælənt/",
+      "example": "He has a talent for music.",
+      "exampleTranslation": "他有音乐天赋。",
+      "images": [
+        {
+          "id": "img_3_5_talent",
+          "url": "./pic/wy_4b/talent.png",
+          "alt": "天赋",
+          "description": "展现天赋"
+        }
+      ]
+    },
+    {
+      "id": "3_6",
+      "word": "duck",
+      "translation": "鸭",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/dʌk/",
+      "example": "The duck is swimming in the pond.",
+      "exampleTranslation": "鸭子在池塘里游泳。",
+      "images": [
+        {
+          "id": "img_3_6_duck",
+          "url": "./pic/wy_4b/duck.png",
+          "alt": "鸭",
+          "description": "一只鸭子"
+        }
+      ]
+    },
+    {
+      "id": "3_7",
+      "word": "cock-a-doodle-doo",
+      "translation": "(公鸡啼叫的) 喔喔声",
+      "unit": 3,
+      "category": "名词类",
+      "phonetic": "/ˈkɒk ə ˌduːdl ˈduː/",
+      "example": "The rooster goes cock-a-doodle-doo.",
+      "exampleTranslation": "公鸡喔喔叫。",
+      "images": [
+        {
+          "id": "img_3_7_cock_a_doodle_doo",
+          "url": "./pic/wy_4b/cock-a-doodle-doo.png",
+          "alt": "公鸡啼叫",
+          "description": "公鸡在打鸣"
+        }
+      ]
+    },
+    {
+      "id": "3_8",
+      "word": "act",
+      "translation": "演出；扮演",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/ækt/",
+      "example": "She can act very well.",
+      "exampleTranslation": "她演得很好。",
+      "images": [
+        {
+          "id": "img_3_8_act",
+          "url": "./pic/wy_4b/act.png",
+          "alt": "演出",
+          "description": "在舞台上演出"
+        }
+      ]
+    },
+    {
+      "id": "3_9",
+      "word": "shine",
+      "translation": "表现突出，出众",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/ʃaɪn/",
+      "example": "He really shines in maths class.",
+      "exampleTranslation": "他在数学课上表现很突出。",
+      "images": [
+        {
+          "id": "img_3_9_shine",
+          "url": "./pic/wy_4b/shine.png",
+          "alt": "表现突出",
+          "description": "在人群中闪耀"
+        }
+      ]
+    },
+    {
+      "id": "3_10",
+      "word": "win",
+      "translation": "获胜，赢",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/wɪn/",
+      "example": "I hope our team will win.",
+      "exampleTranslation": "我希望我们队能赢。",
+      "images": [
+        {
+          "id": "img_3_10_win",
+          "url": "./pic/wy_4b/win.png",
+          "alt": "获胜",
+          "description": "赢得比赛"
+        }
+      ]
+    },
+    {
+      "id": "3_11",
+      "word": "just",
+      "translation": "就，只是",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/dʒʌst/",
+      "example": "I'm just kidding.",
+      "exampleTranslation": "我只是在开玩笑。",
+      "images": [
+        {
+          "id": "img_3_11_just",
+          "url": "./pic/wy_4b/just.png",
+          "alt": "只是",
+          "description": "表达轻微的语气"
+        }
+      ]
+    },
+    {
+      "id": "3_12",
+      "word": "slowly",
+      "translation": "缓慢地，慢慢地",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/ˈsloʊli/",
+      "example": "Please speak more slowly.",
+      "exampleTranslation": "请说得更慢一点。",
+      "images": [
+        {
+          "id": "img_3_12_slowly",
+          "url": "./pic/wy_4b/slowly.png",
+          "alt": "慢慢地",
+          "description": "乌龟在慢慢地爬"
+        }
+      ]
+    },
+    {
+      "id": "3_13",
+      "word": "enough",
+      "translation": "足够(的)",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/ɪˈnʌf/",
+      "example": "We have enough food.",
+      "exampleTranslation": "我们有足够的食物。",
+      "images": [
+        {
+          "id": "img_3_13_enough",
+          "url": "./pic/wy_4b/enough.png",
+          "alt": "足够",
+          "description": "满满的一碗饭"
+        }
+      ]
+    },
+    {
+      "id": "3_14",
+      "word": "anything",
+      "translation": "任何事情，无论何事",
+      "unit": 3,
+      "category": "动词类",
+      "phonetic": "/ˈeniθɪŋ/",
+      "example": "Is there anything I can do for you?",
+      "exampleTranslation": "有什么我可以为你做的吗？",
+      "images": [
+        {
+          "id": "img_3_14_anything",
+          "url": "./pic/wy_4b/anything.png",
+          "alt": "任何事情",
+          "description": "代表无限的可能性"
+        }
+      ]
+    },
+    {
+      "id": "3_15",
+      "word": "have got",
+      "translation": "有，拥有",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/həv ɡɒt/",
+      "example": "I have got a new bike.",
+      "exampleTranslation": "我有一辆新自行车。",
+      "images": [
+        {
+          "id": "img_3_15_have_got",
+          "url": "./pic/wy_4b/have got.png",
+          "alt": "拥有",
+          "description": "拥有一件新物品"
+        }
+      ]
+    },
+    {
+      "id": "3_16",
+      "word": "play the piano",
+      "translation": "弹钢琴",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/pleɪ ðə piˈænəʊ/",
+      "example": "My sister can play the piano.",
+      "exampleTranslation": "我妹妹会弹钢琴。",
+      "images": [
+        {
+          "id": "img_3_16_play_the_piano",
+          "url": "./pic/wy_4b/play the piano.png",
+          "alt": "弹钢琴",
+          "description": "一个人在弹钢琴"
+        }
+      ]
+    },
+    {
+      "id": "3_17",
+      "word": "the dance show",
+      "translation": "舞蹈表演",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ðə dɑːns ʃəʊ/",
+      "example": "We watched the dance show last night.",
+      "exampleTranslation": "我们昨晚看了舞蹈表演。",
+      "images": [
+        {
+          "id": "img_3_17_the_dance_show",
+          "url": "./pic/wy_4b/the dance show.png",
+          "alt": "舞蹈表演",
+          "description": "舞台上正在进行舞蹈表演"
+        }
+      ]
+    },
+    {
+      "id": "3_18",
+      "word": "take photos",
+      "translation": "拍照片",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/teɪk ˈfəʊtəʊz/",
+      "example": "I like to take photos of flowers.",
+      "exampleTranslation": "我喜欢给花拍照。",
+      "images": [
+        {
+          "id": "img_3_18_take_photos",
+          "url": "./pic/wy_4b/take photos.png",
+          "alt": "拍照片",
+          "description": "一个人拿着相机在拍照"
+        }
+      ]
+    },
+    {
+      "id": "3_19",
+      "word": "do puzzles",
+      "translation": "拼拼图",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/duː ˈpʌzlz/",
+      "example": "Let's do puzzles together.",
+      "exampleTranslation": "我们一起拼拼图吧。",
+      "images": [
+        {
+          "id": "img_3_19_do_puzzles",
+          "url": "./pic/wy_4b/do puzzles.png",
+          "alt": "拼拼图",
+          "description": "孩子们在拼拼图"
+        }
+      ]
+    },
+    {
+      "id": "3_20",
+      "word": "do magic",
+      "translation": "变魔术",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/duː ˈmædʒɪk/",
+      "example": "He can do magic with cards.",
+      "exampleTranslation": "他会用纸牌变魔术。",
+      "images": [
+        {
+          "id": "img_3_20_do_magic",
+          "url": "./pic/wy_4b/do magic.png",
+          "alt": "变魔术",
+          "description": "魔术师从帽子里变出兔子"
+        }
+      ]
+    },
+    {
+      "id": "3_21",
+      "word": "the best dancer",
+      "translation": "最佳舞蹈演员",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ðə best ˈdɑːnsər/",
+      "example": "She was chosen as the best dancer.",
+      "exampleTranslation": "她被选为最佳舞蹈演员。",
+      "images": [
+        {
+          "id": "img_3_21_the_best_dancer",
+          "url": "./pic/wy_4b/the best dancer.png",
+          "alt": "最佳舞蹈演员",
+          "description": "一个获得奖杯的舞者"
+        }
+      ]
+    },
+    {
+      "id": "3_22",
+      "word": "do great",
+      "translation": "表现出色，做得很好",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/duː ɡreɪt/",
+      "example": "I believe you will do great.",
+      "exampleTranslation": "我相信你会表现出色的。",
+      "images": [
+        {
+          "id": "img_3_22_do_great",
+          "url": "./pic/wy_4b/do great.png",
+          "alt": "表现出色",
+          "description": "竖起大拇指表扬"
+        }
+      ]
+    },
+    {
+      "id": "3_23",
+      "word": "be good at (doing) sth",
+      "translation": "擅长(做)某事",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/bi ɡʊd æt/",
+      "example": "He is good at drawing.",
+      "exampleTranslation": "他擅长画画。",
+      "images": [
+        {
+          "id": "img_3_23_be_good_at",
+          "url": "./pic/wy_4b/be good at (doing) sth.png",
+          "alt": "擅长",
+          "description": "一个擅长画画的孩子"
+        }
+      ]
+    },
+    {
+      "id": "3_24",
+      "word": "teach sb to do sth",
+      "translation": "教某人做某事",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/tiːtʃ ˈsʌmbədi tu duː ˈsʌmθɪŋ/",
+      "example": "My dad teaches me to swim.",
+      "exampleTranslation": "我爸爸教我游泳。",
+      "images": [
+        {
+          "id": "img_3_24_teach_sb_to_do_sth",
+          "url": "./pic/wy_4b/teach sb to do sth.png",
+          "alt": "教某人做某事",
+          "description": "一个成人在教孩子骑车"
+        }
+      ]
+    },
+    {
+      "id": "3_25",
+      "word": "all the time",
+      "translation": "一直，始终",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ɔːl ðə taɪm/",
+      "example": "She talks about her dog all the time.",
+      "exampleTranslation": "她一直谈论她的狗。",
+      "images": [
+        {
+          "id": "img_3_25_all_the_time",
+          "url": "./pic/wy_4b/all the time.png",
+          "alt": "一直",
+          "description": "一个循环的箭头，表示永恒"
+        }
+      ]
+    },
+    {
+      "id": "3_26",
+      "word": "worry about sb/sth",
+      "translation": "担心某人/某事",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ˈwɜːri əˈbaʊt/",
+      "example": "Don't worry about me.",
+      "exampleTranslation": "别担心我。",
+      "images": [
+        {
+          "id": "img_3_26_worry_about",
+          "url": "./pic/wy_4b/worry about sb-sth.png",
+          "alt": "担心",
+          "description": "一个皱眉思考的人"
+        }
+      ]
+    },
+    {
+      "id": "3_27",
+      "word": "hard work",
+      "translation": "努力工作，辛苦付出",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/hɑːd wɜːk/",
+      "example": "Success comes from hard work.",
+      "exampleTranslation": "成功来自于努力工作。",
+      "images": [
+        {
+          "id": "img_3_27_hard_work",
+          "url": "./pic/wy_4b/hard work.png",
+          "alt": "努力工作",
+          "description": "一个人在伏案工作"
+        }
+      ]
+    },
+    {
+      "id": "3_28",
+      "word": "day and night",
+      "translation": "日日夜夜；夜以继日",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/deɪ ənd naɪt/",
+      "example": "He practised day and night.",
+      "exampleTranslation": "他夜以继日地练习。",
+      "images": [
+        {
+          "id": "img_3_28_day_and_night",
+          "url": "./pic/wy_4b/day and night.png",
+          "alt": "日日夜夜",
+          "description": "太阳和月亮的图标"
+        }
+      ]
+    },
+    {
+      "id": "3_29",
+      "word": "family members",
+      "translation": "家庭成员",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ˈfæməli ˈmembəz/",
+      "example": "All my family members are here.",
+      "exampleTranslation": "我所有的家庭成员都在这儿。",
+      "images": [
+        {
+          "id": "img_3_29_family_members",
+          "url": "./pic/wy_4b/family members.png",
+          "alt": "家庭成员",
+          "description": "一家人的卡通形象"
+        }
+      ]
+    },
+    {
+      "id": "3_30",
+      "word": "give a magic show",
+      "translation": "表演魔术",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ɡɪv ə ˈmædʒɪk ʃəʊ/",
+      "example": "The magician will give a magic show.",
+      "exampleTranslation": "魔术师将表演一场魔术。",
+      "images": [
+        {
+          "id": "img_3_30_give_a_magic_show",
+          "url": "./pic/wy_4b/give a magic show.png",
+          "alt": "表演魔术",
+          "description": "魔术师在舞台上表演"
+        }
+      ]
+    },
+    {
+      "id": "3_31",
+      "word": "watch sb do sth",
+      "translation": "看某人做某事",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/wɒtʃ ˈsʌmbədi duː ˈsʌmθɪŋ/",
+      "example": "I watched him play basketball.",
+      "exampleTranslation": "我看他打篮球。",
+      "images": [
+        {
+          "id": "img_3_31_watch_sb_do_sth",
+          "url": "./pic/wy_4b/watch sb do sth.png",
+          "alt": "看某人做某事",
+          "description": "一个人在看另一个人画画"
+        }
+      ]
+    },
+    {
+      "id": "3_32",
+      "word": "practise doing sth",
+      "translation": "练习做某事",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/ˈpræktɪs ˈduːɪŋ ˈsʌmθɪŋ/",
+      "example": "She practises playing the violin every day.",
+      "exampleTranslation": "她每天练习拉小提琴。",
+      "images": [
+        {
+          "id": "img_3_32_practise_doing_sth",
+          "url": "./pic/wy_4b/practise doing sth.png",
+          "alt": "练习做某事",
+          "description": "一个女孩在练习弹钢琴"
+        }
+      ]
+    },
+    {
+      "id": "3_33",
+      "word": "make sb shine",
+      "translation": "使某人脱颖而出，表现出众",
+      "unit": 3,
+      "category": "短语",
+      "phonetic": "/meɪk ˈsʌmbədi ʃaɪn/",
+      "example": "Hard work makes him shine.",
+      "exampleTranslation": "努力工作使他脱颖而出。",
+      "images": [
+        {
+          "id": "img_3_33_make_sb_shine",
+          "url": "./pic/wy_4b/make sb shine.png",
+          "alt": "使某人脱颖而出",
+          "description": "一个人站在聚光灯下，闪闪发光"
+        }
+      ]
+    },
+    {
+      "id": "4_1",
+      "word": "sunflower",
+      "translation": "向日葵",
+      "unit": 4,
+      "category": "植物类",
+      "phonetic": "/ˈsʌnflaʊər/",
+      "example": "The sunflowers are blooming.",
+      "exampleTranslation": "向日葵正在盛开。",
+      "images": [
+        {
+          "id": "img_4_1_sunflower",
+          "url": "./pic/wy_4b/sunflower.png",
+          "alt": "向日葵",
+          "description": "一朵盛开的向日葵"
+        }
+      ]
+    },
+    {
+      "id": "4_2",
+      "word": "cabbage",
+      "translation": "卷心菜，洋白菜，甘蓝",
+      "unit": 4,
+      "category": "植物类",
+      "phonetic": "/ˈkæbɪdʒ/",
+      "example": "We had cabbage for dinner.",
+      "exampleTranslation": "我们晚餐吃了卷心菜。",
+      "images": [
+        {
+          "id": "img_4_2_cabbage",
+          "url": "./pic/wy_4b/cabbage.png",
+          "alt": "卷心菜",
+          "description": "一颗新鲜的卷心菜"
+        }
+      ]
+    },
+    {
+      "id": "4_3",
+      "word": "wheat",
+      "translation": "小麦",
+      "unit": 4,
+      "category": "植物类",
+      "phonetic": "/wiːt/",
+      "example": "The farmers are harvesting wheat.",
+      "exampleTranslation": "农民们正在收割小麦。",
+      "images": [
+        {
+          "id": "img_4_3_wheat",
+          "url": "./pic/wy_4b/wheat.png",
+          "alt": "小麦",
+          "description": "金黄色的麦田"
+        }
+      ]
+    },
+    {
+      "id": "4_4",
+      "word": "cotton",
+      "translation": "棉花，棉株",
+      "unit": 4,
+      "category": "植物类",
+      "phonetic": "/ˈkɒtn/",
+      "example": "They pick cotton in the fields.",
+      "exampleTranslation": "他们在田里摘棉花。",
+      "images": [
+        {
+          "id": "img_4_4_cotton",
+          "url": "./pic/wy_4b/cotton.png",
+          "alt": "棉花",
+          "description": "洁白的棉桃"
+        }
+      ]
+    },
+    {
+      "id": "4_5",
+      "word": "life",
+      "translation": "一生，生活",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/laɪf/",
+      "example": "My life is happy.",
+      "exampleTranslation": "我的生活很幸福。",
+      "images": [
+        {
+          "id": "img_4_5_life",
+          "url": "./pic/wy_4b/life.png",
+          "alt": "生活",
+          "description": "一家人快乐地在一起"
+        }
+      ]
+    },
+    {
+      "id": "4_6",
+      "word": "earth",
+      "translation": "泥土，土壤",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/ɜːθ/",
+      "example": "The seed grows in the earth.",
+      "exampleTranslation": "种子在土壤里生长。",
+      "images": [
+        {
+          "id": "img_4_6_earth",
+          "url": "./pic/wy_4b/earth.png",
+          "alt": "土壤",
+          "description": "一捧肥沃的土壤"
+        }
+      ]
+    },
+    {
+      "id": "4_7",
+      "word": "thin",
+      "translation": "细的",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/θɪn/",
+      "example": "It has a thin stem.",
+      "exampleTranslation": "它的茎很细。",
+      "images": [
+        {
+          "id": "img_4_7_thin",
+          "url": "./pic/wy_4b/thin.png",
+          "alt": "细的",
+          "description": "一根细长的树枝"
+        }
+      ]
+    },
+    {
+      "id": "4_8",
+      "word": "dig",
+      "translation": "挖，掘",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/dɪɡ/",
+      "example": "The dog digs a hole.",
+      "exampleTranslation": "狗挖了一个洞。",
+      "images": [
+        {
+          "id": "img_4_8_dig",
+          "url": "./pic/wy_4b/dig.png",
+          "alt": "挖",
+          "description": "一个人在用铲子挖土"
+        }
+      ]
+    },
+    {
+      "id": "4_9",
+      "word": "sleep",
+      "translation": "睡，睡觉",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/sliːp/",
+      "example": "The baby is sleeping.",
+      "exampleTranslation": "婴儿在睡觉。",
+      "images": [
+        {
+          "id": "img_4_9_sleep",
+          "url": "./pic/wy_4b/sleep.png",
+          "alt": "睡觉",
+          "description": "一个熟睡的婴儿"
+        }
+      ]
+    },
+    {
+      "id": "4_10",
+      "word": "miss",
+      "translation": "想念，思念，怀念(某人)",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/mɪs/",
+      "example": "I miss my friend.",
+      "exampleTranslation": "我想念我的朋友。",
+      "images": [
+        {
+          "id": "img_4_10_miss",
+          "url": "./pic/wy_4b/miss.png",
+          "alt": "想念",
+          "description": "一个人看着照片在思念"
+        }
+      ]
+    },
+    {
+      "id": "4_11",
+      "word": "mouse",
+      "translation": "老鼠",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/maʊs/",
+      "example": "The cat caught a mouse.",
+      "exampleTranslation": "猫抓住了一只老鼠。",
+      "images": [
+        {
+          "id": "img_4_11_mouse",
+          "url": "./pic/wy_4b/mouse.png",
+          "alt": "老鼠",
+          "description": "一只灰色的小老鼠"
+        }
+      ]
+    },
+    {
+      "id": "4_12",
+      "word": "everything",
+      "translation": "每件事物; 所有事物",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/ˈevriθɪŋ/",
+      "example": "Everything is OK.",
+      "exampleTranslation": "一切都好。",
+      "images": [
+        {
+          "id": "img_4_12_everything",
+          "url": "./pic/wy_4b/everything.png",
+          "alt": "所有事物",
+          "description": "一个包含各种物品的拼图"
+        }
+      ]
+    },
+    {
+      "id": "4_13",
+      "word": "grain",
+      "translation": "谷粒",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/ɡreɪn/",
+      "example": "The hen eats grains.",
+      "exampleTranslation": "母鸡吃谷粒。",
+      "images": [
+        {
+          "id": "img_4_13_grain",
+          "url": "./pic/wy_4b/grain.png",
+          "alt": "谷粒",
+          "description": "一堆金黄的谷粒"
+        }
+      ]
+    },
+    {
+      "id": "4_14",
+      "word": "paper",
+      "translation": "纸",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/ˈpeɪpər/",
+      "example": "Please give me a piece of paper.",
+      "exampleTranslation": "请给我一张纸。",
+      "images": [
+        {
+          "id": "img_4_14_paper",
+          "url": "./pic/wy_4b/paper.png",
+          "alt": "纸",
+          "description": "一张白纸"
+        }
+      ]
+    },
+    {
+      "id": "4_15",
+      "word": "will",
+      "translation": "将，会，要(用于构成将来时)",
+      "unit": 4,
+      "category": "其他",
+      "phonetic": "/wɪl/",
+      "example": "I will go to school tomorrow.",
+      "exampleTranslation": "我明天将去上学。",
+      "images": [
+        {
+          "id": "img_4_15_will",
+          "url": "./pic/wy_4b/will.png",
+          "alt": "将来",
+          "description": "一个指向未来的日历"
+        }
+      ]
+    },
+    {
+      "id": "4_16",
+      "word": "get big",
+      "translation": "长大",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ɡet bɪɡ/",
+      "example": "The plant gets big.",
+      "exampleTranslation": "植物长大了。",
+      "images": [
+        {
+          "id": "img_4_16_get_big",
+          "url": "./pic/wy_4b/get big.png",
+          "alt": "长大",
+          "description": "一颗种子长成大树的过程"
+        }
+      ]
+    },
+    {
+      "id": "4_17",
+      "word": "in the earth",
+      "translation": "在土壤中",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ɪn ði ɜːθ/",
+      "example": "The roots are in the earth.",
+      "exampleTranslation": "根在土壤里。",
+      "images": [
+        {
+          "id": "img_4_17_in_the_earth",
+          "url": "./pic/wy_4b/in the earth.png",
+          "alt": "在土壤中",
+          "description": "植物的根部在土壤里的示意图"
+        }
+      ]
+    },
+    {
+      "id": "4_18",
+      "word": "in the sun",
+      "translation": "在阳光下",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ɪn ðə sʌn/",
+      "example": "The cat is sleeping in the sun.",
+      "exampleTranslation": "猫在阳光下睡觉。",
+      "images": [
+        {
+          "id": "img_4_18_in_the_sun",
+          "url": "./pic/wy_4b/in the sun.png",
+          "alt": "在阳光下",
+          "description": "一只猫在阳光下打盹"
+        }
+      ]
+    },
+    {
+      "id": "4_19",
+      "word": "work hard",
+      "translation": "努力工作",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/wɜːk hɑːd/",
+      "example": "We should work hard.",
+      "exampleTranslation": "我们应该努力工作。",
+      "images": [
+        {
+          "id": "img_4_19_work_hard",
+          "url": "./pic/wy_4b/work hard.png",
+          "alt": "努力工作",
+          "description": "一个人在电脑前努力工作"
+        }
+      ]
+    },
+    {
+      "id": "4_20",
+      "word": "in the fields",
+      "translation": "在田野中",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ɪn ðə fiːldz/",
+      "example": "They are working in the fields.",
+      "exampleTranslation": "他们正在田野里劳作。",
+      "images": [
+        {
+          "id": "img_4_20_in_the_fields",
+          "url": "./pic/wy_4b/in the fields.png",
+          "alt": "在田野中",
+          "description": "广阔的田野和正在劳作的人"
+        }
+      ]
+    },
+    {
+      "id": "4_21",
+      "word": "pick cotton",
+      "translation": "摘棉花",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/pɪk ˈkɒtn/",
+      "example": "They pick cotton in autumn.",
+      "exampleTranslation": "他们在秋天摘棉花。",
+      "images": [
+        {
+          "id": "img_4_21_pick_cotton",
+          "url": "./pic/wy_4b/pick cotton.png",
+          "alt": "摘棉花",
+          "description": "人们在田里摘棉花"
+        }
+      ]
+    },
+    {
+      "id": "4_22",
+      "word": "come from...",
+      "translation": "来自......",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/kʌm frɒm/",
+      "example": "I come from China.",
+      "exampleTranslation": "我来自中国。",
+      "images": [
+        {
+          "id": "img_4_22_come_from",
+          "url": "./pic/wy_4b/come from.png",
+          "alt": "来自",
+          "description": "世界地图上的一个指向中国的箭头"
+        }
+      ]
+    },
+    {
+      "id": "4_23",
+      "word": "come true",
+      "translation": "(希望、愿望等)实现",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/kʌm truː/",
+      "example": "My dream comes true.",
+      "exampleTranslation": "我的梦想实现了。",
+      "images": [
+        {
+          "id": "img_4_23_come_true",
+          "url": "./pic/wy_4b/come true.png",
+          "alt": "实现",
+          "description": "一颗流星划过，有人在许愿"
+        }
+      ]
+    },
+    {
+      "id": "4_24",
+      "word": "make paper/chairs",
+      "translation": "造纸/做椅子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/meɪk ˈpeɪpər tʃeəz/",
+      "example": "We can make paper from wood.",
+      "exampleTranslation": "我们可以用木头造纸。",
+      "images": [
+        {
+          "id": "img_4_24_make_paper_chairs",
+          "url": "./pic/wy_4b/make paper chairs.png",
+          "alt": "造纸和做椅子",
+          "description": "一张纸和一把木椅"
+        }
+      ]
+    },
+    {
+      "id": "4_25",
+      "word": "water the wheat",
+      "translation": "给小麦浇水",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ˈwɔːtər ðə wiːt/",
+      "example": "The farmer is watering the wheat.",
+      "exampleTranslation": "农民正在给小麦浇水。",
+      "images": [
+        {
+          "id": "img_4_25_water_the_wheat",
+          "url": "./pic/wy_4b/water the wheat.png",
+          "alt": "给小麦浇水",
+          "description": "农民在麦田里浇水"
+        }
+      ]
+    },
+    {
+      "id": "4_26",
+      "word": "grow rice plants",
+      "translation": "种水稻",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ɡrəʊ raɪs plɑːnts/",
+      "example": "They grow rice plants in the south.",
+      "exampleTranslation": "他们在南方种水稻。",
+      "images": [
+        {
+          "id": "img_4_26_grow_rice_plants",
+          "url": "./pic/wy_4b/grow rice plants.png",
+          "alt": "种水稻",
+          "description": "绿油油的水稻田"
+        }
+      ]
+    },
+    {
+      "id": "4_27",
+      "word": "cucumber seeds",
+      "translation": "黄瓜种子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ˈkjuːkʌmbər siːdz/",
+      "example": "I bought some cucumber seeds.",
+      "exampleTranslation": "我买了一些黄瓜种子。",
+      "images": [
+        {
+          "id": "img_4_27_cucumber_seeds",
+          "url": "./pic/wy_4b/cucumber seeds.png",
+          "alt": "黄瓜种子",
+          "description": "一小袋黄瓜种子"
+        }
+      ]
+    },
+    {
+      "id": "4_28",
+      "word": "sunflower seeds",
+      "translation": "向日葵种子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/ˈsʌnflaʊər siːdz/",
+      "example": "Sunflower seeds are tasty.",
+      "exampleTranslation": "向日葵种子很好吃。",
+      "images": [
+        {
+          "id": "img_4_28_sunflower_seeds",
+          "url": "./pic/wy_4b/sunflower seeds.png",
+          "alt": "向日葵种子",
+          "description": "一堆葵花籽"
+        }
+      ]
+    },
+    {
+      "id": "4_29",
+      "word": "tomato seeds",
+      "translation": "番茄种子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/təˈmɑːtəʊ siːdz/",
+      "example": "These are tomato seeds.",
+      "exampleTranslation": "这些是番茄种子。",
+      "images": [
+        {
+          "id": "img_4_29_tomato_seeds",
+          "url": "./pic/wy_4b/tomato seeds.png",
+          "alt": "番茄种子",
+          "description": "几粒番茄种子"
+        }
+      ]
+    },
+    {
+      "id": "4_30",
+      "word": "bean seeds",
+      "translation": "豆种子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/biːn siːdz/",
+      "example": "The bean seeds are small.",
+      "exampleTranslation": "豆种子很小。",
+      "images": [
+        {
+          "id": "img_4_30_bean_seeds",
+          "url": "./pic/wy_4b/bean seeds.png",
+          "alt": "豆种子",
+          "description": "几颗干豆子"
+        }
+      ]
+    },
+    {
+      "id": "4_31",
+      "word": "plant seeds",
+      "translation": "种下种子",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/plɑːnt siːdz/",
+      "example": "We plant seeds in spring.",
+      "exampleTranslation": "我们在春天种下种子。",
+      "images": [
+        {
+          "id": "img_4_31_plant_seeds",
+          "url": "./pic/wy_4b/plant seeds.png",
+          "alt": "种下种子",
+          "description": "一只手正在往土里放种子"
+        }
+      ]
+    },
+    {
+      "id": "4_32",
+      "word": "stay with...",
+      "translation": "跟......待在一起",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/steɪ wɪð/",
+      "example": "I want to stay with you.",
+      "exampleTranslation": "我想和你待在一起。",
+      "images": [
+        {
+          "id": "img_4_32_stay_with",
+          "url": "./pic/wy_4b/stay with.png",
+          "alt": "待在一起",
+          "description": "两个人依偎在一起"
+        }
+      ]
+    },
+    {
+      "id": "4_33",
+      "word": "two weeks later",
+      "translation": "两周后",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/tuː wiːks ˈleɪtər/",
+      "example": "Two weeks later, the seeds sprout.",
+      "exampleTranslation": "两周后，种子发芽了。",
+      "images": [
+        {
+          "id": "img_4_33_two_weeks_later",
+          "url": "./pic/wy_4b/two weeks later.png",
+          "alt": "两周后",
+          "description": "一个日历，从1号翻到15号"
+        }
+      ]
+    },
+    {
+      "id": "4_34",
+      "word": "feed... with...",
+      "translation": "用......养活......",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/fiːd wɪð/",
+      "example": "We feed the family with rice.",
+      "exampleTranslation": "我们用大米养活家人。",
+      "images": [
+        {
+          "id": "img_4_34_feed_with",
+          "url": "./pic/wy_4b/feed with.png",
+          "alt": "用...养活...",
+          "description": "一碗米饭和一家人"
+        }
+      ]
+    },
+    {
+      "id": "4_35",
+      "word": "put... in...",
+      "translation": "把......放进......",
+      "unit": 4,
+      "category": "短语",
+      "phonetic": "/pʊt ɪn/",
+      "example": "Put the book in the bag.",
+      "exampleTranslation": "把书放进书包里。",
+      "images": [
+        {
+          "id": "img_4_35_put_in",
+          "url": "./pic/wy_4b/put in.png",
+          "alt": "把...放进...",
+          "description": "一只手把书放进书包"
+        }
+      ]
+    },
+    {
+      "id": "5_1",
+      "word": "event",
+      "translation": "活动，事件",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ɪˈvent/",
+      "example": "The school event was fun.",
+      "exampleTranslation": "学校活动很有趣。",
+      "images": [
+        {
+          "id": "img_5_1_event",
+          "url": "./pic/wy_4b/event.png",
+          "alt": "活动",
+          "description": "学校活动的热闹场景"
+        }
+      ]
+    },
+    {
+      "id": "5_2",
+      "word": "drama",
+      "translation": "戏剧",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈdrɑːmə/",
+      "example": "We watched a drama.",
+      "exampleTranslation": "我们看了一场戏剧。",
+      "images": [
+        {
+          "id": "img_5_2_drama",
+          "url": "./pic/wy_4b/drama.png",
+          "alt": "戏剧",
+          "description": "舞台上正在表演戏剧"
+        }
+      ]
+    },
+    {
+      "id": "5_3",
+      "word": "trip",
+      "translation": "旅游；旅行，出行",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/trɪp/",
+      "example": "We went on a trip.",
+      "exampleTranslation": "我们去旅行了。",
+      "images": [
+        {
+          "id": "img_5_3_trip",
+          "url": "./pic/wy_4b/trip.png",
+          "alt": "旅行",
+          "description": "背着书包去旅行的学生"
+        }
+      ]
+    },
+    {
+      "id": "5_4",
+      "word": "forest",
+      "translation": "森林，林区",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈfɒrɪst/",
+      "example": "The forest is green.",
+      "exampleTranslation": "森林是绿色的。",
+      "images": [
+        {
+          "id": "img_5_4_forest",
+          "url": "./pic/wy_4b/forest.png",
+          "alt": "森林",
+          "description": "茂密的森林"
+        }
+      ]
+    },
+    {
+      "id": "5_5",
+      "word": "culture",
+      "translation": "文化",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈkʌltʃə/",
+      "example": "I love Chinese culture.",
+      "exampleTranslation": "我爱中国文化。",
+      "images": [
+        {
+          "id": "img_5_5_culture",
+          "url": "./pic/wy_4b/culture.png",
+          "alt": "文化",
+          "description": "展示不同文化的场景"
+        }
+      ]
+    },
+    {
+      "id": "5_6",
+      "word": "festival",
+      "translation": "节，节庆，汇演",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈfestɪvl/",
+      "example": "The festival is coming.",
+      "exampleTranslation": "节日快到了。",
+      "images": [
+        {
+          "id": "img_5_6_festival",
+          "url": "./pic/wy_4b/festival.png",
+          "alt": "节庆",
+          "description": "热闹的节日庆祝活动"
+        }
+      ]
+    },
+    {
+      "id": "5_7",
+      "word": "nature",
+      "translation": "大自然",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈneɪtʃə/",
+      "example": "We love nature.",
+      "exampleTranslation": "我们热爱大自然。",
+      "images": [
+        {
+          "id": "img_5_7_nature",
+          "url": "./pic/wy_4b/nature.png",
+          "alt": "大自然",
+          "description": "美丽的自然风光"
+        }
+      ]
+    },
+    {
+      "id": "5_8",
+      "word": "dot",
+      "translation": "点，小圆点",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/dɒt/",
+      "example": "There is a dot on the paper.",
+      "exampleTranslation": "纸上有一个点。",
+      "images": [
+        {
+          "id": "img_5_8_dot",
+          "url": "./pic/wy_4b/dot.png",
+          "alt": "点",
+          "description": "纸上有一个小圆点"
+        }
+      ]
+    },
+    {
+      "id": "5_9",
+      "word": "student",
+      "translation": "学生",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈstjuːdnt/",
+      "example": "I am a student.",
+      "exampleTranslation": "我是一名学生。",
+      "images": [
+        {
+          "id": "img_5_9_student",
+          "url": "./pic/wy_4b/student.png",
+          "alt": "学生",
+          "description": "背着书包的学生"
+        }
+      ]
+    },
+    {
+      "id": "5_10",
+      "word": "horn",
+      "translation": "角",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/hɔːn/",
+      "example": "The deer has horns.",
+      "exampleTranslation": "鹿有角。",
+      "images": [
+        {
+          "id": "img_5_10_horn",
+          "url": "./pic/wy_4b/horn.png",
+          "alt": "角",
+          "description": "鹿头上的角"
+        }
+      ]
+    },
+    {
+      "id": "5_11",
+      "word": "raindrop",
+      "translation": "雨点，雨滴",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈreɪndrɒp/",
+      "example": "A raindrop fell on my face.",
+      "exampleTranslation": "一滴雨落在我脸上。",
+      "images": [
+        {
+          "id": "img_5_11_raindrop",
+          "url": "./pic/wy_4b/raindrop.png",
+          "alt": "雨点",
+          "description": "从天空落下的雨滴"
+        }
+      ]
+    },
+    {
+      "id": "5_12",
+      "word": "keeper",
+      "translation": "看守人，保管人",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈkiːpə/",
+      "example": "He is the forest keeper.",
+      "exampleTranslation": "他是护林人。",
+      "images": [
+        {
+          "id": "img_5_12_keeper",
+          "url": "./pic/wy_4b/keeper.png",
+          "alt": "看守人",
+          "description": "护林人在森林中巡逻"
+        }
+      ]
+    },
+    {
+      "id": "5_13",
+      "word": "note",
+      "translation": "笔记，记录",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/nəʊt/",
+      "example": "I wrote a note.",
+      "exampleTranslation": "我记了一条笔记。",
+      "images": [
+        {
+          "id": "img_5_13_note",
+          "url": "./pic/wy_4b/note.png",
+          "alt": "笔记",
+          "description": "打开的笔记本上写着笔记"
+        }
+      ]
+    },
+    {
+      "id": "5_14",
+      "word": "hour",
+      "translation": "小时",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/ˈaʊə/",
+      "example": "It takes one hour.",
+      "exampleTranslation": "需要一小时。",
+      "images": [
+        {
+          "id": "img_5_14_hour",
+          "url": "./pic/wy_4b/hour.png",
+          "alt": "小时",
+          "description": "时钟显示一小时的时间"
+        }
+      ]
+    },
+    {
+      "id": "5_15",
+      "word": "vote",
+      "translation": "选票",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/vəʊt/",
+      "example": "I gave my vote.",
+      "exampleTranslation": "我投了票。",
+      "images": [
+        {
+          "id": "img_5_15_vote",
+          "url": "./pic/wy_4b/vote.png",
+          "alt": "选票",
+          "description": "一张选票"
+        }
+      ]
+    },
+    {
+      "id": "5_16",
+      "word": "fair",
+      "translation": "户外游艺会；义卖会；集市",
+      "unit": 5,
+      "category": "名词",
+      "phonetic": "/feə/",
+      "example": "We went to the school fair.",
+      "exampleTranslation": "我们去了学校集市。",
+      "images": [
+        {
+          "id": "img_5_16_fair",
+          "url": "./pic/wy_4b/fair.png",
+          "alt": "集市",
+          "description": "热闹的学校集市场景"
+        }
+      ]
+    },
+    {
+      "id": "5_17",
+      "word": "more",
+      "translation": "更多的",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/mɔː/",
+      "example": "I want more food.",
+      "exampleTranslation": "我想要更多食物。",
+      "images": [
+        {
+          "id": "img_5_17_more",
+          "url": "./pic/wy_4b/more.png",
+          "alt": "更多的",
+          "description": "更多的食物堆在一起"
+        }
+      ]
+    },
+    {
+      "id": "5_18",
+      "word": "write",
+      "translation": "书写；写字",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/raɪt/",
+      "example": "I write with a pen.",
+      "exampleTranslation": "我用钢笔写字。",
+      "images": [
+        {
+          "id": "img_5_18_write",
+          "url": "./pic/wy_4b/write.png",
+          "alt": "书写",
+          "description": "一只手拿着笔在写字"
+        }
+      ]
+    },
+    {
+      "id": "5_19",
+      "word": "hunt",
+      "translation": "搜寻，寻找",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/hʌnt/",
+      "example": "We hunt for treasure.",
+      "exampleTranslation": "我们寻找宝藏。",
+      "images": [
+        {
+          "id": "img_5_19_hunt",
+          "url": "./pic/wy_4b/hunt.png",
+          "alt": "搜寻",
+          "description": "孩子们在大自然中寻宝"
+        }
+      ]
+    },
+    {
+      "id": "5_20",
+      "word": "lovely",
+      "translation": "美好的；令人愉快的；可爱的",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/ˈlʌvli/",
+      "example": "What a lovely day!",
+      "exampleTranslation": "多美好的一天！",
+      "images": [
+        {
+          "id": "img_5_20_lovely",
+          "url": "./pic/wy_4b/lovely.png",
+          "alt": "美好的",
+          "description": "阳光明媚的美好天气"
+        }
+      ]
+    },
+    {
+      "id": "5_21",
+      "word": "fall",
+      "translation": "落下，降落，跌落",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/fɔːl/",
+      "example": "Leaves fall in autumn.",
+      "exampleTranslation": "秋天叶子落下。",
+      "images": [
+        {
+          "id": "img_5_21_fall",
+          "url": "./pic/wy_4b/fall.png",
+          "alt": "落下",
+          "description": "树叶从树上飘落"
+        }
+      ]
+    },
+    {
+      "id": "5_22",
+      "word": "those",
+      "translation": "那些（that的复数形式）",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/ðəʊz/",
+      "example": "Those are my books.",
+      "exampleTranslation": "那些是我的书。",
+      "images": [
+        {
+          "id": "img_5_22_those",
+          "url": "./pic/wy_4b/those.png",
+          "alt": "那些",
+          "description": "远处的一堆书"
+        }
+      ]
+    },
+    {
+      "id": "5_23",
+      "word": "off",
+      "translation": "不在（某物）上面；从（某物）上移开",
+      "unit": 5,
+      "category": "其他",
+      "phonetic": "/ɒf/",
+      "example": "The book fell off the desk.",
+      "exampleTranslation": "书从桌子上掉下来。",
+      "images": [
+        {
+          "id": "img_5_23_off",
+          "url": "./pic/wy_4b/off.png",
+          "alt": "从...上移开",
+          "description": "一本书从桌子上掉落"
+        }
+      ]
+    },
+    {
+      "id": "5_24",
+      "word": "Science Day",
+      "translation": "科学日",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ˈsaɪəns deɪ/",
+      "example": "We have Science Day on Friday.",
+      "exampleTranslation": "周五我们有科学日。",
+      "images": [
+        {
+          "id": "img_5_24_science_day",
+          "url": "./pic/wy_4b/science day.png",
+          "alt": "科学日",
+          "description": "科学日活动场景"
+        }
+      ]
+    },
+    {
+      "id": "5_25",
+      "word": "Book Week",
+      "translation": "读书周",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/bʊk wiːk/",
+      "example": "Book Week is fun.",
+      "exampleTranslation": "读书周很有趣。",
+      "images": [
+        {
+          "id": "img_5_25_book_week",
+          "url": "./pic/wy_4b/book week.png",
+          "alt": "读书周",
+          "description": "学生们在读书周阅读"
+        }
+      ]
+    },
+    {
+      "id": "5_26",
+      "word": "Drama Night",
+      "translation": "戏剧之夜",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ˈdrɑːmə naɪt/",
+      "example": "We watched a play on Drama Night.",
+      "exampleTranslation": "戏剧之夜我们看了一场戏。",
+      "images": [
+        {
+          "id": "img_5_26_drama_night",
+          "url": "./pic/wy_4b/drama night.png",
+          "alt": "戏剧之夜",
+          "description": "夜晚的戏剧表演舞台"
+        }
+      ]
+    },
+    {
+      "id": "5_27",
+      "word": "Picnic Day",
+      "translation": "野餐日",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ˈpɪknɪk deɪ/",
+      "example": "Picnic Day is my favorite.",
+      "exampleTranslation": "野餐日是我最喜欢的。",
+      "images": [
+        {
+          "id": "img_5_27_picnic_day",
+          "url": "./pic/wy_4b/picnic day.png",
+          "alt": "野餐日",
+          "description": "在草地上野餐"
+        }
+      ]
+    },
+    {
+      "id": "5_28",
+      "word": "Music Week",
+      "translation": "音乐周",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ˈmjuːzɪk wiːk/",
+      "example": "Music Week is exciting.",
+      "exampleTranslation": "音乐周令人兴奋。",
+      "images": [
+        {
+          "id": "img_5_28_music_week",
+          "url": "./pic/wy_4b/music week.png",
+          "alt": "音乐周",
+          "description": "音乐表演场景"
+        }
+      ]
+    },
+    {
+      "id": "5_29",
+      "word": "a field trip",
+      "translation": "一次野外考察",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ə fiːld trɪp/",
+      "example": "We went on a field trip.",
+      "exampleTranslation": "我们去了一次野外考察。",
+      "images": [
+        {
+          "id": "img_5_29_field_trip",
+          "url": "./pic/wy_4b/a field trip.png",
+          "alt": "野外考察",
+          "description": "学生们在野外考察"
+        }
+      ]
+    },
+    {
+      "id": "5_30",
+      "word": "the school fair",
+      "translation": "学校集市",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ðə skuːl feə/",
+      "example": "I like the school fair.",
+      "exampleTranslation": "我喜欢学校集市。",
+      "images": [
+        {
+          "id": "img_5_30_school_fair",
+          "url": "./pic/wy_4b/the school fair.png",
+          "alt": "学校集市",
+          "description": "学校集市的摊位"
+        }
+      ]
+    },
+    {
+      "id": "5_31",
+      "word": "Sports Day",
+      "translation": "运动日",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/spɔːts deɪ/",
+      "example": "Sports Day is full of games.",
+      "exampleTranslation": "运动日有很多比赛。",
+      "images": [
+        {
+          "id": "img_5_31_sports_day",
+          "url": "./pic/wy_4b/sports day.png",
+          "alt": "运动日",
+          "description": "运动日比赛场景"
+        }
+      ]
+    },
+    {
+      "id": "5_32",
+      "word": "have fun",
+      "translation": "玩得愉快",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/hæv fʌn/",
+      "example": "Have fun at the party!",
+      "exampleTranslation": "在聚会上玩得愉快！",
+      "images": [
+        {
+          "id": "img_5_32_have_fun",
+          "url": "./pic/wy_4b/have fun.png",
+          "alt": "玩得愉快",
+          "description": "孩子们开心玩耍"
+        }
+      ]
+    },
+    {
+      "id": "5_33",
+      "word": "the Art Festival",
+      "translation": "艺术节",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ðə ɑːt ˈfestɪvl/",
+      "example": "We went to the Art Festival.",
+      "exampleTranslation": "我们去了艺术节。",
+      "images": [
+        {
+          "id": "img_5_33_art_festival",
+          "url": "./pic/wy_4b/the art festival.png",
+          "alt": "艺术节",
+          "description": "艺术节展览场景"
+        }
+      ]
+    },
+    {
+      "id": "5_34",
+      "word": "Chinese words",
+      "translation": "汉字",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/tʃaɪˈniːz wɜːdz/",
+      "example": "I learn Chinese words.",
+      "exampleTranslation": "我学习汉字。",
+      "images": [
+        {
+          "id": "img_5_34_chinese_words",
+          "url": "./pic/wy_4b/chinese words.png",
+          "alt": "汉字",
+          "description": "写满汉字的纸"
+        }
+      ]
+    },
+    {
+      "id": "5_35",
+      "word": "a nature hunt",
+      "translation": "大自然寻宝",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ə ˈneɪtʃə hʌnt/",
+      "example": "We did a nature hunt.",
+      "exampleTranslation": "我们进行了一次大自然寻宝。",
+      "images": [
+        {
+          "id": "img_5_35_nature_hunt",
+          "url": "./pic/wy_4b/a nature hunt.png",
+          "alt": "大自然寻宝",
+          "description": "孩子们在大自然中寻找宝物"
+        }
+      ]
+    },
+    {
+      "id": "5_36",
+      "word": "Chinese writing",
+      "translation": "中国书法",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/tʃaɪˈniːz ˈraɪtɪŋ/",
+      "example": "Chinese writing is beautiful.",
+      "exampleTranslation": "中国书法很美。",
+      "images": [
+        {
+          "id": "img_5_36_chinese_writing",
+          "url": "./pic/wy_4b/chinese writing.png",
+          "alt": "中国书法",
+          "description": "毛笔书写的汉字"
+        }
+      ]
+    },
+    {
+      "id": "5_37",
+      "word": "look like",
+      "translation": "看起来像",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/lʊk laɪk/",
+      "example": "You look like your mother.",
+      "exampleTranslation": "你看起来像你妈妈。",
+      "images": [
+        {
+          "id": "img_5_37_look_like",
+          "url": "./pic/wy_4b/look like.png",
+          "alt": "看起来像",
+          "description": "两个人长相相似"
+        }
+      ]
+    },
+    {
+      "id": "5_38",
+      "word": "give votes",
+      "translation": "投票",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ɡɪv vəʊts/",
+      "example": "Give votes to your favorite.",
+      "exampleTranslation": "给你最喜欢的投票。",
+      "images": [
+        {
+          "id": "img_5_38_give_votes",
+          "url": "./pic/wy_4b/give votes.png",
+          "alt": "投票",
+          "description": "将选票投入投票箱"
+        }
+      ]
+    },
+    {
+      "id": "5_39",
+      "word": "go back home",
+      "translation": "回家",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ɡəʊ bæk həʊm/",
+      "example": "Let's go back home.",
+      "exampleTranslation": "我们回家吧。",
+      "images": [
+        {
+          "id": "img_5_39_go_back_home",
+          "url": "./pic/wy_4b/go back home.png",
+          "alt": "回家",
+          "description": "孩子放学回家"
+        }
+      ]
+    },
+    {
+      "id": "5_40",
+      "word": "take notes",
+      "translation": "记笔记",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/teɪk nəʊts/",
+      "example": "Take notes in class.",
+      "exampleTranslation": "在课堂上记笔记。",
+      "images": [
+        {
+          "id": "img_5_40_take_notes",
+          "url": "./pic/wy_4b/take notes.png",
+          "alt": "记笔记",
+          "description": "学生在笔记本上写字"
+        }
+      ]
+    },
+    {
+      "id": "5_41",
+      "word": "the forest keeper",
+      "translation": "护林人",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ðə ˈfɒrɪst ˈkiːpə/",
+      "example": "The forest keeper protects the trees.",
+      "exampleTranslation": "护林人保护树木。",
+      "images": [
+        {
+          "id": "img_5_41_forest_keeper",
+          "url": "./pic/wy_4b/the forest keeper.png",
+          "alt": "护林人",
+          "description": "护林人在森林中工作"
+        }
+      ]
+    },
+    {
+      "id": "5_42",
+      "word": "all the way",
+      "translation": "自始至终",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ɔːl ðə weɪ/",
+      "example": "I walked all the way home.",
+      "exampleTranslation": "我一路上走回家。",
+      "images": [
+        {
+          "id": "img_5_42_all_the_way",
+          "url": "./pic/wy_4b/all the way.png",
+          "alt": "自始至终",
+          "description": "一条长长的路"
+        }
+      ]
+    },
+    {
+      "id": "5_43",
+      "word": "go around the world",
+      "translation": "环游世界",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ɡəʊ əˈraʊnd ðə wɜːld/",
+      "example": "I want to go around the world.",
+      "exampleTranslation": "我想环游世界。",
+      "images": [
+        {
+          "id": "img_5_43_go_around_world",
+          "url": "./pic/wy_4b/go around the world.png",
+          "alt": "环游世界",
+          "description": "地球仪和旅行元素"
+        }
+      ]
+    },
+    {
+      "id": "5_44",
+      "word": "the culture fair",
+      "translation": "文化集市",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/ðə ˈkʌltʃə feə/",
+      "example": "The culture fair is interesting.",
+      "exampleTranslation": "文化集市很有趣。",
+      "images": [
+        {
+          "id": "img_5_44_culture_fair",
+          "url": "./pic/wy_4b/the culture fair.png",
+          "alt": "文化集市",
+          "description": "展示各国文化的集市"
+        }
+      ]
+    },
+    {
+      "id": "5_45",
+      "word": "fall off",
+      "translation": "（从某物上）掉下，脱落",
+      "unit": 5,
+      "category": "词组",
+      "phonetic": "/fɔːl ɒf/",
+      "example": "The picture fell off the wall.",
+      "exampleTranslation": "画从墙上掉下来。",
+      "images": [
+        {
+          "id": "img_5_45_fall_off",
+          "url": "./pic/wy_4b/fall off.png",
+          "alt": "掉下",
+          "description": "东西从高处掉落"
+        }
+      ]
+    },
+      {
+    "id": "6_1",
+    "word": "T-shirt",
+    "translation": "T恤(衫)",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_1_tshirt",
+        "url": "./pic/wy_4b/T-shirt.png",
+        "alt": "T恤",
+        "description": "一件短袖T恤"
+      }
+    ]
+  },
+  {
+    "id": "6_2",
+    "word": "skirt",
+    "translation": "半身裙，裙子",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_2_skirt",
+        "url": "./pic/wy_4b/skirt.png",
+        "alt": "裙子",
+        "description": "一条半身裙"
+      }
+    ]
+  },
+  {
+    "id": "6_3",
+    "word": "shorts",
+    "translation": "短裤",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_3_shorts",
+        "url": "./pic/wy_4b/shorts.png",
+        "alt": "短裤",
+        "description": "一条短裤"
+      }
+    ]
+  },
+  {
+    "id": "6_4",
+    "word": "shirt",
+    "translation": "衬衫",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_4_shirt",
+        "url": "./pic/wy_4b/shirt.png",
+        "alt": "衬衫",
+        "description": "一件衬衫"
+      }
+    ]
+  },
+  {
+    "id": "6_5",
+    "word": "trousers",
+    "translation": "裤子",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_5_trousers",
+        "url": "./pic/wy_4b/trousers.png",
+        "alt": "裤子",
+        "description": "一条长裤"
+      }
+    ]
+  },
+  {
+    "id": "6_6",
+    "word": "scarf",
+    "translation": "围巾",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_6_scarf",
+        "url": "./pic/wy_4b/scarf.png",
+        "alt": "围巾",
+        "description": "一条围巾"
+      }
+    ]
+  },
+  {
+    "id": "6_7",
+    "word": "dress",
+    "translation": "连衣裙",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_7_dress",
+        "url": "./pic/wy_4b/dress.png",
+        "alt": "连衣裙",
+        "description": "一条连衣裙"
+      }
+    ]
+  },
+  {
+    "id": "6_8",
+    "word": "robe",
+    "translation": "长袍",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_8_robe",
+        "url": "./pic/wy_4b/robe.png",
+        "alt": "长袍",
+        "description": "一件长袍"
+      }
+    ]
+  },
+  {
+    "id": "6_9",
+    "word": "uniform",
+    "translation": "制服",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_9_uniform",
+        "url": "./pic/wy_4b/uniform.png",
+        "alt": "制服",
+        "description": "一套学校制服"
+      }
+    ]
+  },
+  {
+    "id": "6_10",
+    "word": "sweater",
+    "translation": "毛线衣，羊毛衫，针织衫",
+    "unit": 6,
+    "category": "服装类",
+    "images": [
+      {
+        "id": "img_6_10_sweater",
+        "url": "./pic/wy_4b/sweater.png",
+        "alt": "毛衣",
+        "description": "一件针织毛衣"
+      }
+    ]
+  },
+  {
+    "id": "6_11",
+    "word": "party",
+    "translation": "聚会，宴会",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_11_party",
+        "url": "./pic/wy_4b/party.png",
+        "alt": "聚会",
+        "description": "人们聚在一起庆祝"
+      }
+    ]
+  },
+  {
+    "id": "6_12",
+    "word": "Mr",
+    "translation": "先生",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_12_mr",
+        "url": "./pic/wy_4b/Mr.png",
+        "alt": "先生",
+        "description": "一位男士形象"
+      }
+    ]
+  },
+  {
+    "id": "6_13",
+    "word": "end",
+    "translation": "最后部分，末尾",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_13_end",
+        "url": "./pic/wy_4b/end.png",
+        "alt": "末尾",
+        "description": "表示结束的标记"
+      }
+    ]
+  },
+  {
+    "id": "6_14",
+    "word": "dressmaker",
+    "translation": "裁缝",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_14_dressmaker",
+        "url": "./pic/wy_4b/dressmaker.png",
+        "alt": "裁缝",
+        "description": "裁缝在工作"
+      }
+    ]
+  },
+  {
+    "id": "6_15",
+    "word": "Christmas",
+    "translation": "圣诞节",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_15_christmas",
+        "url": "./pic/wy_4b/Christmas.png",
+        "alt": "圣诞节",
+        "description": "圣诞树和礼物"
+      }
+    ]
+  },
+  {
+    "id": "6_16",
+    "word": "present",
+    "translation": "礼物",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_16_present",
+        "url": "./pic/wy_4b/present.png",
+        "alt": "礼物",
+        "description": "包装好的礼物盒"
+      }
+    ]
+  },
+  {
+    "id": "6_17",
+    "word": "clever",
+    "translation": "聪明的",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_17_clever",
+        "url": "./pic/wy_4b/clever.png",
+        "alt": "聪明的",
+        "description": "思考或解决问题的形象"
+      }
+    ]
+  },
+  {
+    "id": "6_18",
+    "word": "wrong",
+    "translation": "不正确的，错误的",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_18_wrong",
+        "url": "./pic/wy_4b/wrong.png",
+        "alt": "错误的",
+        "description": "打叉标记"
+      }
+    ]
+  },
+  {
+    "id": "6_19",
+    "word": "whale",
+    "translation": "鲸",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_19_whale",
+        "url": "./pic/wy_4b/whale.png",
+        "alt": "鲸",
+        "description": "鲸鱼在海洋中"
+      }
+    ]
+  },
+  {
+    "id": "6_20",
+    "word": "same",
+    "translation": "完全相同的，一模一样的",
+    "unit": 6,
+    "category": "其他",
+    "images": [
+      {
+        "id": "img_6_20_same",
+        "url": "./pic/wy_4b/same.png",
+        "alt": "相同的",
+        "description": "两个一模一样的物品"
+      }
+    ]
+  },
+  {
+    "id": "6_21",
+    "word": "the same",
+    "translation": "同样",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_21_the_same",
+        "url": "./pic/wy_4b/the same.png",
+        "alt": "同样",
+        "description": "两个相同的东西"
+      }
+    ]
+  },
+  {
+    "id": "6_22",
+    "word": "look outside",
+    "translation": "向外看",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_22_look_outside",
+        "url": "./pic/wy_4b/look outside.png",
+        "alt": "向外看",
+        "description": "从窗户向外看的场景"
+      }
+    ]
+  },
+  {
+    "id": "6_23",
+    "word": "pick clothes",
+    "translation": "挑选衣服",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_23_pick_clothes",
+        "url": "./pic/wy_4b/pick clothes.png",
+        "alt": "挑选衣服",
+        "description": "在衣架前选衣服"
+      }
+    ]
+  },
+  {
+    "id": "6_24",
+    "word": "look for",
+    "translation": "寻找",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_24_look_for",
+        "url": "./pic/wy_4b/look for.png",
+        "alt": "寻找",
+        "description": "四处寻找物品"
+      }
+    ]
+  },
+  {
+    "id": "6_25",
+    "word": "get ready",
+    "translation": "准备好",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_25_get_ready",
+        "url": "./pic/wy_4b/get ready.png",
+        "alt": "准备好",
+        "description": "准备出门的场景"
+      }
+    ]
+  },
+  {
+    "id": "6_26",
+    "word": "make clothes",
+    "translation": "做衣服",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_26_make_clothes",
+        "url": "./pic/wy_4b/make clothes.png",
+        "alt": "做衣服",
+        "description": "缝纫或制作衣服"
+      }
+    ]
+  },
+  {
+    "id": "6_27",
+    "word": "cut up",
+    "translation": "裁剪",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_27_cut_up",
+        "url": "./pic/wy_4b/cut up.png",
+        "alt": "裁剪",
+        "description": "用剪刀裁剪布料"
+      }
+    ]
+  },
+  {
+    "id": "6_28",
+    "word": "come along",
+    "translation": "跟着来",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_28_come_along",
+        "url": "./pic/wy_4b/come along.png",
+        "alt": "跟着来",
+        "description": "邀请一起走"
+      }
+    ]
+  },
+  {
+    "id": "6_29",
+    "word": "no problem",
+    "translation": "没问题",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_29_no_problem",
+        "url": "./pic/wy_4b/no problem.png",
+        "alt": "没问题",
+        "description": "表示没问题的手势"
+      }
+    ]
+  },
+  {
+    "id": "6_30",
+    "word": "look the same",
+    "translation": "看起来一样",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_30_look_the_same",
+        "url": "./pic/wy_4b/look the same.png",
+        "alt": "看起来一样",
+        "description": "两个相似的人或物"
+      }
+    ]
+  },
+  {
+    "id": "6_31",
+    "word": "have a look",
+    "translation": "看一看",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_31_have_a_look",
+        "url": "./pic/wy_4b/have a look.png",
+        "alt": "看一看",
+        "description": "正在看某物"
+      }
+    ]
+  },
+  {
+    "id": "6_32",
+    "word": "at the end of...",
+    "translation": "在……的末尾",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_32_at_the_end_of",
+        "url": "./pic/wy_4b/at the end of.png",
+        "alt": "在末尾",
+        "description": "时间或空间的末端"
+      }
+    ]
+  },
+  {
+    "id": "6_33",
+    "word": "get... wrong",
+    "translation": "把……弄错",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_33_get_wrong",
+        "url": "./pic/wy_4b/get wrong.png",
+        "alt": "弄错",
+        "description": "打叉的错误标记"
+      }
+    ]
+  },
+  {
+    "id": "6_34",
+    "word": "something special",
+    "translation": "某样特别的东西",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_34_something_special",
+        "url": "./pic/wy_4b/something special.png",
+        "alt": "特别的东西",
+        "description": "闪亮或特别的礼物"
+      }
+    ]
+  },
+  {
+    "id": "6_35",
+    "word": "ask sb to do sth",
+    "translation": "让某人做某事",
+    "unit": 6,
+    "category": "词组",
+    "images": [
+      {
+        "id": "img_6_35_ask_sb_to_do_sth",
+        "url": "./pic/wy_4b/ask sb to do sth.png",
+        "alt": "让某人做某事",
+        "description": "请求或指示的场景"
+      }
+    ]
+  }
+  ]
+}

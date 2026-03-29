@@ -1,0 +1,82 @@
+[
+  {
+    "word": "kitten",
+    "translation": "小猫",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "puppy",
+    "translation": "小狗",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "chick",
+    "translation": "小鸡",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "cub",
+    "translation": "幼兽",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "calf",
+    "translation": "小牛",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "kid",
+    "translation": "小孩",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "lamb",
+    "translation": "羔羊",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "foal",
+    "translation": "驹",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

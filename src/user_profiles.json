@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "created_at": "2026-01-25T17:59:21.289Z",
+    "last_updated": "2026-01-25T19:49:12.288Z",
+    "next_user_id": 1006
+  },
+  "users": {
+    "1001": {
+      "basic_info": {
+        "username": "weisimin1",
+        "display_name": "weisimin1",
+        "email": "weisimin1@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$wIuRjosZzZcbok3TVTiP8.8ZS69ePmWgtRQ8siAgPQqHa4TCjXAD2",
+        "password_changed_at": "2026-01-25T17:59:21.463Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": null,
+        "last_activity": null,
+        "created_at": "2026-01-25T17:59:21.463Z",
+        "updated_at": "2026-01-25T17:59:21.463Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1002": {
+      "basic_info": {
+        "username": "weisimin2",
+        "display_name": "weisimin2",
+        "email": "weisimin2@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$UrX3eTU6bQWmZkDtue8j0OfeCtABBesNzdt68gceAr96SPsm9MM4q",
+        "password_changed_at": "2026-01-25T17:59:33.743Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-01-25T19:49:12.287Z",
+        "last_activity": "2026-01-25T19:49:12.287Z",
+        "created_at": "2026-01-25T17:59:33.743Z",
+        "updated_at": "2026-01-25T17:59:33.743Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1003": {
+      "basic_info": {
+        "username": "weizhiyong",
+        "display_name": "weizhiyong",
+        "email": "weizhiyong@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$luQ7NYe.yX/AO6U2963xb.3LJ5XSlU5BV74b28.mN57kciaR.MAoW",
+        "password_changed_at": "2026-01-25T18:41:52.527Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-01-25T19:22:30.276Z",
+        "last_activity": "2026-01-25T19:22:30.276Z",
+        "created_at": "2026-01-25T18:41:52.527Z",
+        "updated_at": "2026-01-25T18:41:52.527Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1004": {
+      "basic_info": {
+        "username": "weisimin",
+        "username_2": "weisimin",
+        "display_name": "weisimin",
+        "email": "weisimin@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$5ld.kDWWrEoufETe4jO5s.nIb5i0tNjQa7vZi25G4aRGssH0xUpai",
+        "password_changed_at": "2026-01-25T19:28:29.201Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-01-25T19:48:39.383Z",
+        "last_activity": "2026-01-25T19:48:39.383Z",
+        "created_at": "2026-01-25T19:28:29.201Z",
+        "updated_at": "2026-01-25T19:28:29.201Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1005": {
+      "basic_info": {
+        "username": "weisimin3",
+        "username_2": "weisimin3",
+        "display_name": "weisimin3",
+        "email": "weisimin3@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$LsA04N6BooIE5eU1AOxNNuZXDBy6NcklMikZCwRItUlM1PBGjIANm",
+        "password_changed_at": "2026-01-25T19:30:47.221Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-01-25T19:32:35.847Z",
+        "last_activity": "2026-01-25T19:32:35.847Z",
+        "created_at": "2026-01-25T19:30:47.221Z",
+        "updated_at": "2026-01-25T19:30:47.221Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    }
+  },
+  "username_index": {
+    "weisimin1": "1001",
+    "weisimin2": "1002",
+    "weizhiyong": "1003",
+    "weisimin": "1004",
+    "weisimin3": "1005"
+  },
+  "email_index": {}
+}

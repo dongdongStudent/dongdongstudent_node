@@ -1,0 +1,1714 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "篇章完形填空",
+    "createdAt": "2026-03-06T11:49:06.800Z",
+    "lastActive": "2026-03-09T09:31:35.589Z",
+    "totalExtracts": 46,
+    "totalQuestionsAttempted": 46,
+    "totalCorrect": 25,
+    "totalWrong": 21,
+    "accuracy": 0.54,
+    "avgMastery": 0.23,
+    "practicedPassages": 4
+  },
+  "passages": {
+    "daily_routine_001": {
+      "passageId": "daily_routine_001",
+      "extract_count": 4,
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "questions": {
+        "daily_001_q24": {
+          "correct_count": 4,
+          "wrong_count": 0
+        },
+        "daily_001_q25": {
+          "correct_count": 4,
+          "wrong_count": 0
+        },
+        "daily_001_q26": {
+          "correct_count": 0,
+          "wrong_count": 4
+        },
+        "daily_001_q27": {
+          "correct_count": 3,
+          "wrong_count": 1
+        },
+        "daily_001_q28": {
+          "correct_count": 2,
+          "wrong_count": 2
+        },
+        "daily_001_q29": {
+          "correct_count": 0,
+          "wrong_count": 4
+        },
+        "daily_001_q30": {
+          "correct_count": 2,
+          "wrong_count": 2
+        },
+        "daily_001_q31": {
+          "correct_count": 2,
+          "wrong_count": 2
+        },
+        "daily_001_q32": {
+          "correct_count": 2,
+          "wrong_count": 2
+        }
+      },
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "timeSpent": 60,
+          "totalQuestions": 9,
+          "correctCount": 2,
+          "accuracy": 0.2222222222222222,
+          "results": [
+            {
+              "questionId": "daily_001_q24",
+              "number": 24,
+              "isCorrect": true,
+              "correctAnswer": "get",
+              "userAnswer": "get"
+            },
+            {
+              "questionId": "daily_001_q25",
+              "number": 25,
+              "isCorrect": true,
+              "correctAnswer": "brush",
+              "userAnswer": "brush"
+            },
+            {
+              "questionId": "daily_001_q26",
+              "number": 26,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q27",
+              "number": 27,
+              "isCorrect": false,
+              "correctAnswer": "go",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q28",
+              "number": 28,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q30",
+              "number": 30,
+              "isCorrect": false,
+              "correctAnswer": "do",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q31",
+              "number": 31,
+              "isCorrect": false,
+              "correctAnswer": "watch",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q32",
+              "number": 32,
+              "isCorrect": false,
+              "correctAnswer": "read",
+              "userAnswer": "a"
+            }
+          ]
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "timeSpent": 60,
+          "totalQuestions": 9,
+          "correctCount": 3,
+          "accuracy": 0.3333333333333333,
+          "results": [
+            {
+              "questionId": "daily_001_q24",
+              "number": 24,
+              "isCorrect": true,
+              "correctAnswer": "get",
+              "userAnswer": "get"
+            },
+            {
+              "questionId": "daily_001_q25",
+              "number": 25,
+              "isCorrect": true,
+              "correctAnswer": "brush",
+              "userAnswer": "brush"
+            },
+            {
+              "questionId": "daily_001_q26",
+              "number": 26,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "take"
+            },
+            {
+              "questionId": "daily_001_q27",
+              "number": 27,
+              "isCorrect": true,
+              "correctAnswer": "go",
+              "userAnswer": "go"
+            },
+            {
+              "questionId": "daily_001_q28",
+              "number": 28,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q30",
+              "number": 30,
+              "isCorrect": false,
+              "correctAnswer": "do",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q31",
+              "number": 31,
+              "isCorrect": false,
+              "correctAnswer": "watch",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q32",
+              "number": 32,
+              "isCorrect": false,
+              "correctAnswer": "read",
+              "userAnswer": "a"
+            }
+          ]
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "timeSpent": 60,
+          "totalQuestions": 9,
+          "correctCount": 7,
+          "accuracy": 0.7777777777777778,
+          "results": [
+            {
+              "questionId": "daily_001_q24",
+              "number": 24,
+              "isCorrect": true,
+              "correctAnswer": "get",
+              "userAnswer": "get"
+            },
+            {
+              "questionId": "daily_001_q25",
+              "number": 25,
+              "isCorrect": true,
+              "correctAnswer": "brush",
+              "userAnswer": "brush"
+            },
+            {
+              "questionId": "daily_001_q26",
+              "number": 26,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "take"
+            },
+            {
+              "questionId": "daily_001_q27",
+              "number": 27,
+              "isCorrect": true,
+              "correctAnswer": "go",
+              "userAnswer": "go"
+            },
+            {
+              "questionId": "daily_001_q28",
+              "number": 28,
+              "isCorrect": true,
+              "correctAnswer": "have",
+              "userAnswer": "have"
+            },
+            {
+              "questionId": "daily_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "a"
+            },
+            {
+              "questionId": "daily_001_q30",
+              "number": 30,
+              "isCorrect": true,
+              "correctAnswer": "do",
+              "userAnswer": "do"
+            },
+            {
+              "questionId": "daily_001_q31",
+              "number": 31,
+              "isCorrect": true,
+              "correctAnswer": "watch",
+              "userAnswer": "watch"
+            },
+            {
+              "questionId": "daily_001_q32",
+              "number": 32,
+              "isCorrect": true,
+              "correctAnswer": "read",
+              "userAnswer": "read"
+            }
+          ]
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "timeSpent": 60,
+          "totalQuestions": 9,
+          "correctCount": 7,
+          "accuracy": 0.7777777777777778,
+          "results": [
+            {
+              "questionId": "daily_001_q24",
+              "number": 24,
+              "isCorrect": true,
+              "correctAnswer": "get",
+              "userAnswer": "get"
+            },
+            {
+              "questionId": "daily_001_q25",
+              "number": 25,
+              "isCorrect": true,
+              "correctAnswer": "brush",
+              "userAnswer": "brush"
+            },
+            {
+              "questionId": "daily_001_q26",
+              "number": 26,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "take"
+            },
+            {
+              "questionId": "daily_001_q27",
+              "number": 27,
+              "isCorrect": true,
+              "correctAnswer": "go",
+              "userAnswer": "go"
+            },
+            {
+              "questionId": "daily_001_q28",
+              "number": 28,
+              "isCorrect": true,
+              "correctAnswer": "have",
+              "userAnswer": "have"
+            },
+            {
+              "questionId": "daily_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "have",
+              "userAnswer": "take"
+            },
+            {
+              "questionId": "daily_001_q30",
+              "number": 30,
+              "isCorrect": true,
+              "correctAnswer": "do",
+              "userAnswer": "do"
+            },
+            {
+              "questionId": "daily_001_q31",
+              "number": 31,
+              "isCorrect": true,
+              "correctAnswer": "watch",
+              "userAnswer": "watch"
+            },
+            {
+              "questionId": "daily_001_q32",
+              "number": 32,
+              "isCorrect": true,
+              "correctAnswer": "read",
+              "userAnswer": "read"
+            }
+          ]
+        }
+      ]
+    },
+    "zoo_passage_001": {
+      "passageId": "zoo_passage_001",
+      "extract_count": 1,
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "questions": {
+        "zoo_001_q24": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q25": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q26": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q27": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q28": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "zoo_001_q29": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "zoo_001_q30": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q31": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "zoo_001_q32": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "zoo_001_q33": {
+          "correct_count": 0,
+          "wrong_count": 1
+        }
+      },
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "timeSpent": 60,
+          "totalQuestions": 10,
+          "correctCount": 6,
+          "accuracy": 0.6,
+          "results": [
+            {
+              "questionId": "zoo_001_q24",
+              "number": 24,
+              "isCorrect": true,
+              "correctAnswer": "different",
+              "userAnswer": "different"
+            },
+            {
+              "questionId": "zoo_001_q25",
+              "number": 25,
+              "isCorrect": true,
+              "correctAnswer": "first",
+              "userAnswer": "first"
+            },
+            {
+              "questionId": "zoo_001_q26",
+              "number": 26,
+              "isCorrect": true,
+              "correctAnswer": "scary",
+              "userAnswer": "scary"
+            },
+            {
+              "questionId": "zoo_001_q27",
+              "number": 27,
+              "isCorrect": true,
+              "correctAnswer": "live",
+              "userAnswer": "live"
+            },
+            {
+              "questionId": "zoo_001_q28",
+              "number": 28,
+              "isCorrect": false,
+              "correctAnswer": "elephants",
+              "userAnswer": "they"
+            },
+            {
+              "questionId": "zoo_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "them",
+              "userAnswer": "elephant"
+            },
+            {
+              "questionId": "zoo_001_q30",
+              "number": 30,
+              "isCorrect": true,
+              "correctAnswer": "lovely",
+              "userAnswer": "lovely"
+            },
+            {
+              "questionId": "zoo_001_q31",
+              "number": 31,
+              "isCorrect": false,
+              "correctAnswer": "giraffes",
+              "userAnswer": "giraffe"
+            },
+            {
+              "questionId": "zoo_001_q32",
+              "number": 32,
+              "isCorrect": true,
+              "correctAnswer": "come",
+              "userAnswer": "come"
+            },
+            {
+              "questionId": "zoo_001_q33",
+              "number": 33,
+              "isCorrect": false,
+              "correctAnswer": "eating",
+              "userAnswer": "eat"
+            }
+          ]
+        }
+      ]
+    },
+    "zoo_passage_002": {
+      "passageId": "zoo_passage_002",
+      "extract_count": 0,
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "questions": {},
+      "history": []
+    },
+    "hermit_crab_passage_001": {
+      "passageId": "hermit_crab_passage_001",
+      "extract_count": 0,
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "questions": {},
+      "history": []
+    }
+  },
+  "questions": {
+    "daily_001_q24": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 4,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "get",
+          "correctAnswer": "get",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "get",
+          "correctAnswer": "get",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 14,
+          "userAnswer": "get",
+          "correctAnswer": "get",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 11,
+          "userAnswer": "get",
+          "correctAnswer": "get",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 11.5,
+        "fastest": 8,
+        "slowest": 14
+      }
+    },
+    "daily_001_q25": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 4,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": true,
+          "time": 10,
+          "userAnswer": "brush",
+          "correctAnswer": "brush",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "brush",
+          "correctAnswer": "brush",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "brush",
+          "correctAnswer": "brush",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "brush",
+          "correctAnswer": "brush",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 8.5,
+        "fastest": 5,
+        "slowest": 13
+      }
+    },
+    "daily_001_q26": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 0,
+      "wrong_count": 4,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 14,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 5,
+          "userAnswer": "take",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": false,
+          "time": 8,
+          "userAnswer": "take",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": false,
+          "time": 16,
+          "userAnswer": "take",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 10.8,
+        "fastest": 5,
+        "slowest": 16
+      }
+    },
+    "daily_001_q27": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 3,
+      "wrong_count": 1,
+      "accuracy": 0.75,
+      "mastery_level": 0.9,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 14,
+          "userAnswer": "a",
+          "correctAnswer": "go",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "go",
+          "correctAnswer": "go",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 12,
+          "userAnswer": "go",
+          "correctAnswer": "go",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "go",
+          "correctAnswer": "go",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 14.5,
+        "fastest": 12,
+        "slowest": 19
+      }
+    },
+    "daily_001_q28": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 2,
+      "wrong_count": 2,
+      "accuracy": 0.5,
+      "mastery_level": 0.6,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 18,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 7,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "have",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 16,
+          "userAnswer": "have",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 11.5,
+        "fastest": 5,
+        "slowest": 18
+      }
+    },
+    "daily_001_q29": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 0,
+      "wrong_count": 4,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 16,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 19,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": false,
+          "time": 5,
+          "userAnswer": "a",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": false,
+          "time": 15,
+          "userAnswer": "take",
+          "correctAnswer": "have",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 13.8,
+        "fastest": 5,
+        "slowest": 19
+      }
+    },
+    "daily_001_q30": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 2,
+      "wrong_count": 2,
+      "accuracy": 0.5,
+      "mastery_level": 0.6,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 7,
+          "userAnswer": "a",
+          "correctAnswer": "do",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 7,
+          "userAnswer": "a",
+          "correctAnswer": "do",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "do",
+          "correctAnswer": "do",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 17,
+          "userAnswer": "do",
+          "correctAnswer": "do",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 10,
+        "fastest": 7,
+        "slowest": 17
+      }
+    },
+    "daily_001_q31": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 2,
+      "wrong_count": 2,
+      "accuracy": 0.5,
+      "mastery_level": 0.6,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 18,
+          "userAnswer": "a",
+          "correctAnswer": "watch",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 9,
+          "userAnswer": "a",
+          "correctAnswer": "watch",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 17,
+          "userAnswer": "watch",
+          "correctAnswer": "watch",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "watch",
+          "correctAnswer": "watch",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 12.5,
+        "fastest": 6,
+        "slowest": 18
+      }
+    },
+    "daily_001_q32": {
+      "extract_count": 4,
+      "answer_count": 4,
+      "correct_count": 2,
+      "wrong_count": 2,
+      "accuracy": 0.5,
+      "mastery_level": 0.6,
+      "first_seen": "2026-03-06T11:49:06.819Z",
+      "last_practiced": "2026-03-07T07:49:03.061Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T11:49:19.038Z",
+          "result": false,
+          "time": 13,
+          "userAnswer": "a",
+          "correctAnswer": "read",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:36:37.692Z",
+          "result": false,
+          "time": 7,
+          "userAnswer": "a",
+          "correctAnswer": "read",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T12:41:26.601Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "read",
+          "correctAnswer": "read",
+          "passageId": "daily_routine_001"
+        },
+        {
+          "date": "2026-03-06T13:33:52.860Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "read",
+          "correctAnswer": "read",
+          "passageId": "daily_routine_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 12,
+        "fastest": 7,
+        "slowest": 15
+      }
+    },
+    "zoo_001_q24": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 18,
+          "userAnswer": "different",
+          "correctAnswer": "different",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 18,
+        "fastest": 18,
+        "slowest": 18
+      }
+    },
+    "zoo_001_q25": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "first",
+          "correctAnswer": "first",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 6,
+        "fastest": 6,
+        "slowest": 6
+      }
+    },
+    "zoo_001_q26": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 12,
+          "userAnswer": "scary",
+          "correctAnswer": "scary",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 12,
+        "fastest": 12,
+        "slowest": 12
+      }
+    },
+    "zoo_001_q27": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 18,
+          "userAnswer": "live",
+          "correctAnswer": "live",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 18,
+        "fastest": 18,
+        "slowest": 18
+      }
+    },
+    "zoo_001_q28": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": false,
+          "time": 14,
+          "userAnswer": "they",
+          "correctAnswer": "elephants",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 14,
+        "fastest": 14,
+        "slowest": 14
+      }
+    },
+    "zoo_001_q29": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": false,
+          "time": 18,
+          "userAnswer": "elephant",
+          "correctAnswer": "them",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 18,
+        "fastest": 18,
+        "slowest": 18
+      }
+    },
+    "zoo_001_q30": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "lovely",
+          "correctAnswer": "lovely",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 5,
+        "fastest": 5,
+        "slowest": 5
+      }
+    },
+    "zoo_001_q31": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": false,
+          "time": 14,
+          "userAnswer": "giraffe",
+          "correctAnswer": "giraffes",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 14,
+        "fastest": 14,
+        "slowest": 14
+      }
+    },
+    "zoo_001_q32": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "come",
+          "correctAnswer": "come",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 13,
+        "fastest": 13,
+        "slowest": 13
+      }
+    },
+    "zoo_001_q33": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T12:11:06.535Z",
+      "last_practiced": "2026-03-07T07:46:48.304Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-06T13:44:14.293Z",
+          "result": false,
+          "time": 16,
+          "userAnswer": "eat",
+          "correctAnswer": "eating",
+          "passageId": "zoo_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 16,
+        "fastest": 16,
+        "slowest": 16
+      }
+    },
+    "zoo_002_q24": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q25": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q26": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q27": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q28": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q29": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q30": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q31": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q32": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_002_q33": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:38:46.678Z",
+      "last_practiced": "2026-03-07T07:38:46.678Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q24": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:41:24.481Z",
+      "last_practiced": "2026-03-07T08:00:26.814Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q25": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:41:24.481Z",
+      "last_practiced": "2026-03-07T08:00:26.814Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q26": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:41:24.481Z",
+      "last_practiced": "2026-03-07T08:00:26.814Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q27": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:41:24.481Z",
+      "last_practiced": "2026-03-07T08:00:26.814Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q28": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T07:41:24.481Z",
+      "last_practiced": "2026-03-07T08:00:26.814Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q1": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:04:51.117Z",
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q2": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:04:51.117Z",
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:04:51.117Z",
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q4": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:04:51.117Z",
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "hermit_001_q5": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:04:51.117Z",
+      "last_practiced": "2026-03-07T08:12:37.877Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q1": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q2": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q4": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q5": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q6": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q7": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q8": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q9": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "zoo_001_q10": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-09T07:56:52.893Z",
+      "last_practiced": "2026-03-09T09:31:35.589Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

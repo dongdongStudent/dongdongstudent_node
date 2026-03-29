@@ -1,0 +1,72 @@
+[
+  {
+    "word": "I'm",
+    "translation": "我是",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": true
+    }
+  },
+  {
+    "word": "Alright",
+    "translation": "好的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": true
+    }
+  },
+  {
+    "word": "wear",
+    "translation": "穿",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": true
+    }
+  },
+  {
+    "word": "your",
+    "translation": "你的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": true
+    }
+  },
+  {
+    "word": "boots",
+    "translation": "靴子",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": true
+    }
+  },
+  {
+    "word": "big puddle",
+    "translation": "大水坑",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "muddy puddles",
+    "translation": "泥泞的水坑",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

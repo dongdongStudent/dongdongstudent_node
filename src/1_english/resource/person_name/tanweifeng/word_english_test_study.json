@@ -1,0 +1,22 @@
+[
+  {
+    "word": "kind",
+    "translation": "友善的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "opposite",
+    "translation": "相反的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

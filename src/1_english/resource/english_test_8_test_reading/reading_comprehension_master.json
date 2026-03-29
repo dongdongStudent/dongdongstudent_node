@@ -1,0 +1,303 @@
+{
+  "passages": [
+    {
+      "id": "rules_passage_001",
+      "title": "1. Rules Are All Around Us",
+      "description": "阅读短文，选择正确答案",
+      "category": "生活",
+      "difficulty": 2,
+      "totalQuestions": 4,
+      "content": "Rules are all around us. They help keep our lives in order, whether at home, at school, or in public places.\n\n### Rules at Home\n\nAt home, there are rules to help us be good kids. For example, we should take care of our things. We need to put our toys away after playing. Also, we should respect our parents. Say \"please\" and \"thank you\". And we have to finish our chores. Our chores could be setting the table or taking out the litter. These rules teach us responsibility (责任).\n\n### Rules at School\n\nSchool has many rules, too. We must arrive on time. Being late is not allowed. In class, we follow the teacher's order. We can't talk loudly. We should put up our hand if we want to speak. Wearing the school uniform is a rule, too. It makes us look like a team.\n\n### Rules in Public Places\n\nIn public places, rules keep us decent and safe. In a library, we must be quiet. This allows others to read. We can't jump the queue. We have to wait our turn. On the road, we follow the traffic rules. We look both ways before crossing.\n\nRules might seem like a trouble sometimes, but they are good for us. They make our world a better and safer place. We should all try to follow them.",
+      "questions": [
+        {
+          "id": "rules_001_q1",
+          "number": 1,
+          "question": "Which is NOT a home rule according to the passage?",
+          "options": [
+            "Take care of things.",
+            "Finish chores.",
+            "Watch TV all day.",
+            "Respect parents."
+          ],
+          "correctAnswer": "C",
+          "explanation": "文章中提到家庭规则包括：照顾好自己的东西、完成家务、尊重父母。'Watch TV all day'（整天看电视）不是家庭规则，而且与家庭规则的理念相反。"
+        },
+        {
+          "id": "rules_001_q2",
+          "number": 2,
+          "question": "What should we do before crossing the road?",
+          "options": [
+            "Run quickly.",
+            "Look both ways.",
+            "Close our eyes.",
+            "Walk slowly."
+          ],
+          "correctAnswer": "B",
+          "explanation": "文章最后一段提到：'On the road, we follow the traffic rules. We look both ways before crossing.'（在路上，我们要遵守交通规则。过马路前要左右看。）"
+        },
+        {
+          "id": "rules_001_q3",
+          "number": 3,
+          "question": "What does the underlined phrase \"jump the queue\" mean?",
+          "options": [
+            "Jump with friends.",
+            "Cut in line.",
+            "Play in the queue.",
+            "Leave the queue."
+          ],
+          "correctAnswer": "B",
+          "explanation": "根据上下文：'We can't jump the queue. We have to wait our turn.'（我们不能jump the queue，必须等待轮到我们。）这说明jump the queue的意思是'插队'，即不按顺序排队。"
+        },
+        {
+          "id": "rules_001_q4",
+          "number": 4,
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "Rules are everywhere and important.",
+            "Rules are only at school.",
+            "Rules are too hard to follow.",
+            "Rules are not useful."
+          ],
+          "correctAnswer": "A",
+          "explanation": "文章开头说'Rules are all around us'（规则无处不在），结尾说'They make our world a better and safer place'（它们让我们的世界更美好、更安全）。所以文章的主旨是规则无处不在且很重要。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "winter_animals_passage_001",
+      "title": "2. How Animals Live in Winter",
+      "description": "阅读短文，选择正确答案",
+      "category": "科普",
+      "difficulty": 2,
+      "totalQuestions": 5,
+      "content": "Winter is a hard time for animals. The weather may be very cold. Food can be hard to find under the snow. How do animals live at this time? Let's have a look.\n\n![鸟类迁徙](./pic/birds_migrating.png)\n\nIn fall (秋天), when the weather gets cool, some animals moved to warm places. Some birds fly to the south together because the weather there is warm and the food there is easy to find. When warm days come, they fly back.\n\n![雪鞋兔](./pic/snowshoe_rabbit.png)\n\nSome animals make changes to live in winter, like snowshoe rabbits in America. In summer, the rabbits' fur is brown. But they grow new, white fur in winter. The new fur keeps them safe in the snow. In fall, they eat to get enough **fat**, because the fat can help them keep warm in winter.\n\n![冬眠的黑熊](./pic/test.png)\n\nSome animals sleep all winter and they don't eat at all. Before winter, these animals eat a lot to grow fat. When winter comes, they go to sleep. Black bears in cold places make beds to sleep in. Some of them can sleep for seven months.\n\n![测试图片](./pic/test.png)",
+
+      
+      "questions": [
+        {
+          "id": "winter_001_q19",
+          "number": 19,
+          "question": "Which animal will probably (可能) move to the south in winter?",
+          "options": [
+            {
+              "text": "Birds",
+              "image": "./pic/test.png"
+            },
+            {
+              "text": "Snowshoe rabbits",
+              "image": "./pic/rabbit_option.png"
+            },
+            {
+              "text": "Black bears",
+              "image": "./pic/bear_option.png"
+            },
+            { 
+              "text": "All animals",
+              "image": "./pic/all_option.png"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "文章第二段提到：'Some birds fly to the south together because the weather there is warm and the food there is easy to find.'"
+        },
+        {
+          "id": "winter_001_q20",
+          "number": 20,
+          "question": "The fur of snowshoe rabbits is ______ in winter.",
+          "options": ["brown", "white", "yellow", "green"],
+          "correctAnswer": "B",
+          "explanation": "文章第三段提到：'In summer, the rabbits' fur is brown. But they grow new, white fur in winter.'"
+        },
+        {
+          "id": "winter_001_q21",
+          "number": 21,
+          "question": "What does the underlined word \"fat\" mean in Chinese?",
+          "options": ["饮品", "水分", "肌肉", "脂肪"],
+          "correctAnswer": "D",
+          "explanation": "根据上下文，动物吃食物积累fat来保暖，fat在这里的意思是'脂肪'。"
+        },
+        {
+          "id": "winter_001_q22",
+          "number": 22,
+          "question": "What is the right structure (结构) of the text?",
+          "options": [
+            {
+              "text": "①/②③④",
+              "image": "./pic/structure_a.png"
+            },
+            {
+              "text": "①②/③④",
+              "image": "./pic/structure_b.png"
+            },
+            {
+              "text": "①/②/③/④",
+              "image": "./pic/structure_c.png"
+            },
+            {
+              "text": "①②③/④",
+              "image": "./pic/structure_d.png"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "文章结构：第一段提出冬天动物生存的问题；第二、三、四段分别介绍三种不同的过冬方式。"
+        },
+        {
+          "id": "winter_001_q23",
+          "number": 23,
+          "question": "What can be the best title for the text?",
+          "options": [
+            "How Animals Live in Winter",
+            "Where Animals Stay in Winter",
+            "Why Animals Sleep in Winter",
+            "What Animals Eat in Winter"
+          ],
+          "correctAnswer": "A",
+          "explanation": "文章主要介绍了动物如何过冬的三种方式：迁徙、改变自身、冬眠。因此最合适的标题是'How Animals Live in Winter'。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "bob_conversation_passage_001",
+      "title": "3. Bob and His Classmates",
+      "description": "阅读对话，选择正确答案",
+      "category": "校园生活",
+      "difficulty": 1,
+      "totalQuestions": 5,
+      "content": "Hello! I'm Bob. I'm an English boy. Now I'm in No. 5 Middle School in Beijing.\n\nIt's 7:30 in the morning. On the way to school, I see Li Ming and Li Fang. They are my classmates.\n\n\"Hi, Li Ming, Li Fang!\" I say.\n\n\"Hi, Bob!\" they say.\n\n\"Oh, Li Fang, do you have a new pencil box?\" I ask.\n\n\"Yes, Bob,\" Li Fang says.\n\n\"What color is it?\" I ask.\n\n\"It's purple,\" Li Fang says. \"I like purple. Look at my schoolbag. It's purple, too.\"\n\n\"Look, Bob! I have a new CD,\" Li Ming says.\n\n\"Do you like listening to music?\" I ask.\n\n\"Yes,\" he says.\n\n\"Can I listen to your CD this afternoon?\" I ask.\n\n\"Yes, you can, Bob,\" he says.",
+      
+      "images": [],
+      
+      "questions": [
+        {
+          "id": "bob_001_q41",
+          "number": 41,
+          "question": "Bob is in ______.",
+          "options": [
+            { "text": "Nanjing" },
+            { "text": "Beijing" },
+            { "text": "Shanghai" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "根据短文第一段最后一句 'Now I'm in No. 5 Middle School in Beijing.' 可知，Bob现在在北京。"
+        },
+        {
+          "id": "bob_001_q42",
+          "number": 42,
+          "question": "Bob sees ______ classmates on the way to school.",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" }
+          ],
+          "correctAnswer": "A",
+          "explanation": "根据短文第二段 'On the way to school, I see Li Ming and Li Fang.' 可知，Bob在上学路上看到了李明和李芳，共2个同学。"
+        },
+        {
+          "id": "bob_001_q43",
+          "number": 43,
+          "question": "新中考 新考法·代词指代题 文中画线单词“it”指的是 ______”。",
+          "options": [
+            { "text": "the pen" },
+            { "text": "the CD" },
+            { "text": "the pencil box" }
+          ],
+          "correctAnswer": "C",
+          "explanation": "划线词 'it' 出现在对话 'What color is it?' 中，根据上文 'Oh, Li Fang, do you have a new pencil box?' 可知，这里的 'it' 指的是上文提到的 'pencil box'。"
+        },
+        {
+          "id": "bob_001_q44",
+          "number": 44,
+          "question": "What color is Li Fang's schoolbag?",
+          "options": [
+            { "text": "Blue." },
+            { "text": "Green." },
+            { "text": "Purple." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "根据李芳说的话 'Look at my schoolbag. It's purple, too.' 可知，她的书包是紫色的。"
+        },
+        {
+          "id": "bob_001_q45",
+          "number": 45,
+          "question": "下列哪项陈述是错误的?",
+          "options": [
+            { "text": "Bob is an English boy." },
+            { "text": "Li Ming is in No. 6 Middle School." },
+            { "text": "Bob will listen to music this afternoon." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "A选项正确，根据第一段 'I'm an English boy.' 可知。C选项正确，根据最后李明回答 'Yes, you can, Bob.' 可知Bob下午可以听音乐。B选项错误，文中只提到Bob在第五中学，并未说明李明在哪个中学，但根据他们是同学可知，李明也应该在第五中学，而不是第六中学。"
+        }
+      ],
+      "createdAt": "2024-05-21T00:00:00.000Z",
+      "updatedAt": "2024-05-21T00:00:00.000Z"
+},
+{
+  "id": "schoolbag_items_passage_001",
+  "title": "4. What's in Their Schoolbags?",
+  "description": "阅读表格，选择正确答案",
+  "category": "日常生活",
+  "difficulty": 1,
+  "totalQuestions": 4,
+  "content": "This is Alice.\nWhat's in Alice's schoolbag?\n★A yellow pen.\n★A blue ruler.\n★A green cup.\n★An orange.\n\nThis is Cindy.\nWhat's in Cindy's schoolbag?\n★A purple pen.\n★A red cup.\n★A key.\n★A CD.\n\nThis is Frank.\nWhat's in Frank's schoolbag?\n★A green T-shirt.\n★A black pen.\n★An English book.\n★A map.",
+  
+  "images": [],
+  
+  "questions": [
+    {
+      "id": "schoolbag_001_q31",
+      "number": 31,
+      "question": "You can see a ______ in Cindy's schoolbag.",
+      "options": [
+        { "text": "green cup" },
+        { "text": "purple cup" },
+        { "text": "red cup" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "根据Cindy的物品列表：'★A red cup.'可知，Cindy的书包里有一个红色的杯子。"
+    },
+    {
+      "id": "schoolbag_001_q32",
+      "number": 32,
+      "question": "______ has a map.",
+      "options": [
+        { "text": "Frank" },
+        { "text": "Cindy" },
+        { "text": "Alice" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "根据Frank的物品列表：'★A map.'可知，Frank有一张地图。"
+    },
+    {
+      "id": "schoolbag_001_q33",
+      "number": 33,
+      "question": "Everyone (每个人) has a ______.",
+      "options": [
+        { "text": "CD" },
+        { "text": "pen" },
+        { "text": "cup" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alice有a yellow pen，Cindy有a purple pen，Frank有a black pen。三个人都有钢笔，而CD只有Cindy有，杯子Alice和Cindy有但Frank没有。"
+    },
+    {
+      "id": "schoolbag_001_q34",
+      "number": 34,
+      "question": "______ are green.",
+      "options": [
+        { "text": "Alice's cup and Frank's map" },
+        { "text": "Cindy's pen and Frank's T-shirt" },
+        { "text": "Alice's cup and Frank's T-shirt" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Alice's cup是绿色的（a green cup），Frank's T-shirt是绿色的（a green T-shirt）。Frank's map没有说明颜色，Cindy's pen是紫色的。"
+    }
+  ],
+  "createdAt": "2024-05-21T00:00:00.000Z",
+  "updatedAt": "2024-05-21T00:00:00.000Z"
+}
+  ]
+}

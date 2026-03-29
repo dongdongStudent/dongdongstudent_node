@@ -1,0 +1,64 @@
+{
+  "sentences": {
+    "hotel_reservation_1742179310000": {
+      "id": "hotel_reservation_1742179310000",
+      "text": "Do you have any double rooms available for tonight?",
+      "chinese": "今晚还有双人房吗？",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "time": "2025-03-17T06:51:00.000Z"
+    },
+    "subway_1742179350000": {
+      "id": "subway_1742179350000",
+      "text": "Which subway line goes to the city center?",
+      "chinese": "哪条地铁线去市中心？",
+      "pass": true,
+      "extraction_count": 4,
+      "correct_count": 3,
+      "wrong_count": 1,
+      "time": "2025-03-17T06:55:00.000Z"
+    },
+    "ticket_1742179360000": {
+      "id": "ticket_1742179360000",
+      "text": "How much is a round-trip ticket?",
+      "chinese": "往返票多少钱？",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "time": "2025-03-17T06:56:00.000Z"
+    },
+    "passport_1742179370000": {
+      "id": "passport_1742179370000",
+      "text": "I lost my passport. What should I do?",
+      "chinese": "我的护照丢了。该怎么办？",
+      "pass": false,
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "time": "2025-03-17T06:57:00.000Z"
+    },
+    "currency_1742179380000": {
+      "id": "currency_1742179380000",
+      "text": "Where can I exchange currency?",
+      "chinese": "哪里可以兑换货币？",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "time": "2025-03-17T06:58:00.000Z"
+    },
+    "attraction_1742179390000": {
+      "id": "attraction_1742179390000",
+      "text": "What are the must-see attractions here?",
+      "chinese": "这里有哪些必看的景点？",
+      "pass": true,
+      "extraction_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "time": "2025-03-17T06:59:00.000Z"
+    }
+  }
+}

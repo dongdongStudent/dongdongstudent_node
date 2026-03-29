@@ -1,0 +1,112 @@
+{
+  "passages": [
+    {
+      "id": "ichiro_and_sun_001",
+      "title": "Ichiro and the Sun",
+      "description": "一个关于好奇男孩Ichiro探索太阳的故事",
+      "category": "故事",
+      "difficulty": 2,
+      "totalQuestions": 0,
+      "content": [
+        {
+          "part": 1,
+          "image": "./pic/1.png",
+          "text": "Long ago, a curious young boy lived in a far-off land.\n\nTo the east there were mountains.\nTo the west there was a large sea.",
+          "translation": "很久以前，一个充满好奇心的小男孩住在一个遥远的国度。\n\n东边是连绵的山脉。\n西边是一片广阔的大海。"
+        },
+        {
+          "part": 2,
+          "image": "./pic/2.png",
+          "text": "As each day began, the curious young boy sat and looked to the east. He watched the sun rise over the mountains. As each day ended, he looked west. He watched the sun sink into the sea.",
+          "translation": "每天清晨，这个好奇的小男孩都会坐向东边眺望。他看着太阳从山峦后升起。每当傍晚来临，他转向西边。他看着太阳沉入大海。"
+        },
+        {
+          "part": 3,
+          "image": "./pic/3.png",
+          "text": "The curious boy's name was Ichiro.\n\nIchiro wondered where the sun came from.\nAnd he wondered where it went each night.",
+          "translation": "这个好奇的男孩名叫一郎。\n\n一郎想知道太阳从哪里来。\n他也想知道每天晚上太阳去了哪里。"
+        },
+        {
+          "part": 4,
+          "image": "./pic/4.png",
+          "text": "The harder Ichiro thought, the more confused he became.\n\nHe wondered how many suns there really are.\nWould there ever be a time when a new sun\nwould not rise from the east?",
+          "translation": "一郎越想越困惑。\n\n他想知道究竟有多少个太阳。\n会不会有一天，新的太阳\n不再从东方升起？"
+        },
+        {
+          "part": 5,
+          "image": "./pic/5.png",
+          "text": "Ichiro was smart. He knew that the sun brought light.\nHe knew that without the sun, everything would be dark.\nHe also knew that the sun brought warmth.\nHe loved to feel the warm sun on his brown skin.",
+          "translation": "一郎很聪明。他知道太阳带来光明。\n他知道没有太阳，一切都会陷入黑暗。\n他也知道太阳带来温暖。\n他喜欢感受温暖的阳光照在他棕色皮肤上的感觉。"
+        },
+        {
+          "part": 6,
+          "image": "./pic/6.png",
+          "text": "Ichiro worried about a day when a new sun might not rise.\nHe worried about living in a land of darkness.\nHe worried about being cold.\n\nIchiro learned about a wise old woman.\nHe was told she knew the answers to everything.\nSo he decided to visit her.",
+          "translation": "一郎担心有一天太阳可能不再升起。\n他担心生活在黑暗的国度。\n他担心会感到寒冷。\n\n一郎听说有一位睿智的老妇人。\n别人告诉他她知道所有问题的答案。\n于是他决定去拜访她。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "001",
+      "title": "Learn Emotions in English",
+      "description": "通过图片学习各种表情的英语表达",
+      "category": "英语学习",
+      "difficulty": 1,
+      "totalQuestions": 0,
+      "content": [
+        {
+          "part": 1,
+          "image": "/pic/A/001_1.png",
+          "text": "This face is happy.",
+          "translation": "这张脸很开心。"
+        },
+        {
+          "part": 2,
+          "image": "/pic/A/001_2.png",
+          "text": "This face is sad.",
+          "translation": "这张脸很难过。"
+        },
+        {
+          "part": 3,
+          "image": "/pic/A/001_3.png",
+          "text": "This face is sorry.",
+          "translation": "这张脸很抱歉。"
+        },
+        {
+          "part": 4,
+          "image": "/pic/A/001_4.png",
+          "text": "This face is excited.",
+          "translation": "这张脸很兴奋。"
+        },
+        {
+          "part": 5,
+          "image": "/pic/A/001_5.png",
+          "text": "This face is scared.",
+          "translation": "这张脸很害怕。"
+        },
+        {
+          "part": 6,
+          "image": "/pic/A/001_6.png",
+          "text": "This face is shy.",
+          "translation": "这张脸很害羞。"
+        },
+        {
+          "part": 7,
+          "image": "/pic/A/001_7.png",
+          "text": "This face is mad.",
+          "translation": "这张脸很生气。"
+        },
+        {
+          "part": 8,
+          "image": "/pic/A/001_8.png",
+          "text": "This face is sleepy.",
+          "translation": "这张脸很困。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

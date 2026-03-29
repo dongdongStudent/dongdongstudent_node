@@ -1,0 +1,1446 @@
+{
+  "questions": [
+    {
+      "id": "001_a1b2c3",
+      "number": 1,
+      "givenWord": "wolf",
+      "correctForm": "wolves",
+      "explanation": "wolf 的复数形式是 wolves，以 f/fe 结尾的名词变复数时，通常把 f/fe 改为 v 再加 es。",
+      "sentence": "1. Every few minutes, one of the ______ (wolf) looks over at me.",
+      "source": {
+        "passageId": "001_a1b2c3",
+        "passageTitle": "生活中的词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "002_a1b2c3",
+      "number": 2,
+      "givenWord": "fox",
+      "correctForm": "foxes",
+      "explanation": "fox 的复数形式是 foxes，以 x 结尾的名词加 es。",
+      "sentence": "2. There are three ______ (fox) in the zoo. They are from Europe.",
+      "source": {
+        "passageId": "001_a1b2c3",
+        "passageTitle": "生活中的词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "003_a1b2c3",
+      "number": 3,
+      "givenWord": "baby",
+      "correctForm": "babies",
+      "explanation": "baby 的复数形式是 babies，以辅音字母 + y 结尾的名词，变 y 为 i 再加 es。",
+      "sentence": "3. Mr. Zhang and his wife have two ______ (baby). They are twins.",
+      "source": {
+        "passageId": "001_a1b2c3",
+        "passageTitle": "生活中的词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "004_a1b2c3",
+      "number": 4,
+      "givenWord": "care",
+      "correctForm": "careful",
+      "explanation": "be careful 是固定搭配，意为'小心'，care 的形容词形式是 careful。",
+      "sentence": "4. You should be ______ (care) and try not to fall down when you go downstairs.",
+      "source": {
+        "passageId": "001_a1b2c3",
+        "passageTitle": "生活中的词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "005_a1b2c3",
+      "number": 5,
+      "givenWord": "fun",
+      "correctForm": "funny",
+      "explanation": "funny 是形容词，意为'有趣的'，修饰人。",
+      "sentence": "5. My brother is very ______ (fun) and he often tells me jokes to make me laugh.",
+      "source": {
+        "passageId": "001_a1b2c3",
+        "passageTitle": "生活中的词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "006_d4e5f6",
+      "number": 6,
+      "givenWord": "three",
+      "correctForm": "third",
+      "explanation": "表示'第三课'要用序数词 third。",
+      "sentence": "6. The ______ (three) lesson is very interesting.",
+      "source": {
+        "passageId": "002_d4e5f6",
+        "passageTitle": "学校生活词汇变形",
+        "category": "教育",
+        "difficulty": 3
+      }
+    },
+    {
+      "id": "007_d4e5f6",
+      "number": 7,
+      "givenWord": "win",
+      "correctForm": "winner",
+      "explanation": "winner 是名词，意为'获胜者'，由动词 win 加 -er 构成。",
+      "sentence": "7. She is the ______ (win) of the English competition.",
+      "source": {
+        "passageId": "002_d4e5f6",
+        "passageTitle": "学校生活词汇变形",
+        "category": "教育",
+        "difficulty": 3
+      }
+    },
+    {
+      "id": "008_d4e5f6",
+      "number": 8,
+      "givenWord": "careful",
+      "correctForm": "carefully",
+      "explanation": "修饰动词 listen 要用副词 carefully，意为'认真地'。",
+      "sentence": "8. We should listen to our teachers ______ (careful).",
+      "source": {
+        "passageId": "002_d4e5f6",
+        "passageTitle": "学校生活词汇变形",
+        "category": "教育",
+        "difficulty": 3
+      }
+    },
+    {
+      "id": "009_d4e5f6",
+      "number": 9,
+      "givenWord": "cloud",
+      "correctForm": "cloudy",
+      "explanation": "cloudy 是形容词，意为'多云的'，由 cloud 加 -y 构成。",
+      "sentence": "9. It's ______ (cloud) today. It's going to rain.",
+      "source": {
+        "passageId": "002_d4e5f6",
+        "passageTitle": "学校生活词汇变形",
+        "category": "教育",
+        "difficulty": 3
+      }
+    },
+    {
+      "id": "010_d4e5f6",
+      "number": 10,
+      "givenWord": "interest",
+      "correctForm": "interested",
+      "explanation": "be interested in 是固定搭配，意为'对...感兴趣'。",
+      "sentence": "10. My sister is ______ (interest) in drawing pictures.",
+      "source": {
+        "passageId": "002_d4e5f6",
+        "passageTitle": "学校生活词汇变形",
+        "category": "教育",
+        "difficulty": 3
+      }
+    },
+    {
+      "id": "011_7f9a2b",
+      "number": 11,
+      "givenWord": "health",
+      "correctForm": "unhealthy",
+      "explanation": "根据句意'吃太多糖对牙齿不健康'，需要用 unhealthy，health 的形容词是 healthy，加 un- 构成反义词。",
+      "sentence": "11. Eating too much sugar is ______ (health) for your teeth.",
+      "source": {
+        "passageId": "003_7f9a2b",
+        "passageTitle": "健康与运动词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "012_7f9a2b",
+      "number": 12,
+      "givenWord": "two",
+      "correctForm": "twice",
+      "explanation": "表示'一周两次'要用 twice，是频率副词。",
+      "sentence": "12. My brother exercises ______ (two) a week to keep fit.",
+      "source": {
+        "passageId": "003_7f9a2b",
+        "passageTitle": "健康与运动词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "013_7f9a2b",
+      "number": 13,
+      "givenWord": "good",
+      "correctForm": "best",
+      "explanation": "根据句意'她是我们班最好的学生'，需要用最高级 best。",
+      "sentence": "13. She is the ______ (good) student in our class.",
+      "source": {
+        "passageId": "003_7f9a2b",
+        "passageTitle": "健康与运动词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "014_7f9a2b",
+      "number": 14,
+      "givenWord": "bad",
+      "correctForm": "worse",
+      "explanation": "even 修饰比较级，表示'甚至更糟'，所以用 worse。",
+      "sentence": "14. The weather today is even ______ (bad) than yesterday.",
+      "source": {
+        "passageId": "003_7f9a2b",
+        "passageTitle": "健康与运动词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "015_7f9a2b",
+      "number": 15,
+      "givenWord": "happy",
+      "correctForm": "happily",
+      "explanation": "修饰动词 are playing 要用副词 happily，意为'快乐地'。",
+      "sentence": "15. Look! The children are playing ______ (happy) in the park.",
+      "source": {
+        "passageId": "003_7f9a2b",
+        "passageTitle": "健康与运动词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "016_sandwich",
+      "number": 16,
+      "givenWord": "sandwich",
+      "correctForm": "sandwiches",
+      "explanation": "sandwich 是可数名词，前面有 two，要用复数形式 sandwiches。",
+      "sentence": "16. I'd like to buy two ______ (sandwich).",
+      "source": {
+        "passageId": "004_food",
+        "passageTitle": "日常购物词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "017_interest",
+      "number": 17,
+      "givenWord": "interest",
+      "correctForm": "interesting",
+      "explanation": "修饰名词 book 要用形容词 interesting，意为'有趣的'。",
+      "sentence": "17. —What an ______ (interest) book! —Yes, the book is really amazing.",
+      "source": {
+        "passageId": "005_opinion",
+        "passageTitle": "观点表达词汇变形",
+        "category": "教育",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "018_fly",
+      "number": 18,
+      "givenWord": "fly",
+      "correctForm": "fly",
+      "explanation": "情态动词 can 后面接动词原形，fly 本身就是原形。",
+      "sentence": "18. They believe bees can ______ (fly) as far as 10 kilometers if necessary.",
+      "source": {
+        "passageId": "006_animals",
+        "passageTitle": "动物习性词汇变形",
+        "category": "科普",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "019_danger",
+      "number": 19,
+      "givenWord": "danger",
+      "correctForm": "dangerous",
+      "explanation": "修饰名词 animal 要用形容词 dangerous，意为'危险的'。",
+      "sentence": "19. I don't like the tiger. I think that it is a very ______ (danger) animal.",
+      "source": {
+        "passageId": "007_animals",
+        "passageTitle": "动物描述词汇变形",
+        "category": "科普",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "020_usual",
+      "number": 20,
+      "givenWord": "usual",
+      "correctForm": "usually",
+      "explanation": "修饰动词 listens 要用副词 usually，意为'通常地'。",
+      "sentence": "20. To relax, my father ______ (usual) listens to country music in his free time.",
+      "source": {
+        "passageId": "008_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "021_woman",
+      "number": 21,
+      "givenWord": "woman",
+      "correctForm": "women",
+      "explanation": "woman 的复数形式是 women，是不规则变化，与 man/men 类似。句中 both...and... 连接两个并列成分，需要用复数形式。",
+      "sentence": "21. Today, the Yingge dance has greeted both men and ______ (woman).",
+      "source": {
+        "passageId": "009_culture",
+        "passageTitle": "文化与习俗词汇变形",
+        "category": "文化",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "022_child",
+      "number": 22,
+      "givenWord": "child",
+      "correctForm": "children",
+      "explanation": "child 的复数形式是 children，是不规则变化。句中 for parents and ______ 表示'为父母和孩子们'，需要用复数。",
+      "sentence": "22. We organize many activities for parents and ______ (child).",
+      "source": {
+        "passageId": "009_culture",
+        "passageTitle": "文化与习俗词汇变形",
+        "category": "文化",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "023_interest",
+      "number": 23,
+      "givenWord": "interest",
+      "correctForm": "interesting",
+      "explanation": "修饰名词 movie 要用形容词 interesting，意为'有趣的'。这是一个感叹句，结构为 What an + 形容词 + 名词。",
+      "sentence": "23. What an ______ (interest) movie it is! We all want to watch it again.",
+      "source": {
+        "passageId": "009_culture",
+        "passageTitle": "文化与习俗词汇变形",
+        "category": "文化",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "024_danger",
+      "number": 24,
+      "givenWord": "danger",
+      "correctForm": "dangerous",
+      "explanation": "or 连接并列成分，something bad 和 something dangerous 都是名词短语，需要用形容词 dangerous 修饰 something。",
+      "sentence": "24. In this way, people can protect themselves from eating something bad or ______ (danger).",
+      "source": {
+        "passageId": "009_culture",
+        "passageTitle": "文化与习俗词汇变形",
+        "category": "文化",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "025_swim",
+      "number": 25,
+      "givenWord": "swim",
+      "correctForm": "swimmer",
+      "explanation": "动词 swim 加上 -er 变成名词 swimmer，意为'游泳者、游泳运动员'。前面有形容词 famous 修饰，需要用名词形式。",
+      "sentence": "25. Mike's brother is good at swimming and he hopes to become a famous ______ (swim).",
+      "source": {
+        "passageId": "010_sports",
+        "passageTitle": "运动与梦想词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "026_luck",
+      "number": 26,
+      "givenWord": "luck",
+      "correctForm": "lucky",
+      "explanation": "be lucky to do sth. 是固定搭配，意为'很幸运做某事'，需要用形容词 lucky。",
+      "sentence": "26. We are ______ (luck) to have family and friends in our lives.",
+      "source": {
+        "passageId": "010_sports",
+        "passageTitle": "运动与梦想词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "027_make",
+      "number": 27,
+      "givenWord": "make",
+      "correctForm": "made",
+      "explanation": "be made of 是固定搭配，意为'由...制成'（看得出原材料），需要用过去分词 made 构成被动语态。",
+      "sentence": "27. The kite is always ______ (make) of painted silk and bamboo.",
+      "source": {
+        "passageId": "010_sports",
+        "passageTitle": "运动与梦想词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "028_nation",
+      "number": 28,
+      "givenWord": "nation",
+      "correctForm": "national",
+      "explanation": "修饰名词 flag 要用形容词 national，意为'国家的、国有的'，表示'国旗'。",
+      "sentence": "28. This is our ______ (nation) flag and it is the symbol of our great country.",
+      "source": {
+        "passageId": "010_sports",
+        "passageTitle": "运动与梦想词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "029_friend",
+      "number": 29,
+      "givenWord": "friend",
+      "correctForm": "friendly",
+      "explanation": "warm and friendly 是并列结构，friendly 是形容词，意为'友好的'，与 warm 一起修饰 the online world。",
+      "sentence": "29. Good sharing can make the online world warm and ______ (friend).",
+      "source": {
+        "passageId": "011_online",
+        "passageTitle": "网络社交词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "030_beauty",
+      "number": 30,
+      "givenWord": "beauty",
+      "correctForm": "beautiful",
+      "explanation": "这是一个感叹句，结构为 What + 形容词 + 名词，需要用形容词 beautiful 修饰 flowers。",
+      "sentence": "30. What ______ (beauty) flowers they are! I like them very much.",
+      "source": {
+        "passageId": "011_online",
+        "passageTitle": "网络社交词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "031_safe",
+      "number": 31,
+      "givenWord": "safe",
+      "correctForm": "safely",
+      "explanation": "修饰动词 land 要用副词 safely，意为'安全地'。不定式 to land a plane safely 作目的状语。",
+      "sentence": "31. For example, right now to land a plane ______ (safe), a pilot has to go through many steps in the right order.",
+      "source": {
+        "passageId": "011_online",
+        "passageTitle": "网络社交词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "032_build",
+      "number": 32,
+      "givenWord": "build",
+      "correctForm": "buildings",
+      "explanation": "a lot of 后面接可数名词复数，build 的名词形式是 building，意为'建筑物'，这里需要用复数 buildings。",
+      "sentence": "32. The city is modern and you can see a lot of tall ______ (build) in the centre of city.",
+      "source": {
+        "passageId": "012_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "033_happy",
+      "number": 33,
+      "givenWord": "happy",
+      "correctForm": "unhappy",
+      "explanation": "根据后文'因为我找不到钱包'可知心情是不开心的，所以要用 happy 的反义词 unhappy，意为'不开心的'。",
+      "sentence": "33. I'm very ______ (happy) because I can't find my wallet.",
+      "source": {
+        "passageId": "012_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "034_play",
+      "number": 34,
+      "givenWord": "play",
+      "correctForm": "playing",
+      "explanation": "practise doing sth. 是固定搭配，意为'练习做某事'，后面接动词的 -ing 形式，所以用 playing。",
+      "sentence": "34. My sister has to practise ______ (play) the piano for two hours every day.",
+      "source": {
+        "passageId": "012_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "035_good",
+      "number": 35,
+      "givenWord": "good",
+      "correctForm": "better",
+      "explanation": "than 是比较级的标志，good 的比较级是 better，意为'更好的'。",
+      "sentence": "35. Don't think you are ______ (good) than others, or you will fall behind others.",
+      "source": {
+        "passageId": "012_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "036_relax",
+      "number": 36,
+      "givenWord": "relax",
+      "correctForm": "relaxed",
+      "explanation": "feel 是系动词，后面接形容词作表语，relaxed 意为'感到放松的'，形容人的感受。",
+      "sentence": "36. —I'm nervous, Mom. What should I do? —Well, listening to your favourite music can help you feel ______ (relax).",
+      "source": {
+        "passageId": "012_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "037_once",
+      "number": 37,
+      "givenWord": "once",
+      "correctForm": "Once",
+      "explanation": "根据句意'我每周去那里一次'，需要用频率副词 once，意为'一次'。句首字母大写。",
+      "sentence": "37. \"______ a week I go out there,\" she says.",
+      "source": {
+        "passageId": "013_sports",
+        "passageTitle": "运动频率词汇练习",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "038_hardly_ever",
+      "number": 38,
+      "givenWord": "hardly ever",
+      "correctForm": "hardly ever",
+      "explanation": "根据后文'因为他对游泳不感兴趣'，可知他很少去游泳，需要用频率短语 hardly ever，意为'几乎从不'。",
+      "sentence": "38. David ______ goes swimming because he is not interested in swimming.",
+      "source": {
+        "passageId": "013_sports",
+        "passageTitle": "运动频率词汇练习",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "039_baseball",
+      "number": 39,
+      "givenWord": "baseball",
+      "correctForm": "baseball",
+      "explanation": "根据后文'我总是喜欢球类运动'，可知前面列举的是球类运动，需要用 baseball，意为'棒球'。",
+      "sentence": "39. My favourite sports are ______ and tennis. I always love ball games.",
+      "source": {
+        "passageId": "013_sports",
+        "passageTitle": "运动频率词汇练习",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "040_jump_rope",
+      "number": 40,
+      "givenWord": "jump rope",
+      "correctForm": "jump rope",
+      "explanation": "根据后文'你应该选择一个更短的'，可知前面说的是跳绳，需要用 jump rope，意为'跳绳'。",
+      "sentence": "40. This ______ is too long for you, Lily. You should choose a shorter one.",
+      "source": {
+        "passageId": "013_sports",
+        "passageTitle": "运动频率词汇练习",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "041_keep_fit",
+      "number": 41,
+      "givenWord": "keep fit",
+      "correctForm": "keep fit",
+      "explanation": "根据句意'我爸爸每天跑步因为他想保持健康'，需要用 keep fit，意为'保持健康'。",
+      "sentence": "41. My father goes running every day because he wants to ______.",
+      "source": {
+        "passageId": "013_sports",
+        "passageTitle": "运动频率词汇练习",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "042_my",
+      "number": 42,
+      "givenWord": "my",
+      "correctForm": "mine",
+      "explanation": "根据答句'可能这是Jack的'，可知前面说的是'不是我的'，需要用名词性物主代词 mine，相当于 my notebook。",
+      "sentence": "42. —Who left a notebook in the English club? —It's not ______ (my). Maybe it's Jack's.",
+      "source": {
+        "passageId": "014_daily",
+        "passageTitle": "日常对话词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "043_jog",
+      "number": 43,
+      "givenWord": "jog",
+      "correctForm": "jogging",
+      "explanation": "go jogging 是固定搭配，意为'去慢跑'，需要用 jog 的 -ing 形式。",
+      "sentence": "43. —Let's go ______ (jog) tomorrow. —That sounds great.",
+      "source": {
+        "passageId": "014_daily",
+        "passageTitle": "日常对话词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "044_practise",
+      "number": 44,
+      "givenWord": "practise",
+      "correctForm": "practice",
+      "explanation": "practice makes perfect 是英语谚语，意为'熟能生巧'。practise 是动词，这里需要用名词形式 practice。注意英美拼写差异，美式英语常用 practice 作为名词。",
+      "sentence": "44. Li Ying believed that ______ (practise) makes perfect.",
+      "source": {
+        "passageId": "014_daily",
+        "passageTitle": "日常对话词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "045_teenage",
+      "number": 45,
+      "givenWord": "teenage",
+      "correctForm": "teenagers",
+      "explanation": "根据句意'我们都是青少年'，需要用 teenager 的复数形式 teenagers，意为'青少年'。teenage 是形容词，这里需要名词。",
+      "sentence": "45. She is 15 years old. I am 14 years old. We both are ______ (teenage).",
+      "source": {
+        "passageId": "015_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "046_swim",
+      "number": 46,
+      "givenWord": "swim",
+      "correctForm": "swimming",
+      "explanation": "go swimming 是固定搭配，意为'去游泳'，需要用 swim 的 -ing 形式。",
+      "sentence": "46. Lily asks me to go ______ (swim) with her.",
+      "source": {
+        "passageId": "015_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "047_health",
+      "number": 47,
+      "givenWord": "health",
+      "correctForm": "healthy",
+      "explanation": "keep us healthy 是固定搭配，healthy 是形容词，意为'健康的'，作宾语补足语。",
+      "sentence": "47. Running and cycling are good sports and they can keep us ______ (health).",
+      "source": {
+        "passageId": "015_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "048_watch",
+      "number": 48,
+      "givenWord": "watch",
+      "correctForm": "to watch",
+      "explanation": "It's fun for sb. to do sth. 是固定句型，意为'对某人来说做某事很有趣'，需要用动词不定式 to watch。",
+      "sentence": "48. It's fun for the boys ______ (watch) football matches because they all love football.",
+      "source": {
+        "passageId": "015_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "049_work",
+      "number": 49,
+      "givenWord": "work",
+      "correctForm": "work",
+      "explanation": "Both of his parents 是复数主语，谓语动词要用原形 work，表示'工作'。",
+      "sentence": "49. Both of his parents ______ (work) at a local factory.",
+      "source": {
+        "passageId": "015_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "050_strawberry",
+      "number": 50,
+      "givenWord": "strawberry",
+      "correctForm": "strawberries",
+      "explanation": "some 后面接可数名词复数，strawberry 的复数形式是 strawberries，以辅音字母+y结尾，变 y 为 i 再加 es。",
+      "sentence": "50. There are some ______ (strawberry) in the bag. They are very delicious.",
+      "source": {
+        "passageId": "016_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "051_wait",
+      "number": 51,
+      "givenWord": "wait",
+      "correctForm": "waiter",
+      "explanation": "work as a waiter 意为'做服务员工作'，wait 加 -er 变成名词 waiter，意为'男服务员'。",
+      "sentence": "51. David is a college student. He works as a ______ (wait) in a restaurant when he is free.",
+      "source": {
+        "passageId": "016_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "052_have",
+      "number": 52,
+      "givenWord": "have",
+      "correctForm": "having",
+      "explanation": "What about doing sth.? 是固定句型，意为'做某事怎么样？'，about 是介词，后面接动词的 -ing 形式。",
+      "sentence": "52. What about ______ (have) lunch together?",
+      "source": {
+        "passageId": "016_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "053_choose",
+      "number": 53,
+      "givenWord": "choose",
+      "correctForm": "choice",
+      "explanation": "a good choice 是名词短语，意为'一个好的选择'，需要用 choose 的名词形式 choice。",
+      "sentence": "53. Getting close to nature is always a good ______ (choose).",
+      "source": {
+        "passageId": "016_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "054_order",
+      "number": 54,
+      "givenWord": "order",
+      "correctForm": "to order",
+      "explanation": "would like to do sth. 是固定搭配，意为'想要做某事'，后面接动词不定式 to order。",
+      "sentence": "54. I'd like ______ (order) some beef noodles and milk.",
+      "source": {
+        "passageId": "016_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "055_pear",
+      "number": 55,
+      "givenWord": "pear",
+      "correctForm": "pears",
+      "explanation": "some 后面接可数名词复数，pear 的复数形式是 pears，直接加 s。",
+      "sentence": "55. My mother goes to the store to buy some ______ (pear) and apples.",
+      "source": {
+        "passageId": "017_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "056_serve",
+      "number": 56,
+      "givenWord": "serve",
+      "correctForm": "service",
+      "explanation": "a new service 是名词短语，意为'一项新服务'，需要用 serve 的名词形式 service。",
+      "sentence": "56. China Railway is testing a new ______ (serve).",
+      "source": {
+        "passageId": "017_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "057_go",
+      "number": 57,
+      "givenWord": "go",
+      "correctForm": "going",
+      "explanation": "instead of 是介词短语，后面接动词的 -ing 形式，意为'而不是做某事'。",
+      "sentence": "57. They want to stay at home instead of ______ (go) to the zoo.",
+      "source": {
+        "passageId": "017_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "058_health",
+      "number": 58,
+      "givenWord": "health",
+      "correctForm": "healthy",
+      "explanation": "修饰名词 food 要用形容词 healthy，意为'健康的'。",
+      "sentence": "58. My mother always asks me to eat more ______ (health) food.",
+      "source": {
+        "passageId": "017_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "059_sleep",
+      "number": 59,
+      "givenWord": "sleep",
+      "correctForm": "sleepy",
+      "explanation": "feel 是系动词，后面接形容词作表语，sleepy 意为'困倦的、想睡的'。",
+      "sentence": "59. —Do you still feel ______ (sleep), David? —Yes, I do. I can't get enough sleep.",
+      "source": {
+        "passageId": "018_health",
+        "passageTitle": "健康生活词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "060_feel",
+      "number": 60,
+      "givenWord": "feel",
+      "correctForm": "feel",
+      "explanation": "make sb. do sth. 是固定搭配，意为'让某人做某事'，后面接动词原形 feel。",
+      "sentence": "60. Walking for two hours makes me ______ (feel) very tired and I want to have a rest.",
+      "source": {
+        "passageId": "018_health",
+        "passageTitle": "健康生活词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "061_balance",
+      "number": 61,
+      "givenWord": "balance",
+      "correctForm": "balanced",
+      "explanation": "修饰名词 diet 要用形容词 balanced，意为'均衡的'，a balanced diet 是固定搭配，意为'均衡饮食'。",
+      "sentence": "61. That means we'd better have a ______ (balance) diet and have three meals on time.",
+      "source": {
+        "passageId": "018_health",
+        "passageTitle": "健康生活词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "062_weigh",
+      "number": 62,
+      "givenWord": "weigh",
+      "correctForm": "weight",
+      "explanation": "the weight of... 是名词短语，意为'......的重量'，需要用 weigh 的名词形式 weight。",
+      "sentence": "62. The ______ (weigh) of my coming baby made it difficult for me to stand straight, and my legs felt heavy.",
+      "source": {
+        "passageId": "018_health",
+        "passageTitle": "健康生活词汇变形",
+        "category": "健康",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "063_have",
+      "number": 63,
+      "givenWord": "have",
+      "correctForm": "are having",
+      "explanation": "at the moment 意为'此刻、现在'，表示正在进行的动作，需要用现在进行时。主语 Lily and her friends 是复数，所以用 are having。",
+      "sentence": "63. Lily and her friends ______ (have) a holiday in Qingdao at the moment.",
+      "source": {
+        "passageId": "019_travel",
+        "passageTitle": "旅行度假词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "064_play",
+      "number": 64,
+      "givenWord": "play",
+      "correctForm": "playing",
+      "explanation": "have fun doing sth. 是固定搭配，意为'做某事很开心'，后面接动词的 -ing 形式。",
+      "sentence": "64. The children are having fun ______ (play) in the water.",
+      "source": {
+        "passageId": "019_travel",
+        "passageTitle": "旅行度假词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "065_make",
+      "number": 65,
+      "givenWord": "make",
+      "correctForm": "to make",
+      "explanation": "It's wise to do sth. 是固定句型，意为'做某事是明智的'，需要用动词不定式 to make。",
+      "sentence": "65. It's wise ______ (make) a shopping list first.",
+      "source": {
+        "passageId": "019_travel",
+        "passageTitle": "旅行度假词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "066_tour",
+      "number": 66,
+      "givenWord": "tour",
+      "correctForm": "tourists",
+      "explanation": "a lot of 后面接可数名词复数，tour 加 -ist 变成名词 tourist，意为'游客'，这里需要用复数形式 tourists。",
+      "sentence": "66. A lot of ______ (tour) come to Beijing and visit the Great Wall every day.",
+      "source": {
+        "passageId": "020_travel",
+        "passageTitle": "旅游与城市词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "067_drive",
+      "number": 67,
+      "givenWord": "drive",
+      "correctForm": "driver",
+      "explanation": "a bus driver 是名词短语，意为'公交车司机'，drive 加 -r 变成名词 driver。",
+      "sentence": "67. His father is a bus ______ (drive) and he works hard to give him a better life.",
+      "source": {
+        "passageId": "020_travel",
+        "passageTitle": "旅游与城市词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "068_center",
+      "number": 68,
+      "givenWord": "center",
+      "correctForm": "central",
+      "explanation": "修饰名词 part 要用形容词 central，意为'中心的、中央的'，表示'市中心部分'。",
+      "sentence": "68. The school is not far away from here. It is in the ______ (center) part of the city.",
+      "source": {
+        "passageId": "020_travel",
+        "passageTitle": "旅游与城市词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "069_slow",
+      "number": 69,
+      "givenWord": "slow",
+      "correctForm": "slowly",
+      "explanation": "修饰动词 die 要用副词 slowly，意为'慢慢地'。and 连接并列的动词短语，前面是 eat less and less，后面是 slowly die。",
+      "sentence": "69. If a sea animal eats plastics by mistake, it will eat less and less and ______ (slow) die.",
+      "source": {
+        "passageId": "020_travel",
+        "passageTitle": "旅游与城市词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "070_shine",
+      "number": 70,
+      "givenWord": "shine",
+      "correctForm": "shining",
+      "explanation": "Look! 是现在进行时的标志，表示正在发生的动作，需要用 shine 的现在分词 shining。",
+      "sentence": "70. Look! The sun is ______ (shine).",
+      "source": {
+        "passageId": "021_daily",
+        "passageTitle": "日常场景词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "071_be",
+      "number": 71,
+      "givenWord": "be",
+      "correctForm": "is",
+      "explanation": "主语 Everyone 是不定代词，视为单数，谓语动词要用第三人称单数形式 is。",
+      "sentence": "71. Everyone here ______ (be) kind and friendly. They are always ready to help others.",
+      "source": {
+        "passageId": "021_daily",
+        "passageTitle": "日常场景词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "072_one",
+      "number": 72,
+      "givenWord": "one",
+      "correctForm": "first",
+      "explanation": "on the first floor 是固定表达，意为'在一楼'，需要用序数词 first。",
+      "sentence": "72. On the ______ (one) floor, there are three rooms. Mine is the second one.",
+      "source": {
+        "passageId": "021_daily",
+        "passageTitle": "日常场景词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "073_play",
+      "number": 73,
+      "givenWord": "play",
+      "correctForm": "is playing",
+      "explanation": "Listen! 是现在进行时的标志，表示正在发生的动作，主语 My sister 是第三人称单数，需要用 is playing。",
+      "sentence": "73. Listen! My sister ______ (play) the piano.",
+      "source": {
+        "passageId": "021_daily",
+        "passageTitle": "日常场景词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "074_build",
+      "number": 74,
+      "givenWord": "build",
+      "correctForm": "building",
+      "explanation": "that white building 是名词短语，意为'那座白色的建筑物'，需要用 build 的名词形式 building。",
+      "sentence": "74. Look at that white ______ (build). My father's office is on its tenth floor.",
+      "source": {
+        "passageId": "021_daily",
+        "passageTitle": "日常场景词汇变形",
+        "category": "生活",
+        "difficulty": 1
+      }
+    },
+    {
+      "id": "075_cloud",
+      "number": 75,
+      "givenWord": "cloud",
+      "correctForm": "cloudy",
+      "explanation": "be 动词后面接形容词作表语，cloud 的形容词形式是 cloudy，意为'多云的'。",
+      "sentence": "75. It will be ______ (cloud), so there won't be a burning sun.",
+      "source": {
+        "passageId": "022_weather",
+        "passageTitle": "天气与自然词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "076_storm",
+      "number": 76,
+      "givenWord": "storm",
+      "correctForm": "stormy",
+      "explanation": "修饰名词 day 要用形容词 stormy，意为'有暴风雨的'。",
+      "sentence": "76. It is a ______ (storm) day today. You'd better not go out.",
+      "source": {
+        "passageId": "022_weather",
+        "passageTitle": "天气与自然词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "077_sun",
+      "number": 77,
+      "givenWord": "sun",
+      "correctForm": "sunny",
+      "explanation": "修饰名词 day 要用形容词 sunny，意为'晴朗的、阳光明媚的'。",
+      "sentence": "77. The light in a house is usually about 100 times less than that outside on a ______ (sun) day.",
+      "source": {
+        "passageId": "022_weather",
+        "passageTitle": "天气与自然词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "078_wind",
+      "number": 78,
+      "givenWord": "wind",
+      "correctForm": "windy",
+      "explanation": "修饰名词 days 要用形容词 windy，意为'有风的'。",
+      "sentence": "78. I love spring most because I can fly a kite on ______ (wind) days.",
+      "source": {
+        "passageId": "022_weather",
+        "passageTitle": "天气与自然词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "079_north",
+      "number": 79,
+      "givenWord": "north",
+      "correctForm": "northern",
+      "explanation": "修饰名词 part 要用形容词 northern，意为'北部的'，表示'中国的北部地区'。",
+      "sentence": "79. Shanxi is a province that lies in the ______ (north) part of China.",
+      "source": {
+        "passageId": "022_weather",
+        "passageTitle": "天气与自然词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "080_luck",
+      "number": 80,
+      "givenWord": "luck",
+      "correctForm": "lucky",
+      "explanation": "be lucky enough 是固定搭配，意为'足够幸运'，需要用形容词 lucky。",
+      "sentence": "80. If someone else can help, we'll be ______ (luck) enough.",
+      "source": {
+        "passageId": "023_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "081_usual",
+      "number": 81,
+      "givenWord": "usual",
+      "correctForm": "usually",
+      "explanation": "修饰动词 goes 要用副词 usually，意为'通常地'，表示习惯性动作。",
+      "sentence": "81. David's father is healthy. He ______ (usual) goes running every morning.",
+      "source": {
+        "passageId": "023_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "082_play",
+      "number": 82,
+      "givenWord": "play",
+      "correctForm": "is playing",
+      "explanation": "Look! 是现在进行时的标志，表示正在发生的动作，主语 The boy 是第三人称单数，需要用 is playing。",
+      "sentence": "82. Look! The boy ______ (play) volleyball with his elder brother.",
+      "source": {
+        "passageId": "023_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "083_heavy",
+      "number": 83,
+      "givenWord": "heavy",
+      "correctForm": "heavily",
+      "explanation": "修饰动词 raining 要用副词 heavily，意为'大量地、猛烈地'，表示雨下得大。",
+      "sentence": "83. It's raining ______ (heavy). You will get wet if you go out.",
+      "source": {
+        "passageId": "023_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "084_high",
+      "number": 84,
+      "givenWord": "high",
+      "correctForm": "height",
+      "explanation": "What's the height of...? 是询问高度的常用表达，需要用名词 height，意为'高度'。",
+      "sentence": "84. — What's the ______ (high) of the man? — He is about 178 cm.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "085_go",
+      "number": 85,
+      "givenWord": "go",
+      "correctForm": "goes",
+      "explanation": "主语 She 是第三人称单数，often 表示经常性动作，需要用一般现在时的第三人称单数形式 goes。",
+      "sentence": "85. She often ______ (go) on tours with Traveleyes, a company that takes tourists traveling around the world.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "086_play",
+      "number": 86,
+      "givenWord": "play",
+      "correctForm": "is playing",
+      "explanation": "Look! 和 at the moment 都是现在进行时的标志，表示正在发生的动作，主语 The girl 是第三人称单数，需要用 is playing。",
+      "sentence": "86. Look! The girl ______ (play) with her pet dog at the moment.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "087_colour",
+      "number": 87,
+      "givenWord": "colour",
+      "correctForm": "colourful",
+      "explanation": "修饰名词 clothes 要用形容词 colourful，意为'色彩鲜艳的、多彩的'。",
+      "sentence": "87. The old lady is my grandma and she loves to wear ______ (colour) clothes.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "088_freeze",
+      "number": 88,
+      "givenWord": "freeze",
+      "correctForm": "freezing",
+      "explanation": "修饰名词 conditions 要用形容词 freezing，意为'极冷的、冰冻的'。",
+      "sentence": "88. The poor workers have to work in ______ (freeze) conditions. They feel so cold and can't help trembling.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "089_snow",
+      "number": 89,
+      "givenWord": "snow",
+      "correctForm": "snowy",
+      "explanation": "be 动词后面接形容词作表语，snow 的形容词形式是 snowy，意为'下雪的、多雪的'。",
+      "sentence": "89. I like winter best because it's often ______ (snow) everywhere.",
+      "source": {
+        "passageId": "024_daily",
+        "passageTitle": "日常生活词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "090_cloud",
+      "number": 90,
+      "givenWord": "cloud",
+      "correctForm": "cloudy",
+      "explanation": "be 动词后面接形容词作表语，cloud 的形容词形式是 cloudy，意为'多云的'。",
+      "sentence": "90. It is ______ (cloud) today. Let's go to the nearest park and take a walk there.",
+      "source": {
+        "passageId": "025_weather",
+        "passageTitle": "天气与感受词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "091_fog",
+      "number": 91,
+      "givenWord": "fog",
+      "correctForm": "foggy",
+      "explanation": "be 动词后面接形容词作表语，fog 的形容词形式是 foggy，意为'多雾的'，注意双写 g。",
+      "sentence": "91. The city is very ______ (fog), so we call it \"City of Fog\".",
+      "source": {
+        "passageId": "025_weather",
+        "passageTitle": "天气与感受词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "092_read",
+      "number": 92,
+      "givenWord": "read",
+      "correctForm": "to read",
+      "explanation": "encourage sb. to do sth. 是固定搭配，意为'鼓励某人做某事'，需要用动词不定式 to read。",
+      "sentence": "92. My Chinese teacher encourages us ______ (read) some great classics.",
+      "source": {
+        "passageId": "025_weather",
+        "passageTitle": "天气与感受词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "093_tire",
+      "number": 93,
+      "givenWord": "tire",
+      "correctForm": "tiring",
+      "explanation": "修饰名词 work 要用形容词 tiring，意为'令人疲倦的'，表示工作本身的性质。",
+      "sentence": "93. Last weekend, I went camping after a long time of ______ (tire) work.",
+      "source": {
+        "passageId": "025_weather",
+        "passageTitle": "天气与感受词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "094_spirit",
+      "number": 94,
+      "givenWord": "spirit",
+      "correctForm": "spirits",
+      "explanation": "in high spirits 是固定短语，意为'情绪高涨、兴高采烈'，spirit 需要用复数形式 spirits。",
+      "sentence": "94. All the children are in high ______ (spirit). Every one of them is very happy.",
+      "source": {
+        "passageId": "025_weather",
+        "passageTitle": "天气与感受词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "095_leaf",
+      "number": 95,
+      "givenWord": "leaf",
+      "correctForm": "leaves",
+      "explanation": "some 后面接可数名词复数，leaf 的复数形式是 leaves，以 f/fe 结尾的名词变复数时，通常把 f/fe 改为 v 再加 es。",
+      "sentence": "95. It's getting cold and some ______ (leaf) start to fall off the trees.",
+      "source": {
+        "passageId": "026_nature",
+        "passageTitle": "自然与生活词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "096_collect",
+      "number": 96,
+      "givenWord": "collect",
+      "correctForm": "collecting",
+      "explanation": "enjoy doing sth. 是固定搭配，意为'喜欢做某事'，后面接动词的 -ing 形式。",
+      "sentence": "96. This is my brother and he enjoys ______ (collect) stamps and coins.",
+      "source": {
+        "passageId": "026_nature",
+        "passageTitle": "自然与生活词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "097_final",
+      "number": 97,
+      "givenWord": "final",
+      "correctForm": "finally",
+      "explanation": "修饰动词 made 要用副词 finally，意为'最终、终于'，表示结果。",
+      "sentence": "97. I kept trying and ______ (final) I made it!",
+      "source": {
+        "passageId": "026_nature",
+        "passageTitle": "自然与生活词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "098_finish",
+      "number": 98,
+      "givenWord": "finish",
+      "correctForm": "to finish",
+      "explanation": "It takes sb. time to do sth. 是固定句型，意为'做某事花费某人多长时间'，需要用动词不定式 to finish。",
+      "sentence": "98. It usually takes my sister an hour ______ (finish) her homework.",
+      "source": {
+        "passageId": "026_nature",
+        "passageTitle": "自然与生活词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "099_certain",
+      "number": 99,
+      "givenWord": "certain",
+      "correctForm": "certainly",
+      "explanation": "修饰动词 remember 要用副词 certainly，意为'肯定地、当然'，表示确定。",
+      "sentence": "99. I ______ (certain) remember this trip. We had great fun and learned a lot during the trip.",
+      "source": {
+        "passageId": "026_nature",
+        "passageTitle": "自然与生活词汇变形",
+        "category": "科普",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "100_diary",
+      "number": 100,
+      "givenWord": "diary",
+      "correctForm": "diaries",
+      "explanation": "some 后面接可数名词复数，diary 的复数形式是 diaries，以辅音字母+y结尾，变 y 为 i 再加 es。",
+      "sentence": "100. When I stayed in the village, I wrote some ______ (diary) about my everyday life.",
+      "source": {
+        "passageId": "027_life",
+        "passageTitle": "生活经历词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "101_receive",
+      "number": 101,
+      "givenWord": "receive",
+      "correctForm": "received",
+      "explanation": "last year 是过去时间状语，需要用一般过去时，动词 receive 要用过去式 received。",
+      "sentence": "101. It ______ (receive) 1.9 million visitors last year.",
+      "source": {
+        "passageId": "027_life",
+        "passageTitle": "生活经历词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "102_amaze",
+      "number": 102,
+      "givenWord": "amaze",
+      "correctForm": "amazing",
+      "explanation": "修饰名词 school trip 要用形容词 amazing，意为'令人惊奇的、极好的'，表示事物本身的性质。",
+      "sentence": "102. The students had an ______ (amaze) school trip last weekend.",
+      "source": {
+        "passageId": "027_life",
+        "passageTitle": "生活经历词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    },
+    {
+      "id": "103_real",
+      "number": 103,
+      "givenWord": "real",
+      "correctForm": "really",
+      "explanation": "修饰形容词 good 要用副词 really，意为'真正地、非常'，表示程度。",
+      "sentence": "103. Lily, you are ______ (real) good at dancing. But you just pay attention to your own dance.",
+      "source": {
+        "passageId": "027_life",
+        "passageTitle": "生活经历词汇变形",
+        "category": "生活",
+        "difficulty": 2
+      }
+    }
+  ]
+}

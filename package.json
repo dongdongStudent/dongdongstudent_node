@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "start_1": "nodemon  main.js . --ignore resource/* .",
+    "start-silent": "echo 服务器启动中... && npm start > NUL 2>&1 && echo 服务器已启动并在后台运行！",
+    "start-with-log": "npm start > server.log 2>&1 & echo 服务器已启动，日志保存在 server.log"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "base64-to-image": "^1.0.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.2.1",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.1",
+    "tesseract.js": "^4.1.1",
+    "uuid": "^11.1.0"
+  }
+}

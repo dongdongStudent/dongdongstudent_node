@@ -1,0 +1,1253 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "default",
+    "createdAt": "2026-02-27T12:06:17.919Z",
+    "lastActive": "2026-02-27T12:29:17.947Z",
+    "totalAttempts": 0,
+    "totalCorrect": 0,
+    "totalWrong": 0,
+    "accuracy": 0
+  },
+  "stats": {
+    "q_1741420800002_adj023": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740729600003_pro004": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740902400009_cho010": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741075200003_v024": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705312980000_v004": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740729600000_pro001": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740643200003_qw024": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740643200005_qn026": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:12:58.447Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313640000_nc015": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313220000_vp008": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:12:58.447Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705314300000_imp026": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313460000_nc012": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741334400010_ten011": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741248000008_conj029": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313040000_gr005": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741334400007_ten008": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741680000004_inf025": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740816000003_adj024": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740643200000_pro021": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740729600001_pro002": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:10.161Z",
+      "last_extracted": "2026-02-27T12:13:10.161Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705314060000_adj022": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740988800004_mod025": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313340000_oc010": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741593600003_ten004": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741075200005_inf026": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741248000003_inf024": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741334400011_ten012": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741248000006_pro027": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741680000008_phr029": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741507200007_v028": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:14:11.958Z",
+      "last_extracted": "2026-02-27T12:14:11.958Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741507200004_v025": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740902400007_cho008": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740816000001_n022": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705312800000_nc001": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741161600008_pro029": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313520000_qw013": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740902400005_n006": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740988800001_n022": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313880000_adj019": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740729600005_adv006": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:15:25.084Z",
+      "last_extracted": "2026-02-27T12:15:25.084Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740902400000_n001": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740816000006_inf027": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313700000_adj016": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1739529600002_mdl003": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1739529600004_mdl005": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1705313400000_nc011": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:23:06.400Z",
+      "last_extracted": "2026-02-27T12:23:06.400Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740988800005_v026": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741593600005_ten006": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741593600007_ten008": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741420800009_conj030": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741593600009_ten010": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741680000006_exc027": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741593600006_ten007": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741766400002_adj023": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:28:34.179Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741507200000_prep021": {
+      "extraction_count": 2,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:28:34.179Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1739529600005_mdl006": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:29:17.946Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1740729600004_pro005": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:29:17.946Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1741420800008_use029": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:29:17.946Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "q_1739529600006_mdl007": {
+      "extraction_count": 1,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:29:17.946Z",
+      "last_extracted": "2026-02-27T12:29:17.946Z",
+      "last_result": null,
+      "mastery_level": 0,
+      "history": [],
+      "streak": {
+        "current_correct": 0,
+        "current_wrong": 0,
+        "max_correct": 0,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

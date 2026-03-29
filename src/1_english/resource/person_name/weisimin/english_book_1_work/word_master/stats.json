@@ -1,0 +1,5269 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "word_master",
+    "createdAt": "2026-03-13T14:21:43.370Z",
+    "lastActive": "2026-03-28T21:31:24.113Z",
+    "totalPractice": 315,
+    "totalCorrect": 275,
+    "totalWrong": 40,
+    "accuracy": 0.87,
+    "masteredCount": 32
+  },
+  "words": {
+    "1": {
+      "wordId": 1,
+      "extract_count": 6,
+      "correct_count": 5,
+      "wrong_count": 1,
+      "mastery_level": 82,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          false,
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 3,
+          "wrong": 1,
+          "accuracy": 0.75
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "2": {
+      "wordId": 2,
+      "extract_count": 6,
+      "correct_count": 5,
+      "wrong_count": 1,
+      "mastery_level": 82,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          false,
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 3,
+          "wrong": 1,
+          "accuracy": 0.75
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "3": {
+      "wordId": 3,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4": {
+      "wordId": 4,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "5": {
+      "wordId": 5,
+      "extract_count": 6,
+      "correct_count": 5,
+      "wrong_count": 1,
+      "mastery_level": 82,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          false,
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 3,
+          "wrong": 1,
+          "accuracy": 0.75
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "6": {
+      "wordId": 6,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "7": {
+      "wordId": 7,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "8": {
+      "wordId": 8,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "9": {
+      "wordId": 9,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "10": {
+      "wordId": 10,
+      "extract_count": 6,
+      "correct_count": 4,
+      "wrong_count": 2,
+      "mastery_level": 73,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          false,
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 2,
+          "accuracy": 0.5
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "11": {
+      "wordId": 11,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "12": {
+      "wordId": 12,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "13": {
+      "wordId": 13,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "14": {
+      "wordId": 14,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "15": {
+      "wordId": 15,
+      "extract_count": 7,
+      "correct_count": 4,
+      "wrong_count": 3,
+      "mastery_level": 49,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          false,
+          true,
+          true
+        ],
+        "en2zh": [
+          false
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 3,
+          "wrong": 2,
+          "accuracy": 0.6
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "16": {
+      "wordId": 16,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "17": {
+      "wordId": 17,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "18": {
+      "wordId": 18,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "19": {
+      "wordId": 19,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "20": {
+      "wordId": 20,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "21": {
+      "wordId": 21,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "22": {
+      "wordId": 22,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "23": {
+      "wordId": 23,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "24": {
+      "wordId": 24,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "25": {
+      "wordId": 25,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "26": {
+      "wordId": 26,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "27": {
+      "wordId": 27,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "28": {
+      "wordId": 28,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "29": {
+      "wordId": 29,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "30": {
+      "wordId": 30,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "31": {
+      "wordId": 31,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "32": {
+      "wordId": 32,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "33": {
+      "wordId": 33,
+      "extract_count": 5,
+      "correct_count": 3,
+      "wrong_count": 2,
+      "mastery_level": 49,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          false
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "34": {
+      "wordId": 34,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "35": {
+      "wordId": 35,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "36": {
+      "wordId": 36,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "37": {
+      "wordId": 37,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "38": {
+      "wordId": 38,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "39": {
+      "wordId": 39,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "40": {
+      "wordId": 40,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "41": {
+      "wordId": 41,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "42": {
+      "wordId": 42,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "43": {
+      "wordId": 43,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "44": {
+      "wordId": 44,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "45": {
+      "wordId": 45,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "46": {
+      "wordId": 46,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "47": {
+      "wordId": 47,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "48": {
+      "wordId": 48,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "49": {
+      "wordId": 49,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "50": {
+      "wordId": 50,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "51": {
+      "wordId": 51,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "52": {
+      "wordId": 52,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "101": {
+      "wordId": 101,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T14:52:26.351Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:52:26.350Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "102": {
+      "wordId": 102,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "103": {
+      "wordId": 103,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "104": {
+      "wordId": 104,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "105": {
+      "wordId": 105,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "106": {
+      "wordId": 106,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "107": {
+      "wordId": 107,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "108": {
+      "wordId": 108,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "109": {
+      "wordId": 109,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "110": {
+      "wordId": 110,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "111": {
+      "wordId": 111,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "112": {
+      "wordId": 112,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "113": {
+      "wordId": 113,
+      "extract_count": 3,
+      "correct_count": 3,
+      "wrong_count": 0,
+      "mastery_level": 58,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T14:50:39.619Z",
+      "recent_results": {
+        "picture": [
+          true,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "114": {
+      "wordId": 114,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "115": {
+      "wordId": 115,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "116": {
+      "wordId": 116,
+      "extract_count": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "mastery_level": 78,
+      "mastered": true,
+      "mastered_date": "2026-03-13T15:05:06.596Z",
+      "first_seen": "2026-03-13T14:23:49.730Z",
+      "last_practiced": "2026-03-13T15:05:06.596Z",
+      "recent_results": {
+        "picture": [
+          true,
+          false,
+          true
+        ],
+        "en2zh": [
+          true
+        ],
+        "listen": [
+          true
+        ]
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 2,
+          "wrong": 1,
+          "accuracy": 0.6666666666666666
+        },
+        "en2zh": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "listen": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        }
+      }
+    },
+    "201": {
+      "wordId": 201,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "202": {
+      "wordId": 202,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "203": {
+      "wordId": 203,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "204": {
+      "wordId": 204,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "205": {
+      "wordId": 205,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "206": {
+      "wordId": 206,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "207": {
+      "wordId": 207,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "208": {
+      "wordId": 208,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "209": {
+      "wordId": 209,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "210": {
+      "wordId": 210,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "211": {
+      "wordId": 211,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "212": {
+      "wordId": 212,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "213": {
+      "wordId": 213,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "214": {
+      "wordId": 214,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "215": {
+      "wordId": 215,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "216": {
+      "wordId": 216,
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_1": {
+      "wordId": "3_1",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_2": {
+      "wordId": "3_2",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_3": {
+      "wordId": "3_3",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_4": {
+      "wordId": "3_4",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_5": {
+      "wordId": "3_5",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_6": {
+      "wordId": "3_6",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_7": {
+      "wordId": "3_7",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_8": {
+      "wordId": "3_8",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_9": {
+      "wordId": "3_9",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_10": {
+      "wordId": "3_10",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_11": {
+      "wordId": "3_11",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_12": {
+      "wordId": "3_12",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_13": {
+      "wordId": "3_13",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_14": {
+      "wordId": "3_14",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_15": {
+      "wordId": "3_15",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T09:48:02.605Z",
+      "last_practiced": "2026-03-18T09:48:02.605Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_1": {
+      "wordId": "4_1",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T17:46:22.685Z",
+      "last_practiced": "2026-03-18T17:46:22.685Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_2": {
+      "wordId": "4_2",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T17:46:22.685Z",
+      "last_practiced": "2026-03-18T17:46:22.685Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_3": {
+      "wordId": "4_3",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T17:46:22.685Z",
+      "last_practiced": "2026-03-18T17:46:22.685Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_4": {
+      "wordId": "4_4",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T17:46:22.685Z",
+      "last_practiced": "2026-03-18T17:46:22.685Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_5": {
+      "wordId": "4_5",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T17:46:22.685Z",
+      "last_practiced": "2026-03-18T17:46:22.685Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_16": {
+      "wordId": "3_16",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_17": {
+      "wordId": "3_17",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_18": {
+      "wordId": "3_18",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_19": {
+      "wordId": "3_19",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_20": {
+      "wordId": "3_20",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_21": {
+      "wordId": "3_21",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_22": {
+      "wordId": "3_22",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_23": {
+      "wordId": "3_23",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_24": {
+      "wordId": "3_24",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_25": {
+      "wordId": "3_25",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_26": {
+      "wordId": "3_26",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_27": {
+      "wordId": "3_27",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_28": {
+      "wordId": "3_28",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_29": {
+      "wordId": "3_29",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_30": {
+      "wordId": "3_30",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_31": {
+      "wordId": "3_31",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_32": {
+      "wordId": "3_32",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "3_33": {
+      "wordId": "3_33",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_6": {
+      "wordId": "4_6",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_7": {
+      "wordId": "4_7",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_8": {
+      "wordId": "4_8",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_9": {
+      "wordId": "4_9",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_10": {
+      "wordId": "4_10",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "4_11": {
+      "wordId": "4_11",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-18T19:29:46.277Z",
+      "last_practiced": "2026-03-18T19:29:46.277Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_1": {
+      "wordId": "6_1",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_2": {
+      "wordId": "6_2",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_3": {
+      "wordId": "6_3",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_4": {
+      "wordId": "6_4",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_5": {
+      "wordId": "6_5",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_6": {
+      "wordId": "6_6",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_7": {
+      "wordId": "6_7",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_8": {
+      "wordId": "6_8",
+      "extract_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "mastery_level": 0,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          false
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_9": {
+      "wordId": "6_9",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_10": {
+      "wordId": "6_10",
+      "extract_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "mastery_level": 0,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          false
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 0,
+          "wrong": 1,
+          "accuracy": 0
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_11": {
+      "wordId": "6_11",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_12": {
+      "wordId": "6_12",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_13": {
+      "wordId": "6_13",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_14": {
+      "wordId": "6_14",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    },
+    "6_15": {
+      "wordId": "6_15",
+      "extract_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "mastery_level": 28,
+      "mastered": false,
+      "mastered_date": null,
+      "first_seen": "2026-03-28T21:31:24.112Z",
+      "last_practiced": "2026-03-28T21:31:24.112Z",
+      "recent_results": {
+        "picture": [
+          true
+        ],
+        "en2zh": [],
+        "listen": []
+      },
+      "mode_stats": {
+        "picture": {
+          "correct": 1,
+          "wrong": 0,
+          "accuracy": 1
+        },
+        "en2zh": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        },
+        "listen": {
+          "correct": 0,
+          "wrong": 0,
+          "accuracy": 0
+        }
+      }
+    }
+  }
+}

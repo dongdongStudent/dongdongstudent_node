@@ -1,0 +1,322 @@
+[
+  {
+    "word": "flying",
+    "translation": "飞行",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "buy",
+    "translation": "买",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "think",
+    "translation": "认为",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "kind",
+    "translation": "友善的",
+    "status": {
+      "listening": true,
+      "reading": false,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "smart",
+    "translation": "聪明",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "the post office",
+    "translation": "邮局",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "opposite",
+    "translation": "相反的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "ping-pong",
+    "translation": "乒乓球",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "good",
+    "translation": "好的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "going",
+    "translation": "去",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "magazines",
+    "translation": "杂志",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Read",
+    "translation": "阅读",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "your",
+    "translation": "你的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Nanjing",
+    "translation": "南京",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "match",
+    "translation": "比赛",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "some",
+    "translation": "一些",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "cabbages",
+    "translation": "卷心菜",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "mine",
+    "translation": "矿",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "theirs",
+    "translation": "他们的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Week",
+    "translation": "周",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "license",
+    "translation": "许可证",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "notes",
+    "translation": "笔记",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "films",
+    "translation": "电影",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "chopping board",
+    "translation": "砧板",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "always",
+    "translation": "总是",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "interested",
+    "translation": "感兴趣的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "difficult",
+    "translation": "困难的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "boring",
+    "translation": "无聊的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "terrible",
+    "translation": "可怕的",
+    "status": {
+      "listening": false,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "dangerous",
+    "translation": "危险的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "strict",
+    "translation": "严格的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "looks",
+    "translation": "看",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

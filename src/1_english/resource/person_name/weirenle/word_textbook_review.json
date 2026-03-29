@@ -1,0 +1,178 @@
+{
+  "farmer": {
+    "chinese": "农民；农场主；养殖场主",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:41:41.650Z"
+  },
+  "scientist": {
+    "chinese": "科学家",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:42:03.453Z"
+  },
+  "fireman": {
+    "chinese": "消防队员",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:42:11.831Z"
+  },
+  "station": {
+    "chinese": "所；站；台；局",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:39:01.045Z"
+  },
+  "safe": {
+    "chinese": "安全的，没有危险的",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:40:46.316Z"
+  },
+  "bake": {
+    "chinese": "烘，烤，焙",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "time": "2026-03-27T22:42:28.852Z"
+  },
+  "doctor": {
+    "chinese": "医生，大夫",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 3,
+    "wrong_count": 0,
+    "time": "2026-03-27T23:00:22.635Z"
+  },
+  "cook": {
+    "chinese": "厨师，炊事员",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:41:08.826Z"
+  },
+  "police": {
+    "chinese": "警察",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:42:14.993Z"
+  },
+  "police officer": {
+    "chinese": "警察，警官",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:40:01.429Z"
+  },
+  "police station": {
+    "chinese": "警察（分）局，派出所",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:42:23.722Z"
+  },
+  "often": {
+    "chinese": "经常，时常，多次",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:40:51.872Z"
+  },
+  "field": {
+    "chinese": "田地，田野",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 4,
+    "wrong_count": 0,
+    "time": "2026-03-27T23:00:31.016Z"
+  },
+  "painter": {
+    "chinese": "画家",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "time": "2026-03-27T22:42:26.693Z"
+  },
+  "use": {
+    "chinese": "用，使用",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:40:50.069Z"
+  },
+  "brush": {
+    "chinese": "刷子；毛刷",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:41:54.209Z"
+  },
+  "writer": {
+    "chinese": "作家；作者",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 1,
+    "time": "2026-03-27T22:42:37.230Z"
+  },
+  "worker": {
+    "chinese": "工人",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:42:20.868Z"
+  },
+  "aunt": {
+    "chinese": "姑母；姨母",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 4,
+    "wrong_count": 0,
+    "time": "2026-03-27T23:00:25.191Z"
+  },
+  "night": {
+    "chinese": "夜晚，夜间",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 3,
+    "wrong_count": 0,
+    "time": "2026-03-27T23:00:12.613Z"
+  },
+  "owl": {
+    "chinese": "猫头鹰",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-03-27T22:40:58.095Z"
+  },
+  "night owl": {
+    "chinese": "夜猫子，喜欢熬夜的人",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 4,
+    "wrong_count": 1,
+    "time": "2026-03-27T23:00:19.501Z"
+  }
+}

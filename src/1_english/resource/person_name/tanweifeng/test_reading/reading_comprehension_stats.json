@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "username": "tanweifeng",
+    "bank": "阅读理解",
+    "createdAt": "2026-03-27T11:45:58.958Z",
+    "lastActive": "2026-03-27T11:45:58.974Z",
+    "totalExtracts": 4,
+    "totalQuestionsAttempted": 4,
+    "totalCorrect": 3,
+    "totalWrong": 1,
+    "accuracy": 0.75,
+    "avgMastery": 0.75,
+    "practicedPassages": 1
+  },
+  "passages": {
+    "rules_passage_001": {
+      "passageId": "rules_passage_001",
+      "extract_count": 1,
+      "last_practiced": "2026-03-27T11:45:58.973Z",
+      "questions": {
+        "rules_001_q1": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "rules_001_q2": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "rules_001_q3": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "rules_001_q4": {
+          "correct_count": 1,
+          "wrong_count": 0
+        }
+      },
+      "history": [
+        {
+          "date": "2026-03-27T11:45:58.973Z",
+          "timeSpent": 220,
+          "totalQuestions": 4,
+          "correctCount": 3,
+          "accuracy": 0.75,
+          "results": [
+            {
+              "questionId": "rules_001_q1",
+              "number": 1,
+              "isCorrect": true,
+              "correctAnswer": "C",
+              "userAnswer": "C"
+            },
+            {
+              "questionId": "rules_001_q2",
+              "number": 2,
+              "isCorrect": true,
+              "correctAnswer": "B",
+              "userAnswer": "B"
+            },
+            {
+              "questionId": "rules_001_q3",
+              "number": 3,
+              "isCorrect": false,
+              "correctAnswer": "B",
+              "userAnswer": "A"
+            },
+            {
+              "questionId": "rules_001_q4",
+              "number": 4,
+              "isCorrect": true,
+              "correctAnswer": "A",
+              "userAnswer": "A"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "questions": {
+    "rules_001_q1": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-27T11:45:58.973Z",
+      "last_practiced": "2026-03-27T11:45:58.973Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-27T11:45:58.973Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "C",
+          "correctAnswer": "C",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 6,
+        "fastest": 6,
+        "slowest": 6
+      }
+    },
+    "rules_001_q2": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-27T11:45:58.973Z",
+      "last_practiced": "2026-03-27T11:45:58.973Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-27T11:45:58.973Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "B",
+          "correctAnswer": "B",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 9,
+        "fastest": 9,
+        "slowest": 9
+      }
+    },
+    "rules_001_q3": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-27T11:45:58.973Z",
+      "last_practiced": "2026-03-27T11:45:58.973Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-27T11:45:58.973Z",
+          "result": false,
+          "time": 17,
+          "userAnswer": "A",
+          "correctAnswer": "B",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 17,
+        "fastest": 17,
+        "slowest": 17
+      }
+    },
+    "rules_001_q4": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-27T11:45:58.973Z",
+      "last_practiced": "2026-03-27T11:45:58.973Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-27T11:45:58.973Z",
+          "result": true,
+          "time": 7,
+          "userAnswer": "A",
+          "correctAnswer": "A",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 7,
+        "fastest": 7,
+        "slowest": 7
+      }
+    }
+  }
+}

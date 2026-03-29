@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "中考",
+    "createdAt": "2026-03-05T07:27:05.287Z",
+    "lastActive": "2026-03-13T17:37:45.823Z",
+    "totalExtracts": 50,
+    "totalQuestionsAttempted": 10,
+    "totalCorrect": 4,
+    "totalWrong": 6,
+    "accuracy": 0.4,
+    "avgMastery": 0.4,
+    "practicedQuestions": 5
+  },
+  "questions": {
+    "c2e_mid_008": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-05T07:27:05.328Z",
+      "last_practiced": "2026-03-13T17:37:45.823Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-05T07:27:42.426Z",
+          "result": false,
+          "time": 5,
+          "userAnswer": "a",
+          "correctAnswer": "When should"
+        },
+        {
+          "date": "2026-03-05T07:35:13.230Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "when should",
+          "correctAnswer": "When should"
+        }
+      ]
+    },
+    "c2e_mid_009": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-05T07:27:05.328Z",
+      "last_practiced": "2026-03-13T17:37:45.823Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T07:27:42.426Z",
+          "result": true,
+          "time": 11,
+          "userAnswer": [
+            "where",
+            "from"
+          ],
+          "correctAnswer": "[[\"Where do\",\"Where\"],[\"come from\",\"from\"]]"
+        },
+        {
+          "date": "2026-03-05T07:35:13.230Z",
+          "result": false,
+          "time": 10,
+          "userAnswer": [
+            "a",
+            "a"
+          ],
+          "correctAnswer": "[[\"Where do\",\"Where\"],[\"come from\",\"from\"]]"
+        }
+      ]
+    },
+    "c2e_mid_010": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-05T07:27:05.328Z",
+      "last_practiced": "2026-03-13T17:37:45.823Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T07:27:42.426Z",
+          "result": true,
+          "time": 11,
+          "userAnswer": [
+            "why",
+            "because"
+          ],
+          "correctAnswer": "[[\"Why\",\"Why are Jenny and Jack\"],[\"Because\",\"Because today\"]]"
+        },
+        {
+          "date": "2026-03-05T07:35:13.230Z",
+          "result": false,
+          "time": 8,
+          "userAnswer": [
+            "a",
+            "b"
+          ],
+          "correctAnswer": "[[\"Why\",\"Why are Jenny and Jack\"],[\"Because\",\"Because today\"]]"
+        }
+      ]
+    },
+    "c2e_mid_006": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-05T07:27:05.328Z",
+      "last_practiced": "2026-03-13T17:37:45.823Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-05T07:27:42.426Z",
+          "result": false,
+          "time": 10,
+          "userAnswer": "a",
+          "correctAnswer": "look after"
+        },
+        {
+          "date": "2026-03-05T07:35:13.230Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "look after",
+          "correctAnswer": "look after"
+        }
+      ]
+    },
+    "c2e_mid_007": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-05T07:27:05.328Z",
+      "last_practiced": "2026-03-13T17:37:45.823Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T07:27:42.426Z",
+          "result": false,
+          "time": 13,
+          "userAnswer": "a",
+          "correctAnswer": "favorite animal"
+        },
+        {
+          "date": "2026-03-05T07:35:13.230Z",
+          "result": false,
+          "time": 13,
+          "userAnswer": "f",
+          "correctAnswer": "favorite animal"
+        }
+      ]
+    }
+  }
+}

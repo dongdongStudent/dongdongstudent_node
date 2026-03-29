@@ -1,0 +1,1802 @@
+{
+  "doctor": {
+    "chinese": "医生，大夫",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.042Z"
+  },
+  "fireman": {
+    "chinese": "消防队员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.211Z"
+  },
+  "farmer": {
+    "chinese": "农民；农场主；养殖场主",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.352Z"
+  },
+  "cook": {
+    "chinese": "厨师，炊事员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.487Z"
+  },
+  "police": {
+    "chinese": "警察",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.629Z"
+  },
+  "police officer": {
+    "chinese": "警察，警官",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.769Z"
+  },
+  "station": {
+    "chinese": "所；站；台；局",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:41.903Z"
+  },
+  "police station": {
+    "chinese": "警察（分）局，派出所",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.043Z"
+  },
+  "often": {
+    "chinese": "经常，时常，多次",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.184Z"
+  },
+  "field": {
+    "chinese": "田地，田野",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.320Z"
+  },
+  "painter": {
+    "chinese": "画家",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.459Z"
+  },
+  "use": {
+    "chinese": "用，使用",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.604Z"
+  },
+  "brush": {
+    "chinese": "刷子；毛刷",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.745Z"
+  },
+  "scientist": {
+    "chinese": "科学家",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:42.886Z"
+  },
+  "writer": {
+    "chinese": "作家；作者",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.021Z"
+  },
+  "worker": {
+    "chinese": "工人",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.159Z"
+  },
+  "aunt": {
+    "chinese": "姑母；姨母",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.294Z"
+  },
+  "night": {
+    "chinese": "夜晚，夜间",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.434Z"
+  },
+  "owl": {
+    "chinese": "猫头鹰",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.570Z"
+  },
+  "night owl": {
+    "chinese": "夜猫子，喜欢熬夜的人",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.704Z"
+  },
+  "driver": {
+    "chinese": "司机，驾驶员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.851Z"
+  },
+  "taxi": {
+    "chinese": "出租车，计程车",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:43.987Z"
+  },
+  "safe": {
+    "chinese": "安全的，没有危险的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.133Z"
+  },
+  "nurse": {
+    "chinese": "护士",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.270Z"
+  },
+  "light": {
+    "chinese": "照亮",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.413Z"
+  },
+  "uncle": {
+    "chinese": "叔叔，伯伯",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.553Z"
+  },
+  "bake": {
+    "chinese": "烘，烤，焙",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.687Z"
+  },
+  "bee": {
+    "chinese": "蜜蜂",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.832Z"
+  },
+  "same": {
+    "chinese": "相同的，完全相同的，一模一样的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:44.970Z"
+  },
+  "sound": {
+    "chinese": "声，声音",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.114Z"
+  },
+  "postman": {
+    "chinese": "邮递员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.254Z"
+  },
+  "life": {
+    "chinese": "生活",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.392Z"
+  },
+  "mountain": {
+    "chinese": "高山",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.534Z"
+  },
+  "cry": {
+    "chinese": "哭，哭泣",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.670Z"
+  },
+  "gift": {
+    "chinese": "礼物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.815Z"
+  },
+  "hit": {
+    "chinese": "撞击，碰撞",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:45.954Z"
+  },
+  "feeling": {
+    "chinese": "感觉，感触",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.095Z"
+  },
+  "huge": {
+    "chinese": "巨大的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.266Z"
+  },
+  "should": {
+    "chinese": "应当，应该",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.404Z"
+  },
+  "next": {
+    "chinese": "(时间) 紧接着的；下次的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.546Z"
+  },
+  "street": {
+    "chinese": "大街，街道",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.687Z"
+  },
+  "worried": {
+    "chinese": "担心的，焦虑的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.827Z"
+  },
+  "laugh": {
+    "chinese": "发出笑声，(大)笑",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:46.969Z"
+  },
+  "sad": {
+    "chinese": "不愉快的，伤心的，难过的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.111Z"
+  },
+  "scared": {
+    "chinese": "害怕的，恐惧的；紧张的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.252Z"
+  },
+  "angry": {
+    "chinese": "发怒的，生气的，气愤的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.387Z"
+  },
+  "excited": {
+    "chinese": "兴奋的，激动的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.537Z"
+  },
+  "opera": {
+    "chinese": "歌剧",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.676Z"
+  },
+  "cough": {
+    "chinese": "咳嗽，咳",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.815Z"
+  },
+  "better": {
+    "chinese": "(健康状况)好转的；(疼痛、伤势等)减轻的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:47.954Z"
+  },
+  "model": {
+    "chinese": "(尤指可拼装的)模型",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:48.095Z"
+  },
+  "shout": {
+    "chinese": "大声说，喊叫，呼喊",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:48.235Z"
+  },
+  "a lot": {
+    "chinese": "许多，非常",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:48.377Z"
+  },
+  "at night": {
+    "chinese": "在夜晚",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:48.517Z"
+  },
+  "fire station": {
+    "chinese": "消防站",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:48.787Z"
+  },
+  "come out": {
+    "chinese": "出来",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.064Z"
+  },
+  "have a guess": {
+    "chinese": "猜一猜",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.202Z"
+  },
+  "in the fields": {
+    "chinese": "在田地里",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.337Z"
+  },
+  "taxi driver": {
+    "chinese": "出租车司机",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.484Z"
+  },
+  "take home": {
+    "chinese": "带回家",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.621Z"
+  },
+  "keep safe": {
+    "chinese": "保证安全",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.762Z"
+  },
+  "work hard": {
+    "chinese": "努力工作",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:49.903Z"
+  },
+  "brighten the night": {
+    "chinese": "点亮夜晚",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:50.037Z"
+  },
+  "day after day": {
+    "chinese": "日复一日",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:50.185Z"
+  },
+  "of course not": {
+    "chinese": "当然不",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:50.320Z"
+  },
+  "talk about": {
+    "chinese": "谈论",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:50.604Z"
+  },
+  "take part in": {
+    "chinese": "参加",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:50.919Z"
+  },
+  "the next day": {
+    "chinese": "第二天",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.087Z"
+  },
+  "a month later": {
+    "chinese": "一个月以后",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.221Z"
+  },
+  "next time": {
+    "chinese": "下一次",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.387Z"
+  },
+  "feel better": {
+    "chinese": "感觉好多了",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.529Z"
+  },
+  "happy birthday": {
+    "chinese": "生日快乐",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.671Z"
+  },
+  "ship model": {
+    "chinese": "轮船模型",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.811Z"
+  },
+  "run back to": {
+    "chinese": "跑回",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:51.951Z"
+  },
+  "shout at": {
+    "chinese": "朝...大喊",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.087Z"
+  },
+  "the colour of": {
+    "chinese": "...的颜色",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.231Z"
+  },
+  "a huge fire": {
+    "chinese": "一场大火",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.368Z"
+  },
+  "walk on the street": {
+    "chinese": "走在大街上",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.504Z"
+  },
+  "hit my head": {
+    "chinese": "撞到我的头",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.650Z"
+  },
+  "beijing opera show": {
+    "chinese": "京剧表演",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.787Z"
+  },
+  "be proud of": {
+    "chinese": "为...感到自豪",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:52.929Z"
+  },
+  "magic": {
+    "chinese": "魔术，戏法",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.071Z"
+  },
+  "puzzle": {
+    "chinese": "拼图游戏",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.213Z"
+  },
+  "dancer": {
+    "chinese": "舞蹈演员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.354Z"
+  },
+  "boy": {
+    "chinese": "男孩；儿子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.488Z"
+  },
+  "talent": {
+    "chinese": "天资，天赋，才能",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.636Z"
+  },
+  "duck": {
+    "chinese": "鸭",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.776Z"
+  },
+  "cock-a-doodle-doo": {
+    "chinese": "(公鸡啼叫的) 喔喔声",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:53.917Z"
+  },
+  "act": {
+    "chinese": "演出；扮演",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.056Z"
+  },
+  "shine": {
+    "chinese": "表现突出，出众",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.197Z"
+  },
+  "win": {
+    "chinese": "获胜，赢",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.337Z"
+  },
+  "just": {
+    "chinese": "就，只是",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.475Z"
+  },
+  "slowly": {
+    "chinese": "缓慢地，慢慢地",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.615Z"
+  },
+  "enough": {
+    "chinese": "足够(的)",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.754Z"
+  },
+  "anything": {
+    "chinese": "任何事情，无论何事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:54.895Z"
+  },
+  "have got": {
+    "chinese": "有，拥有",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.037Z"
+  },
+  "play the piano": {
+    "chinese": "弹钢琴",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.178Z"
+  },
+  "the dance show": {
+    "chinese": "舞蹈表演",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.320Z"
+  },
+  "take photos": {
+    "chinese": "拍照片",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.461Z"
+  },
+  "do puzzles": {
+    "chinese": "拼拼图",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.600Z"
+  },
+  "do magic": {
+    "chinese": "变魔术",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.737Z"
+  },
+  "the best dancer": {
+    "chinese": "最佳舞蹈演员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:55.883Z"
+  },
+  "do great": {
+    "chinese": "表现出色，做得很好",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.021Z"
+  },
+  "be good at (doing) sth": {
+    "chinese": "擅长(做)某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.160Z"
+  },
+  "teach sb to do sth": {
+    "chinese": "教某人做某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.301Z"
+  },
+  "all the time": {
+    "chinese": "一直，始终",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.471Z"
+  },
+  "worry about sb/sth": {
+    "chinese": "担心某人/某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.613Z"
+  },
+  "hard work": {
+    "chinese": "努力工作，辛苦付出",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.753Z"
+  },
+  "day and night": {
+    "chinese": "日日夜夜；夜以继日",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:56.894Z"
+  },
+  "family members": {
+    "chinese": "家庭成员",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.036Z"
+  },
+  "give a magic show": {
+    "chinese": "表演魔术",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.171Z"
+  },
+  "watch sb do sth": {
+    "chinese": "看某人做某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.318Z"
+  },
+  "practise doing sth": {
+    "chinese": "练习做某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.454Z"
+  },
+  "make sb shine": {
+    "chinese": "使某人脱颖而出，表现出众",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.596Z"
+  },
+  "sunflower": {
+    "chinese": "向日葵",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.738Z"
+  },
+  "cabbage": {
+    "chinese": "卷心菜，洋白菜，甘蓝",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:57.879Z"
+  },
+  "wheat": {
+    "chinese": "小麦",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.018Z"
+  },
+  "cotton": {
+    "chinese": "棉花，棉株",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.154Z"
+  },
+  "earth": {
+    "chinese": "泥土，土壤",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.438Z"
+  },
+  "thin": {
+    "chinese": "细的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.578Z"
+  },
+  "dig": {
+    "chinese": "挖，掘",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.719Z"
+  },
+  "sleep": {
+    "chinese": "睡，睡觉",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.854Z"
+  },
+  "miss": {
+    "chinese": "想念，思念，怀念(某人)",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:58.997Z"
+  },
+  "mouse": {
+    "chinese": "老鼠",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.138Z"
+  },
+  "everything": {
+    "chinese": "每件事物; 所有事物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.278Z"
+  },
+  "grain": {
+    "chinese": "谷粒",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.418Z"
+  },
+  "paper": {
+    "chinese": "纸",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.558Z"
+  },
+  "will": {
+    "chinese": "将，会，要(用于构成将来时)",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.699Z"
+  },
+  "get big": {
+    "chinese": "长大",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.838Z"
+  },
+  "in the earth": {
+    "chinese": "在土壤中",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:53:59.980Z"
+  },
+  "in the sun": {
+    "chinese": "在阳光下",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:00.121Z"
+  },
+  "pick cotton": {
+    "chinese": "摘棉花",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:00.538Z"
+  },
+  "come from...": {
+    "chinese": "来自......",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:00.677Z"
+  },
+  "come true": {
+    "chinese": "(希望、愿望等)实现",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:00.817Z"
+  },
+  "make paper/chairs": {
+    "chinese": "造纸/做椅子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:00.954Z"
+  },
+  "water the wheat": {
+    "chinese": "给小麦浇水",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.098Z"
+  },
+  "grow rice plants": {
+    "chinese": "种水稻",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.238Z"
+  },
+  "cucumber seeds": {
+    "chinese": "黄瓜种子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.377Z"
+  },
+  "sunflower seeds": {
+    "chinese": "向日葵种子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.547Z"
+  },
+  "tomato seeds": {
+    "chinese": "番茄种子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.688Z"
+  },
+  "bean seeds": {
+    "chinese": "豆种子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.828Z"
+  },
+  "plant seeds": {
+    "chinese": "种下种子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:01.970Z"
+  },
+  "stay with...": {
+    "chinese": "跟......待在一起",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:02.104Z"
+  },
+  "two weeks later": {
+    "chinese": "两周后",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:02.254Z"
+  },
+  "feed... with...": {
+    "chinese": "用......养活......",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:02.396Z"
+  },
+  "put... in...": {
+    "chinese": "把......放进......",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:02.536Z"
+  },
+  "event": {
+    "chinese": "活动，事件",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:02.671Z"
+  },
+  "drama": {
+    "chinese": "戏剧",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.004Z"
+  },
+  "trip": {
+    "chinese": "旅游；旅行，出行",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.171Z"
+  },
+  "forest": {
+    "chinese": "森林，林区",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.321Z"
+  },
+  "culture": {
+    "chinese": "文化",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.462Z"
+  },
+  "festival": {
+    "chinese": "节，节庆，汇演",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.603Z"
+  },
+  "nature": {
+    "chinese": "大自然",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.771Z"
+  },
+  "dot": {
+    "chinese": "点，小圆点",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:03.915Z"
+  },
+  "student": {
+    "chinese": "学生",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.055Z"
+  },
+  "horn": {
+    "chinese": "角",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.195Z"
+  },
+  "raindrop": {
+    "chinese": "雨点，雨滴",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.335Z"
+  },
+  "keeper": {
+    "chinese": "看守人，保管人",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.471Z"
+  },
+  "note": {
+    "chinese": "笔记，记录",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.616Z"
+  },
+  "hour": {
+    "chinese": "小时",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.755Z"
+  },
+  "vote": {
+    "chinese": "选票",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:04.896Z"
+  },
+  "fair": {
+    "chinese": "户外游艺会；义卖会；集市",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.037Z"
+  },
+  "more": {
+    "chinese": "更多的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.178Z"
+  },
+  "write": {
+    "chinese": "书写；写字",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.320Z"
+  },
+  "hunt": {
+    "chinese": "搜寻，寻找",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.459Z"
+  },
+  "lovely": {
+    "chinese": "美好的；令人愉快的；可爱的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.605Z"
+  },
+  "fall": {
+    "chinese": "落下，降落，跌落",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.755Z"
+  },
+  "those": {
+    "chinese": "那些（that的复数形式）",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:05.896Z"
+  },
+  "off": {
+    "chinese": "不在（某物）上面；从（某物）上移开",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.037Z"
+  },
+  "science day": {
+    "chinese": "科学日",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.178Z"
+  },
+  "book week": {
+    "chinese": "读书周",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.320Z"
+  },
+  "drama night": {
+    "chinese": "戏剧之夜",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.455Z"
+  },
+  "picnic day": {
+    "chinese": "野餐日",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.634Z"
+  },
+  "music week": {
+    "chinese": "音乐周",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.771Z"
+  },
+  "a field trip": {
+    "chinese": "一次野外考察",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:06.918Z"
+  },
+  "the school fair": {
+    "chinese": "学校集市",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.055Z"
+  },
+  "sports day": {
+    "chinese": "运动日",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.198Z"
+  },
+  "have fun": {
+    "chinese": "玩得愉快",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.338Z"
+  },
+  "the art festival": {
+    "chinese": "艺术节",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.477Z"
+  },
+  "chinese words": {
+    "chinese": "汉字",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.617Z"
+  },
+  "a nature hunt": {
+    "chinese": "大自然寻宝",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.755Z"
+  },
+  "chinese writing": {
+    "chinese": "中国书法",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:07.896Z"
+  },
+  "look like": {
+    "chinese": "看起来像",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.038Z"
+  },
+  "give votes": {
+    "chinese": "投票",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.178Z"
+  },
+  "go back home": {
+    "chinese": "回家",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.319Z"
+  },
+  "take notes": {
+    "chinese": "记笔记",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.455Z"
+  },
+  "the forest keeper": {
+    "chinese": "护林人",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.597Z"
+  },
+  "all the way": {
+    "chinese": "自始至终",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.739Z"
+  },
+  "go around the world": {
+    "chinese": "环游世界",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:08.879Z"
+  },
+  "the culture fair": {
+    "chinese": "文化集市",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.020Z"
+  },
+  "fall off": {
+    "chinese": "（从某物上）掉下，脱落",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.160Z"
+  },
+  "t-shirt": {
+    "chinese": "T恤(衫)",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.298Z"
+  },
+  "skirt": {
+    "chinese": "半身裙，裙子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.438Z"
+  },
+  "shorts": {
+    "chinese": "短裤",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.578Z"
+  },
+  "shirt": {
+    "chinese": "衬衫",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.719Z"
+  },
+  "trousers": {
+    "chinese": "裤子",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:09.855Z"
+  },
+  "scarf": {
+    "chinese": "围巾",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.002Z"
+  },
+  "dress": {
+    "chinese": "连衣裙",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.138Z"
+  },
+  "robe": {
+    "chinese": "长袍",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.286Z"
+  },
+  "uniform": {
+    "chinese": "制服",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.422Z"
+  },
+  "sweater": {
+    "chinese": "毛线衣，羊毛衫，针织衫",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.566Z"
+  },
+  "party": {
+    "chinese": "聚会，宴会",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.705Z"
+  },
+  "mr": {
+    "chinese": "先生",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:10.855Z"
+  },
+  "end": {
+    "chinese": "最后部分，末尾",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.004Z"
+  },
+  "dressmaker": {
+    "chinese": "裁缝",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.144Z"
+  },
+  "christmas": {
+    "chinese": "圣诞节",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.286Z"
+  },
+  "present": {
+    "chinese": "礼物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.422Z"
+  },
+  "clever": {
+    "chinese": "聪明的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.566Z"
+  },
+  "wrong": {
+    "chinese": "不正确的，错误的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.735Z"
+  },
+  "whale": {
+    "chinese": "鲸",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:11.872Z"
+  },
+  "the same": {
+    "chinese": "同样",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.154Z"
+  },
+  "look outside": {
+    "chinese": "向外看",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.293Z"
+  },
+  "pick clothes": {
+    "chinese": "挑选衣服",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.435Z"
+  },
+  "look for": {
+    "chinese": "寻找",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.572Z"
+  },
+  "get ready": {
+    "chinese": "准备好",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.719Z"
+  },
+  "make clothes": {
+    "chinese": "做衣服",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.855Z"
+  },
+  "cut up": {
+    "chinese": "裁剪",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:12.997Z"
+  },
+  "come along": {
+    "chinese": "跟着来",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.136Z"
+  },
+  "no problem": {
+    "chinese": "没问题",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.272Z"
+  },
+  "look the same": {
+    "chinese": "看起来一样",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.416Z"
+  },
+  "have a look": {
+    "chinese": "看一看",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.555Z"
+  },
+  "at the end of...": {
+    "chinese": "在……的末尾",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.701Z"
+  },
+  "get... wrong": {
+    "chinese": "把……弄错",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.838Z"
+  },
+  "something special": {
+    "chinese": "某样特别的东西",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:13.980Z"
+  },
+  "ask sb to do sth": {
+    "chinese": "让某人做某事",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-27T20:54:14.121Z"
+  }
+}

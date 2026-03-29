@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "username": "weirenle",
+    "bank": "阅读理解",
+    "createdAt": "2026-03-18T19:12:25.804Z",
+    "lastActive": "2026-03-18T19:12:25.821Z",
+    "totalExtracts": 0,
+    "totalQuestionsAttempted": 0,
+    "totalCorrect": 0,
+    "totalWrong": 0,
+    "accuracy": 0,
+    "avgMastery": 0,
+    "practicedPassages": 1
+  },
+  "passages": {
+    "winter_animals_passage_001": {
+      "passageId": "winter_animals_passage_001",
+      "extract_count": 0,
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "questions": {},
+      "history": []
+    }
+  },
+  "questions": {
+    "winter_001_q19": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-18T19:12:25.820Z",
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "winter_001_q20": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-18T19:12:25.820Z",
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "winter_001_q21": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-18T19:12:25.820Z",
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "winter_001_q22": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-18T19:12:25.820Z",
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "winter_001_q23": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-18T19:12:25.820Z",
+      "last_practiced": "2026-03-18T19:12:25.820Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "understoodSentences": [
+    {
+      "id": 0,
+      "text": "I'm Peppa Pig.",
+      "fullText": "I'm Peppa Pig.",
+      "timestamp": 1774802699755,
+      "episodeId": 1
+    },
+    {
+      "id": 1,
+      "text": "This is my little brother, George.",
+      "fullText": "This is my little brother, George.",
+      "timestamp": 1774802702590,
+      "episodeId": 1
+    },
+    {
+      "id": 2,
+      "text": "This is Mummy Pig.",
+      "fullText": "This is Mummy Pig.",
+      "timestamp": 1774802704240,
+      "episodeId": 1
+    },
+    {
+      "id": 3,
+      "text": "And this is Daddy Pig.",
+      "fullText": "And this is Daddy Pig.",
+      "timestamp": 1774802705635,
+      "episodeId": 1
+    },
+    {
+      "id": 4,
+      "text": "Peppa pig.",
+      "fullText": "Peppa pig.",
+      "timestamp": 1774802706740,
+      "episodeId": 1
+    },
+    {
+      "id": 5,
+      "text": "Muddy Puddles.",
+      "fullText": "Muddy Puddles.",
+      "timestamp": 1774802708111,
+      "episodeId": 1
+    },
+    {
+      "id": 6,
+      "text": "It is raining today.",
+      "fullText": "It is raining today.",
+      "timestamp": 1774802709580,
+      "episodeId": 1
+    },
+    {
+      "id": 7,
+      "text": "So, Peppa and George Cannot play outside.",
+      "fullText": "So, Peppa and George Cannot play outside.",
+      "timestamp": 1774802713385,
+      "episodeId": 1
+    },
+    {
+      "id": 8,
+      "text": "Daddy, it's stopped raining.",
+      "fullText": "Daddy, it's stopped raining.",
+      "timestamp": 1774802719930,
+      "episodeId": 1
+    },
+    {
+      "id": 9,
+      "text": "Can we go out to play?",
+      "fullText": "Can we go out to play?",
+      "timestamp": 1774802724860,
+      "episodeId": 1
+    },
+    {
+      "id": 10,
+      "text": "Alright, run along you two.",
+      "fullText": "Alright, run along you two.",
+      "timestamp": 1774802730925,
+      "episodeId": 1
+    },
+    {
+      "id": 11,
+      "text": "Peppa loves jumping in muddy puddles.",
+      "fullText": "Peppa loves jumping in muddy puddles.",
+      "timestamp": 1774802733911,
+      "episodeId": 1
+    },
+    {
+      "id": 12,
+      "text": "I love muddy puddles.",
+      "fullText": "I love muddy puddles.",
+      "timestamp": 1774802740630,
+      "episodeId": 1
+    },
+    {
+      "id": 13,
+      "text": "Peppa. If you jump in muddy puddles,",
+      "fullText": "Peppa. If you jump in muddy puddles,",
+      "timestamp": 1774802744435,
+      "episodeId": 1
+    },
+    {
+      "id": 14,
+      "text": "you must wear your boots.",
+      "fullText": "you must wear your boots.",
+      "timestamp": 1774802746740,
+      "episodeId": 1
+    },
+    {
+      "id": 15,
+      "text": "Sorry, Mummy.",
+      "fullText": "Sorry, Mummy.",
+      "timestamp": 1774802750220,
+      "episodeId": 1
+    },
+    {
+      "id": 16,
+      "text": "George likes to jump in muddy puddles, too.",
+      "fullText": "George likes to jump in muddy puddles, too.",
+      "timestamp": 1774802753780,
+      "episodeId": 1
+    },
+    {
+      "id": 17,
+      "text": "George. If you jump in muddy puddles,",
+      "fullText": "George. If you jump in muddy puddles,",
+      "timestamp": 1774802756585,
+      "episodeId": 1
+    },
+    {
+      "id": 18,
+      "text": "you must wear your boots.",
+      "fullText": "you must wear your boots.",
+      "timestamp": 1774802764090,
+      "episodeId": 1
+    },
+    {
+      "id": 19,
+      "text": "Peppa likes to look after her little brother, George.",
+      "fullText": "Peppa likes to look after her little brother, George.",
+      "timestamp": 1774802767195,
+      "episodeId": 1
+    },
+    {
+      "id": 20,
+      "text": "George, let's find some more puddles.",
+      "fullText": "George, let's find some more puddles.",
+      "timestamp": 1774802771385,
+      "episodeId": 1
+    },
+    {
+      "id": 21,
+      "text": "Peppa and George are having a lot of fun.",
+      "fullText": "Peppa and George are having a lot of fun.",
+      "timestamp": 1774802774690,
+      "episodeId": 1
+    },
+    {
+      "id": 22,
+      "text": "Peppa has found a little puddle.",
+      "fullText": "Peppa has found a little puddle.",
+      "timestamp": 1774802777170,
+      "episodeId": 1
+    },
+    {
+      "id": 23,
+      "text": "George has found a big puddle.",
+      "fullText": "George has found a big puddle.",
+      "timestamp": 1774802779570,
+      "episodeId": 1
+    },
+    {
+      "id": 24,
+      "text": "Look, George. There's a really big puddle.",
+      "fullText": "Look, George. There's a really big puddle.",
+      "timestamp": 1774802782930,
+      "episodeId": 1
+    },
+    {
+      "id": 25,
+      "text": "George wants to jump into the big puddle first.",
+      "fullText": "George wants to jump into the big puddle first.",
+      "timestamp": 1774802786555,
+      "episodeId": 1
+    },
+    {
+      "id": 26,
+      "text": "Stop, George.",
+      "fullText": "Stop, George.",
+      "timestamp": 1774802789055,
+      "episodeId": 1
+    },
+    {
+      "id": 27,
+      "text": "I must check if it's safe for you.",
+      "fullText": "I must check if it's safe for you.",
+      "timestamp": 1774803034375,
+      "episodeId": 1
+    },
+    {
+      "id": 28,
+      "text": "Good. It is safe for you.",
+      "fullText": "Good. It is safe for you.",
+      "timestamp": 1774803037605,
+      "episodeId": 1
+    },
+    {
+      "id": 29,
+      "text": "Sorry, George. It's only mud.",
+      "fullText": "Sorry, George. It's only mud.",
+      "timestamp": 1774803041325,
+      "episodeId": 1
+    },
+    {
+      "id": 30,
+      "text": "Peppa and George love jumping in muddy puddles.",
+      "fullText": "Peppa and George love jumping in muddy puddles.",
+      "timestamp": 1774803045079,
+      "episodeId": 1
+    },
+    {
+      "id": 31,
+      "text": "Come on, George. Let's go and show Daddy.",
+      "fullText": "Come on, George. Let's go and show Daddy.",
+      "timestamp": 1774803055190,
+      "episodeId": 1
+    },
+    {
+      "id": 32,
+      "text": "Goodness me.",
+      "fullText": "Goodness me.",
+      "timestamp": 1774803058376,
+      "episodeId": 1
+    },
+    {
+      "id": 33,
+      "text": "Daddy. Daddy. Guess what we've been doing.",
+      "fullText": "Daddy. Daddy. Guess what we've been doing.",
+      "timestamp": 1774803064800,
+      "episodeId": 1
+    },
+    {
+      "id": 34,
+      "text": "Let me think..",
+      "fullText": "Let me think..",
+      "timestamp": 1774803068665,
+      "episodeId": 1
+    },
+    {
+      "id": 35,
+      "text": "Have you been watching television?",
+      "fullText": "Have you been watching television?",
+      "timestamp": 1774803077580,
+      "episodeId": 1
+    },
+    {
+      "id": 36,
+      "text": "No. No. Daddy.",
+      "fullText": "No. No. Daddy.",
+      "timestamp": 1774803081055,
+      "episodeId": 1
+    },
+    {
+      "id": 37,
+      "text": "Have you just had a bath?",
+      "fullText": "Have you just had a bath?",
+      "timestamp": 1774803084035,
+      "episodeId": 1
+    },
+    {
+      "id": 38,
+      "text": "No. No.",
+      "fullText": "No. No.",
+      "timestamp": 1774803087874,
+      "episodeId": 1
+    },
+    {
+      "id": 39,
+      "text": "I know. You've been jumping in muddy puddles.",
+      "fullText": "I know. You've been jumping in muddy puddles.",
+      "timestamp": 1774803094260,
+      "episodeId": 1
+    },
+    {
+      "id": 40,
+      "text": "Yes. Yes. Daddy. We've been jumping in muddy puddles.",
+      "fullText": "Yes. Yes. Daddy. We've been jumping in muddy puddles.",
+      "timestamp": 1774803168309,
+      "episodeId": 1
+    },
+    {
+      "id": 41,
+      "text": "Ho. Ho. And look at the mess you're in.",
+      "fullText": "Ho. Ho. And look at the mess you're in.",
+      "timestamp": 1774803176814,
+      "episodeId": 1
+    },
+    {
+      "id": 42,
+      "text": "Oooh..",
+      "fullText": "Oooh..",
+      "timestamp": 1774803178744,
+      "episodeId": 1
+    },
+    {
+      "id": 43,
+      "text": "Oh, well, it's only mud.",
+      "fullText": "Oh, well, it's only mud.",
+      "timestamp": 1774803181964,
+      "episodeId": 1
+    },
+    {
+      "id": 44,
+      "text": "Let's clean up quickly before Mummy sees the mess.",
+      "fullText": "Let's clean up quickly before Mummy sees the mess.",
+      "timestamp": 1774803190504,
+      "episodeId": 1
+    },
+    {
+      "id": 45,
+      "text": "Daddy, when we've cleaned up,",
+      "fullText": "Daddy, when we've cleaned up,",
+      "timestamp": 1774803194889,
+      "episodeId": 1
+    },
+    {
+      "id": 46,
+      "text": "will you and Mummy Come and play, too?",
+      "fullText": "will you and Mummy Come and play, too?",
+      "timestamp": 1774803204804,
+      "episodeId": 1
+    },
+    {
+      "id": 47,
+      "text": "Yes, we can all play in the garden.",
+      "fullText": "Yes, we can all play in the garden.",
+      "timestamp": 1774803208464,
+      "episodeId": 1
+    },
+    {
+      "id": 48,
+      "text": "Peppa and George are wearing their boots.",
+      "fullText": "Peppa and George are wearing their boots.",
+      "timestamp": 1774803211879,
+      "episodeId": 1
+    },
+    {
+      "id": 49,
+      "text": "Mummy and Daddy are wearing their boots.",
+      "fullText": "Mummy and Daddy are wearing their boots.",
+      "timestamp": 1774803224229,
+      "episodeId": 1
+    },
+    {
+      "id": 50,
+      "text": "Peppa loves jumping up and down in muddy puddles.",
+      "fullText": "Peppa loves jumping up and down in muddy puddles.",
+      "timestamp": 1774803279654,
+      "episodeId": 1
+    },
+    {
+      "id": 51,
+      "text": "Everyone loves jumping up and down in muddy puddles.",
+      "fullText": "Everyone loves jumping up and down in muddy puddles.",
+      "timestamp": 1774803293244,
+      "episodeId": 1
+    },
+    {
+      "id": 53,
+      "text": "It's only mud.",
+      "fullText": "It's only mud.",
+      "timestamp": 1774803313104,
+      "episodeId": 1
+    }
+  ],
+  "difficultSentences": [
+    {
+      "id": 52,
+      "text": "Oh, Daddy pig, look at the mess you're in.",
+      "fullText": "Oh, Daddy pig, look at the mess you're in.",
+      "timestamp": 1774803302284,
+      "episodeId": 1
+    }
+  ],
+  "lastEpisodeId": 1,
+  "lastRange": {
+    "start": 1,
+    "end": 54
+  },
+  "timestamp": 1774803324777,
+  "lastUpdate": "2026-02-02T15:05:24.011Z",
+  "lastSyncTime": "2026-03-29T16:55:26.492Z",
+  "syncCount": 167
+}

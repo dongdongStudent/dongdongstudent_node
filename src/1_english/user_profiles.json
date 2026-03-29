@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "created_at": "2026-01-25T21:13:26.056Z",
+    "last_updated": "2026-03-28T22:25:23.319Z",
+    "next_user_id": 1008
+  },
+  "users": {
+    "1001": {
+      "basic_info": {
+        "username": "weisimin",
+        "username_2": "weisimin",
+        "display_name": "weisimin",
+        "email": "weisimin@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$lL0S5FXj9s9KJVXcx.PusOHmWwkA980kvqCKDYsvKHPtXD2elVl/O",
+        "password_changed_at": "2026-01-25T21:14:44.306Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-03-28T22:25:23.319Z",
+        "last_activity": "2026-03-28T22:25:23.319Z",
+        "created_at": "2026-01-25T21:14:44.306Z",
+        "updated_at": "2026-01-25T21:14:44.306Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1002": {
+      "basic_info": {
+        "username": "weirenle",
+        "username_2": "weirenle",
+        "display_name": "weirenle",
+        "email": "weirenle@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$1GHX7FPZhKVtMthTL7lN0uBGn7jlwJIobGy0f7s9qG27QVQFGX/Hu",
+        "password_changed_at": "2026-01-25T21:15:09.491Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-03-27T22:22:20.563Z",
+        "last_activity": "2026-03-27T22:22:20.563Z",
+        "created_at": "2026-01-25T21:15:09.491Z",
+        "updated_at": "2026-01-25T21:15:09.491Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1003": {
+      "basic_info": {
+        "username": "weisimin2",
+        "username_2": "weisimin2",
+        "display_name": "weisimin2",
+        "email": "weisimin2@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$xtACUlKyLtlWhJIR2XMkSOk9cOg8pazrYNV60ek991XQSQk6.JbEi",
+        "password_changed_at": "2026-01-25T22:28:40.806Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-25",
+        "last_login": "2026-01-25T22:29:11.563Z",
+        "last_activity": "2026-01-25T22:29:11.563Z",
+        "created_at": "2026-01-25T22:28:40.806Z",
+        "updated_at": "2026-01-25T22:28:40.806Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1004": {
+      "basic_info": {
+        "username": "qinjiahong",
+        "username_2": "qinjiahong",
+        "display_name": "qinjiahong",
+        "email": "qinjiahong@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$2sfgw9kdJo1D4ZF9zKVEd.PKnN5bIoATzso/.N.QA9LNtlBp4g3J6",
+        "password_changed_at": "2026-01-27T14:50:21.872Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-27",
+        "last_login": "2026-03-13T17:56:39.540Z",
+        "last_activity": "2026-03-13T17:56:39.540Z",
+        "created_at": "2026-01-27T14:50:21.872Z",
+        "updated_at": "2026-01-27T14:50:21.872Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1005": {
+      "basic_info": {
+        "username": "tanweifeng",
+        "username_2": "tanweifeng",
+        "display_name": "tanweifeng",
+        "email": "tanweifeng@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$UO3ITJzhMwA.Oi31I/p5KubQTyN5kpwDYir8gc0tbV1poJLghtSWm",
+        "password_changed_at": "2026-01-28T11:23:24.010Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-28",
+        "last_login": "2026-03-28T22:19:18.600Z",
+        "last_activity": "2026-03-28T22:19:18.601Z",
+        "created_at": "2026-01-28T11:23:24.010Z",
+        "updated_at": "2026-01-28T11:23:24.010Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1006": {
+      "basic_info": {
+        "username": "weisiting",
+        "username_2": "weisiting",
+        "display_name": "weisiting",
+        "email": "weisiting@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$SBNZDh4JbXOypoD1HdDCZOJnO7PgmOLTvVNINwVYqEr5EUHxdcEX.",
+        "password_changed_at": "2026-01-29T23:39:36.234Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-29",
+        "last_login": "2026-01-31T13:38:31.286Z",
+        "last_activity": "2026-01-31T13:38:31.286Z",
+        "created_at": "2026-01-29T23:39:36.234Z",
+        "updated_at": "2026-01-29T23:39:36.234Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    },
+    "1007": {
+      "basic_info": {
+        "username": "weisiji",
+        "username_2": "weisiji",
+        "display_name": "weisiji",
+        "email": "weisiji@example.com",
+        "avatar_url": null,
+        "bio": null
+      },
+      "security": {
+        "password_hash": "$2a$10$E.lJHk5ZtORXnGRtMuy1CeGsPl6y3I0cb.F/A/6DXBuKA.z/tcLXu",
+        "password_changed_at": "2026-01-30T12:56:14.498Z",
+        "password_strength": "medium",
+        "failed_login_attempts": 0
+      },
+      "timestamps": {
+        "join_date": "2026-01-30",
+        "last_login": "2026-02-01T16:27:39.585Z",
+        "last_activity": "2026-02-01T16:27:39.585Z",
+        "created_at": "2026-01-30T12:56:14.498Z",
+        "updated_at": "2026-01-30T12:56:14.498Z"
+      },
+      "account_status": {
+        "is_active": true,
+        "is_verified": false,
+        "is_premium": false
+      },
+      "study_settings": {
+        "daily_target": 20,
+        "preferred_modules": [
+          "pepa",
+          "reading"
+        ],
+        "auto_play_audio": true,
+        "show_hints": false,
+        "difficulty_level": "medium",
+        "timezone": "Asia/Shanghai"
+      },
+      "ui_settings": {
+        "theme": "light",
+        "language": "zh-CN",
+        "font_size": "medium"
+      },
+      "study_stats": {
+        "current_streak": 0,
+        "longest_streak": 0,
+        "total_study_days": 0,
+        "total_words_studied": 0,
+        "total_words_mastered": 0,
+        "total_study_time_minutes": 0,
+        "average_daily_words": 0,
+        "accuracy_rate": 0
+      }
+    }
+  },
+  "username_index": {
+    "weisimin": "1001",
+    "weirenle": "1002",
+    "weisimin2": "1003",
+    "qinjiahong": "1004",
+    "tanweifeng": "1005",
+    "weisiting": "1006",
+    "weisiji": "1007"
+  },
+  "email_index": {}
+}

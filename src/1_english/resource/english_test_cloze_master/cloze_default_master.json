@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "totalPassages": 5,
+    "totalQuestions": 50,
+    "categories": ["故事", "教育", "科普", "社会", "文化", "生活", "哲理"],
+    "lastUpdated": "2026-02-28T16:30:00.000Z"
+  },
+  "passages": [
+    {
+      "id": "cloze_a1b2c3d4e5",
+      "title": "010_Families Keep Pets",
+      "category": "生活",
+      "difficulty": 2,
+      "source": "2023 河北石家庄外国语教育集团期中",
+      "createdAt": "2026-03-01T08:00:00.000Z",
+      "content": "Now a lot of families keep pets in their houses. Many ___31___ are small animals like cats, dogs and birds. Dogs are people's first favorite pets. The ___32___ favorite is the cat and the third favorite is the bird. These small animals are very cute and ___33___. People ___34___ see the pets as their family members. People look after the pets very well. They let them ___35___ beautiful clothes and have nice names. They buy food for their pets in the pet shops. They keep their pets ___36___ every day. Many pets have their houses and beds. People often take their pets out to take a ___37___ in the morning.\n\nSome children like pets because they need a friend that they can ___38___ at home. Many old people live alone. Their children don't live with them. They ___39___ pets at home just because they often feel lonely (孤独的). They see their pets as their children and love them very much. So pets are very ___40___ to them.",
+      "questions": [
+        {
+          "id": "cloze_a1b2c3d4e5_q31",
+          "number": 31,
+          "options": ["A. races", "B. shops", "C. pets", "D. flags"],
+          "correct": "C",
+          "explanation": "根据上下文，许多家庭养宠物，很多宠物是小动物，如猫、狗和鸟。pets表示宠物。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q32",
+          "number": 32,
+          "options": ["A. first", "B. second", "C. third", "D. fourth"],
+          "correct": "B",
+          "explanation": "狗是人们最喜欢的宠物，猫是第二喜欢的，鸟是第三喜欢的。second表示第二。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q33",
+          "number": 33,
+          "options": ["A. bad", "B. lazy", "C. warm", "D. friendly"],
+          "correct": "D",
+          "explanation": "这些小动物非常可爱和友好，friendly表示友好的。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q34",
+          "number": 34,
+          "options": ["A. usually", "B. still", "C. either", "D. down"],
+          "correct": "A",
+          "explanation": "人们通常把宠物视为家庭成员，usually表示通常。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q35",
+          "number": 35,
+          "options": ["A. take", "B. wear", "C. talk", "D. run"],
+          "correct": "B",
+          "explanation": "他们让宠物穿漂亮的衣服，wear表示穿。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q36",
+          "number": 36,
+          "options": ["A. young", "B. shy", "C. clean", "D. scary"],
+          "correct": "C",
+          "explanation": "他们每天保持宠物清洁，keep clean表示保持清洁。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q37",
+          "number": 37,
+          "options": ["A. trip", "B. job", "C. shower", "D. walk"],
+          "correct": "D",
+          "explanation": "人们经常早上带宠物出去散步，take a walk表示散步。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q38",
+          "number": 38,
+          "options": ["A. play with", "B. write with", "C. draw with", "D. work with"],
+          "correct": "A",
+          "explanation": "孩子们需要可以在家一起玩的朋友，play with表示一起玩。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q39",
+          "number": 39,
+          "options": ["A. miss", "B. keep", "C. study", "D. wash"],
+          "correct": "B",
+          "explanation": "老人在家养宠物，keep pets表示养宠物。"
+        },
+        {
+          "id": "cloze_a1b2c3d4e5_q40",
+          "number": 40,
+          "options": ["A. happy", "B. sorry", "C. sad", "D. important"],
+          "correct": "D",
+          "explanation": "所以宠物对他们来说非常重要，important表示重要的。"
+        }
+      ]
+    }
+  ]
+}

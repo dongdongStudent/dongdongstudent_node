@@ -1,0 +1,34 @@
+{
+  "interesting": {
+    "chinese": "有趣的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-09T09:32:34.577Z"
+  },
+  "animals": {
+    "chinese": "动物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-09T09:32:34.779Z"
+  },
+  "much": {
+    "chinese": "很",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-09T09:32:34.925Z"
+  },
+  "strong": {
+    "chinese": "坚强的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-09T09:32:35.073Z"
+  }
+}

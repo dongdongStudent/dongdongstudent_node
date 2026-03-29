@@ -1,0 +1,86 @@
+{
+    "metadata": {
+      "title": "高考英语真题库",
+      "description": "历年高考英语真题精选",
+      "totalQuestions": 0,
+      "version": "1.0.0",
+      "idType": "time-based-hash",
+      "lastUpdated": "2024-03-13T12:00:00Z",
+      "category": "高考",
+      "source": "历年高考真题"
+    },
+    "questions": [
+      {
+        "id": "gk_2024001_cla001",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "It was the third time that he ______ late for school this month.",
+        "options": [
+          {"label": "A", "text": "was"},
+          {"label": "B", "text": "had been"},
+          {"label": "C", "text": "has been"},
+          {"label": "D", "text": "is"}
+        ],
+        "correct": "B",
+        "explanation": "It was the +序数词 + time that从句中，从句用过去完成时。",
+        "category": "时态",
+        "source": "2023 全国卷",
+        "tags": ["时态", "过去完成时", "固定句型"],
+        "createdAt": "2024-03-13T08:00:00Z"
+      },
+      {
+        "id": "gk_2024002_inf002",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ the project in time, the workers worked day and night.",
+        "options": [
+          {"label": "A", "text": "Finishing"},
+          {"label": "B", "text": "Finished"},
+          {"label": "C", "text": "To finish"},
+          {"label": "D", "text": "Having finished"}
+        ],
+        "correct": "C",
+        "explanation": "不定式作目的状语，表示'为了按时完成项目'。",
+        "category": "非谓语动词",
+        "source": "2023 北京高考",
+        "tags": ["非谓语动词", "不定式", "目的状语"],
+        "createdAt": "2024-03-13T08:01:00Z"
+      },
+      {
+        "id": "gk_2024003_cla003",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ is known to all is that China has made great progress in space exploration.",
+        "options": [
+          {"label": "A", "text": "It"},
+          {"label": "B", "text": "What"},
+          {"label": "C", "text": "As"},
+          {"label": "D", "text": "That"}
+        ],
+        "correct": "B",
+        "explanation": "What引导主语从句，在从句中作主语，表示'众所周知的事情'。",
+        "category": "从句",
+        "source": "2023 全国卷",
+        "tags": ["从句", "主语从句", "what"],
+        "createdAt": "2024-03-13T08:02:00Z"
+      },
+      {
+        "id": "gk_2024004_voc004",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "The new policy is designed to ______ the economic development of the region.",
+        "options": [
+          {"label": "A", "text": "promote"},
+          {"label": "B", "text": "prevent"},
+          {"label": "C", "text": "protect"},
+          {"label": "D", "text": "provide"}
+        ],
+        "correct": "A",
+        "explanation": "promote表示'促进'，符合政策促进经济发展的语境。",
+        "category": "动词",
+        "source": "2023 江苏高考",
+        "tags": ["动词", "promote", "词义辨析"],
+        "createdAt": "2024-03-13T08:03:00Z"
+      }
+    ]
+  }

@@ -1,0 +1,932 @@
+[
+  {
+    "word": "Do",
+    "translation": "做",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "school",
+    "translation": "学校",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "didn't",
+    "translation": "没有",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "name",
+    "translation": "名称",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "might",
+    "translation": "可能",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "questions",
+    "translation": "问题",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "something",
+    "translation": "某事",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "find",
+    "translation": "发现,寻找",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Letter",
+    "translation": "信",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Internet",
+    "translation": "互联网",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "post",
+    "translation": "发布",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "writing",
+    "translation": "写作",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "capital",
+    "translation": "资本",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "astronaut",
+    "translation": "宇航员",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "practice",
+    "translation": "实践",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "grades",
+    "translation": "成绩",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "comic",
+    "translation": "漫画",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "free",
+    "translation": "自由的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "write to",
+    "translation": "写信给",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "tell",
+    "translation": "告诉",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Middle",
+    "translation": "中间的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "has",
+    "translation": "有",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "interesting",
+    "translation": "有趣的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "always",
+    "translation": "总是",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "after school",
+    "translation": "放学后",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "thinks",
+    "translation": "认为",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "tennis",
+    "translation": "网球",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "page",
+    "translation": "页",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "ago",
+    "translation": "以前",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "star sign",
+    "translation": "星座",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "such",
+    "translation": "这样的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "BLOG",
+    "translation": "博客",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "pandas",
+    "translation": "熊猫",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "dolphins",
+    "translation": "海豚",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "once",
+    "translation": "一次",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "was able to",
+    "translation": "能够",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Another",
+    "translation": "另一个",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "fan",
+    "translation": "风扇",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "series",
+    "translation": "系列",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "cartoon",
+    "translation": "卡通",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "common",
+    "translation": "常见的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "only",
+    "translation": "仅",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "child",
+    "translation": "孩子",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "manager",
+    "translation": "经理",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "future",
+    "translation": "未来",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "his",
+    "translation": "他的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "watch",
+    "translation": "看",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "notebooks",
+    "translation": "笔记本",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "next",
+    "translation": "下一个",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "can",
+    "translation": "可以",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "woman",
+    "translation": "女人",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "her",
+    "translation": "她的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "daughter",
+    "translation": "女儿",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "clock",
+    "translation": "时钟",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "player",
+    "translation": "运动员",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "country",
+    "translation": "国家",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "relaxing",
+    "translation": "令人放松的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "carrots",
+    "translation": "胡萝卜",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "boring",
+    "translation": "无聊的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "fruit",
+    "translation": "水果",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "junk",
+    "translation": "垃圾",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "kids",
+    "translation": "孩子们",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Uncle",
+    "translation": "叔叔",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "aunt",
+    "translation": "阿姨",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "old",
+    "translation": "老的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "engineers",
+    "translation": "工程师",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "housewife",
+    "translation": "家庭主妇",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "take care of",
+    "translation": "照顾",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "left the job",
+    "translation": "离职了",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "nearest",
+    "translation": "最近的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "medical",
+    "translation": "医疗的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "college",
+    "translation": "学院",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "literature",
+    "translation": "文学",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "local",
+    "translation": "本地",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "great",
+    "translation": "太棒了",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "each other",
+    "translation": "彼此",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "really",
+    "translation": "真正地",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "kind",
+    "translation": "友善的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "friendly",
+    "translation": "友好的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "cup",
+    "translation": "杯子",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Brown",
+    "translation": "棕色的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "jacket",
+    "translation": "夹克",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "purple",
+    "translation": "紫色",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "floating",
+    "translation": "漂浮的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "boat",
+    "translation": "船",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Each",
+    "translation": "每个",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "labs",
+    "translation": "实验室",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "buildings",
+    "translation": "建筑",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "after class",
+    "translation": "课后",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "plan",
+    "translation": "计划",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "exciting",
+    "translation": "令人兴奋的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "gate",
+    "translation": "大门",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "pool",
+    "translation": "水塘",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

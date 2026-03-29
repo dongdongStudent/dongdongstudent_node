@@ -1,0 +1,6324 @@
+{
+    "version": "1.0",
+    "lastUpdated": "2024-03-22",
+    "name": "人教版七年级下选择题",
+    "description": "包含字母音素、交际用语、语法、介词、冠词等综合练习",
+    "questions": [
+      {
+        "id": "1_q_1705312800000_nc001",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "There are five _____ in the zoo. They are from Europe.",
+        "options": [
+          {
+            "label": "A",
+            "text": "wolves"
+          },
+          {
+            "label": "B",
+            "text": "fox"
+          },
+          {
+            "label": "C",
+            "text": "lion"
+          },
+          {
+            "label": "D",
+            "text": "tiger"
+          }
+        ],
+        "correct": "A",
+        "explanation": "wolves是wolf的复数形式。fox的复数是foxes，lion和tiger的复数直接加s。",
+        "category": "名词复数",
+        "source": "原创",
+        "tags": [
+          "名词复数",
+          "不规则变化"
+        ],
+        "createdAt": "2024-01-15T10:00:00Z"
+      },
+      {
+        "id": "2_q_1705312860000_adj002",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "I don't like these snakes at all. I think they are too ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "nice"
+          },
+          {
+            "label": "B",
+            "text": "kind"
+          },
+          {
+            "label": "C",
+            "text": "smart"
+          },
+          {
+            "label": "D",
+            "text": "scary"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据前句'不喜欢蛇'可知，认为它们太'可怕'。",
+        "category": "形容词",
+        "source": "新课标·思维品质",
+        "tags": [
+          "形容词",
+          "语境理解"
+        ],
+        "createdAt": "2024-01-15T10:01:00Z"
+      },
+      {
+        "id": "3_q_1705312920000_qw003",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Excuse me. ______ is the post office?\n—It's opposite the bank, just over there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "Why"
+          },
+          {
+            "label": "D",
+            "text": "Who"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答'在银行对面'可知问的是地点，用Where。",
+        "category": "疑问词",
+        "source": "2024 北京朝阳区期末",
+        "tags": [
+          "疑问词",
+          "地点"
+        ],
+        "createdAt": "2024-01-15T10:02:00Z"
+      },
+      {
+        "id": "4_q_1705312980000_v004",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "The box is too heavy, so the little boy can't ______ it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "build"
+          },
+          {
+            "label": "B",
+            "text": "check"
+          },
+          {
+            "label": "C",
+            "text": "carry"
+          }
+        ],
+        "correct": "C",
+        "explanation": "箱子太重，小男孩搬不动。carry表示'搬运'。",
+        "category": "动词",
+        "source": "2024 广西南宁",
+        "tags": [
+          "动词辨析"
+        ],
+        "createdAt": "2024-01-15T10:03:00Z"
+      },
+      {
+        "id": "5_q_1705313040000_gr005",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "There are ______ cars and buses in the street at this time of day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "too much"
+          },
+          {
+            "label": "B",
+            "text": "too many"
+          },
+          {
+            "label": "C",
+            "text": "much too"
+          }
+        ],
+        "correct": "B",
+        "explanation": "cars和buses是可数名词复数，用too many。too much修饰不可数名词，much too修饰形容词。",
+        "category": "语法",
+        "source": "2023 重庆",
+        "tags": [
+          "too many",
+          "可数名词"
+        ],
+        "createdAt": "2024-01-15T10:04:00Z"
+      },
+      {
+        "id": "6_q_1705313100000_phr006",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Don't read in bed, Sam. It's not ______ your eyes.\n—OK. I won't do it again.",
+        "options": [
+          {
+            "label": "A",
+            "text": "good at"
+          },
+          {
+            "label": "B",
+            "text": "good with"
+          },
+          {
+            "label": "C",
+            "text": "good for"
+          },
+          {
+            "label": "D",
+            "text": "good to"
+          }
+        ],
+        "correct": "C",
+        "explanation": "be good for表示'对...有益'。这里说对眼睛不好。",
+        "category": "固定搭配",
+        "source": "2024 吉林",
+        "tags": [
+          "good for",
+          "固定搭配"
+        ],
+        "createdAt": "2024-01-15T10:05:00Z"
+      },
+      {
+        "id": "7_q_1705313160000_vp007",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Xiaogang helps to ______ his younger sister when his parents are busy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "look up"
+          },
+          {
+            "label": "B",
+            "text": "look like"
+          },
+          {
+            "label": "C",
+            "text": "look after"
+          }
+        ],
+        "correct": "C",
+        "explanation": "look after表示'照顾'。父母忙的时候照顾妹妹。",
+        "category": "动词短语",
+        "source": "2023 吉林中考",
+        "tags": [
+          "look after",
+          "动词短语"
+        ],
+        "createdAt": "2024-01-15T10:06:00Z"
+      },
+      {
+        "id": "8_q_1705313220000_vp008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Could you help me ______ the eraser on the floor?\n—Sure, here you are.",
+        "options": [
+          {
+            "label": "A",
+            "text": "point at"
+          },
+          {
+            "label": "B",
+            "text": "pick up"
+          },
+          {
+            "label": "C",
+            "text": "take out"
+          }
+        ],
+        "correct": "B",
+        "explanation": "pick up表示'捡起'。橡皮掉地上需要捡起来。",
+        "category": "动词短语",
+        "source": "2024 广西南宁",
+        "tags": [
+          "pick up",
+          "动词短语"
+        ],
+        "createdAt": "2024-01-15T10:07:00Z"
+      },
+      {
+        "id": "9_q_1705313280000_vp009",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "You can't ______ these trees if you don't have a felling license.",
+        "options": [
+          {
+            "label": "A",
+            "text": "cut down"
+          },
+          {
+            "label": "B",
+            "text": "put down"
+          },
+          {
+            "label": "C",
+            "text": "sit down"
+          },
+          {
+            "label": "D",
+            "text": "write down"
+          }
+        ],
+        "correct": "A",
+        "explanation": "cut down表示'砍倒'。没有采伐许可证不能砍树。",
+        "category": "动词短语",
+        "source": "新独家原创",
+        "tags": [
+          "cut down",
+          "动词短语"
+        ],
+        "createdAt": "2024-01-15T10:08:00Z"
+      },
+      {
+        "id": "10_q_1705313340000_oc010",
+        "type": "single-choice",
+        "difficulty": 5,
+        "question": "—Can you tell me ______?\n—Sure. By taking notes and watching English films.",
+        "options": [
+          {
+            "label": "A",
+            "text": "why we can learn English well"
+          },
+          {
+            "label": "B",
+            "text": "when we can learn English well"
+          },
+          {
+            "label": "C",
+            "text": "how we can learn English well"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据回答'通过做笔记和看英文电影'可知问的是方式，用how。",
+        "category": "宾语从句",
+        "source": "2024 吉林中考",
+        "tags": [
+          "宾语从句",
+          "how"
+        ],
+        "createdAt": "2024-01-15T10:09:00Z"
+      },
+      {
+        "id": "11_q_1705313400000_nc011",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "There are a lot of ______ on the chopping board. Please help me to cut them off.",
+        "options": [
+          {
+            "label": "A",
+            "text": "tomatoes"
+          },
+          {
+            "label": "B",
+            "text": "potato"
+          },
+          {
+            "label": "C",
+            "text": "carrot"
+          },
+          {
+            "label": "D",
+            "text": "onion"
+          }
+        ],
+        "correct": "A",
+        "explanation": "tomato的复数形式是tomatoes。potato的复数是potatoes，carrot和onion的复数是规则变化加s。",
+        "points": 5,
+        "category": "名词复数",
+        "source": "新课标·劳动实践（新独家原创）",
+        "tags": [
+          "名词复数",
+          "不规则变化"
+        ],
+        "createdAt": "2024-01-15T10:10:00Z"
+      },
+      {
+        "id": "12_q_1705313460000_nc012",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "There are many old ______ and ______ in the park.",
+        "options": [
+          {
+            "label": "A",
+            "text": "man; children"
+          },
+          {
+            "label": "B",
+            "text": "men; child"
+          },
+          {
+            "label": "C",
+            "text": "men; children"
+          },
+          {
+            "label": "D",
+            "text": "man; child"
+          }
+        ],
+        "correct": "C",
+        "explanation": "many修饰可数名词复数，man的复数是men，child的复数是children。",
+        "points": 5,
+        "category": "名词复数",
+        "source": "原创",
+        "tags": [
+          "名词复数",
+          "不规则变化"
+        ],
+        "createdAt": "2024-01-15T10:11:00Z"
+      },
+      {
+        "id": "13_q_1705313520000_qw013",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "______ do you watch the WTT China Smash? —Because I'm always interested in ping-pong.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "Why"
+          },
+          {
+            "label": "C",
+            "text": "When"
+          },
+          {
+            "label": "D",
+            "text": "How"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答'Because...'可知问的是原因，用Why。",
+        "points": 5,
+        "category": "疑问词",
+        "source": "原创",
+        "tags": [
+          "疑问词",
+          "原因"
+        ],
+        "createdAt": "2024-01-15T10:12:00Z"
+      },
+      {
+        "id": "14_q_1705313580000_gr014",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Where ______ Julie ______ from?\n—She comes from the USA.",
+        "options": [
+          {
+            "label": "A",
+            "text": "does; ✓"
+          },
+          {
+            "label": "B",
+            "text": "are; come"
+          },
+          {
+            "label": "C",
+            "text": "is; come"
+          },
+          {
+            "label": "D",
+            "text": "does; come"
+          }
+        ],
+        "correct": "D",
+        "explanation": "come from是动词短语，主语Julie是第三人称单数，用does构成疑问句，动词用原形come。",
+        "points": 5,
+        "category": "语法",
+        "source": "2024 重庆江北区期末",
+        "tags": [
+          "疑问句",
+          "主谓一致"
+        ],
+        "createdAt": "2024-01-15T10:13:00Z"
+      },
+      {
+        "id": "15_q_1705313640000_nc015",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "There are some dogs, ______ in that village.",
+        "options": [
+          {
+            "label": "A",
+            "text": "some chicken and some sheep"
+          },
+          {
+            "label": "B",
+            "text": "some chickens and some sheep"
+          },
+          {
+            "label": "C",
+            "text": "some chickens and some sheeps"
+          },
+          {
+            "label": "D",
+            "text": "some chicken and some sheeps"
+          }
+        ],
+        "correct": "B",
+        "explanation": "chicken表示'小鸡'是可数名词，复数是chickens；sheep单复数同形，复数还是sheep。",
+        "points": 5,
+        "category": "名词复数",
+        "source": "原创",
+        "tags": [
+          "名词复数",
+          "sheep单复数同形"
+        ],
+        "createdAt": "2024-01-15T10:14:00Z"
+      },
+      {
+        "id": "16_q_1705313700000_adj016",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "—Do you like swimming, Nancy?\n—Yes, I do. I think it's ______ and useful. I can get fun from swimming. Sometimes it can save my life.",
+        "options": [
+          {
+            "label": "A",
+            "text": "difficult"
+          },
+          {
+            "label": "B",
+            "text": "boring"
+          },
+          {
+            "label": "C",
+            "text": "terrible"
+          },
+          {
+            "label": "D",
+            "text": "interesting"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据后文'从中获得乐趣'可知游泳是有趣的。",
+        "points": 5,
+        "category": "形容词",
+        "source": "体育与健康·游泳",
+        "tags": [
+          "形容词",
+          "语境理解"
+        ],
+        "createdAt": "2024-01-15T10:15:00Z"
+      },
+      {
+        "id": "17_q_1705313760000_adj017",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "—Who would you like to ask for help when in trouble?\n—Miss Lee. She is always ______ to us.",
+        "options": [
+          {
+            "label": "A",
+            "text": "dangerous"
+          },
+          {
+            "label": "B",
+            "text": "strict"
+          },
+          {
+            "label": "C",
+            "text": "sorry"
+          },
+          {
+            "label": "D",
+            "text": "friendly"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据语境，遇到困难时找李老师帮忙，说明她对我们很友好。",
+        "points": 5,
+        "category": "形容词",
+        "source": "2024 湖北武汉江夏区期中",
+        "tags": [
+          "形容词",
+          "语境理解"
+        ],
+        "createdAt": "2024-01-15T10:16:00Z"
+      },
+      {
+        "id": "18_q_1705313820000_adj018",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "—What do you think of Wang Mei?\n—She is a ______ girl. She is good at all subjects.",
+        "options": [
+          {
+            "label": "A",
+            "text": "smart"
+          },
+          {
+            "label": "B",
+            "text": "lazy"
+          },
+          {
+            "label": "C",
+            "text": "noisy"
+          },
+          {
+            "label": "D",
+            "text": "scary"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据'擅长所有科目'可知她很聪明。",
+        "points": 5,
+        "category": "形容词",
+        "source": "2024 山东青岛市北区期中",
+        "tags": [
+          "形容词",
+          "语境理解"
+        ],
+        "createdAt": "2024-01-15T10:17:00Z"
+      },
+      {
+        "id": "19_q_1705313880000_adj019",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Why do you like to listen to ______ music in your free time?\n—Because I feel ______ after listening to it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "relaxing; relaxing"
+          },
+          {
+            "label": "B",
+            "text": "relaxing; relaxed"
+          },
+          {
+            "label": "C",
+            "text": "relaxed; relaxed"
+          },
+          {
+            "label": "D",
+            "text": "relaxed; relaxing"
+          }
+        ],
+        "correct": "B",
+        "explanation": "relaxing修饰物，表示'令人放松的'；relaxed修饰人，表示'感到放松的'。",
+        "points": 5,
+        "category": "形容词",
+        "source": "2024 山东青岛市北区期中",
+        "tags": [
+          "形容词",
+          "-ing/-ed区别"
+        ],
+        "createdAt": "2024-01-15T10:18:00Z"
+      },
+      {
+        "id": "20_q_1705313940000_wh020",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—______?\n—He is very tall and has a big nose.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Why do you like your P.E. teacher"
+          },
+          {
+            "label": "B",
+            "text": "What does your P.E. teacher look like"
+          },
+          {
+            "label": "C",
+            "text": "Who is your P.E. teacher"
+          },
+          {
+            "label": "D",
+            "text": "Where is your P.E. teacher from"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答'很高，大鼻子'可知问的是外貌，用What does...look like。",
+        "points": 5,
+        "category": "特殊疑问句",
+        "source": "2024 山东青岛市北区期末",
+        "tags": [
+          "外貌",
+          "特殊疑问句"
+        ],
+        "createdAt": "2024-01-15T10:19:00Z"
+      },
+      {
+        "id": "21_q_1705314000000_n021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "I don't know about farming, but my grandmother gives me much ______ on growing vegetables.",
+        "options": [
+          {
+            "label": "A",
+            "text": "advice"
+          },
+          {
+            "label": "B",
+            "text": "messages"
+          },
+          {
+            "label": "C",
+            "text": "suggestions"
+          },
+          {
+            "label": "D",
+            "text": "ways"
+          }
+        ],
+        "correct": "A",
+        "explanation": "advice是不可数名词，不能用many修饰，但可以用much修饰。much advice表示'许多建议'。",
+        "points": 5,
+        "category": "名词",
+        "source": "新课标·劳动实践",
+        "tags": [
+          "不可数名词",
+          "advice"
+        ],
+        "createdAt": "2024-01-15T10:20:00Z"
+      },
+      {
+        "id": "22_q_1705314060000_adj022",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "It's ______ to say thank you when someone helps you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "polite"
+          },
+          {
+            "label": "B",
+            "text": "impolite"
+          },
+          {
+            "label": "C",
+            "text": "safe"
+          },
+          {
+            "label": "D",
+            "text": "dangerous"
+          }
+        ],
+        "correct": "A",
+        "explanation": "当别人帮助时，说谢谢是有礼貌的表现。polite表示'有礼貌的'。",
+        "points": 5,
+        "category": "形容词",
+        "source": "2023甘肃兰州中考",
+        "tags": [
+          "形容词",
+          "礼貌用语"
+        ],
+        "createdAt": "2024-01-15T10:21:00Z"
+      },
+      {
+        "id": "23_q_1705314120000_v023",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "If you ______ at the railway station too late, you can't catch the train.",
+        "options": [
+          {
+            "label": "A",
+            "text": "get"
+          },
+          {
+            "label": "B",
+            "text": "arrive"
+          },
+          {
+            "label": "C",
+            "text": "reach"
+          },
+          {
+            "label": "D",
+            "text": "come"
+          }
+        ],
+        "correct": "B",
+        "explanation": "arrive at表示'到达某地'。get要加to，reach是及物动词直接加地点，come to也表示到达。这里arrive at最合适。",
+        "points": 5,
+        "category": "动词",
+        "source": "原创",
+        "tags": [
+          "动词辨析",
+          "arrive"
+        ],
+        "createdAt": "2024-01-15T10:22:00Z"
+      },
+      {
+        "id": "24_q_1705314180000_v024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Mike, can I ______ your bike?\n—Sorry, my bike is broken. You can borrow one ______ Amy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "borrow; to"
+          },
+          {
+            "label": "B",
+            "text": "lend; from"
+          },
+          {
+            "label": "C",
+            "text": "borrow; from"
+          },
+          {
+            "label": "D",
+            "text": "lend; to"
+          }
+        ],
+        "correct": "C",
+        "explanation": "borrow from表示'从...借入'，lend to表示'借给...'。这里是从Mike那里借，所以用borrow from。",
+        "points": 5,
+        "category": "动词",
+        "source": "原创",
+        "tags": [
+          "borrow/lend",
+          "动词辨析"
+        ],
+        "createdAt": "2024-01-15T10:23:00Z"
+      },
+      {
+        "id": "25_q_1705314240000_mod025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "______ people wear helmets when riding electric bicycles?\n—Yes. It's a new traffic rule.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Can"
+          },
+          {
+            "label": "B",
+            "text": "Must"
+          },
+          {
+            "label": "C",
+            "text": "May"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答'这是新的交通规则'可知是强制要求，用must表示'必须'。",
+        "points": 5,
+        "category": "情态动词",
+        "source": "2023湖南郴州中考",
+        "tags": [
+          "情态动词",
+          "must"
+        ],
+        "createdAt": "2024-01-15T10:24:00Z"
+      },
+      {
+        "id": "26_q_1705314300000_imp026",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "______ too much time playing with mobile phones, boys and girls. It's not good for your health and it's a waste of time.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Spend"
+          },
+          {
+            "label": "B",
+            "text": "Don't spend"
+          },
+          {
+            "label": "C",
+            "text": "To spend"
+          },
+          {
+            "label": "D",
+            "text": "Not to spend"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据语境'对健康不好'、'浪费时间'可知是否定祈使句，用Don't spend。",
+        "points": 5,
+        "category": "祈使句",
+        "source": "新课标·批判思维（新独家原创）",
+        "tags": [
+          "祈使句",
+          "否定形式"
+        ],
+        "createdAt": "2024-01-15T10:25:00Z"
+      },
+      {
+        "id": "27_q_1705314360000_vp027",
+        "type": "single-choice",
+        "difficulty": 2,
+        "question": "To save energy, don't forget to ______ the light before you leave the room.",
+        "options": [
+          {
+            "label": "A",
+            "text": "turn off"
+          },
+          {
+            "label": "B",
+            "text": "turn on"
+          },
+          {
+            "label": "C",
+            "text": "turn up"
+          },
+          {
+            "label": "D",
+            "text": "turn into"
+          }
+        ],
+        "correct": "A",
+        "explanation": "turn off表示'关掉'，为了节约能源应该关灯。",
+        "points": 5,
+        "category": "动词短语",
+        "source": "2024四川自贡中考",
+        "tags": [
+          "turn off",
+          "动词短语"
+        ],
+        "createdAt": "2024-01-15T10:26:00Z"
+      },
+      {
+        "id": "28_q_1705314420000_pro028",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Sandy is very organized.\n—Exactly. ______ in her room is in good order.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Something"
+          },
+          {
+            "label": "B",
+            "text": "Everything"
+          },
+          {
+            "label": "C",
+            "text": "Nothing"
+          },
+          {
+            "label": "D",
+            "text": "None"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据前面说她很有条理，可知房间里的一切都井井有条，用Everything。",
+        "points": 5,
+        "category": "代词",
+        "source": "2023江苏宿迁中考",
+        "tags": [
+          "不定代词",
+          "everything"
+        ],
+        "createdAt": "2024-01-15T10:27:00Z"
+      },
+      {
+        "id": "29_q_1705314480000_gr029",
+        "type": "single-choice",
+        "difficulty": 5,
+        "question": "He ______ much healthier if he ______ enough exercise in his free time.",
+        "options": [
+          {
+            "label": "A",
+            "text": "is; take"
+          },
+          {
+            "label": "B",
+            "text": "will be; takes"
+          },
+          {
+            "label": "C",
+            "text": "will be; take"
+          }
+        ],
+        "correct": "B",
+        "explanation": "if引导的条件状语从句，主句用将来时(will be)，从句用一般现在时(he是第三人称单数，用takes)。",
+        "points": 5,
+        "category": "语法",
+        "source": "2024黑龙江绥化中考",
+        "tags": [
+          "条件状语从句",
+          "主将从现"
+        ],
+        "createdAt": "2024-01-15T10:28:00Z"
+      },
+      {
+        "id": "30_q_1705314540000_conj030",
+        "type": "single-choice",
+        "difficulty": 5,
+        "question": "You can feel better ______ you take a walk in the park just for 20 minutes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "if"
+          },
+          {
+            "label": "B",
+            "text": "before"
+          },
+          {
+            "label": "C",
+            "text": "until"
+          }
+        ],
+        "correct": "A",
+        "explanation": "if引导条件状语从句，表示'如果'。如果你在公园散步20分钟，你会感觉更好。",
+        "points": 5,
+        "category": "连词",
+        "source": "2024福建中考",
+        "tags": [
+          "连词",
+          "if条件句"
+        ],
+        "createdAt": "2024-01-15T10:29:00Z"
+      },
+      {
+        "id": "31_q_1739529600000_mdl001",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ use the computer too much. It's bad for your eyes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Not"
+          },
+          {
+            "label": "B",
+            "text": "Don't"
+          },
+          {
+            "label": "C",
+            "text": "No"
+          },
+          {
+            "label": "D",
+            "text": "Can't"
+          }
+        ],
+        "correct": "B",
+        "explanation": "这是一个祈使句的否定形式，用Don't + 动词原形。表示'不要过度使用电脑'。",
+        "category": "祈使句",
+        "source": "2024 重庆江北区期末",
+        "tags": [
+          "祈使句",
+          "否定形式",
+          "新课标"
+        ],
+        "createdAt": "2024-02-15T10:00:00Z"
+      },
+      {
+        "id": "32_q_1739529600001_mdl002",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "It's going to rain. Please ______ the windows before you leave.",
+        "options": [
+          {
+            "label": "A",
+            "text": "close"
+          },
+          {
+            "label": "B",
+            "text": "closing"
+          },
+          {
+            "label": "C",
+            "text": "to close"
+          },
+          {
+            "label": "D",
+            "text": "closes"
+          }
+        ],
+        "correct": "A",
+        "explanation": "Please后面跟动词原形，构成祈使句。表示'请关窗'。",
+        "category": "祈使句",
+        "source": "2024 天津河北区期末",
+        "tags": [
+          "祈使句",
+          "please用法"
+        ],
+        "createdAt": "2024-02-15T10:01:00Z"
+      },
+      {
+        "id": "33_q_1739529600002_mdl003",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ your room every day. You should keep it tidy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Clean"
+          },
+          {
+            "label": "B",
+            "text": "To clean"
+          },
+          {
+            "label": "C",
+            "text": "No clean"
+          },
+          {
+            "label": "D",
+            "text": "Don't clean"
+          }
+        ],
+        "correct": "A",
+        "explanation": "这是一个肯定祈使句，用动词原形开头。表示'每天打扫房间'。",
+        "category": "祈使句",
+        "source": "新课标·自我管理",
+        "tags": [
+          "祈使句",
+          "肯定形式",
+          "新课标"
+        ],
+        "createdAt": "2024-02-15T10:02:00Z"
+      },
+      {
+        "id": "34_q_1739529600003_mdl004",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ quiet, please! You are in the library.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Keep"
+          },
+          {
+            "label": "B",
+            "text": "To keep"
+          },
+          {
+            "label": "C",
+            "text": "Keeping"
+          },
+          {
+            "label": "D",
+            "text": "Keeps"
+          }
+        ],
+        "correct": "A",
+        "explanation": "这是一个祈使句，用动词原形Keep开头。表示'请保持安静'。",
+        "category": "祈使句",
+        "source": "2023 重庆巴蜀中学月考",
+        "tags": [
+          "祈使句",
+          "公共秩序",
+          "新课标"
+        ],
+        "createdAt": "2024-02-15T10:03:00Z"
+      },
+      {
+        "id": "35_q_1739529600004_mdl005",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Bill, ______ I use your ruler? —Of course you can. Here you are.",
+        "options": [
+          {
+            "label": "A",
+            "text": "can"
+          },
+          {
+            "label": "B",
+            "text": "must"
+          },
+          {
+            "label": "C",
+            "text": "need"
+          },
+          {
+            "label": "D",
+            "text": "should"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据回答'Of course you can'可知，问句是在请求允许，用can。",
+        "category": "情态动词",
+        "source": "2024 北京中考",
+        "tags": [
+          "情态动词",
+          "can",
+          "请求允许"
+        ],
+        "createdAt": "2024-02-15T10:04:00Z"
+      },
+      {
+        "id": "36_q_1739529600005_mdl006",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "He gets up late today, so he ______ take the next bus.",
+        "options": [
+          {
+            "label": "A",
+            "text": "must"
+          },
+          {
+            "label": "B",
+            "text": "mustn't"
+          },
+          {
+            "label": "C",
+            "text": "doesn't have to"
+          },
+          {
+            "label": "D",
+            "text": "has to"
+          }
+        ],
+        "correct": "D",
+        "explanation": "起床晚了，所以不得不乘下一班车。has to表示客观上的'不得不'。",
+        "category": "情态动词",
+        "source": "2024 河北石家庄二十八中期中",
+        "tags": [
+          "情态动词",
+          "has to",
+          "不得不"
+        ],
+        "createdAt": "2024-02-15T10:05:00Z"
+      },
+      {
+        "id": "37_q_1739529600006_mdl007",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "We ______ eat in the library and we ______ keep quiet.",
+        "options": [
+          {
+            "label": "A",
+            "text": "have to; must"
+          },
+          {
+            "label": "B",
+            "text": "must; can't"
+          },
+          {
+            "label": "C",
+            "text": "can't; have to"
+          },
+          {
+            "label": "D",
+            "text": "have to; can't"
+          }
+        ],
+        "correct": "C",
+        "explanation": "图书馆不能吃东西(can't)，必须保持安静(have to)。",
+        "category": "情态动词",
+        "source": "2024 河北石家庄外国语学校期中",
+        "tags": [
+          "情态动词",
+          "can't",
+          "have to"
+        ],
+        "createdAt": "2024-02-15T10:06:00Z"
+      },
+      {
+        "id": "38_q_1739529600007_mdl008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "My sister ______ play the violin well, but she ______ sing well.",
+        "options": [
+          {
+            "label": "A",
+            "text": "must; mustn't"
+          },
+          {
+            "label": "B",
+            "text": "can; can't"
+          },
+          {
+            "label": "C",
+            "text": "can't; can't"
+          },
+          {
+            "label": "D",
+            "text": "must; must"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空表示'会'拉小提琴，用can；第二空表示'不会'唱歌，用can't。",
+        "category": "情态动词",
+        "source": "原创",
+        "tags": [
+          "情态动词",
+          "can",
+          "can't"
+        ],
+        "createdAt": "2024-02-15T10:07:00Z"
+      },
+      {
+        "id": "39_q_1739529600008_mdl009",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—______ she have to be quiet in the library? —Yes, she ______. Everyone must follow the rule!",
+        "options": [
+          {
+            "label": "A",
+            "text": "Does; is"
+          },
+          {
+            "label": "B",
+            "text": "Must; does"
+          },
+          {
+            "label": "C",
+            "text": "Does; does"
+          },
+          {
+            "label": "D",
+            "text": "Do; do"
+          }
+        ],
+        "correct": "C",
+        "explanation": "have to是实义动词，疑问句用助动词Does，回答也用does。",
+        "category": "情态动词",
+        "source": "2023 新疆乌鲁木齐四中期中",
+        "tags": [
+          "情态动词",
+          "have to",
+          "疑问句"
+        ],
+        "createdAt": "2024-02-15T10:08:00Z"
+      },
+      {
+        "id": "40_q_1739529600009_mdl010",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______ out of the window. Please listen to the teacher. —______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Doesn't look; Good idea"
+          },
+          {
+            "label": "B",
+            "text": "Don't look; Sorry, I won't"
+          },
+          {
+            "label": "C",
+            "text": "Don't look; Of course not"
+          },
+          {
+            "label": "D",
+            "text": "Not look; No way"
+          }
+        ],
+        "correct": "B",
+        "explanation": "祈使句的否定形式用Don't + 动词原形。回答'抱歉，我不会了'符合语境。",
+        "category": "祈使句",
+        "source": "2024 河北石家庄二十八中期中",
+        "tags": [
+          "祈使句",
+          "否定形式",
+          "新课标"
+        ],
+        "createdAt": "2024-02-15T10:09:00Z"
+      },
+      {
+        "id": "41_q_1740643200000_pro021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "This is not ______ mobile phone. ______ is black, but this one is blue.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mine; My"
+          },
+          {
+            "label": "B",
+            "text": "my; Mine"
+          },
+          {
+            "label": "C",
+            "text": "my; My"
+          },
+          {
+            "label": "D",
+            "text": "mine; Mine"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空后面有名词mobile phone，所以用形容词性物主代词my；第二空后面没有名词，用名词性物主代词Mine，相当于My mobile phone。",
+        "category": "代词",
+        "source": "原创",
+        "tags": [
+          "代词",
+          "物主代词",
+          "形容词性物主代词",
+          "名词性物主代词"
+        ],
+        "createdAt": "2024-02-28T08:00:00Z"
+      },
+      {
+        "id": "42_q_1740643200001_spt022",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Let's play ______. —Good idea! But we don't have so many players, only you and me.",
+        "options": [
+          {
+            "label": "A",
+            "text": "football"
+          },
+          {
+            "label": "B",
+            "text": "ping-pong"
+          },
+          {
+            "label": "C",
+            "text": "tennis"
+          },
+          {
+            "label": "D",
+            "text": "badminton"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据only you and me可知，只有两个人，所以应该玩双人运动。乒乓球(ping-pong)可以两人打，其他选项需要更多队员。",
+        "category": "名词",
+        "source": "体育与健康·球类运动",
+        "tags": [
+          "名词",
+          "球类",
+          "语境理解",
+          "新课标"
+        ],
+        "createdAt": "2024-02-28T08:01:00Z"
+      },
+      {
+        "id": "43_q_1740643200002_adj023",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "If you sleep for only five hours, you may feel ______ the next day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "excited"
+          },
+          {
+            "label": "B",
+            "text": "smart"
+          },
+          {
+            "label": "C",
+            "text": "sleepy"
+          },
+          {
+            "label": "D",
+            "text": "awake"
+          }
+        ],
+        "correct": "C",
+        "explanation": "只睡5小时，第二天会感到困倦(sleepy)。excited兴奋的，smart聪明的，awake清醒的，都不符合语境。",
+        "category": "形容词",
+        "source": "原创",
+        "tags": [
+          "形容词",
+          "语境理解"
+        ],
+        "createdAt": "2024-02-28T08:02:00Z"
+      },
+      {
+        "id": "44_q_1740643200003_qw024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Mike, ______ do you play computer games? —Hardly ever. I think it is bad for my study.",
+        "options": [
+          {
+            "label": "A",
+            "text": "how often"
+          },
+          {
+            "label": "B",
+            "text": "how many"
+          },
+          {
+            "label": "C",
+            "text": "how long"
+          },
+          {
+            "label": "D",
+            "text": "how far"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据回答Hardly ever(几乎从不)可知，问的是频率，用how often。",
+        "category": "疑问词",
+        "source": "2024 四川雅安中考",
+        "tags": [
+          "疑问词",
+          "how often",
+          "频率"
+        ],
+        "createdAt": "2024-02-28T08:03:00Z"
+      },
+      {
+        "id": "45_q_1740643200004_adv025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Do you often eat chocolate? —No, I ______ eat it because it is unhealthy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "always"
+          },
+          {
+            "label": "B",
+            "text": "usually"
+          },
+          {
+            "label": "C",
+            "text": "never"
+          },
+          {
+            "label": "D",
+            "text": "sometimes"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据because it is unhealthy(因为它不健康)可知，从不吃巧克力，用never。",
+        "category": "副词",
+        "source": "2024 湖北武汉江汉区四校月考",
+        "tags": [
+          "副词",
+          "频率",
+          "never",
+          "新课标"
+        ],
+        "createdAt": "2024-02-28T08:04:00Z"
+      },
+      {
+        "id": "46_q_1740643200005_qn026",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The class was over, but I still had ______ questions to ask.",
+        "options": [
+          {
+            "label": "A",
+            "text": "a little"
+          },
+          {
+            "label": "B",
+            "text": "little"
+          },
+          {
+            "label": "C",
+            "text": "a few"
+          },
+          {
+            "label": "D",
+            "text": "few"
+          }
+        ],
+        "correct": "C",
+        "explanation": "questions是可数名词复数，用a few表示'一些'，表示还有问题要问。few表示'几乎没有'，与句意不符。",
+        "category": "代词",
+        "source": "2023 辽宁盘锦中考",
+        "tags": [
+          "代词",
+          "a few",
+          "few",
+          "可数名词"
+        ],
+        "createdAt": "2024-02-28T08:05:00Z"
+      },
+      {
+        "id": "47_q_1740643200006_n027",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Do more English exercises, and you can make ______. —OK, I will. Thanks for your advice.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mistakes"
+          },
+          {
+            "label": "B",
+            "text": "progress"
+          },
+          {
+            "label": "C",
+            "text": "plans"
+          },
+          {
+            "label": "D",
+            "text": "suggestions"
+          }
+        ],
+        "correct": "B",
+        "explanation": "make progress是固定搭配，表示'取得进步'。多做练习是为了取得进步，符合语境。",
+        "category": "固定搭配",
+        "source": "新课标·学习策略",
+        "tags": [
+          "固定搭配",
+          "make progress",
+          "新课标"
+        ],
+        "createdAt": "2024-02-28T08:06:00Z"
+      },
+      {
+        "id": "48_q_1740643200007_adv028",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "I could ______ understand what he was saying because it's ______ to follow a quick speaker.",
+        "options": [
+          {
+            "label": "A",
+            "text": "hard; hardly"
+          },
+          {
+            "label": "B",
+            "text": "hard; hard"
+          },
+          {
+            "label": "C",
+            "text": "hardly; hard"
+          }
+        ],
+        "correct": "C",
+        "explanation": "第一空hardly是副词，表示'几乎不'；第二空hard是形容词，表示'困难的'。句意：我几乎听不懂他在说什么，因为跟上语速快的人很难。",
+        "category": "副词",
+        "source": "2024 黑龙江绥化中考",
+        "tags": [
+          "副词",
+          "hard",
+          "hardly",
+          "词义辨析"
+        ],
+        "createdAt": "2024-02-28T08:07:00Z"
+      },
+      {
+        "id": "49_q_1740643200008_v029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Mike's father has some good exercise habits. For example, he ______ at a gym or swims twice a week.",
+        "options": [
+          {
+            "label": "A",
+            "text": "takes out"
+          },
+          {
+            "label": "B",
+            "text": "finds out"
+          },
+          {
+            "label": "C",
+            "text": "works out"
+          },
+          {
+            "label": "D",
+            "text": "puts out"
+          }
+        ],
+        "correct": "C",
+        "explanation": "work out表示'锻炼'，符合健身房锻炼的语境。take out取出，find out找出，put out扑灭，都不符合。",
+        "category": "动词短语",
+        "source": "新课标·自我管理",
+        "tags": [
+          "动词短语",
+          "work out",
+          "锻炼",
+          "新课标"
+        ],
+        "createdAt": "2024-02-28T08:08:00Z"
+      },
+      {
+        "id": "50_q_1740643200009_inv030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—I want to go to the beach and collect the rubbish. —______. It's our duty to keep the beach clean.",
+        "options": [
+          {
+            "label": "A",
+            "text": "So I do"
+          },
+          {
+            "label": "B",
+            "text": "So do I"
+          },
+          {
+            "label": "C",
+            "text": "So I am"
+          },
+          {
+            "label": "D",
+            "text": "So am I"
+          }
+        ],
+        "correct": "B",
+        "explanation": "So do I表示'我也是'，用于肯定句的倒装，表示前面所说的情况也适用于另一个人。这里表示'我也想去海滩捡垃圾'。",
+        "category": "倒装句",
+        "source": "原创",
+        "tags": [
+          "倒装句",
+          "So do I",
+          "语法"
+        ],
+        "createdAt": "2024-02-28T08:09:00Z"
+      },
+      {
+        "id": "51_q_1740729600000_pro001",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Mary, is this your sister's smartwatch? —No, ______ is pink.",
+        "options": [
+          {
+            "label": "A",
+            "text": "his"
+          },
+          {
+            "label": "B",
+            "text": "mine"
+          },
+          {
+            "label": "C",
+            "text": "hers"
+          },
+          {
+            "label": "D",
+            "text": "yours"
+          }
+        ],
+        "correct": "C",
+        "explanation": "问句中提到your sister's，所以回答用hers，相当于her smartwatch。",
+        "category": "代词",
+        "source": "2024 河北中考",
+        "tags": [
+          "代词",
+          "名词性物主代词",
+          "hers"
+        ],
+        "createdAt": "2024-02-29T08:00:00Z"
+      },
+      {
+        "id": "52_q_1740729600001_pro002",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Are these crayons yours, Betty? —No. They are my little brother's. ______ are in my schoolbag.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hers"
+          },
+          {
+            "label": "B",
+            "text": "His"
+          },
+          {
+            "label": "C",
+            "text": "Mine"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据前文，这些蜡笔是弟弟的，所以'我的'蜡笔在书包里，用Mine。",
+        "category": "代词",
+        "source": "2024 北京西城区期末",
+        "tags": [
+          "代词",
+          "名词性物主代词",
+          "mine"
+        ],
+        "createdAt": "2024-02-29T08:01:00Z"
+      },
+      {
+        "id": "53_q_1740729600002_pro003",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "My aunt lives here. Look, the red house near the bank is ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "ours"
+          },
+          {
+            "label": "B",
+            "text": "his"
+          },
+          {
+            "label": "C",
+            "text": "yours"
+          },
+          {
+            "label": "D",
+            "text": "hers"
+          }
+        ],
+        "correct": "D",
+        "explanation": "my aunt是女性，所以用hers，表示'她的房子'。",
+        "category": "代词",
+        "source": "2024 安徽合肥育才联盟期中",
+        "tags": [
+          "代词",
+          "名词性物主代词",
+          "hers"
+        ],
+        "createdAt": "2024-02-29T08:02:00Z"
+      },
+      {
+        "id": "54_q_1740729600003_pro004",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Whose watch is this? —Oh, it's not mine. Tony has a watch like this. Maybe it's ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "yours"
+          },
+          {
+            "label": "B",
+            "text": "hers"
+          },
+          {
+            "label": "C",
+            "text": "his"
+          },
+          {
+            "label": "D",
+            "text": "theirs"
+          }
+        ],
+        "correct": "C",
+        "explanation": "Tony是男性，所以用his，表示'他的手表'。",
+        "category": "代词",
+        "source": "2024 安徽合肥蜀山区期中",
+        "tags": [
+          "代词",
+          "名词性物主代词",
+          "his",
+          "新课标"
+        ],
+        "createdAt": "2024-02-29T08:03:00Z"
+      },
+      {
+        "id": "55_q_1740729600004_pro005",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Gina, have you seen my textbook? —Oh, sorry. I took ______ by mistake.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mine"
+          },
+          {
+            "label": "B",
+            "text": "yours"
+          },
+          {
+            "label": "C",
+            "text": "hers"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据my textbook可知，拿错了'你的'课本，用yours。",
+        "category": "代词",
+        "source": "2023 四川成都中考",
+        "tags": [
+          "代词",
+          "名词性物主代词",
+          "yours"
+        ],
+        "createdAt": "2024-02-29T08:04:00Z"
+      },
+      {
+        "id": "56_q_1740729600005_adv006",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "My cousin gets up very early every day, so he is ______ late for school.",
+        "options": [
+          {
+            "label": "A",
+            "text": "never"
+          },
+          {
+            "label": "B",
+            "text": "always"
+          },
+          {
+            "label": "C",
+            "text": "usually"
+          },
+          {
+            "label": "D",
+            "text": "sometimes"
+          }
+        ],
+        "correct": "A",
+        "explanation": "每天早起，所以从不迟到，用never。",
+        "category": "副词",
+        "source": "2024 湖北武汉黄陂区期中",
+        "tags": [
+          "副词",
+          "频率",
+          "never",
+          "新课标"
+        ],
+        "createdAt": "2024-02-29T08:05:00Z"
+      },
+      {
+        "id": "57_q_1740729600006_adv007",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Do you like ping-pong, Linda? —No, I don't. I ______ play it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "often"
+          },
+          {
+            "label": "B",
+            "text": "always"
+          },
+          {
+            "label": "C",
+            "text": "seldom"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据No, I don't可知不喜欢乒乓球，所以很少玩，用seldom。",
+        "category": "副词",
+        "source": "2023 福建晋江期末",
+        "tags": [
+          "副词",
+          "频率",
+          "seldom"
+        ],
+        "createdAt": "2024-02-29T08:06:00Z"
+      },
+      {
+        "id": "58_q_1740729600007_adv008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—If you have any problem, my door is ______ open to you. —It's very kind of you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "seldom"
+          },
+          {
+            "label": "B",
+            "text": "sometimes"
+          },
+          {
+            "label": "C",
+            "text": "always"
+          },
+          {
+            "label": "D",
+            "text": "never"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，表示随时欢迎，门总是开着，用always。",
+        "category": "副词",
+        "source": "新课标·人际交往",
+        "tags": [
+          "副词",
+          "频率",
+          "always",
+          "新课标"
+        ],
+        "createdAt": "2024-02-29T08:07:00Z"
+      },
+      {
+        "id": "59_q_1740729600008_adv009",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "I'm excited about going to Singapore and being an exchange student. I have ______ been abroad, so it will be the first time that I have gone to another country.",
+        "options": [
+          {
+            "label": "A",
+            "text": "often"
+          },
+          {
+            "label": "B",
+            "text": "never"
+          },
+          {
+            "label": "C",
+            "text": "always"
+          },
+          {
+            "label": "D",
+            "text": "usually"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据the first time可知是第一次出国，所以之前从未出过国，用never。",
+        "category": "副词",
+        "source": "新独家原创",
+        "tags": [
+          "副词",
+          "频率",
+          "never"
+        ],
+        "createdAt": "2024-02-29T08:08:00Z"
+      },
+      {
+        "id": "60_q_1740729600009_adv010",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Bill usually takes a shower in the morning. How about you? —______. I do that only at night.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Always"
+          },
+          {
+            "label": "B",
+            "text": "Never"
+          },
+          {
+            "label": "C",
+            "text": "Sometimes"
+          },
+          {
+            "label": "D",
+            "text": "Usually"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据I do that only at night可知只在晚上洗澡，所以早上从不洗澡，用Never。",
+        "category": "副词",
+        "source": "2024 江西南昌外国语学校",
+        "tags": [
+          "副词",
+          "频率",
+          "never"
+        ],
+        "createdAt": "2024-02-29T08:09:00Z"
+      },
+      {
+        "id": "61_q_1740816000000_prep021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "It's difficult to go to that village because there is a big river ______ the two villages.",
+        "options": [
+          {
+            "label": "A",
+            "text": "over"
+          },
+          {
+            "label": "B",
+            "text": "across"
+          },
+          {
+            "label": "C",
+            "text": "among"
+          },
+          {
+            "label": "D",
+            "text": "between"
+          }
+        ],
+        "correct": "D",
+        "explanation": "between用于两者之间，这里指在两个村庄之间有一条大河。",
+        "category": "介词",
+        "source": "2024 吉林长春南关区期中",
+        "tags": [
+          "介词",
+          "between",
+          "位置介词"
+        ],
+        "createdAt": "2024-03-01T08:00:00Z"
+      },
+      {
+        "id": "62_q_1740816000001_n022",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Would you like some ______ in your noodles? —Oh, yes, just a little.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mutton"
+          },
+          {
+            "label": "B",
+            "text": "chip"
+          },
+          {
+            "label": "C",
+            "text": "eggs"
+          },
+          {
+            "label": "D",
+            "text": "tomatoes"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据答语just a little可知，空格处应为不可数名词。mutton是不可数名词，其他选项都是可数名词。",
+        "category": "名词",
+        "source": "2024 安徽庐江期末",
+        "tags": [
+          "名词",
+          "不可数名词",
+          "mutton"
+        ],
+        "createdAt": "2024-03-01T08:01:00Z"
+      },
+      {
+        "id": "63_q_1740816000002_n023",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—What's your ______, Sandy? —I weigh 70 kg. I think I'm a little fat.",
+        "options": [
+          {
+            "label": "A",
+            "text": "age"
+          },
+          {
+            "label": "B",
+            "text": "hobby"
+          },
+          {
+            "label": "C",
+            "text": "weight"
+          },
+          {
+            "label": "D",
+            "text": "size"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据回答I weigh 70 kg可知，问的是体重(weight)。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "weight",
+          "体重"
+        ],
+        "createdAt": "2024-03-01T08:02:00Z"
+      },
+      {
+        "id": "64_q_1740816000003_adj024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—I'm very ______, Nancy. Could you give me something to drink? —Here's a bottle of water. Here you are.",
+        "options": [
+          {
+            "label": "A",
+            "text": "hungry"
+          },
+          {
+            "label": "B",
+            "text": "thirsty"
+          },
+          {
+            "label": "C",
+            "text": "full"
+          },
+          {
+            "label": "D",
+            "text": "empty"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据give me something to drink可知，是口渴了(thirsty)。",
+        "category": "形容词",
+        "source": "新课标·人际交往",
+        "tags": [
+          "形容词",
+          "thirsty",
+          "语境理解",
+          "新课标"
+        ],
+        "createdAt": "2024-03-01T08:03:00Z"
+      },
+      {
+        "id": "65_q_1740816000004_v025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—How does the apple juice ______? —Good. I'd like to have another glass.",
+        "options": [
+          {
+            "label": "A",
+            "text": "taste"
+          },
+          {
+            "label": "B",
+            "text": "smell"
+          },
+          {
+            "label": "C",
+            "text": "look"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据答语Good和have another glass可知，是在谈论果汁的味道(taste)。",
+        "category": "动词",
+        "source": "2023 四川乐山中考",
+        "tags": [
+          "动词",
+          "感官动词",
+          "taste"
+        ],
+        "createdAt": "2024-03-01T08:04:00Z"
+      },
+      {
+        "id": "66_q_1740816000005_v026",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Read more English books and magazines, and you can ______ your reading skill soon.",
+        "options": [
+          {
+            "label": "A",
+            "text": "improve"
+          },
+          {
+            "label": "B",
+            "text": "lose"
+          },
+          {
+            "label": "C",
+            "text": "follow"
+          },
+          {
+            "label": "D",
+            "text": "win"
+          }
+        ],
+        "correct": "A",
+        "explanation": "多读书可以提高(improve)阅读技能。",
+        "category": "动词",
+        "source": "新课标·学习策略",
+        "tags": [
+          "动词",
+          "improve",
+          "提高",
+          "新课标"
+        ],
+        "createdAt": "2024-03-01T08:05:00Z"
+      },
+      {
+        "id": "67_q_1740816000006_inf027",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Dad, I fail again. It's difficult for me ______ a sky lantern. —Keep trying! I'm sure you can do it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "make"
+          },
+          {
+            "label": "B",
+            "text": "making"
+          },
+          {
+            "label": "C",
+            "text": "to make"
+          },
+          {
+            "label": "D",
+            "text": "makes"
+          }
+        ],
+        "correct": "C",
+        "explanation": "It's + adj. + for sb. + to do sth. 是固定句型，表示'对某人来说做某事是...的'。",
+        "category": "非谓语动词",
+        "source": "2024 湖北武汉中考",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "句型",
+          "新课标"
+        ],
+        "createdAt": "2024-03-01T08:06:00Z"
+      },
+      {
+        "id": "68_q_1740816000007_adj028",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Mom, why don't you let me choose the things I like? —Well, you are ______ to make a decision by yourself.",
+        "options": [
+          {
+            "label": "A",
+            "text": "too old"
+          },
+          {
+            "label": "B",
+            "text": "too young"
+          },
+          {
+            "label": "C",
+            "text": "old enough"
+          },
+          {
+            "label": "D",
+            "text": "young enough"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，妈妈让孩子自己选择，说明孩子已经足够大(old enough)来做决定了。",
+        "category": "形容词",
+        "source": "新独家原创",
+        "tags": [
+          "形容词",
+          "enough用法",
+          "old enough"
+        ],
+        "createdAt": "2024-03-01T08:07:00Z"
+      },
+      {
+        "id": "69_q_1740816000008_col029",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Do you like red or blue? —______. It is the color that means good luck in China.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, I do"
+          },
+          {
+            "label": "B",
+            "text": "No, I don't"
+          },
+          {
+            "label": "C",
+            "text": "Red"
+          },
+          {
+            "label": "D",
+            "text": "Blue"
+          }
+        ],
+        "correct": "C",
+        "explanation": "选择疑问句不能用yes/no回答，根据the color that means good luck in China可知，红色在中国代表好运，所以选Red。",
+        "category": "情景交际",
+        "source": "原创",
+        "tags": [
+          "情景交际",
+          "选择疑问句",
+          "红色"
+        ],
+        "createdAt": "2024-03-01T08:08:00Z"
+      },
+      {
+        "id": "70_q_1740816000009_phr030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—What are you going to do for the school art festival? —We will ______ a new play.",
+        "options": [
+          {
+            "label": "A",
+            "text": "put out"
+          },
+          {
+            "label": "B",
+            "text": "put up"
+          },
+          {
+            "label": "C",
+            "text": "put on"
+          }
+        ],
+        "correct": "C",
+        "explanation": "put on a play表示'上演话剧'，符合艺术节表演的语境。",
+        "category": "动词短语",
+        "source": "2024 湖北武汉江汉区期末",
+        "tags": [
+          "动词短语",
+          "put on",
+          "上演"
+        ],
+        "createdAt": "2024-03-01T08:09:00Z"
+      },
+      {
+        "id": "71_q_1740902400000_n001",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Grandpa, there are few vegetables in the fridge. —I'll get ten ______ after lunch.",
+        "options": [
+          {
+            "label": "A",
+            "text": "carrots"
+          },
+          {
+            "label": "B",
+            "text": "apples"
+          },
+          {
+            "label": "C",
+            "text": "carrot"
+          }
+        ],
+        "correct": "A",
+        "explanation": "ten后面要用可数名词复数形式，carrot的复数是carrots。apples虽然是复数，但苹果不是蔬菜，不符合语境。",
+        "category": "名词复数",
+        "source": "2022 四川凉山州中考",
+        "tags": [
+          "名词复数",
+          "可数名词",
+          "蔬菜"
+        ],
+        "createdAt": "2024-03-02T08:00:00Z"
+      },
+      {
+        "id": "72_q_1740902400001_n002",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "She likes some ______ and ______ for lunch.",
+        "options": [
+          {
+            "label": "A",
+            "text": "beef; potatoes"
+          },
+          {
+            "label": "B",
+            "text": "beef; potato"
+          },
+          {
+            "label": "C",
+            "text": "beefs; potato"
+          },
+          {
+            "label": "D",
+            "text": "beefs; potatoes"
+          }
+        ],
+        "correct": "A",
+        "explanation": "beef是不可数名词，没有复数形式；potato是可数名词，some后面用复数potatoes。",
+        "category": "名词",
+        "source": "2023 重庆大足区期末",
+        "tags": [
+          "名词",
+          "不可数名词",
+          "可数名词复数"
+        ],
+        "createdAt": "2024-03-02T08:01:00Z"
+      },
+      {
+        "id": "73_q_1740902400002_n003",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Let's buy some food from that store after work. ______ and cabbages are on sale.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Chickens"
+          },
+          {
+            "label": "B",
+            "text": "Chicken"
+          },
+          {
+            "label": "C",
+            "text": "A chicken"
+          }
+        ],
+        "correct": "B",
+        "explanation": "这里chicken作为'鸡肉'是不可数名词，没有复数形式。chickens表示'小鸡'，不符合语境。",
+        "category": "名词",
+        "source": "2024 四川成都双流区期末",
+        "tags": [
+          "名词",
+          "不可数名词",
+          "chicken"
+        ],
+        "createdAt": "2024-03-02T08:02:00Z"
+      },
+      {
+        "id": "74_q_1740902400003_n004",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—I have a toothache. —Sorry to hear that. You'd better not eat too much ______. Sweet food is bad for teeth.",
+        "options": [
+          {
+            "label": "A",
+            "text": "chicken"
+          },
+          {
+            "label": "B",
+            "text": "sweets"
+          },
+          {
+            "label": "C",
+            "text": "sugar"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据Sweet food is bad for teeth可知，应该是不吃太多甜食。sweets是'糖果'，sugar是'糖'，但too much修饰不可数名词，sweets是可数名词，所以选B。",
+        "category": "名词",
+        "source": "新课标·健康生活",
+        "tags": [
+          "名词",
+          "sweets",
+          "甜食",
+          "新课标"
+        ],
+        "createdAt": "2024-03-02T08:03:00Z"
+      },
+      {
+        "id": "75_q_1740902400004_n005",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—How much paper do you need? —______, please.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three paper"
+          },
+          {
+            "label": "B",
+            "text": "Three pieces of papers"
+          },
+          {
+            "label": "C",
+            "text": "Three piece of paper"
+          },
+          {
+            "label": "D",
+            "text": "Three pieces of paper"
+          }
+        ],
+        "correct": "D",
+        "explanation": "paper是不可数名词，表示数量要用piece of，复数时piece加s，paper不变。",
+        "category": "量词",
+        "source": "2023 北京二中期末",
+        "tags": [
+          "不可数名词",
+          "量词",
+          "piece of"
+        ],
+        "createdAt": "2024-03-02T08:04:00Z"
+      },
+      {
+        "id": "76_q_1740902400005_n006",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Can you give me ______ on what to wear to the party, Sandy? —Of course. I think the red evening dress is perfect.",
+        "options": [
+          {
+            "label": "A",
+            "text": "an advice"
+          },
+          {
+            "label": "B",
+            "text": "some advice"
+          },
+          {
+            "label": "C",
+            "text": "some advices"
+          },
+          {
+            "label": "D",
+            "text": "any advices"
+          }
+        ],
+        "correct": "B",
+        "explanation": "advice是不可数名词，没有复数形式，不能用an修饰。肯定句中用some。",
+        "category": "不可数名词",
+        "source": "原创",
+        "tags": [
+          "不可数名词",
+          "advice",
+          "建议"
+        ],
+        "createdAt": "2024-03-02T08:05:00Z"
+      },
+      {
+        "id": "77_q_1740902400006_cho007",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—The Golden Week is coming. Do you want to go to Nanjing or Beijing? —______. I always want to visit the Great Wall.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, I do"
+          },
+          {
+            "label": "B",
+            "text": "No, I don't"
+          },
+          {
+            "label": "C",
+            "text": "Beijing"
+          },
+          {
+            "label": "D",
+            "text": "Nanjing"
+          }
+        ],
+        "correct": "C",
+        "explanation": "选择疑问句不能用yes/no回答。根据I always want to visit the Great Wall可知，长城在北京，所以选Beijing。",
+        "category": "情景交际",
+        "source": "新素材·黄金周",
+        "tags": [
+          "情景交际",
+          "选择疑问句"
+        ],
+        "createdAt": "2024-03-02T08:06:00Z"
+      },
+      {
+        "id": "78_q_1740902400007_cho008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Does Nancy live in France or America? —______. She lives in Chicago with her parents.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, she does"
+          },
+          {
+            "label": "B",
+            "text": "No, she doesn't"
+          },
+          {
+            "label": "C",
+            "text": "France"
+          },
+          {
+            "label": "D",
+            "text": "America"
+          }
+        ],
+        "correct": "D",
+        "explanation": "选择疑问句不能用yes/no回答。芝加哥在美国，所以选America。",
+        "category": "情景交际",
+        "source": "地理·芝加哥",
+        "tags": [
+          "情景交际",
+          "选择疑问句",
+          "地理"
+        ],
+        "createdAt": "2024-03-02T08:07:00Z"
+      },
+      {
+        "id": "79_q_1740902400008_cho009",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Would you like a large bowl or a small bowl of noodles? —______. I don't eat much.",
+        "options": [
+          {
+            "label": "A",
+            "text": "A large bowl"
+          },
+          {
+            "label": "B",
+            "text": "A small bowl"
+          },
+          {
+            "label": "C",
+            "text": "Yes, I'd like to"
+          },
+          {
+            "label": "D",
+            "text": "No, I wouldn't"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据I don't eat much可知，吃得不多，所以要小碗。",
+        "category": "情景交际",
+        "source": "2024 吉林长春绿园区期末",
+        "tags": [
+          "情景交际",
+          "选择疑问句"
+        ],
+        "createdAt": "2024-03-02T08:08:00Z"
+      },
+      {
+        "id": "80_q_1740902400009_cho010",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Do you like listening to music or playing chess? —______. It makes me relaxed.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, I like listening to music"
+          },
+          {
+            "label": "B",
+            "text": "No, I don't like playing chess"
+          },
+          {
+            "label": "C",
+            "text": "Listening to music"
+          }
+        ],
+        "correct": "C",
+        "explanation": "选择疑问句要从选项中选择一个回答。根据It makes me relaxed可知，听音乐让我放松，所以选Listening to music。",
+        "category": "情景交际",
+        "source": "2024 黑龙江哈尔滨中考",
+        "tags": [
+          "情景交际",
+          "选择疑问句",
+          "新课标"
+        ],
+        "createdAt": "2024-03-02T08:09:00Z"
+      },
+      {
+        "id": "81_q_1740902400010_n011",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "I won't spend too much ______ on a mobile phone. I think ¥1,500 is enough.",
+        "options": [
+          {
+            "label": "A",
+            "text": "time"
+          },
+          {
+            "label": "B",
+            "text": "money"
+          },
+          {
+            "label": "C",
+            "text": "messages"
+          },
+          {
+            "label": "D",
+            "text": "rules"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据¥1,500 is enough可知，是花钱(money)买手机。",
+        "category": "名词",
+        "source": "新课标·理性消费",
+        "tags": [
+          "名词",
+          "money",
+          "消费",
+          "新课标"
+        ],
+        "createdAt": "2024-03-02T08:10:00Z"
+      },
+      {
+        "id": "82_q_1740902400011_n012",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Could you give me some ______? I tried many times but failed. —Fine. I just have some tips for you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "trouble"
+          },
+          {
+            "label": "B",
+            "text": "advice"
+          },
+          {
+            "label": "C",
+            "text": "news"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据I just have some tips for you可知，对方要的是建议(advice)。",
+        "category": "不可数名词",
+        "source": "2023 广东深圳南山区期末",
+        "tags": [
+          "不可数名词",
+          "advice",
+          "建议",
+          "新课标"
+        ],
+        "createdAt": "2024-03-02T08:11:00Z"
+      },
+      {
+        "id": "83_q_1740988800000_prep021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—We all want to book the hotel ______ a large swimming pool. —It must be very exciting to swim in the pool.",
+        "options": [
+          {
+            "label": "A",
+            "text": "for"
+          },
+          {
+            "label": "B",
+            "text": "with"
+          },
+          {
+            "label": "C",
+            "text": "over"
+          },
+          {
+            "label": "D",
+            "text": "of"
+          }
+        ],
+        "correct": "B",
+        "explanation": "with表示'带有，具有'，a hotel with a large swimming pool表示'带有一个大型游泳池的酒店'。",
+        "category": "介词",
+        "source": "原创",
+        "tags": [
+          "介词",
+          "with",
+          "带有"
+        ],
+        "createdAt": "2024-03-03T08:00:00Z"
+      },
+      {
+        "id": "84_q_1740988800001_n022",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Would you like something to eat? —Yes, please. I'd like some ______. I like it very much.",
+        "options": [
+          {
+            "label": "A",
+            "text": "juice"
+          },
+          {
+            "label": "B",
+            "text": "bread"
+          },
+          {
+            "label": "C",
+            "text": "water"
+          },
+          {
+            "label": "D",
+            "text": "coffee"
+          }
+        ],
+        "correct": "B",
+        "explanation": "问句是Would you like something to eat?，所以回答应该是食物。bread是食物，其他选项都是饮品。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "bread",
+          "食物"
+        ],
+        "createdAt": "2024-03-03T08:01:00Z"
+      },
+      {
+        "id": "85_q_1740988800002_adj023",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—If you don't get enough sleep, you will feel ______. —That's true. We all need to sleep for about eight hours every day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "sleepy"
+          },
+          {
+            "label": "B",
+            "text": "excited"
+          },
+          {
+            "label": "C",
+            "text": "awake"
+          },
+          {
+            "label": "D",
+            "text": "afraid"
+          }
+        ],
+        "correct": "A",
+        "explanation": "睡眠不足会感到困倦(sleepy)。",
+        "category": "形容词",
+        "source": "新课标·健康生活",
+        "tags": [
+          "形容词",
+          "sleepy",
+          "困倦",
+          "新课标"
+        ],
+        "createdAt": "2024-03-03T08:02:00Z"
+      },
+      {
+        "id": "86_q_1740988800003_adv024",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "I don't like this museum because there are ______ rules in it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "many too"
+          },
+          {
+            "label": "B",
+            "text": "too many"
+          },
+          {
+            "label": "C",
+            "text": "much too"
+          },
+          {
+            "label": "D",
+            "text": "too much"
+          }
+        ],
+        "correct": "B",
+        "explanation": "rules是可数名词复数，用too many修饰。too many表示'太多'。",
+        "category": "语法",
+        "source": "新课标·评价思维",
+        "tags": [
+          "too many",
+          "可数名词",
+          "数量词",
+          "新课标"
+        ],
+        "createdAt": "2024-03-03T08:03:00Z"
+      },
+      {
+        "id": "87_q_1740988800004_mod025",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Linda, can you go out with me now? —I'm afraid I ______ do the dishes first.",
+        "options": [
+          {
+            "label": "A",
+            "text": "can"
+          },
+          {
+            "label": "B",
+            "text": "could"
+          },
+          {
+            "label": "C",
+            "text": "have to"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，必须先洗碗，表示客观上的'不得不'，用have to。",
+        "category": "情态动词",
+        "source": "2024 四川成都金牛区期末",
+        "tags": [
+          "情态动词",
+          "have to",
+          "不得不"
+        ],
+        "createdAt": "2024-03-03T08:04:00Z"
+      },
+      {
+        "id": "88_q_1740988800005_v026",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—What time will you ______ Shanghai, Mike? —At about 5 p.m., so I should ______ Nanjing Railway Station at 3 p.m.",
+        "options": [
+          {
+            "label": "A",
+            "text": "get; reach"
+          },
+          {
+            "label": "B",
+            "text": "get; arrive in"
+          },
+          {
+            "label": "C",
+            "text": "reach; arrive"
+          },
+          {
+            "label": "D",
+            "text": "arrive in; get to"
+          }
+        ],
+        "correct": "D",
+        "explanation": "到达大地点用arrive in，到达小地点用get to。Shanghai是大地点，Nanjing Railway Station是具体车站，用小地点表达。",
+        "category": "动词",
+        "source": "2024 江苏南京玄武区期末",
+        "tags": [
+          "动词",
+          "arrive",
+          "get",
+          "reach",
+          "到达"
+        ],
+        "createdAt": "2024-03-03T08:05:00Z"
+      },
+      {
+        "id": "89_q_1740988800006_phr027",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "It's a good habit to ______ the lights when you leave a room.",
+        "options": [
+          {
+            "label": "A",
+            "text": "turn down"
+          },
+          {
+            "label": "B",
+            "text": "turn up"
+          },
+          {
+            "label": "C",
+            "text": "turn off"
+          },
+          {
+            "label": "D",
+            "text": "turn on"
+          }
+        ],
+        "correct": "C",
+        "explanation": "离开房间时关灯(turn off)是好习惯。",
+        "category": "动词短语",
+        "source": "2023 云南中考",
+        "tags": [
+          "动词短语",
+          "turn off",
+          "关灯"
+        ],
+        "createdAt": "2024-03-03T08:06:00Z"
+      },
+      {
+        "id": "90_q_1740988800007_phr028",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "In the Harbin Ice and Snow World, you can find some buildings ______ ice.",
+        "options": [
+          {
+            "label": "A",
+            "text": "made by"
+          },
+          {
+            "label": "B",
+            "text": "made of"
+          },
+          {
+            "label": "C",
+            "text": "made in"
+          },
+          {
+            "label": "D",
+            "text": "made into"
+          }
+        ],
+        "correct": "B",
+        "explanation": "建筑物由冰制成，能看出原材料，用made of。",
+        "category": "动词短语",
+        "source": "新素材·冰墩墩大世界",
+        "tags": [
+          "动词短语",
+          "made of",
+          "由...制成",
+          "新素材"
+        ],
+        "createdAt": "2024-03-03T08:07:00Z"
+      },
+      {
+        "id": "91_q_1740988800008_pro029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Would you like ______ to eat? —______ will be OK! I could eat a horse.",
+        "options": [
+          {
+            "label": "A",
+            "text": "something; Nothing"
+          },
+          {
+            "label": "B",
+            "text": "something; Anything"
+          },
+          {
+            "label": "C",
+            "text": "anything; Nothing"
+          },
+          {
+            "label": "D",
+            "text": "anything; Anything"
+          }
+        ],
+        "correct": "B",
+        "explanation": "期望得到肯定回答时，用something；anything表示'任何东西'，符合I could eat a horse的语境。",
+        "category": "代词",
+        "source": "2024 北京首师大附中期中",
+        "tags": [
+          "代词",
+          "something",
+          "anything",
+          "不定代词"
+        ],
+        "createdAt": "2024-03-03T08:08:00Z"
+      },
+      {
+        "id": "92_q_1740988800009_conj030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "It is really dangerous ______ people run the red traffic lights.",
+        "options": [
+          {
+            "label": "A",
+            "text": "if"
+          },
+          {
+            "label": "B",
+            "text": "unless"
+          },
+          {
+            "label": "C",
+            "text": "though"
+          },
+          {
+            "label": "D",
+            "text": "until"
+          }
+        ],
+        "correct": "A",
+        "explanation": "if表示'如果'，句意：如果人们闯红灯，真的很危险。",
+        "category": "连词",
+        "source": "2023 吉林长春中考",
+        "tags": [
+          "连词",
+          "if",
+          "条件状语从句",
+          "新课标"
+        ],
+        "createdAt": "2024-03-03T08:09:00Z"
+      },
+      {
+        "id": "93_q_1741075200000_pro021",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "This must be my brother's T-shirt. It must belong to ______ because he always loves red.",
+        "options": [
+          {
+            "label": "A",
+            "text": "he"
+          },
+          {
+            "label": "B",
+            "text": "him"
+          },
+          {
+            "label": "C",
+            "text": "his"
+          },
+          {
+            "label": "D",
+            "text": "her"
+          }
+        ],
+        "correct": "B",
+        "explanation": "belong to是介词短语，后面跟宾语，用代词的宾格形式him。",
+        "category": "代词",
+        "source": "原创",
+        "tags": [
+          "代词",
+          "宾格",
+          "belong to"
+        ],
+        "createdAt": "2024-03-04T08:00:00Z"
+      },
+      {
+        "id": "94_q_1741075200001_n022",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "My grandfather has a large farm and there are a lot of ______ on the farm.",
+        "options": [
+          {
+            "label": "A",
+            "text": "horse"
+          },
+          {
+            "label": "B",
+            "text": "cow"
+          },
+          {
+            "label": "C",
+            "text": "pig"
+          },
+          {
+            "label": "D",
+            "text": "sheep"
+          }
+        ],
+        "correct": "D",
+        "explanation": "a lot of后面跟可数名词复数。sheep单复数同形，其他选项都是单数形式，复数应为horses, cows, pigs。",
+        "category": "名词复数",
+        "source": "原创",
+        "tags": [
+          "名词复数",
+          "sheep",
+          "单复数同形"
+        ],
+        "createdAt": "2024-03-04T08:01:00Z"
+      },
+      {
+        "id": "95_q_1741075200002_adj023",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Tian Xin has good eating habits, so she is very ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "kind"
+          },
+          {
+            "label": "B",
+            "text": "healthy"
+          },
+          {
+            "label": "C",
+            "text": "friendly"
+          }
+        ],
+        "correct": "B",
+        "explanation": "良好的饮食习惯会让人健康(healthy)。",
+        "category": "形容词",
+        "source": "2023 吉林中考",
+        "tags": [
+          "形容词",
+          "healthy",
+          "健康",
+          "新课标"
+        ],
+        "createdAt": "2024-03-04T08:02:00Z"
+      },
+      {
+        "id": "96_q_1741075200003_v024",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "The chocolate ______ nice. I want to eat one more piece, Daddy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "feels"
+          },
+          {
+            "label": "B",
+            "text": "sounds"
+          },
+          {
+            "label": "C",
+            "text": "tastes"
+          },
+          {
+            "label": "D",
+            "text": "tries"
+          }
+        ],
+        "correct": "C",
+        "explanation": "巧克力尝起来(tastes)美味，符合语境。",
+        "category": "动词",
+        "source": "原创",
+        "tags": [
+          "动词",
+          "感官动词",
+          "taste"
+        ],
+        "createdAt": "2024-03-04T08:03:00Z"
+      },
+      {
+        "id": "97_q_1741075200004_qw025",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ does your cousin attend guitar classes? —Twice a week.",
+        "options": [
+          {
+            "label": "A",
+            "text": "How long"
+          },
+          {
+            "label": "B",
+            "text": "How much"
+          },
+          {
+            "label": "C",
+            "text": "How soon"
+          },
+          {
+            "label": "D",
+            "text": "How often"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据回答Twice a week可知，问的是频率，用How often。",
+        "category": "疑问词",
+        "source": "2023 上海中考",
+        "tags": [
+          "疑问词",
+          "how often",
+          "频率",
+          "新课标"
+        ],
+        "createdAt": "2024-03-04T08:04:00Z"
+      },
+      {
+        "id": "98_q_1741075200005_inf026",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Mr. Liu often encourages us ______ with others in English.",
+        "options": [
+          {
+            "label": "A",
+            "text": "communicate"
+          },
+          {
+            "label": "B",
+            "text": "to communicate"
+          },
+          {
+            "label": "C",
+            "text": "communicating"
+          },
+          {
+            "label": "D",
+            "text": "communicated"
+          }
+        ],
+        "correct": "B",
+        "explanation": "encourage sb. to do sth.是固定搭配，表示'鼓励某人做某事'。",
+        "category": "非谓语动词",
+        "source": "2023 山东滨州中考",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "encourage",
+          "新课标"
+        ],
+        "createdAt": "2024-03-04T08:05:00Z"
+      },
+      {
+        "id": "99_q_1741075200006_adv027",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ sugar can be bad for your health. So eat less sugar.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Too many"
+          },
+          {
+            "label": "B",
+            "text": "Too much"
+          },
+          {
+            "label": "C",
+            "text": "Many too"
+          },
+          {
+            "label": "D",
+            "text": "Much too"
+          }
+        ],
+        "correct": "B",
+        "explanation": "sugar是不可数名词，用too much修饰。too much表示'太多'。",
+        "category": "语法",
+        "source": "2024 山东枣庄中考",
+        "tags": [
+          "too much",
+          "不可数名词",
+          "数量词",
+          "新课标"
+        ],
+        "createdAt": "2024-03-04T08:06:00Z"
+      },
+      {
+        "id": "100_q_1741161600000_prep021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—What is happening ______ the man over there? —He is lying on the ground and needs medical help.",
+        "options": [
+          {
+            "label": "A",
+            "text": "with"
+          },
+          {
+            "label": "B",
+            "text": "for"
+          },
+          {
+            "label": "C",
+            "text": "to"
+          },
+          {
+            "label": "D",
+            "text": "over"
+          }
+        ],
+        "correct": "C",
+        "explanation": "happen to sb.表示'发生在某人身上'，是固定搭配。",
+        "category": "介词",
+        "source": "原创",
+        "tags": [
+          "介词",
+          "happen to",
+          "固定搭配"
+        ],
+        "createdAt": "2024-03-05T08:00:00Z"
+      },
+      {
+        "id": "101_q_1741161600001_n022",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Lisa isn't at home, so I'll leave a ______ for her.",
+        "options": [
+          {
+            "label": "A",
+            "text": "news"
+          },
+          {
+            "label": "B",
+            "text": "information"
+          },
+          {
+            "label": "C",
+            "text": "idea"
+          },
+          {
+            "label": "D",
+            "text": "message"
+          }
+        ],
+        "correct": "D",
+        "explanation": "leave a message是固定搭配，表示'留口信'。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "message",
+          "leave a message"
+        ],
+        "createdAt": "2024-03-05T08:01:00Z"
+      },
+      {
+        "id": "102_q_1741161600002_v023",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Mary's father often ______ his car to go to work because his office is far away from their home.",
+        "options": [
+          {
+            "label": "A",
+            "text": "takes"
+          },
+          {
+            "label": "B",
+            "text": "rides"
+          },
+          {
+            "label": "C",
+            "text": "flies"
+          },
+          {
+            "label": "D",
+            "text": "drives"
+          }
+        ],
+        "correct": "D",
+        "explanation": "开车用drive，drive one's car表示'开某人的车'。",
+        "category": "动词",
+        "source": "原创",
+        "tags": [
+          "动词",
+          "drive",
+          "开车"
+        ],
+        "createdAt": "2024-03-05T08:02:00Z"
+      },
+      {
+        "id": "103_q_1741161600003_adv024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The old lady is walking across the road ______. Let's go and help her.",
+        "options": [
+          {
+            "label": "A",
+            "text": "slowly"
+          },
+          {
+            "label": "B",
+            "text": "quietly"
+          },
+          {
+            "label": "C",
+            "text": "happily"
+          },
+          {
+            "label": "D",
+            "text": "safely"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据Let's go and help her可知，老太太走路慢(slowly)，需要帮助。",
+        "category": "副词",
+        "source": "原创",
+        "tags": [
+          "副词",
+          "slowly",
+          "语境理解"
+        ],
+        "createdAt": "2024-03-05T08:03:00Z"
+      },
+      {
+        "id": "104_q_1741161600004_inf025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The Great Wall is so famous that a lot of people hope ______ it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "visit"
+          },
+          {
+            "label": "B",
+            "text": "visiting"
+          },
+          {
+            "label": "C",
+            "text": "to visit"
+          },
+          {
+            "label": "D",
+            "text": "visited"
+          }
+        ],
+        "correct": "C",
+        "explanation": "hope to do sth.是固定搭配，表示'希望做某事'。",
+        "category": "非谓语动词",
+        "source": "新课标·名胜古迹",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "hope to do",
+          "新课标"
+        ],
+        "createdAt": "2024-03-05T08:04:00Z"
+      },
+      {
+        "id": "105_q_1741161600005_prep026",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Professor Wang will give us a talk on the history of Huai'an tomorrow. —Really? I look forward ______ it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "attend"
+          },
+          {
+            "label": "B",
+            "text": "attending"
+          },
+          {
+            "label": "C",
+            "text": "to attend"
+          },
+          {
+            "label": "D",
+            "text": "to attending"
+          }
+        ],
+        "correct": "D",
+        "explanation": "look forward to doing sth.是固定搭配，to是介词，后面跟动名词。",
+        "category": "介词",
+        "source": "2023 江苏高考中考试卷",
+        "tags": [
+          "介词",
+          "look forward to",
+          "动名词",
+          "新课标"
+        ],
+        "createdAt": "2024-03-05T08:05:00Z"
+      },
+      {
+        "id": "106_q_1741161600006_v027",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Where is Mark? —Look! He ______ a walk with his dad over there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "takes"
+          },
+          {
+            "label": "B",
+            "text": "took"
+          },
+          {
+            "label": "C",
+            "text": "is taking"
+          },
+          {
+            "label": "D",
+            "text": "will take"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据Look!可知，正在发生的事情，用现在进行时is taking。",
+        "category": "时态",
+        "source": "2024 北京朝阳区期末",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "语境理解"
+        ],
+        "createdAt": "2024-03-05T08:06:00Z"
+      },
+      {
+        "id": "107_q_1741161600007_adj028",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "It's ______ an important meeting that everyone is advised to dress properly.",
+        "options": [
+          {
+            "label": "A",
+            "text": "very"
+          },
+          {
+            "label": "B",
+            "text": "such"
+          },
+          {
+            "label": "C",
+            "text": "pretty"
+          },
+          {
+            "label": "D",
+            "text": "so"
+          }
+        ],
+        "correct": "B",
+        "explanation": "such + a/an + 形容词 + 名词 + that从句，表示'如此...以至于...'。",
+        "category": "语法",
+        "source": "2024 江苏无锡中考",
+        "tags": [
+          "语法",
+          "such...that",
+          "结果状语从句"
+        ],
+        "createdAt": "2024-03-05T08:07:00Z"
+      },
+      {
+        "id": "108_q_1741161600008_pro029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Tommy, is there ______ in the classroom now? —No. All the students are having a P.E. lesson in the playground.",
+        "options": [
+          {
+            "label": "A",
+            "text": "everybody"
+          },
+          {
+            "label": "B",
+            "text": "somebody"
+          },
+          {
+            "label": "C",
+            "text": "anybody"
+          },
+          {
+            "label": "D",
+            "text": "nobody"
+          }
+        ],
+        "correct": "C",
+        "explanation": "一般疑问句中用anybody，表示'任何人'。",
+        "category": "代词",
+        "source": "2024 四川雅安中考",
+        "tags": [
+          "代词",
+          "anybody",
+          "不定代词",
+          "新课标"
+        ],
+        "createdAt": "2024-03-05T08:08:00Z"
+      },
+      {
+        "id": "109_q_1741161600009_phr030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "My brother is good at playing ping-pong. He is going to ______ the school ping-pong match next week.",
+        "options": [
+          {
+            "label": "A",
+            "text": "take care of"
+          },
+          {
+            "label": "B",
+            "text": "take out of"
+          },
+          {
+            "label": "C",
+            "text": "take place"
+          },
+          {
+            "label": "D",
+            "text": "take part in"
+          }
+        ],
+        "correct": "D",
+        "explanation": "take part in表示'参加'活动或比赛。",
+        "category": "动词短语",
+        "source": "新课标·体育活动",
+        "tags": [
+          "动词短语",
+          "take part in",
+          "参加",
+          "新课标"
+        ],
+        "createdAt": "2024-03-05T08:09:00Z"
+      },
+      {
+        "id": "110_q_1741248000000_prep021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Look! The traffic lights are green. We can go ______ the road now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "across"
+          },
+          {
+            "label": "B",
+            "text": "above"
+          },
+          {
+            "label": "C",
+            "text": "below"
+          },
+          {
+            "label": "D",
+            "text": "against"
+          }
+        ],
+        "correct": "A",
+        "explanation": "go across the road表示'穿过马路'，across强调从表面横穿。",
+        "category": "介词",
+        "source": "2023 四川遂宁中考",
+        "tags": [
+          "介词",
+          "across",
+          "交通法规"
+        ],
+        "createdAt": "2024-03-06T08:00:00Z"
+      },
+      {
+        "id": "111_q_1741248000001_n022",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The ______ is about -10℃ and it's very cold. I don't want to go outside.",
+        "options": [
+          {
+            "label": "A",
+            "text": "weather"
+          },
+          {
+            "label": "B",
+            "text": "temperature"
+          },
+          {
+            "label": "C",
+            "text": "climate"
+          },
+          {
+            "label": "D",
+            "text": "area"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据-10℃可知，说的是温度(temperature)。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "temperature",
+          "温度"
+        ],
+        "createdAt": "2024-03-06T08:01:00Z"
+      },
+      {
+        "id": "112_q_1741248000002_adj023",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "There has been no rain for two months, so the weather is really ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "cloudy"
+          },
+          {
+            "label": "B",
+            "text": "rainy"
+          },
+          {
+            "label": "C",
+            "text": "windy"
+          },
+          {
+            "label": "D",
+            "text": "dry"
+          }
+        ],
+        "correct": "D",
+        "explanation": "两个月没下雨，天气很干燥(dry)。",
+        "category": "形容词",
+        "source": "2024 山东青岛市北区期末",
+        "tags": [
+          "形容词",
+          "dry",
+          "天气",
+          "地理"
+        ],
+        "createdAt": "2024-03-06T08:02:00Z"
+      },
+      {
+        "id": "113_q_1741248000003_inf024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The weather seems ______ colder and colder. It's time for me to buy some thick clothes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "gets"
+          },
+          {
+            "label": "B",
+            "text": "get"
+          },
+          {
+            "label": "C",
+            "text": "to get"
+          },
+          {
+            "label": "D",
+            "text": "getting"
+          }
+        ],
+        "correct": "C",
+        "explanation": "seem to do sth.是固定搭配，表示'似乎做某事'。",
+        "category": "非谓语动词",
+        "source": "原创",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "seem to do"
+        ],
+        "createdAt": "2024-03-06T08:03:00Z"
+      },
+      {
+        "id": "114_q_1741248000004_ing025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "My sister isn't feeling well. She has a bad cold and doesn't feel like ______ anything.",
+        "options": [
+          {
+            "label": "A",
+            "text": "eat"
+          },
+          {
+            "label": "B",
+            "text": "to eat"
+          },
+          {
+            "label": "C",
+            "text": "eating"
+          },
+          {
+            "label": "D",
+            "text": "eats"
+          }
+        ],
+        "correct": "C",
+        "explanation": "feel like doing sth.是固定搭配，表示'想要做某事'。",
+        "category": "非谓语动词",
+        "source": "原创",
+        "tags": [
+          "非谓语动词",
+          "动名词",
+          "feel like doing"
+        ],
+        "createdAt": "2024-03-06T08:04:00Z"
+      },
+      {
+        "id": "115_q_1741248000005_adv026",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Look! It's raining ______. Don't go out if you don't have an umbrella or a raincoat.",
+        "options": [
+          {
+            "label": "A",
+            "text": "heavily"
+          },
+          {
+            "label": "B",
+            "text": "carefully"
+          },
+          {
+            "label": "C",
+            "text": "loudly"
+          },
+          {
+            "label": "D",
+            "text": "happily"
+          }
+        ],
+        "correct": "A",
+        "explanation": "rain heavily表示'下大雨'，是固定搭配。",
+        "category": "副词",
+        "source": "原创",
+        "tags": [
+          "副词",
+          "heavily",
+          "rain heavily",
+          "天气"
+        ],
+        "createdAt": "2024-03-06T08:05:00Z"
+      },
+      {
+        "id": "116_q_1741248000006_pro027",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Only ten students are in the classroom. Where are ______ students? —They are in the school library.",
+        "options": [
+          {
+            "label": "A",
+            "text": "others"
+          },
+          {
+            "label": "B",
+            "text": "the other"
+          },
+          {
+            "label": "C",
+            "text": "any other"
+          },
+          {
+            "label": "D",
+            "text": "the others"
+          }
+        ],
+        "correct": "B",
+        "explanation": "the other students特指其他的学生，the other修饰复数名词students。",
+        "category": "代词",
+        "source": "2024 湖北武汉东西湖区期中",
+        "tags": [
+          "代词",
+          "the other",
+          "不定代词",
+          "新课标"
+        ],
+        "createdAt": "2024-03-06T08:06:00Z"
+      },
+      {
+        "id": "117_q_1741248000007_v028",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Sorry I can't hear you. The wind ______ hard. Can you speak louder? —That's OK. I'll ring you later.",
+        "options": [
+          {
+            "label": "A",
+            "text": "blows"
+          },
+          {
+            "label": "B",
+            "text": "blew"
+          },
+          {
+            "label": "C",
+            "text": "is blowing"
+          },
+          {
+            "label": "D",
+            "text": "will blow"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，风正在刮，用现在进行时is blowing。",
+        "category": "时态",
+        "source": "2024 江苏连云港中考",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "天气",
+          "新课标"
+        ],
+        "createdAt": "2024-03-06T08:07:00Z"
+      },
+      {
+        "id": "118_q_1741248000008_conj029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Everyone loves my dog Coffee, ______ he often makes a mess at home.",
+        "options": [
+          {
+            "label": "A",
+            "text": "until"
+          },
+          {
+            "label": "B",
+            "text": "since"
+          },
+          {
+            "label": "C",
+            "text": "though"
+          },
+          {
+            "label": "D",
+            "text": "whether"
+          }
+        ],
+        "correct": "C",
+        "explanation": "though表示'虽然'，引导让步状语从句。句意：虽然Coffee经常把家弄乱，但大家都爱它。",
+        "category": "连词",
+        "source": "2024 江苏无锡中考",
+        "tags": [
+          "连词",
+          "though",
+          "让步状语从句"
+        ],
+        "createdAt": "2024-03-06T08:08:00Z"
+      },
+      {
+        "id": "119_q_1741248000009_com030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Haven't seen you for ages, Mike. —______? —Pretty good! Everything goes well.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What are you doing"
+          },
+          {
+            "label": "B",
+            "text": "How is your sister"
+          },
+          {
+            "label": "C",
+            "text": "How's it going"
+          },
+          {
+            "label": "D",
+            "text": "How about watching a movie"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据回答Pretty good可知，问的是近况如何，How's it going是常用问候语。",
+        "category": "情景交际",
+        "source": "2024 湖北武汉江夏区",
+        "tags": [
+          "情景交际",
+          "问候",
+          "How's it going",
+          "新课标"
+        ],
+        "createdAt": "2024-03-06T08:09:00Z"
+      },
+      {
+        "id": "120_q_1741334400000_ten001",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Look! My little brother ______ with his toy car now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "play"
+          },
+          {
+            "label": "B",
+            "text": "plays"
+          },
+          {
+            "label": "C",
+            "text": "is playing"
+          },
+          {
+            "label": "D",
+            "text": "will play"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据now和Look!可知，正在发生的事情，用现在进行时is playing。",
+        "category": "时态",
+        "source": "2024 北京延庆区期末",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:00:00Z"
+      },
+      {
+        "id": "121_q_1741334400001_ten002",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Where is Helen? —I'm not sure. Maybe she ______ her baseball lesson.",
+        "options": [
+          {
+            "label": "A",
+            "text": "had"
+          },
+          {
+            "label": "B",
+            "text": "was having"
+          },
+          {
+            "label": "C",
+            "text": "is having"
+          },
+          {
+            "label": "D",
+            "text": "will have"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据问句Where is Helen?可知，询问的是现在的情况，用现在进行时is having表示正在上课。",
+        "category": "时态",
+        "source": "2024 江西中考",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "新课标"
+        ],
+        "createdAt": "2024-03-07T08:01:00Z"
+      },
+      {
+        "id": "122_q_1741334400002_ten003",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Where is your father, Kate? —Look, Mom! He ______ a newspaper in the garden.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reads"
+          },
+          {
+            "label": "B",
+            "text": "read"
+          },
+          {
+            "label": "C",
+            "text": "is reading"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据Look!可知，正在发生的事情，用现在进行时is reading。",
+        "category": "时态",
+        "source": "2023 黑龙江绥化中考",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:02:00Z"
+      },
+      {
+        "id": "123_q_1741334400003_ten004",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Look! The boys from Class 6 ______ in the playground.",
+        "options": [
+          {
+            "label": "A",
+            "text": "are playing"
+          },
+          {
+            "label": "B",
+            "text": "play"
+          },
+          {
+            "label": "C",
+            "text": "plays"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据Look!可知，正在发生的事情，主语是复数，用are playing。",
+        "category": "时态",
+        "source": "2024 广西百色田阳区期中",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:03:00Z"
+      },
+      {
+        "id": "124_q_1741334400004_ten005",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Be quiet! Your little brother ______ in the bedroom now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "slept"
+          },
+          {
+            "label": "B",
+            "text": "sleeps"
+          },
+          {
+            "label": "C",
+            "text": "will sleep"
+          },
+          {
+            "label": "D",
+            "text": "is sleeping"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据Be quiet!和now可知，弟弟正在睡觉，用现在进行时is sleeping。",
+        "category": "时态",
+        "source": "2024 北京人大附中期中",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:04:00Z"
+      },
+      {
+        "id": "125_q_1741334400005_ten006",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Listen! Tom ______ an English song now. —Oh, he always ______ loudly in his room.",
+        "options": [
+          {
+            "label": "A",
+            "text": "is singing; is singing"
+          },
+          {
+            "label": "B",
+            "text": "is singing; sings"
+          },
+          {
+            "label": "C",
+            "text": "sings; sings"
+          },
+          {
+            "label": "D",
+            "text": "sings; is singing"
+          }
+        ],
+        "correct": "B",
+        "explanation": "第一空根据Listen!可知用现在进行时；第二空根据always可知用一般现在时。",
+        "category": "时态",
+        "source": "2023 重庆合川中学期中",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "一般现在时"
+        ],
+        "createdAt": "2024-03-07T08:05:00Z"
+      },
+      {
+        "id": "126_q_1741334400006_ten007",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Peter, what's Jeff doing? —He ______ a football match online.",
+        "options": [
+          {
+            "label": "A",
+            "text": "watches"
+          },
+          {
+            "label": "B",
+            "text": "is watching"
+          },
+          {
+            "label": "C",
+            "text": "watch"
+          },
+          {
+            "label": "D",
+            "text": "are watching"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据what's Jeff doing可知，问的是正在做什么，用现在进行时is watching。",
+        "category": "时态",
+        "source": "2024 北京房山区期中",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:06:00Z"
+      },
+      {
+        "id": "127_q_1741334400007_ten008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Mum ______ dinner in the kitchen. Let's go and help her.",
+        "options": [
+          {
+            "label": "A",
+            "text": "prepare"
+          },
+          {
+            "label": "B",
+            "text": "prepares"
+          },
+          {
+            "label": "C",
+            "text": "is preparing"
+          },
+          {
+            "label": "D",
+            "text": "prepared"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据Let's go and help her可知，妈妈正在做饭，用现在进行时is preparing。",
+        "category": "时态",
+        "source": "2024 北京通州区期中",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "新课标"
+        ],
+        "createdAt": "2024-03-07T08:07:00Z"
+      },
+      {
+        "id": "128_q_1741334400008_ten009",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Where is Wendy? —She ______ a football match in the playground.",
+        "options": [
+          {
+            "label": "A",
+            "text": "is watching"
+          },
+          {
+            "label": "B",
+            "text": "watched"
+          },
+          {
+            "label": "C",
+            "text": "will watch"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据问句Where is Wendy?可知，询问现在的位置，答句说明正在进行的活动，用现在进行时is watching。",
+        "category": "时态",
+        "source": "2024 北京西城区期末",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:08:00Z"
+      },
+      {
+        "id": "129_q_1741334400009_ten010",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Listen! Someone ______ in the next room. —It must be Lily. She practices singing every afternoon.",
+        "options": [
+          {
+            "label": "A",
+            "text": "sings"
+          },
+          {
+            "label": "B",
+            "text": "is singing"
+          },
+          {
+            "label": "C",
+            "text": "sing"
+          },
+          {
+            "label": "D",
+            "text": "singing"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据Listen!可知，正在发生的事情，用现在进行时is singing。",
+        "category": "时态",
+        "source": "2024 吉林长春九台区期中",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:09:00Z"
+      },
+      {
+        "id": "130_q_1741334400010_ten011",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Mum, where are my coolers? —Your brother Tom ______ them in his room now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "use"
+          },
+          {
+            "label": "B",
+            "text": "uses"
+          },
+          {
+            "label": "C",
+            "text": "is using"
+          },
+          {
+            "label": "D",
+            "text": "will use"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据now可知，正在使用，用现在进行时is using。",
+        "category": "时态",
+        "source": "2024 北京通州区期中",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-07T08:10:00Z"
+      },
+      {
+        "id": "131_q_1741334400011_ten012",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Mum, can I go out to play basketball with Mike? —I'm afraid not. It ______ hard now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "is rainy"
+          },
+          {
+            "label": "B",
+            "text": "is raining"
+          },
+          {
+            "label": "C",
+            "text": "rains"
+          },
+          {
+            "label": "D",
+            "text": "rained"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据now可知，正在下雨，用现在进行时is raining。",
+        "category": "时态",
+        "source": "2024 吉林长春新区期中",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "天气"
+        ],
+        "createdAt": "2024-03-07T08:11:00Z"
+      },
+      {
+        "id": "132_q_1741334400012_ten013",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ is the weather like today? —It's sunny. Some boys ______ kites in the park.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What; flying"
+          },
+          {
+            "label": "B",
+            "text": "What; are flying"
+          },
+          {
+            "label": "C",
+            "text": "How; flying"
+          },
+          {
+            "label": "D",
+            "text": "How; are flying"
+          }
+        ],
+        "correct": "B",
+        "explanation": "What is the weather like是询问天气的固定句型；根据语境，孩子们正在放风筝，用现在进行时are flying。",
+        "category": "时态",
+        "source": "2024 云南昆明五华区期末",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "天气"
+        ],
+        "createdAt": "2024-03-07T08:12:00Z"
+      },
+      {
+        "id": "133_q_1741334400013_ten014",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Is your sister playing with her mobile phone? —______. She is sleeping in her bedroom.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Yes, she does"
+          },
+          {
+            "label": "B",
+            "text": "No, she doesn't"
+          },
+          {
+            "label": "C",
+            "text": "Yes, she is"
+          },
+          {
+            "label": "D",
+            "text": "No, she isn't"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据She is sleeping可知，姐姐没有在玩手机，用No, she isn't回答现在进行时的一般疑问句。",
+        "category": "情景交际",
+        "source": "原创",
+        "tags": [
+          "情景交际",
+          "现在进行时",
+          "一般疑问句"
+        ],
+        "createdAt": "2024-03-07T08:13:00Z"
+      },
+      {
+        "id": "134_q_1741334400014_ten015",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—What are these Chinese soldiers ______ over there? —They are practising their fighting skills.",
+        "options": [
+          {
+            "label": "A",
+            "text": "doing"
+          },
+          {
+            "label": "B",
+            "text": "do"
+          },
+          {
+            "label": "C",
+            "text": "does"
+          },
+          {
+            "label": "D",
+            "text": "did"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据问句中的are和答语They are practising可知，问的是正在做什么，用doing。",
+        "category": "时态",
+        "source": "新中考·国防教育",
+        "tags": [
+          "时态",
+          "现在进行时",
+          "特殊疑问句",
+          "新中考"
+        ],
+        "createdAt": "2024-03-07T08:14:00Z"
+      },
+      {
+        "id": "135_q_1741420800000_pro021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Miss Li is ______ teacher. She teaches ______ Chinese.",
+        "options": [
+          {
+            "label": "A",
+            "text": "our; us"
+          },
+          {
+            "label": "B",
+            "text": "our; we"
+          },
+          {
+            "label": "C",
+            "text": "we; our"
+          },
+          {
+            "label": "D",
+            "text": "we; us"
+          }
+        ],
+        "correct": "A",
+        "explanation": "第一空修饰名词teacher，用形容词性物主代词our；第二空作teaches的宾语，用人称代词宾格us。",
+        "category": "代词",
+        "source": "2024 天津部分区期中",
+        "tags": [
+          "代词",
+          "形容词性物主代词",
+          "人称代词宾格"
+        ],
+        "createdAt": "2024-03-08T08:00:00Z"
+      },
+      {
+        "id": "136_q_1741420800001_n022",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "There is a new ______ near here. Let's go there and watch a movie.",
+        "options": [
+          {
+            "label": "A",
+            "text": "factory"
+          },
+          {
+            "label": "B",
+            "text": "museum"
+          },
+          {
+            "label": "C",
+            "text": "zoo"
+          },
+          {
+            "label": "D",
+            "text": "theatre"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据watch a movie可知，是去看电影的地方，theatre表示'电影院、剧院'。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "theatre",
+          "电影院"
+        ],
+        "createdAt": "2024-03-08T08:01:00Z"
+      },
+      {
+        "id": "137_q_1741420800002_adj023",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "My weekend was ______. We went to the farm, but it rained all day. We didn't happy at all.",
+        "options": [
+          {
+            "label": "A",
+            "text": "healthy"
+          },
+          {
+            "label": "B",
+            "text": "terrible"
+          },
+          {
+            "label": "C",
+            "text": "delicious"
+          },
+          {
+            "label": "D",
+            "text": "wonderful"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据rained all day和didn't happy at all可知，周末很糟糕(terrible)。",
+        "category": "形容词",
+        "source": "原创",
+        "tags": [
+          "形容词",
+          "terrible",
+          "语境理解"
+        ],
+        "createdAt": "2024-03-08T08:02:00Z"
+      },
+      {
+        "id": "138_q_1741420800003_v024",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "I ask my brother not to ______ more time watching short videos. He should spend more time on his schoolwork.",
+        "options": [
+          {
+            "label": "A",
+            "text": "cost"
+          },
+          {
+            "label": "B",
+            "text": "waste"
+          },
+          {
+            "label": "C",
+            "text": "save"
+          },
+          {
+            "label": "D",
+            "text": "take"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据should spend more time on his schoolwork可知，不要浪费时间(waste)看短视频。",
+        "category": "动词",
+        "source": "新课标·批判思维",
+        "tags": [
+          "动词",
+          "waste",
+          "浪费时间",
+          "新课标"
+        ],
+        "createdAt": "2024-03-08T08:03:00Z"
+      },
+      {
+        "id": "139_q_1741420800004_ten025",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Jessica ______ every night before her Chinese test and got good results.",
+        "options": [
+          {
+            "label": "A",
+            "text": "studies"
+          },
+          {
+            "label": "B",
+            "text": "studied"
+          },
+          {
+            "label": "C",
+            "text": "has studied"
+          },
+          {
+            "label": "D",
+            "text": "will study"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据got good results可知，动作发生在过去，用一般过去时studied。",
+        "category": "时态",
+        "source": "2023 湖北武汉中考",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "新课标"
+        ],
+        "createdAt": "2024-03-08T08:04:00Z"
+      },
+      {
+        "id": "140_q_1741420800005_phr026",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—What about the pink dress? —I like it. But I need to ______ first before I take it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "try on it"
+          },
+          {
+            "label": "B",
+            "text": "try it on"
+          },
+          {
+            "label": "C",
+            "text": "try on them"
+          },
+          {
+            "label": "D",
+            "text": "try them on"
+          }
+        ],
+        "correct": "B",
+        "explanation": "try on是动副短语，代词it作宾语时放在中间，即try it on。",
+        "category": "动词短语",
+        "source": "2024 安徽合肥经济技术开发区期中",
+        "tags": [
+          "动词短语",
+          "try on",
+          "代词位置",
+          "新课标"
+        ],
+        "createdAt": "2024-03-08T08:05:00Z"
+      },
+      {
+        "id": "141_q_1741420800006_phr027",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "If you want to join our club, please use this pen to ______ your names on paper, David.",
+        "options": [
+          {
+            "label": "A",
+            "text": "write down"
+          },
+          {
+            "label": "B",
+            "text": "turn down"
+          },
+          {
+            "label": "C",
+            "text": "go down"
+          },
+          {
+            "label": "D",
+            "text": "look down"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据语境，是在纸上写下(write down)名字。",
+        "category": "动词短语",
+        "source": "原创",
+        "tags": [
+          "动词短语",
+          "write down",
+          "写下"
+        ],
+        "createdAt": "2024-03-08T08:06:00Z"
+      },
+      {
+        "id": "142_q_1741420800007_adv028",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "After a two-hour discussion, they ______ came to an agreement.",
+        "options": [
+          {
+            "label": "A",
+            "text": "greatly"
+          },
+          {
+            "label": "B",
+            "text": "finally"
+          },
+          {
+            "label": "C",
+            "text": "specially"
+          }
+        ],
+        "correct": "B",
+        "explanation": "经过两小时的讨论，最终(finally)达成了协议。",
+        "category": "副词",
+        "source": "2024 福建中考",
+        "tags": [
+          "副词",
+          "finally",
+          "最终"
+        ],
+        "createdAt": "2024-03-08T08:07:00Z"
+      },
+      {
+        "id": "143_q_1741420800008_use029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Billy ______ shy and quiet, but he is very outgoing now. —Yes. We are all surprised at his changes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "was used to be"
+          },
+          {
+            "label": "B",
+            "text": "used to be"
+          },
+          {
+            "label": "C",
+            "text": "was used to being"
+          }
+        ],
+        "correct": "B",
+        "explanation": "used to be表示'过去曾经是'，与now形成对比。",
+        "category": "情态动词",
+        "source": "2024 四川自贡中考",
+        "tags": [
+          "情态动词",
+          "used to",
+          "过去常常",
+          "新课标"
+        ],
+        "createdAt": "2024-03-08T08:08:00Z"
+      },
+      {
+        "id": "144_q_1741420800009_conj030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—There is still a long way to go ______ we finish the task. —Don't worry. Let's go on with it together.",
+        "options": [
+          {
+            "label": "A",
+            "text": "as long as"
+          },
+          {
+            "label": "B",
+            "text": "as soon as"
+          },
+          {
+            "label": "C",
+            "text": "before"
+          },
+          {
+            "label": "D",
+            "text": "because"
+          }
+        ],
+        "correct": "C",
+        "explanation": "before表示'在...之前'，句意：在我们完成任务之前还有很长的路要走。",
+        "category": "连词",
+        "source": "2024 安徽中考",
+        "tags": [
+          "连词",
+          "before",
+          "时间状语从句"
+        ],
+        "createdAt": "2024-03-08T08:09:00Z"
+      },
+      {
+        "id": "145_q_1741507200000_prep021",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "My sister is afraid ______ the tigers. She thinks they are dangerous and scary.",
+        "options": [
+          {
+            "label": "A",
+            "text": "with"
+          },
+          {
+            "label": "B",
+            "text": "from"
+          },
+          {
+            "label": "C",
+            "text": "to"
+          },
+          {
+            "label": "D",
+            "text": "of"
+          }
+        ],
+        "correct": "D",
+        "explanation": "be afraid of是固定搭配，表示'害怕...'。",
+        "category": "介词",
+        "source": "原创",
+        "tags": [
+          "介词",
+          "固定搭配",
+          "be afraid of"
+        ],
+        "createdAt": "2024-03-09T08:00:00Z"
+      },
+      {
+        "id": "146_q_1741507200001_pro022",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Maria, you should believe in ______. That's the secret of success. —OK, I will.",
+        "options": [
+          {
+            "label": "A",
+            "text": "myself"
+          },
+          {
+            "label": "B",
+            "text": "yourself"
+          },
+          {
+            "label": "C",
+            "text": "herself"
+          },
+          {
+            "label": "D",
+            "text": "himself"
+          }
+        ],
+        "correct": "B",
+        "explanation": "主语是you，宾语用反身代词yourself，表示'相信你自己'。",
+        "category": "代词",
+        "source": "2024 云南中考",
+        "tags": [
+          "代词",
+          "反身代词",
+          "yourself"
+        ],
+        "createdAt": "2024-03-09T08:01:00Z"
+      },
+      {
+        "id": "147_q_1741507200002_n023",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "These T-shirts are in different ______: large, medium and small.",
+        "options": [
+          {
+            "label": "A",
+            "text": "sizes"
+          },
+          {
+            "label": "B",
+            "text": "shapes"
+          },
+          {
+            "label": "C",
+            "text": "colors"
+          },
+          {
+            "label": "D",
+            "text": "places"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据large, medium and small可知，是不同尺寸(sizes)。",
+        "category": "名词",
+        "source": "原创",
+        "tags": [
+          "名词",
+          "sizes",
+          "尺寸"
+        ],
+        "createdAt": "2024-03-09T08:02:00Z"
+      },
+      {
+        "id": "148_q_1741507200003_inf024",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "The children decide ______ their school yard this Friday afternoon.",
+        "options": [
+          {
+            "label": "A",
+            "text": "clean"
+          },
+          {
+            "label": "B",
+            "text": "to clean"
+          },
+          {
+            "label": "C",
+            "text": "cleaning"
+          },
+          {
+            "label": "D",
+            "text": "cleaned"
+          }
+        ],
+        "correct": "B",
+        "explanation": "decide to do sth.是固定搭配，表示'决定做某事'。",
+        "category": "非谓语动词",
+        "source": "2024 天津宁河区第一学区期末",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "decide to do",
+          "新课标"
+        ],
+        "createdAt": "2024-03-09T08:03:00Z"
+      },
+      {
+        "id": "149_q_1741507200004_v025",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Choose me as your monitor and I ______ to help you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "notice"
+          },
+          {
+            "label": "B",
+            "text": "win"
+          },
+          {
+            "label": "C",
+            "text": "promise"
+          },
+          {
+            "label": "D",
+            "text": "ask"
+          }
+        ],
+        "correct": "C",
+        "explanation": "promise to do sth.表示'承诺做某事'，符合竞选班长的语境。",
+        "category": "动词",
+        "source": "2024 天津滨海新区期末",
+        "tags": [
+          "动词",
+          "promise",
+          "承诺"
+        ],
+        "createdAt": "2024-03-09T08:04:00Z"
+      },
+      {
+        "id": "150_q_1741507200005_adj026",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "My brother is ______ and he seems to know everything. I always ask him for help.",
+        "options": [
+          {
+            "label": "A",
+            "text": "lazy"
+          },
+          {
+            "label": "B",
+            "text": "brave"
+          },
+          {
+            "label": "C",
+            "text": "wise"
+          },
+          {
+            "label": "D",
+            "text": "strict"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据know everything和ask him for help可知，哥哥很聪明(wise)。",
+        "category": "形容词",
+        "source": "原创",
+        "tags": [
+          "形容词",
+          "wise",
+          "聪明的"
+        ],
+        "createdAt": "2024-03-09T08:05:00Z"
+      },
+      {
+        "id": "151_q_1741507200006_ten027",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "My grandpa ______ with me about his hometown yesterday.",
+        "options": [
+          {
+            "label": "A",
+            "text": "talks"
+          },
+          {
+            "label": "B",
+            "text": "talked"
+          },
+          {
+            "label": "C",
+            "text": "will talk"
+          },
+          {
+            "label": "D",
+            "text": "is talking"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据yesterday可知，用一般过去时talked。",
+        "category": "时态",
+        "source": "2024 北京顺义区期末",
+        "tags": [
+          "时态",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-09T08:06:00Z"
+      },
+      {
+        "id": "152_q_1741507200007_v028",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "The police were looking into a theft in a small village. They ______ the village for days.",
+        "options": [
+          {
+            "label": "A",
+            "text": "looked for"
+          },
+          {
+            "label": "B",
+            "text": "found"
+          },
+          {
+            "label": "C",
+            "text": "searched"
+          },
+          {
+            "label": "D",
+            "text": "searched for"
+          }
+        ],
+        "correct": "C",
+        "explanation": "search + 地点表示'搜查某地'；search for表示'寻找某物'。这里搜查村庄，用searched。",
+        "category": "动词",
+        "source": "2024 江苏南京玄武区期末",
+        "tags": [
+          "动词",
+          "search",
+          "搜查"
+        ],
+        "createdAt": "2024-03-09T08:07:00Z"
+      },
+      {
+        "id": "153_q_1741507200008_adv029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______, I didn't want to be a teacher. But now I love my job as a Chinese teacher.",
+        "options": [
+          {
+            "label": "A",
+            "text": "At first"
+          },
+          {
+            "label": "B",
+            "text": "At once"
+          },
+          {
+            "label": "C",
+            "text": "At last"
+          },
+          {
+            "label": "D",
+            "text": "At times"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据but now可知，前后对比，at first表示'起初'。",
+        "category": "短语",
+        "source": "原创",
+        "tags": [
+          "短语",
+          "at first",
+          "起初"
+        ],
+        "createdAt": "2024-03-09T08:08:00Z"
+      },
+      {
+        "id": "154_q_1741507200009_exc030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—It was sunny several minutes ago, but it's raining heavily now! —______ difference a day makes!",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "What a"
+          },
+          {
+            "label": "C",
+            "text": "How"
+          }
+        ],
+        "correct": "B",
+        "explanation": "difference是可数名词单数，用What a引导感叹句。",
+        "category": "感叹句",
+        "source": "2024 黑龙江绥化中考",
+        "tags": [
+          "感叹句",
+          "what a",
+          "新课标"
+        ],
+        "createdAt": "2024-03-09T08:09:00Z"
+      },
+      {
+        "id": "155_q_1741593600000_ten001",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Ten minutes ago, my sister ______ in her bedroom. But now she is in the garden.",
+        "options": [
+          {
+            "label": "A",
+            "text": "was"
+          },
+          {
+            "label": "B",
+            "text": "were"
+          },
+          {
+            "label": "C",
+            "text": "is"
+          },
+          {
+            "label": "D",
+            "text": "are"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据ago可知是过去时，主语是my sister，用was。",
+        "category": "时态",
+        "source": "原创",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "be动词"
+        ],
+        "createdAt": "2024-03-10T08:00:00Z"
+      },
+      {
+        "id": "156_q_1741593600001_ten002",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "My classmate Mike ______ for the math test last night.",
+        "options": [
+          {
+            "label": "A",
+            "text": "study"
+          },
+          {
+            "label": "B",
+            "text": "studies"
+          },
+          {
+            "label": "C",
+            "text": "studied"
+          },
+          {
+            "label": "D",
+            "text": "studying"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据last night可知用一般过去时，动词用过去式studied。",
+        "category": "时态",
+        "source": "2024 北京海淀区期末",
+        "tags": [
+          "时态",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:01:00Z"
+      },
+      {
+        "id": "157_q_1741593600002_ten003",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—What did you do last Saturday, Tina? —I ______ to the nursing home and worked as a volunteer there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "go"
+          },
+          {
+            "label": "B",
+            "text": "went"
+          },
+          {
+            "label": "C",
+            "text": "will go"
+          },
+          {
+            "label": "D",
+            "text": "was going"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据last Saturday和worked可知，用一般过去时went。",
+        "category": "时态",
+        "source": "2024 北京中考",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "新课标"
+        ],
+        "createdAt": "2024-03-10T08:02:00Z"
+      },
+      {
+        "id": "158_q_1741593600003_ten004",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "There ______ a small lake in my hometown ten years ago, and I often swam there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "are"
+          },
+          {
+            "label": "B",
+            "text": "was"
+          },
+          {
+            "label": "C",
+            "text": "were"
+          },
+          {
+            "label": "D",
+            "text": "is"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据ten years ago可知用过去时，主语是a small lake，用was。",
+        "category": "时态",
+        "source": "2024 北京丰台区期末",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "there be"
+        ],
+        "createdAt": "2024-03-10T08:03:00Z"
+      },
+      {
+        "id": "159_q_1741593600004_ten005",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Mike and his friends didn't watch Zootopia last Sunday. In fact, they ______ football.",
+        "options": [
+          {
+            "label": "A",
+            "text": "played"
+          },
+          {
+            "label": "B",
+            "text": "play"
+          },
+          {
+            "label": "C",
+            "text": "will play"
+          },
+          {
+            "label": "D",
+            "text": "are playing"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据last Sunday可知是过去时，用played。",
+        "category": "时态",
+        "source": "2024 安徽合肥蜀山区期末",
+        "tags": [
+          "时态",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:04:00Z"
+      },
+      {
+        "id": "160_q_1741593600005_ten006",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Tom often ______ to school by bike, but he ______ a bus to school this morning.",
+        "options": [
+          {
+            "label": "A",
+            "text": "goes; takes"
+          },
+          {
+            "label": "B",
+            "text": "went; took"
+          },
+          {
+            "label": "C",
+            "text": "went; takes"
+          },
+          {
+            "label": "D",
+            "text": "goes; took"
+          }
+        ],
+        "correct": "D",
+        "explanation": "often用一般现在时goes；this morning用一般过去时took。",
+        "category": "时态",
+        "source": "2023 山东青岛市北区期末",
+        "tags": [
+          "时态",
+          "一般现在时",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:05:00Z"
+      },
+      {
+        "id": "161_q_1741593600006_ten007",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Eric often ______ his grandma on weekends but last weekend he ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "visited; did"
+          },
+          {
+            "label": "B",
+            "text": "visits; does"
+          },
+          {
+            "label": "C",
+            "text": "visited; didn't"
+          },
+          {
+            "label": "D",
+            "text": "visits; didn't"
+          }
+        ],
+        "correct": "D",
+        "explanation": "often用一般现在时visits；last weekend用一般过去时，否定形式didn't。",
+        "category": "时态",
+        "source": "2023 山东青岛胶州市区期末",
+        "tags": [
+          "时态",
+          "一般现在时",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:06:00Z"
+      },
+      {
+        "id": "162_q_1741593600007_ten008",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Did you enjoy yourselves in the countryside last Sunday? —Yes. We ______ the mountains and ______ some great places.",
+        "options": [
+          {
+            "label": "A",
+            "text": "climb; visit"
+          },
+          {
+            "label": "B",
+            "text": "climbed; visit"
+          },
+          {
+            "label": "C",
+            "text": "climbed; visited"
+          },
+          {
+            "label": "D",
+            "text": "climb; visited"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据last Sunday可知用一般过去时，两个并列动词都用过去式climbed和visited。",
+        "category": "时态",
+        "source": "2024 江西南昌外国语学校教育集团期末",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "并列谓语",
+          "新课标"
+        ],
+        "createdAt": "2024-03-10T08:07:00Z"
+      },
+      {
+        "id": "163_q_1741593600008_ten009",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—My father ______ me a funny story but I can't remember its name. —Why don't you ask your father now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "tells"
+          },
+          {
+            "label": "B",
+            "text": "is telling"
+          },
+          {
+            "label": "C",
+            "text": "will tell"
+          },
+          {
+            "label": "D",
+            "text": "told"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据I can't remember its name可知，故事是过去讲的，用一般过去时told。",
+        "category": "时态",
+        "source": "2024 安徽合肥包河区期末",
+        "tags": [
+          "时态",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:08:00Z"
+      },
+      {
+        "id": "164_q_1741593600009_ten010",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______ your mom in Luzhou yesterday? —Yes. And she ______ still there now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Was; is"
+          },
+          {
+            "label": "B",
+            "text": "Was; was"
+          },
+          {
+            "label": "C",
+            "text": "Is; is"
+          },
+          {
+            "label": "D",
+            "text": "Is; was"
+          }
+        ],
+        "correct": "A",
+        "explanation": "yesterday用一般过去时Was；now用一般现在时is。",
+        "category": "时态",
+        "source": "2024 四川泸州龙马潭区期末",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "一般现在时"
+        ],
+        "createdAt": "2024-03-10T08:09:00Z"
+      },
+      {
+        "id": "165_q_1741593600010_qw011",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______ did you go to Nanjing last weekend? —My father drove us there. It only took one hour.",
+        "options": [
+          {
+            "label": "A",
+            "text": "When"
+          },
+          {
+            "label": "B",
+            "text": "Why"
+          },
+          {
+            "label": "C",
+            "text": "How"
+          },
+          {
+            "label": "D",
+            "text": "Where"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据drove和took one hour可知，问的是方式，用How。",
+        "category": "疑问词",
+        "source": "2024 安徽合肥蜀山区期末",
+        "tags": [
+          "疑问词",
+          "how",
+          "方式",
+          "新课标"
+        ],
+        "createdAt": "2024-03-10T08:10:00Z"
+      },
+      {
+        "id": "166_q_1741593600011_qw012",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______ was Strauss born? —He was born in Vienna, the capital of Austria.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Where"
+          },
+          {
+            "label": "B",
+            "text": "Why"
+          },
+          {
+            "label": "C",
+            "text": "How"
+          },
+          {
+            "label": "D",
+            "text": "What"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据in Vienna可知，问地点，用Where。",
+        "category": "疑问词",
+        "source": "2024 天津滨海新区期末",
+        "tags": [
+          "疑问词",
+          "where",
+          "地点",
+          "跨艺术"
+        ],
+        "createdAt": "2024-03-10T08:11:00Z"
+      },
+      {
+        "id": "167_q_1741593600012_tb013",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Was there an old man named Tom in your village in the past? —______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "No, there weren't"
+          },
+          {
+            "label": "B",
+            "text": "No, there wasn't"
+          },
+          {
+            "label": "C",
+            "text": "Yes, he was"
+          }
+        ],
+        "correct": "B",
+        "explanation": "问句是there be句型的一般过去时，主语是单数，否定回答用No, there wasn't。",
+        "category": "句型",
+        "source": "2024 北京铁路二中期中",
+        "tags": [
+          "句型",
+          "there be",
+          "一般过去时"
+        ],
+        "createdAt": "2024-03-10T08:12:00Z"
+      },
+      {
+        "id": "168_q_1741593600013_ten014",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______ you in the city in 2015? —No. I ______ here two years ago.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Are; move"
+          },
+          {
+            "label": "B",
+            "text": "Are; moved"
+          },
+          {
+            "label": "C",
+            "text": "Were; moved"
+          },
+          {
+            "label": "D",
+            "text": "Were; move"
+          }
+        ],
+        "correct": "C",
+        "explanation": "in 2015用一般过去时Were；two years ago用一般过去时moved。",
+        "category": "时态",
+        "source": "2024 天津南开区期末",
+        "tags": [
+          "时态",
+          "一般过去时",
+          "be动词"
+        ],
+        "createdAt": "2024-03-10T08:13:00Z"
+      },
+      {
+        "id": "169_q_1741593600014_qw015",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—______? —I started it three months ago.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Why did you love to swim"
+          },
+          {
+            "label": "B",
+            "text": "When did you start to swim"
+          },
+          {
+            "label": "C",
+            "text": "How did you learn to swim"
+          },
+          {
+            "label": "D",
+            "text": "How long did you usually swim"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答three months ago可知，问的是开始的时间，用When did you start to swim。",
+        "category": "疑问句",
+        "source": "2024 安徽合肥包河区期末",
+        "tags": [
+          "疑问句",
+          "特殊疑问句",
+          "when"
+        ],
+        "createdAt": "2024-03-10T08:14:00Z"
+      },
+      {
+        "id": "170_q_1741680000000_cus021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "What special food do Chinese people eat on their birthdays?",
+        "options": [
+          {
+            "label": "A",
+            "text": "图片选项A"
+          },
+          {
+            "label": "B",
+            "text": "图片选项B"
+          },
+          {
+            "label": "C",
+            "text": "图片选项C"
+          },
+          {
+            "label": "D",
+            "text": "图片选项D"
+          }
+        ],
+        "correct": "A",
+        "explanation": "中国人过生日通常会吃长寿面或蛋糕，根据图片选择正确答案。",
+        "category": "文化习俗",
+        "source": "新课标·文化习俗",
+        "tags": [
+          "文化",
+          "生日",
+          "食物",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:00:00Z"
+      },
+      {
+        "id": "171_q_1741680000001_n022",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—We should tell the ______ not to swim in the river. —You are right. We must tell them.",
+        "options": [
+          {
+            "label": "A",
+            "text": "person"
+          },
+          {
+            "label": "B",
+            "text": "children"
+          },
+          {
+            "label": "C",
+            "text": "student"
+          },
+          {
+            "label": "D",
+            "text": "visitor"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据后面的them可知，空格处应用复数名词，children是复数形式。",
+        "category": "名词",
+        "source": "新课标·珍爱生命",
+        "tags": [
+          "名词",
+          "复数",
+          "children",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:01:00Z"
+      },
+      {
+        "id": "172_q_1741680000002_adj023",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "A man should be strict with himself, but be ______ to others.",
+        "options": [
+          {
+            "label": "A",
+            "text": "similar"
+          },
+          {
+            "label": "B",
+            "text": "harmful"
+          },
+          {
+            "label": "C",
+            "text": "friendly"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据语境，对自己严格，对他人要友好(friendly)。",
+        "category": "形容词",
+        "source": "2023 黑龙江牡丹江中考",
+        "tags": [
+          "形容词",
+          "friendly",
+          "友好的",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:02:00Z"
+      },
+      {
+        "id": "173_q_1741680000003_mod024",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "I ______ get up early this morning. There is not much work today.",
+        "options": [
+          {
+            "label": "A",
+            "text": "can't"
+          },
+          {
+            "label": "B",
+            "text": "have to"
+          },
+          {
+            "label": "C",
+            "text": "can"
+          },
+          {
+            "label": "D",
+            "text": "don't have to"
+          }
+        ],
+        "correct": "D",
+        "explanation": "根据There is not much work today可知，今天不必早起，用don't have to。",
+        "category": "情态动词",
+        "source": "2023 湖北武汉知行联盟月考",
+        "tags": [
+          "情态动词",
+          "have to",
+          "不必"
+        ],
+        "createdAt": "2024-03-11T08:03:00Z"
+      },
+      {
+        "id": "174_q_1741680000004_inf025",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "Qiqi hopes ______ medicine in Sichuan University.",
+        "options": [
+          {
+            "label": "A",
+            "text": "studies"
+          },
+          {
+            "label": "B",
+            "text": "studying"
+          },
+          {
+            "label": "C",
+            "text": "to study"
+          }
+        ],
+        "correct": "C",
+        "explanation": "hope to do sth.是固定搭配，表示'希望做某事'。",
+        "category": "非谓语动词",
+        "source": "2024 四川达州中考",
+        "tags": [
+          "非谓语动词",
+          "不定式",
+          "hope to do",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:04:00Z"
+      },
+      {
+        "id": "175_q_1741680000005_ten026",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Where's your brother, Jane? —He ______ an English song in his room.",
+        "options": [
+          {
+            "label": "A",
+            "text": "sings"
+          },
+          {
+            "label": "B",
+            "text": "sang"
+          },
+          {
+            "label": "C",
+            "text": "is singing"
+          },
+          {
+            "label": "D",
+            "text": "singing"
+          }
+        ],
+        "correct": "C",
+        "explanation": "问句询问现在的位置，答语说明正在进行的动作，用现在进行时is singing。",
+        "category": "时态",
+        "source": "2023 山东青岛胶东区期末",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-11T08:05:00Z"
+      },
+      {
+        "id": "176_q_1741680000006_exc027",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Look at Panda Ya Ya! ______ happy she is! —Yes. There is enough fresh bamboo for her to eat now.",
+        "options": [
+          {
+            "label": "A",
+            "text": "What"
+          },
+          {
+            "label": "B",
+            "text": "What a"
+          },
+          {
+            "label": "C",
+            "text": "How a"
+          },
+          {
+            "label": "D",
+            "text": "How"
+          }
+        ],
+        "correct": "D",
+        "explanation": "happy是形容词，用How引导感叹句，结构为How + 形容词 + 主语 + 谓语！",
+        "category": "感叹句",
+        "source": "2023 四川雅安中考",
+        "tags": [
+          "感叹句",
+          "how",
+          "形容词"
+        ],
+        "createdAt": "2024-03-11T08:06:00Z"
+      },
+      {
+        "id": "177_q_1741680000007_pro028",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Who cooked the hot dry noodles for you? They're delicious. —______. I learned to cook them by myself on the Internet.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Everybody"
+          },
+          {
+            "label": "B",
+            "text": "Somebody"
+          },
+          {
+            "label": "C",
+            "text": "Nobody"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据I learned to cook them by myself可知，没有人帮忙，是自己做的，用Nobody。",
+        "category": "代词",
+        "source": "2024 黑龙江牡丹江中考",
+        "tags": [
+          "代词",
+          "nobody",
+          "没有人",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:07:00Z"
+      },
+      {
+        "id": "178_q_1741680000008_phr029",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "—Xiao Hai won first prize at our school art festival. —Wonderful! I am ______ his next performance.",
+        "options": [
+          {
+            "label": "A",
+            "text": "looking forward to"
+          },
+          {
+            "label": "B",
+            "text": "paying attention to"
+          },
+          {
+            "label": "C",
+            "text": "getting used to"
+          }
+        ],
+        "correct": "A",
+        "explanation": "look forward to表示'期待'，符合听到好消息后期待下次表演的语境。",
+        "category": "动词短语",
+        "source": "2024 福建中考",
+        "tags": [
+          "动词短语",
+          "look forward to",
+          "期待",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:08:00Z"
+      },
+      {
+        "id": "179_q_1741680000009_obj030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Lily, can you tell me ______ during the Dragon Boat Festival this year? —Sure. We ate zongzi and watched a dragon boat race.",
+        "options": [
+          {
+            "label": "A",
+            "text": "what you will do"
+          },
+          {
+            "label": "B",
+            "text": "what you did"
+          },
+          {
+            "label": "C",
+            "text": "what will you do"
+          },
+          {
+            "label": "D",
+            "text": "what did you do"
+          }
+        ],
+        "correct": "B",
+        "explanation": "宾语从句用陈述语序，根据ate和watched可知是过去时，用what you did。",
+        "category": "宾语从句",
+        "source": "2023 北京中考",
+        "tags": [
+          "宾语从句",
+          "陈述语序",
+          "一般过去时",
+          "新课标"
+        ],
+        "createdAt": "2024-03-11T08:09:00Z"
+      },
+      {
+        "id": "180_q_1741766400000_prep021",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—Congratulations! Can you share your secret to learning? —If you work hard enough, you will succeed ______ achieving your goal.",
+        "options": [
+          {
+            "label": "A",
+            "text": "on"
+          },
+          {
+            "label": "B",
+            "text": "about"
+          },
+          {
+            "label": "C",
+            "text": "in"
+          },
+          {
+            "label": "D",
+            "text": "for"
+          }
+        ],
+        "correct": "C",
+        "explanation": "succeed in doing sth.是固定搭配，表示'成功做某事'。",
+        "category": "介词",
+        "source": "2023 四川泸州中考",
+        "tags": [
+          "介词",
+          "succeed in",
+          "固定搭配",
+          "新课标"
+        ],
+        "createdAt": "2024-03-12T08:00:00Z"
+      },
+      {
+        "id": "181_q_1741766400001_n022",
+        "type": "single-choice",
+        "difficulty": 1,
+        "question": "—I don't know how to lose weight. Could you give me some ______? —Sure. Eating less and exercising more are good ways.",
+        "options": [
+          {
+            "label": "A",
+            "text": "advice"
+          },
+          {
+            "label": "B",
+            "text": "news"
+          },
+          {
+            "label": "C",
+            "text": "energy"
+          },
+          {
+            "label": "D",
+            "text": "suggestion"
+          }
+        ],
+        "correct": "A",
+        "explanation": "advice是不可数名词，用some修饰。suggestion是可数名词，应用suggestions。",
+        "category": "名词",
+        "source": "新独家原创",
+        "tags": [
+          "名词",
+          "不可数名词",
+          "advice"
+        ],
+        "createdAt": "2024-03-12T08:01:00Z"
+      },
+      {
+        "id": "182_q_1741766400002_adj023",
+        "type": "single-choice",
+        "difficulty": 3,
+        "question": "Matt is very ______ in school and he gets on well with everyone.",
+        "options": [
+          {
+            "label": "A",
+            "text": "strange"
+          },
+          {
+            "label": "B",
+            "text": "rude"
+          },
+          {
+            "label": "C",
+            "text": "polite"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据gets on well with everyone可知，Matt很有礼貌(polite)。",
+        "category": "形容词",
+        "source": "2024 广西南宁三中期末",
+        "tags": [
+          "形容词",
+          "polite",
+          "礼貌"
+        ],
+        "createdAt": "2024-03-12T08:02:00Z"
+      },
+      {
+        "id": "183_q_1741766400003_v024",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—I ______ to cook dinner for my family. —Sounds great. You can go shopping to buy some vegetables and meat first.",
+        "options": [
+          {
+            "label": "A",
+            "text": "promise"
+          },
+          {
+            "label": "B",
+            "text": "talk"
+          },
+          {
+            "label": "C",
+            "text": "connect"
+          },
+          {
+            "label": "D",
+            "text": "forget"
+          }
+        ],
+        "correct": "A",
+        "explanation": "根据Sounds great和go shopping可知，承诺(promise)为家人做饭。",
+        "category": "动词",
+        "source": "2024 安徽合肥龙城教育集团期中",
+        "tags": [
+          "动词",
+          "promise",
+          "承诺",
+          "新课标"
+        ],
+        "createdAt": "2024-03-12T08:03:00Z"
+      },
+      {
+        "id": "184_q_1741766400004_ten025",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Jim, I've got a problem with my car. Could you help me? —Sorry, not right now. I ______ a short video.",
+        "options": [
+          {
+            "label": "A",
+            "text": "make"
+          },
+          {
+            "label": "B",
+            "text": "have made"
+          },
+          {
+            "label": "C",
+            "text": "am making"
+          },
+          {
+            "label": "D",
+            "text": "was making"
+          }
+        ],
+        "correct": "C",
+        "explanation": "根据not right now可知，正在制作短视频，用现在进行时am making。",
+        "category": "时态",
+        "source": "2023 安徽中考",
+        "tags": [
+          "时态",
+          "现在进行时"
+        ],
+        "createdAt": "2024-03-12T08:04:00Z"
+      },
+      {
+        "id": "185_q_1741766400005_qw026",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—Lily, your new schoolbag is pretty. ______ did you buy it? —In a store near my home.",
+        "options": [
+          {
+            "label": "A",
+            "text": "How"
+          },
+          {
+            "label": "B",
+            "text": "Where"
+          },
+          {
+            "label": "C",
+            "text": "Why"
+          },
+          {
+            "label": "D",
+            "text": "When"
+          }
+        ],
+        "correct": "B",
+        "explanation": "根据回答In a store可知，问地点，用Where。",
+        "category": "疑问词",
+        "source": "原创",
+        "tags": [
+          "疑问词",
+          "where",
+          "地点"
+        ],
+        "createdAt": "2024-03-12T08:05:00Z"
+      },
+      {
+        "id": "186_q_1741766400006_adj027",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Don't buy things ______ of the animals' body parts. It is a way to protect them.",
+        "options": [
+          {
+            "label": "A",
+            "text": "making"
+          },
+          {
+            "label": "B",
+            "text": "made"
+          },
+          {
+            "label": "C",
+            "text": "to make"
+          },
+          {
+            "label": "D",
+            "text": "make"
+          }
+        ],
+        "correct": "B",
+        "explanation": "things made of表示'由...制成的东西'，过去分词短语作后置定语。",
+        "category": "非谓语动词",
+        "source": "原创",
+        "tags": [
+          "非谓语动词",
+          "过去分词",
+          "后置定语"
+        ],
+        "createdAt": "2024-03-12T08:06:00Z"
+      },
+      {
+        "id": "187_q_1741766400007_pro028",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "Running is getting popular. It is good for our health and it costs ______.",
+        "options": [
+          {
+            "label": "A",
+            "text": "nothing"
+          },
+          {
+            "label": "B",
+            "text": "everything"
+          },
+          {
+            "label": "C",
+            "text": "anything"
+          }
+        ],
+        "correct": "A",
+        "explanation": "跑步对健康有好处，而且不需要花费任何东西(costs nothing)。",
+        "category": "代词",
+        "source": "2024 吉林中考",
+        "tags": [
+          "代词",
+          "nothing",
+          "花费",
+          "新课标"
+        ],
+        "createdAt": "2024-03-12T08:07:00Z"
+      },
+      {
+        "id": "188_q_1741766400008_phr029",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "—After the Spring Festival, I ______ five kilos because I ate more and didn't exercise. —That is called 'holiday obesity'.",
+        "options": [
+          {
+            "label": "A",
+            "text": "put out"
+          },
+          {
+            "label": "B",
+            "text": "put off"
+          },
+          {
+            "label": "C",
+            "text": "put on"
+          },
+          {
+            "label": "D",
+            "text": "put up"
+          }
+        ],
+        "correct": "C",
+        "explanation": "put on表示'增加(体重)'，符合春节期间吃多不运动导致体重增加的语境。",
+        "category": "动词短语",
+        "source": "新素材·节日肥胖症",
+        "tags": [
+          "动词短语",
+          "put on",
+          "增重",
+          "新素材"
+        ],
+        "createdAt": "2024-03-12T08:08:00Z"
+      },
+      {
+        "id": "189_q_1741766400009_conj030",
+        "type": "single-choice",
+        "difficulty": 4,
+        "question": "______ you are too tired to do all the things on your To-Do list, try a To-Don't list.",
+        "options": [
+          {
+            "label": "A",
+            "text": "If"
+          },
+          {
+            "label": "B",
+            "text": "Until"
+          },
+          {
+            "label": "C",
+            "text": "Although"
+          },
+          {
+            "label": "D",
+            "text": "Unless"
+          }
+        ],
+        "correct": "A",
+        "explanation": "if引导条件状语从句，表示'如果'。句意：如果你太累做不完清单上的事，试试'不做清单'。",
+        "category": "连词",
+        "source": "2024 江苏扬州中考",
+        "tags": [
+          "连词",
+          "if",
+          "条件状语从句",
+          "新课标"
+        ],
+        "createdAt": "2024-03-12T08:09:00Z"
+      }
+    ]
+  }

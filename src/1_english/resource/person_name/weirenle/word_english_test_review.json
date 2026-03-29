@@ -1,0 +1,74 @@
+{
+  "happy": {
+    "chinese": "幸福的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:53.923Z"
+  },
+  "face": {
+    "chinese": "脸",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.092Z"
+  },
+  "sad": {
+    "chinese": "悲哀的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.232Z"
+  },
+  "sorry": {
+    "chinese": "对不起的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.374Z"
+  },
+  "excited": {
+    "chinese": "兴奋的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.516Z"
+  },
+  "scared": {
+    "chinese": "害怕的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.658Z"
+  },
+  "shy": {
+    "chinese": "害羞的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.801Z"
+  },
+  "mad": {
+    "chinese": "疯狂的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:54.939Z"
+  },
+  "sleepy": {
+    "chinese": "困倦的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-23T10:52:55.079Z"
+  }
+}

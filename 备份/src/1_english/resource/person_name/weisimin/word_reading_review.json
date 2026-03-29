@@ -1,0 +1,138 @@
+{
+  "your": {
+    "chinese": "你的",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "time": "2026-01-27T03:51:12.024Z"
+  },
+  "like": {
+    "chinese": "喜欢,像",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:23.411Z"
+  },
+  "make": {
+    "chinese": "使,制作",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "hello": {
+    "chinese": "你好",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:03.894Z"
+  },
+  "wrong": {
+    "chinese": "错误的",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "can": {
+    "chinese": "可以",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "name": {
+    "chinese": "名称",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:16.979Z"
+  },
+  "get": {
+    "chinese": "得到",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:25.289Z"
+  },
+  "really": {
+    "chinese": "真正地",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 1,
+    "time": "2026-01-27T03:51:07.779Z"
+  },
+  "first": {
+    "chinese": "第一",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "hear": {
+    "chinese": "听到",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:14.879Z"
+  },
+  "friends": {
+    "chinese": "朋友",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:51:10.305Z"
+  },
+  "advice": {
+    "chinese": "建议",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "best": {
+    "chinese": "最好的",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "school": {
+    "chinese": "学校",
+    "pass": false,
+    "extraction_count": 2,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T03:50:58.863Z"
+  },
+  "some": {
+    "chinese": "一些",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T10:44:36.281Z"
+  },
+  "teacher": {
+    "chinese": "老师",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-27T10:44:36.368Z"
+  }
+}

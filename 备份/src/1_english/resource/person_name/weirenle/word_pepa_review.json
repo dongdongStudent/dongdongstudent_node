@@ -1,0 +1,58 @@
+{
+  "likes": {
+    "chinese": "喜欢，种类",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-26T13:48:38.574Z"
+  },
+  "cannot": {
+    "chinese": "不能",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-26T13:48:35.015Z"
+  },
+  "let's": {
+    "chinese": "让我们",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-26T13:48:42.289Z"
+  },
+  "let": {
+    "chinese": "让",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-26T13:48:51.062Z"
+  },
+  "hello": {
+    "chinese": "你好",
+    "pass": false,
+    "extraction_count": 1,
+    "correct_count": 1,
+    "wrong_count": 0,
+    "time": "2026-01-26T13:48:45.031Z"
+  },
+  "muddy": {
+    "chinese": "泥泞的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T00:48:15.290Z"
+  },
+  "puddles": {
+    "chinese": "水坑",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T00:48:15.563Z"
+  }
+}

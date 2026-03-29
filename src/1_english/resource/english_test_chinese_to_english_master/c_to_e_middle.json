@@ -1,0 +1,111 @@
+{
+    "metadata": {
+      "bank": "中考",
+      "name": "中考中译英句子填空",
+      "description": "根据中文提示，完成英文句子",
+      "version": "1.0.0",
+      "totalQuestions": 15,
+      "createdAt": "2025-03-05T00:00:00.000Z",
+      "updatedAt": "2025-03-05T00:00:00.000Z",
+      "categories": ["生活", "日常对话", "教育", "健康", "故事"],
+      "difficultyLevels": [1, 2, 3, 4, 5]
+    },
+    "questions": [
+      {
+        "id": "c2e_mid_006",
+        "number": 6,
+        "chinese": "你不必做许多事情来照顾你的牡蛎。",
+        "english": "You don’t have to do a lot to ______ your oysters.",
+        "type": "single",
+        "correctForm": "look after",
+        "explanation": "look after 意为'照顾'，固定短语。",
+        "category": "生活",
+        "difficulty": 2
+      },
+      {
+        "id": "c2e_mid_007",
+        "number": 7,
+        "chinese": "我哥哥最喜欢的动物是狮子。",
+        "english": "My brother’s ______ is the lion.",
+        "type": "single",
+        "correctForm": "favorite animal",
+        "explanation": "favorite animal 意为'最喜欢的动物'，这里需要填写完整的名词短语。",
+        "category": "生活",
+        "difficulty": 1
+      },
+      {
+        "id": "c2e_mid_008",
+        "number": 8,
+        "chinese": "——你应该什么时候到家？——下午五点之前。",
+        "english": "______ you arrive home? —Before 5:00 p.m.",
+        "type": "single",
+        "correctForm": "When should",
+        "explanation": "询问时间用疑问词 when，加上情态动词 should 表示'应该'。",
+        "category": "日常对话",
+        "difficulty": 2
+      },
+      {
+        "id": "c2e_mid_009",
+        "number": 9,
+        "chinese": "——这些企鹅来自哪里？——它们来自南极洲。",
+        "english": "______ the penguins ______? —They’re from Antarctica.",
+        "type": "multi",
+        "blanks": [
+          {
+            "position": 0,
+            "correctForms": [
+              "Where do",
+              "Where"
+            ]
+          },
+          {
+            "position": 1,
+            "correctForms": [
+              "come from",
+              "from"
+            ]
+          }
+        ],
+        "combinedCorrectForms": [
+          "Where do the penguins come from",
+          "Where do they come from",
+          "Where are the penguins from",
+          "Where are they from"
+        ],
+        "explanation": "询问来源可以用：\n- Where do the penguins come from?\n- Where are the penguins from?\n主语是复数，所以用 do 或 are。",
+        "category": "日常对话",
+        "difficulty": 2
+      },
+      {
+        "id": "c2e_mid_010",
+        "number": 10,
+        "chinese": "——珍妮和杰克为什么这么开心？——因为今天是他们的结婚纪念日。",
+        "english": "______ are Jenny and Jack so happy? —______ today is their wedding anniversary.",
+        "type": "multi",
+        "blanks": [
+          {
+            "position": 0,
+            "correctForms": [
+              "Why",
+              "Why are Jenny and Jack"
+            ]
+          },
+          {
+            "position": 1,
+            "correctForms": [
+              "Because",
+              "Because today"
+            ]
+          }
+        ],
+        "combinedCorrectForms": [
+          "Why are Jenny and Jack so happy? / Because today is their wedding anniversary.",
+          "Why / Because",
+          "Why are they so happy? / Because it's their wedding anniversary."
+        ],
+        "explanation": "第一空询问原因用 Why，第二空回答原因用 Because。",
+        "category": "日常对话",
+        "difficulty": 2
+      }
+    ]
+  }

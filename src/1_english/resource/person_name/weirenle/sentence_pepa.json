@@ -1,0 +1,194 @@
+{
+  "understoodSentences": [
+    {
+      "id": 0,
+      "text": "I'm Peppa Pig. ",
+      "timestamp": 1769443991850,
+      "episodeId": 2,
+      "originalIndex": 0,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 2,
+      "text": "This is Mummy Pig. ",
+      "timestamp": 1773140048305,
+      "episodeId": 1,
+      "originalIndex": 2,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 3,
+      "text": "And this is Daddy Pig. ",
+      "timestamp": 1773140060170,
+      "episodeId": 1,
+      "originalIndex": 3,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 4,
+      "text": "Peppa pig. ",
+      "timestamp": 1773140072765,
+      "episodeId": 1,
+      "originalIndex": 4,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 5,
+      "text": "Muddy Puddles. ",
+      "timestamp": 1773140078485,
+      "episodeId": 1,
+      "originalIndex": 5,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 6,
+      "text": "It is raining today. ",
+      "timestamp": 1773140098241,
+      "episodeId": 1,
+      "originalIndex": 6,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 7,
+      "text": "So, Peppa and George Cannot play outside. ",
+      "timestamp": 1773140111310,
+      "episodeId": 1,
+      "originalIndex": 7,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 8,
+      "text": "Daddy, it's stopped raining. ",
+      "timestamp": 1773140146271,
+      "episodeId": 1,
+      "originalIndex": 8,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 9,
+      "text": "Can we go out to play? ",
+      "timestamp": 1773140172266,
+      "episodeId": 1,
+      "originalIndex": 9,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 11,
+      "text": "Peppa loves jumping in muddy puddles. ",
+      "timestamp": 1773140206260,
+      "episodeId": 1,
+      "originalIndex": 11,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 12,
+      "text": "I love muddy puddles. ",
+      "timestamp": 1773140220775,
+      "episodeId": 1,
+      "originalIndex": 12,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 13,
+      "text": "Peppa. If you jump in muddy puddles, ",
+      "timestamp": 1773140248686,
+      "episodeId": 1,
+      "originalIndex": 13,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 14,
+      "text": "you must wear your boots. ",
+      "timestamp": 1773140263521,
+      "episodeId": 1,
+      "originalIndex": 14,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 15,
+      "text": "Sorry, Mummy. ",
+      "timestamp": 1773140269705,
+      "episodeId": 1,
+      "originalIndex": 15,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 16,
+      "text": "George likes to jump in muddy puddles, too. ",
+      "timestamp": 1773140297990,
+      "episodeId": 1,
+      "originalIndex": 16,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 17,
+      "text": "George. If you jump in muddy puddles, ",
+      "timestamp": 1773140317891,
+      "episodeId": 1,
+      "originalIndex": 17,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 18,
+      "text": "you must wear your boots. ",
+      "timestamp": 1773140321655,
+      "episodeId": 1,
+      "originalIndex": 18,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 20,
+      "text": "George, let's find some more puddles. ",
+      "timestamp": 1773140395295,
+      "episodeId": 1,
+      "originalIndex": 20,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    },
+    {
+      "id": 10,
+      "text": "Alright, run along you two. ",
+      "fullText": "Alright, run along you two. ",
+      "timestamp": 1773653324949,
+      "episodeId": 1
+    }
+  ],
+  "difficultSentences": [
+    {
+      "id": 19,
+      "text": "Peppa likes to look after her little brother, George. ",
+      "playCount": 1,
+      "timestamp": 1773140337016,
+      "episodeId": 1,
+      "originalIndex": 19,
+      "rangeStart": 1,
+      "rangeEnd": 54
+    }
+  ],
+  "lastEpisodeId": 1,
+  "lastRange": {
+    "start": 1,
+    "end": 54
+  },
+  "timestamp": 1773653342318,
+  "lastUpdate": "2026-03-10T11:00:16.650Z",
+  "lastSyncTime": "2026-03-16T09:29:02.184Z",
+  "syncCount": 5
+}

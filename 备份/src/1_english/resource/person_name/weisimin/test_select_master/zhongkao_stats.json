@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "中考",
+    "createdAt": "2026-02-27T12:06:17.943Z",
+    "lastActive": "2026-02-27T12:23:52.676Z",
+    "totalAttempts": 12,
+    "totalCorrect": 12,
+    "totalWrong": 0,
+    "accuracy": 1
+  },
+  "stats": {
+    "zk_2024002_ten002": {
+      "extraction_count": 10,
+      "correct_count": 4,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:01.925Z",
+      "last_extracted": "2026-02-27T12:23:52.676Z",
+      "last_result": true,
+      "mastery_level": 1,
+      "history": [
+        {
+          "date": "2026-02-27T12:15:01.635Z",
+          "result": true,
+          "time": 4
+        },
+        {
+          "date": "2026-02-27T12:15:21.045Z",
+          "result": true,
+          "time": 6
+        },
+        {
+          "date": "2026-02-27T12:16:40.610Z",
+          "result": true,
+          "time": 10
+        },
+        {
+          "date": "2026-02-27T12:23:19.938Z",
+          "result": true,
+          "time": 7
+        }
+      ],
+      "streak": {
+        "current_correct": 4,
+        "current_wrong": 0,
+        "max_correct": 4,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 6.8,
+        "fastest": 4,
+        "slowest": 10
+      }
+    },
+    "zk_2024003_pro003": {
+      "extraction_count": 10,
+      "correct_count": 4,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:01.925Z",
+      "last_extracted": "2026-02-27T12:23:52.676Z",
+      "last_result": true,
+      "mastery_level": 1,
+      "history": [
+        {
+          "date": "2026-02-27T12:15:01.635Z",
+          "result": true,
+          "time": 3
+        },
+        {
+          "date": "2026-02-27T12:15:21.045Z",
+          "result": true,
+          "time": 7
+        },
+        {
+          "date": "2026-02-27T12:16:40.610Z",
+          "result": true,
+          "time": 6
+        },
+        {
+          "date": "2026-02-27T12:23:19.938Z",
+          "result": true,
+          "time": 7
+        }
+      ],
+      "streak": {
+        "current_correct": 4,
+        "current_wrong": 0,
+        "max_correct": 4,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 5.8,
+        "fastest": 3,
+        "slowest": 7
+      }
+    },
+    "zk_2024001_ten001": {
+      "extraction_count": 10,
+      "correct_count": 4,
+      "wrong_count": 0,
+      "first_seen": "2026-02-27T12:13:01.925Z",
+      "last_extracted": "2026-02-27T12:23:52.676Z",
+      "last_result": true,
+      "mastery_level": 1,
+      "history": [
+        {
+          "date": "2026-02-27T12:15:01.635Z",
+          "result": true,
+          "time": 9
+        },
+        {
+          "date": "2026-02-27T12:15:21.045Z",
+          "result": true,
+          "time": 7
+        },
+        {
+          "date": "2026-02-27T12:16:40.610Z",
+          "result": true,
+          "time": 8
+        },
+        {
+          "date": "2026-02-27T12:23:19.938Z",
+          "result": true,
+          "time": 9
+        }
+      ],
+      "streak": {
+        "current_correct": 4,
+        "current_wrong": 0,
+        "max_correct": 4,
+        "max_wrong": 0
+      },
+      "time_stats": {
+        "avg_time": 8.3,
+        "fastest": 7,
+        "slowest": 9
+      }
+    }
+  }
+}

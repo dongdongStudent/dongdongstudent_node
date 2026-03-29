@@ -1,0 +1,92 @@
+{
+  "sentences": {
+    "1774131554405": {
+      "chinese": "这是一只小狗。",
+      "text": "This is a puppy.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:14.293Z",
+      "id": "1774131554405"
+    },
+    "1774131557115": {
+      "chinese": "这是一只小猫。",
+      "text": "This is a kitten.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:16.977Z",
+      "id": "1774131557115"
+    },
+    "1774131559642": {
+      "chinese": "这是一只小鸡。",
+      "text": "This is a chick.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:19.614Z",
+      "id": "1774131559642"
+    },
+    "1774131562184": {
+      "chinese": "这是一只幼崽。",
+      "text": "This is a cub.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:22.047Z",
+      "id": "1774131562184"
+    },
+    "1774131564860": {
+      "chinese": "这是一头小牛。",
+      "text": "This is a calf.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:24.896Z",
+      "id": "1774131564860"
+    },
+    "1774131571914": {
+      "chinese": "这是一个孩子。",
+      "text": "This is a kid.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:19:31.809Z",
+      "id": "1774131571914"
+    },
+    "1774131652153": {
+      "chinese": "这是一只小羊。",
+      "text": "This is a lamb.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:20:52.041Z",
+      "id": "1774131652153"
+    },
+    "1774131656656": {
+      "chinese": "这是一匹小马。",
+      "text": "This is a foal.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": null,
+      "time": "2026-03-21T22:20:56.509Z",
+      "id": "1774131656656"
+    }
+  }
+}

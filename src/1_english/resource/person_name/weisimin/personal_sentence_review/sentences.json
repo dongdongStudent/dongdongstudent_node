@@ -1,0 +1,190 @@
+{
+  "sentences": {
+    "1774129887451": {
+      "chinese": "这张脸很高兴。",
+      "text": "This face is happy.",
+      "pass": false,
+      "extraction_count": 4,
+      "correct_count": 3,
+      "wrong_count": 1,
+      "last_answer_time": "2026-03-29T16:48:31.149Z",
+      "time": "2026-03-29T16:48:31.149Z"
+    },
+    "1774132058263": {
+      "chinese": "这是一匹小马。",
+      "text": "This is a foal.",
+      "pass": false,
+      "extraction_count": 4,
+      "correct_count": 2,
+      "wrong_count": 2,
+      "last_answer_time": "2026-03-29T16:59:01.489Z",
+      "time": "2026-03-29T16:59:01.489Z"
+    },
+    "1774132060939": {
+      "chinese": "这是一只小羊。",
+      "text": "This is a lamb.",
+      "pass": false,
+      "extraction_count": 7,
+      "correct_count": 6,
+      "wrong_count": 1,
+      "last_answer_time": "2026-03-29T17:00:14.429Z",
+      "time": "2026-03-29T17:00:14.429Z"
+    },
+    "1774132063567": {
+      "chinese": "这是一个孩子。",
+      "text": "This is a kid.",
+      "pass": false,
+      "extraction_count": 6,
+      "correct_count": 3,
+      "wrong_count": 3,
+      "last_answer_time": "2026-03-29T17:00:10.360Z",
+      "time": "2026-03-29T17:00:10.360Z"
+    },
+    "1774132066971": {
+      "chinese": "这是一头小牛。",
+      "text": "This is a calf.",
+      "pass": false,
+      "extraction_count": 6,
+      "correct_count": 4,
+      "wrong_count": 2,
+      "last_answer_time": "2026-03-29T16:58:40.305Z",
+      "time": "2026-03-29T16:58:40.305Z"
+    },
+    "1774132070806": {
+      "chinese": "这是一只幼崽。",
+      "text": "This is a cub.",
+      "pass": false,
+      "extraction_count": 5,
+      "correct_count": 2,
+      "wrong_count": 3,
+      "last_answer_time": "2026-03-29T16:47:43.551Z",
+      "time": "2026-03-29T16:47:43.551Z"
+    },
+    "1774740221209": {
+      "chinese": "很久以前，一个充满好奇心的小男孩住在一个遥远的国度。",
+      "text": "Long ago, a curious young boy lived in a far-off land.",
+      "pass": false,
+      "extraction_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:48:20.556Z",
+      "time": "2026-03-29T16:48:20.556Z"
+    },
+    "Everyone_loves_jumping_up_and__1774803339997": {
+      "chinese": "每个人都喜欢在泥坑里跳上跳下。",
+      "text": "Everyone loves jumping up and down in muddy puddles.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:55:38.284Z",
+      "time": "2026-03-29T16:55:39.999Z",
+      "id": "Everyone_loves_jumping_up_and__1774803339997"
+    },
+    "I_m_Peppa_Pig__1774803364882": {
+      "chinese": "我是佩奇。",
+      "text": "I'm Peppa Pig.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:56:03.169Z",
+      "time": "2026-03-29T16:56:04.884Z",
+      "id": "I_m_Peppa_Pig__1774803364882"
+    },
+    "This_is_my_little_brother__Geo_1774803365417": {
+      "chinese": "这是我的弟弟乔治。",
+      "text": "This is my little brother, George.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:56:03.744Z",
+      "time": "2026-03-29T16:56:05.420Z",
+      "id": "This_is_my_little_brother__Geo_1774803365417"
+    },
+    "This_is_Mummy_Pig__1774803365958": {
+      "chinese": "这是猪妈妈。",
+      "text": "This is Mummy Pig.",
+      "pass": false,
+      "extraction_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:58:44.132Z",
+      "time": "2026-03-29T16:58:44.132Z"
+    },
+    "Muddy_Puddles__1774803367087": {
+      "chinese": "泥坑。",
+      "text": "Muddy Puddles.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:56:05.414Z",
+      "time": "2026-03-29T16:56:07.089Z",
+      "id": "Muddy_Puddles__1774803367087"
+    },
+    "It_is_raining_today__1774803367426": {
+      "chinese": "今天下雨了。",
+      "text": "It is raining today.",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T17:00:39.629Z",
+      "time": "2026-03-29T17:00:39.629Z"
+    },
+    "So__Peppa_and_George_Cannot_pl_1774803367917": {
+      "chinese": "所以佩奇和乔治不能在外面玩。",
+      "text": "So, Peppa and George Cannot play outside.",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T17:00:35.547Z",
+      "time": "2026-03-29T17:00:35.547Z"
+    },
+    "Daddy__it_s_stopped_raining__1774803368867": {
+      "chinese": "爸爸，雨停了。",
+      "text": "Daddy, it's stopped raining.",
+      "pass": false,
+      "extraction_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:58:55.400Z",
+      "time": "2026-03-29T16:58:55.400Z"
+    },
+    "Can_we_go_out_to_play__1774803369424": {
+      "chinese": "我们可以出去玩吗？",
+      "text": "Can we go out to play?",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:56:07.749Z",
+      "time": "2026-03-29T16:56:09.427Z",
+      "id": "Can_we_go_out_to_play__1774803369424"
+    },
+    "Alright__run_along_you_two__1774803370513": {
+      "chinese": "好了，你们两个去玩吧。",
+      "text": "Alright, run along you two.",
+      "pass": false,
+      "extraction_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T16:56:08.809Z",
+      "time": "2026-03-29T16:56:10.514Z",
+      "id": "Alright__run_along_you_two__1774803370513"
+    },
+    "Peppa_loves_jumping_in_muddy_p_1774803370891": {
+      "chinese": "佩奇喜欢在泥坑里跳。",
+      "text": "Peppa loves jumping in muddy puddles.",
+      "pass": false,
+      "extraction_count": 2,
+      "correct_count": 2,
+      "wrong_count": 0,
+      "last_answer_time": "2026-03-29T17:00:24.234Z",
+      "time": "2026-03-29T17:00:24.234Z"
+    }
+  }
+}

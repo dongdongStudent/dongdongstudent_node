@@ -1,0 +1,2424 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "default",
+    "createdAt": "2026-02-28T18:39:06.253Z",
+    "lastActive": "2026-03-28T23:24:00.777Z",
+    "totalExtracts": 91,
+    "totalQuestionsAttempted": 670,
+    "totalCorrect": 100,
+    "totalWrong": 570,
+    "accuracy": 0.15,
+    "avgMastery": 0.2,
+    "practicedPassages": 7
+  },
+  "passages": {
+    "cloze_m5vx3d_8k9f": {
+      "first_seen": "2026-02-28T18:39:06.268Z",
+      "last_practiced": "2026-03-01T10:10:26.340Z",
+      "extract_count": 8,
+      "answer_count": 40,
+      "correct_count": 14,
+      "wrong_count": 26,
+      "accuracy": 0.35,
+      "avg_mastery": 0.36,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_m5vx3d_8k9f_q1": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 2,
+          "wrong_count": 2,
+          "accuracy": 0.5,
+          "mastery_level": 0.6,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": true,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": true,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.8,
+            "fastest": 7,
+            "slowest": 19
+          }
+        },
+        "cloze_m5vx3d_8k9f_q2": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.1,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": true,
+              "time": 10
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 10
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 10
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 9.8,
+            "fastest": 9,
+            "slowest": 10
+          }
+        },
+        "cloze_m5vx3d_8k9f_q3": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.3,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": true,
+              "time": 17
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.3,
+            "fastest": 11,
+            "slowest": 17
+          }
+        },
+        "cloze_m5vx3d_8k9f_q4": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 2,
+          "wrong_count": 2,
+          "accuracy": 0.5,
+          "mastery_level": 0.6,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": true,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": true,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 17.5,
+            "fastest": 15,
+            "slowest": 19
+          }
+        },
+        "cloze_m5vx3d_8k9f_q5": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.3,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": true,
+              "time": 10
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 10,
+            "slowest": 15
+          }
+        },
+        "cloze_m5vx3d_8k9f_q6": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.1,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": true,
+              "time": 8
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 7
+            }
+          ],
+          "time_stats": {
+            "avg_time": 7,
+            "fastest": 5,
+            "slowest": 8
+          }
+        },
+        "cloze_m5vx3d_8k9f_q7": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.3,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": true,
+              "time": 12
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11,
+            "fastest": 8,
+            "slowest": 13
+          }
+        },
+        "cloze_m5vx3d_8k9f_q8": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 1,
+          "wrong_count": 3,
+          "accuracy": 0.25,
+          "mastery_level": 0.1,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": true,
+              "time": 8
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 14
+            }
+          ],
+          "time_stats": {
+            "avg_time": 10.8,
+            "fastest": 8,
+            "slowest": 14
+          }
+        },
+        "cloze_m5vx3d_8k9f_q9": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 2,
+          "wrong_count": 2,
+          "accuracy": 0.5,
+          "mastery_level": 0.6,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": true,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": true,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 12
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.3,
+            "fastest": 5,
+            "slowest": 15
+          }
+        },
+        "cloze_m5vx3d_8k9f_q10": {
+          "extract_count": 8,
+          "answer_count": 4,
+          "correct_count": 2,
+          "wrong_count": 2,
+          "accuracy": 0.5,
+          "mastery_level": 0.6,
+          "first_seen": "2026-02-28T18:39:06.268Z",
+          "last_practiced": "2026-03-01T10:10:26.340Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T18:46:14.330Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-02-28T19:27:00.054Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T03:47:46.445Z",
+              "result": true,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:10:26.340Z",
+              "result": false,
+              "time": 10
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11,
+            "fastest": 6,
+            "slowest": 17
+          }
+        }
+      }
+    },
+    "cloze_test_abc123": {
+      "first_seen": "2026-02-28T18:46:18.022Z",
+      "last_practiced": "2026-03-01T10:14:14.686Z",
+      "extract_count": 25,
+      "answer_count": 50,
+      "correct_count": 18,
+      "wrong_count": 32,
+      "accuracy": 0.36,
+      "avg_mastery": 0.345,
+      "attempted_questions": 2,
+      "questions": {
+        "cloze_test_abc123_q1": {
+          "extract_count": 25,
+          "answer_count": 25,
+          "correct_count": 5,
+          "wrong_count": 20,
+          "accuracy": 0.2,
+          "mastery_level": 0.08,
+          "first_seen": "2026-02-28T18:46:18.022Z",
+          "last_practiced": "2026-03-01T10:14:14.686Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:41:45.883Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T04:45:01.654Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T09:55:17.188Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T09:58:04.742Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:14:14.686Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 7,
+            "fastest": 5,
+            "slowest": 9
+          }
+        },
+        "cloze_test_abc123_q2": {
+          "extract_count": 25,
+          "answer_count": 25,
+          "correct_count": 13,
+          "wrong_count": 12,
+          "accuracy": 0.52,
+          "mastery_level": 0.61,
+          "first_seen": "2026-02-28T18:46:18.022Z",
+          "last_practiced": "2026-03-01T10:14:14.686Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:41:45.883Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T04:45:01.654Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T09:55:17.188Z",
+              "result": true,
+              "time": 10
+            },
+            {
+              "date": "2026-03-01T09:58:04.742Z",
+              "result": true,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T10:14:14.686Z",
+              "result": false,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.6,
+            "fastest": 5,
+            "slowest": 16
+          }
+        }
+      }
+    },
+    "cloze_n6wy4e_2j7h": {
+      "first_seen": "2026-02-28T18:49:03.106Z",
+      "last_practiced": "2026-02-28T20:57:16.218Z",
+      "extract_count": 2,
+      "answer_count": 20,
+      "correct_count": 3,
+      "wrong_count": 17,
+      "accuracy": 0.15,
+      "avg_mastery": 0.15,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_n6wy4e_2j7h_q1": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 10
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.5,
+            "fastest": 10,
+            "slowest": 13
+          }
+        },
+        "cloze_n6wy4e_2j7h_q2": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 1,
+          "wrong_count": 1,
+          "accuracy": 0.5,
+          "mastery_level": 0.5,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": true,
+              "time": 12
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 10
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11,
+            "fastest": 10,
+            "slowest": 12
+          }
+        },
+        "cloze_n6wy4e_2j7h_q3": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 1,
+          "wrong_count": 1,
+          "accuracy": 0.5,
+          "mastery_level": 0.5,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": true,
+              "time": 8
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 17
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 8,
+            "slowest": 17
+          }
+        },
+        "cloze_n6wy4e_2j7h_q4": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 6
+            }
+          ],
+          "time_stats": {
+            "avg_time": 6,
+            "fastest": 6,
+            "slowest": 6
+          }
+        },
+        "cloze_n6wy4e_2j7h_q5": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 11
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 11,
+            "slowest": 14
+          }
+        },
+        "cloze_n6wy4e_2j7h_q6": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 6
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 6,
+            "slowest": 19
+          }
+        },
+        "cloze_n6wy4e_2j7h_q7": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.5,
+            "fastest": 13,
+            "slowest": 16
+          }
+        },
+        "cloze_n6wy4e_2j7h_q8": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 1,
+          "wrong_count": 1,
+          "accuracy": 0.5,
+          "mastery_level": 0.5,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 14
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 11,
+            "slowest": 14
+          }
+        },
+        "cloze_n6wy4e_2j7h_q9": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 6
+            }
+          ],
+          "time_stats": {
+            "avg_time": 9.5,
+            "fastest": 6,
+            "slowest": 13
+          }
+        },
+        "cloze_n6wy4e_2j7h_q10": {
+          "extract_count": 2,
+          "answer_count": 2,
+          "correct_count": 0,
+          "wrong_count": 2,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:49:03.106Z",
+          "last_practiced": "2026-02-28T20:57:16.218Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T20:54:22.588Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-02-28T20:57:16.218Z",
+              "result": false,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15,
+            "fastest": 14,
+            "slowest": 16
+          }
+        }
+      }
+    },
+    "cloze_q9tb6g_4n5p": {
+      "first_seen": "2026-02-28T18:53:48.051Z",
+      "last_practiced": "2026-03-01T09:39:58.907Z",
+      "extract_count": 3,
+      "answer_count": 30,
+      "correct_count": 4,
+      "wrong_count": 26,
+      "accuracy": 0.13333333333333333,
+      "avg_mastery": 0.133,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_q9tb6g_4n5p_q1": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 1,
+          "wrong_count": 2,
+          "accuracy": 0.3333333333333333,
+          "mastery_level": 0.33,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": true,
+              "time": 17
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.3,
+            "fastest": 11,
+            "slowest": 17
+          }
+        },
+        "cloze_q9tb6g_4n5p_q2": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 18
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.3,
+            "fastest": 5,
+            "slowest": 18
+          }
+        },
+        "cloze_q9tb6g_4n5p_q3": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 11
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15,
+            "fastest": 11,
+            "slowest": 19
+          }
+        },
+        "cloze_q9tb6g_4n5p_q4": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 3,
+          "wrong_count": 0,
+          "accuracy": 1,
+          "mastery_level": 1,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": true,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": true,
+              "time": 15
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.3,
+            "fastest": 11,
+            "slowest": 17
+          }
+        },
+        "cloze_q9tb6g_4n5p_q5": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 12
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11,
+            "fastest": 7,
+            "slowest": 14
+          }
+        },
+        "cloze_q9tb6g_4n5p_q6": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 10
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15.3,
+            "fastest": 10,
+            "slowest": 19
+          }
+        },
+        "cloze_q9tb6g_4n5p_q7": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 14
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14,
+            "fastest": 9,
+            "slowest": 19
+          }
+        },
+        "cloze_q9tb6g_4n5p_q8": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 18
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15,
+            "fastest": 12,
+            "slowest": 18
+          }
+        },
+        "cloze_q9tb6g_4n5p_q9": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14,
+            "fastest": 9,
+            "slowest": 19
+          }
+        },
+        "cloze_q9tb6g_4n5p_q10": {
+          "extract_count": 3,
+          "answer_count": 3,
+          "correct_count": 0,
+          "wrong_count": 3,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T18:53:48.051Z",
+          "last_practiced": "2026-03-01T09:39:58.907Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:11:35.007Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-02-28T21:11:56.782Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T09:39:58.907Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15.3,
+            "fastest": 12,
+            "slowest": 19
+          }
+        }
+      }
+    },
+    "cloze_p8za5f_3m4k": {
+      "first_seen": "2026-02-28T19:27:11.233Z",
+      "last_practiced": "2026-03-01T09:43:17.948Z",
+      "extract_count": 4,
+      "answer_count": 40,
+      "correct_count": 6,
+      "wrong_count": 34,
+      "accuracy": 0.15,
+      "avg_mastery": 0.16,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_p8za5f_3m4k_q1": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 2,
+          "wrong_count": 2,
+          "accuracy": 0.5,
+          "mastery_level": 0.6,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": true,
+              "time": 15
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.3,
+            "fastest": 5,
+            "slowest": 15
+          }
+        },
+        "cloze_p8za5f_3m4k_q2": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 14
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.8,
+            "fastest": 11,
+            "slowest": 18
+          }
+        },
+        "cloze_p8za5f_3m4k_q3": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 11
+            }
+          ],
+          "time_stats": {
+            "avg_time": 8.5,
+            "fastest": 7,
+            "slowest": 11
+          }
+        },
+        "cloze_p8za5f_3m4k_q4": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.5,
+            "fastest": 9,
+            "slowest": 16
+          }
+        },
+        "cloze_p8za5f_3m4k_q5": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 4,
+          "wrong_count": 0,
+          "accuracy": 1,
+          "mastery_level": 1,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": true,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": true,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": true,
+              "time": 13
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.8,
+            "fastest": 11,
+            "slowest": 16
+          }
+        },
+        "cloze_p8za5f_3m4k_q6": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.5,
+            "fastest": 8,
+            "slowest": 19
+          }
+        },
+        "cloze_p8za5f_3m4k_q7": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 18
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.3,
+            "fastest": 7,
+            "slowest": 18
+          }
+        },
+        "cloze_p8za5f_3m4k_q8": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 16,
+            "fastest": 14,
+            "slowest": 19
+          }
+        },
+        "cloze_p8za5f_3m4k_q9": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 18
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.5,
+            "fastest": 11,
+            "slowest": 18
+          }
+        },
+        "cloze_p8za5f_3m4k_q10": {
+          "extract_count": 4,
+          "answer_count": 4,
+          "correct_count": 0,
+          "wrong_count": 4,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:27:11.233Z",
+          "last_practiced": "2026-03-01T09:43:17.948Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-02-28T21:04:22.763Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T03:44:25.382Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T05:47:22.433Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T09:43:17.948Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.5,
+            "fastest": 5,
+            "slowest": 19
+          }
+        }
+      }
+    },
+    "cloze_r2ud7h_6m8n": {
+      "first_seen": "2026-02-28T19:46:27.042Z",
+      "last_practiced": "2026-03-01T11:00:45.352Z",
+      "extract_count": 40,
+      "answer_count": 400,
+      "correct_count": 16,
+      "wrong_count": 384,
+      "accuracy": 0.04,
+      "avg_mastery": 0.016000000000000004,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_r2ud7h_6m8n_q1": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 14,
+          "wrong_count": 26,
+          "accuracy": 0.35,
+          "mastery_level": 0.14,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.2,
+            "fastest": 5,
+            "slowest": 18
+          }
+        },
+        "cloze_r2ud7h_6m8n_q2": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13,
+            "fastest": 5,
+            "slowest": 18
+          }
+        },
+        "cloze_r2ud7h_6m8n_q3": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 1,
+          "wrong_count": 39,
+          "accuracy": 0.025,
+          "mastery_level": 0.01,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 10.2,
+            "fastest": 9,
+            "slowest": 13
+          }
+        },
+        "cloze_r2ud7h_6m8n_q4": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 13
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.6,
+            "fastest": 11,
+            "slowest": 17
+          }
+        },
+        "cloze_r2ud7h_6m8n_q5": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 15
+            }
+          ],
+          "time_stats": {
+            "avg_time": 15.6,
+            "fastest": 13,
+            "slowest": 19
+          }
+        },
+        "cloze_r2ud7h_6m8n_q6": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11,
+            "fastest": 7,
+            "slowest": 16
+          }
+        },
+        "cloze_r2ud7h_6m8n_q7": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 9.8,
+            "fastest": 5,
+            "slowest": 16
+          }
+        },
+        "cloze_r2ud7h_6m8n_q8": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 10.8,
+            "fastest": 5,
+            "slowest": 15
+          }
+        },
+        "cloze_r2ud7h_6m8n_q9": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 0,
+          "wrong_count": 40,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 8.4,
+            "fastest": 6,
+            "slowest": 16
+          }
+        },
+        "cloze_r2ud7h_6m8n_q10": {
+          "extract_count": 40,
+          "answer_count": 40,
+          "correct_count": 1,
+          "wrong_count": 39,
+          "accuracy": 0.025,
+          "mastery_level": 0.01,
+          "first_seen": "2026-02-28T19:46:27.042Z",
+          "last_practiced": "2026-03-01T11:00:45.352Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T10:28:21.640Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T10:34:53.417Z",
+              "result": false,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T10:38:09.675Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T10:39:31.414Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T10:45:42.986Z",
+              "result": false,
+              "time": 10
+            }
+          ],
+          "time_stats": {
+            "avg_time": 10.4,
+            "fastest": 6,
+            "slowest": 13
+          }
+        }
+      }
+    },
+    "cloze_a1b2c3d4e5": {
+      "first_seen": "2026-02-28T20:12:28.908Z",
+      "last_practiced": "2026-03-28T23:24:00.777Z",
+      "extract_count": 9,
+      "answer_count": 90,
+      "correct_count": 39,
+      "wrong_count": 51,
+      "accuracy": 0.43333333333333335,
+      "avg_mastery": 0.352,
+      "attempted_questions": 10,
+      "questions": {
+        "cloze_a1b2c3d4e5_q31": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 3,
+          "wrong_count": 6,
+          "accuracy": 0.3333333333333333,
+          "mastery_level": 0.33,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 16
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": true,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 6
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.6,
+            "fastest": 6,
+            "slowest": 17
+          }
+        },
+        "cloze_a1b2c3d4e5_q32": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 4,
+          "wrong_count": 5,
+          "accuracy": 0.4444444444444444,
+          "mastery_level": 0.18,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 15
+            }
+          ],
+          "time_stats": {
+            "avg_time": 14.2,
+            "fastest": 9,
+            "slowest": 19
+          }
+        },
+        "cloze_a1b2c3d4e5_q33": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 7,
+          "wrong_count": 2,
+          "accuracy": 0.7777777777777778,
+          "mastery_level": 0.91,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": true,
+              "time": 9
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": true,
+              "time": 13
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.4,
+            "fastest": 9,
+            "slowest": 18
+          }
+        },
+        "cloze_a1b2c3d4e5_q34": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 3,
+          "wrong_count": 6,
+          "accuracy": 0.3333333333333333,
+          "mastery_level": 0.13,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 14
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 15
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.6,
+            "fastest": 6,
+            "slowest": 17
+          }
+        },
+        "cloze_a1b2c3d4e5_q35": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 2,
+          "wrong_count": 7,
+          "accuracy": 0.2222222222222222,
+          "mastery_level": 0.09,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 19
+            }
+          ],
+          "time_stats": {
+            "avg_time": 11.6,
+            "fastest": 5,
+            "slowest": 19
+          }
+        },
+        "cloze_a1b2c3d4e5_q36": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 2,
+          "wrong_count": 7,
+          "accuracy": 0.2222222222222222,
+          "mastery_level": 0.09,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 15
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.2,
+            "fastest": 5,
+            "slowest": 18
+          }
+        },
+        "cloze_a1b2c3d4e5_q37": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 7,
+          "wrong_count": 2,
+          "accuracy": 0.7777777777777778,
+          "mastery_level": 0.71,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": true,
+              "time": 6
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": true,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 8
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": true,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 10.2,
+            "fastest": 6,
+            "slowest": 16
+          }
+        },
+        "cloze_a1b2c3d4e5_q38": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 3,
+          "wrong_count": 6,
+          "accuracy": 0.3333333333333333,
+          "mastery_level": 0.13,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 13
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 18
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 7
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 9
+            }
+          ],
+          "time_stats": {
+            "avg_time": 12.8,
+            "fastest": 7,
+            "slowest": 18
+          }
+        },
+        "cloze_a1b2c3d4e5_q39": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 1,
+          "wrong_count": 8,
+          "accuracy": 0.1111111111111111,
+          "mastery_level": 0.24,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": false,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": false,
+              "time": 19
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": false,
+              "time": 5
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": true,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": false,
+              "time": 5
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13,
+            "fastest": 5,
+            "slowest": 19
+          }
+        },
+        "cloze_a1b2c3d4e5_q40": {
+          "extract_count": 9,
+          "answer_count": 9,
+          "correct_count": 7,
+          "wrong_count": 2,
+          "accuracy": 0.7777777777777778,
+          "mastery_level": 0.71,
+          "first_seen": "2026-02-28T20:12:28.908Z",
+          "last_practiced": "2026-03-28T23:24:00.777Z",
+          "last_result": true,
+          "history": [
+            {
+              "date": "2026-03-01T04:02:38.604Z",
+              "result": true,
+              "time": 17
+            },
+            {
+              "date": "2026-03-01T04:22:02.870Z",
+              "result": true,
+              "time": 12
+            },
+            {
+              "date": "2026-03-01T05:47:46.579Z",
+              "result": true,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:47:15.751Z",
+              "result": false,
+              "time": 11
+            },
+            {
+              "date": "2026-03-01T09:52:50.732Z",
+              "result": true,
+              "time": 16
+            }
+          ],
+          "time_stats": {
+            "avg_time": 13.4,
+            "fastest": 11,
+            "slowest": 17
+          }
+        }
+      }
+    }
+  }
+}

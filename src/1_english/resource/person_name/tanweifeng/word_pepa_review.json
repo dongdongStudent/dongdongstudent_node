@@ -1,0 +1,186 @@
+{
+  "thunderstorm": {
+    "chinese": "雷暴",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T11:16:23.246Z"
+  },
+  "means": {
+    "chinese": "意味,方法",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T11:16:23.413Z"
+  },
+  "wet": {
+    "chinese": "潮湿的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T11:21:34.206Z"
+  },
+  "rescue": {
+    "chinese": "救援",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T11:21:34.354Z"
+  },
+  "hurry": {
+    "chinese": "快点",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-01-29T11:21:34.494Z"
+  },
+  "i'm": {
+    "chinese": "我是",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:43.743Z"
+  },
+  "this": {
+    "chinese": "这",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:43.917Z"
+  },
+  "is": {
+    "chinese": "是",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.064Z"
+  },
+  "my": {
+    "chinese": "我的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.200Z"
+  },
+  "little": {
+    "chinese": "小的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.333Z"
+  },
+  "brother": {
+    "chinese": "兄弟",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.467Z"
+  },
+  "pig": {
+    "chinese": "猪",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.615Z"
+  },
+  "plenty of": {
+    "chinese": "大量",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.748Z"
+  },
+  "soaking": {
+    "chinese": "浸泡",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:44.883Z"
+  },
+  "poor": {
+    "chinese": "贫穷的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.016Z"
+  },
+  "dry": {
+    "chinese": "干的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.149Z"
+  },
+  "drips": {
+    "chinese": "滴落物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.282Z"
+  },
+  "easy as pie": {
+    "chinese": "易如反掌",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.417Z"
+  },
+  "thunder": {
+    "chinese": "打雷",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.555Z"
+  },
+  "frightened": {
+    "chinese": "害怕的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.689Z"
+  },
+  "flash": {
+    "chinese": "闪光",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.825Z"
+  },
+  "bang": {
+    "chinese": "砰",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:45.963Z"
+  },
+  "splish": {
+    "chinese": "溅",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-03-16T19:17:46.100Z"
+  }
+}

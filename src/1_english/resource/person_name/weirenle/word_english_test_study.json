@@ -1,0 +1,122 @@
+[
+  {
+    "word": "happy",
+    "translation": "幸福的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "face",
+    "translation": "脸",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "sad",
+    "translation": "悲哀的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "sorry",
+    "translation": "对不起的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "excited",
+    "translation": "兴奋的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "scared",
+    "translation": "害怕的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "shy",
+    "translation": "害羞的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "mad",
+    "translation": "疯狂的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "sleepy",
+    "translation": "困倦的",
+    "status": {
+      "listening": true,
+      "reading": true,
+      "translation": true,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "lived",
+    "translation": "居住",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "curious",
+    "translation": "好奇的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  },
+  {
+    "word": "Long",
+    "translation": "长的",
+    "status": {
+      "listening": false,
+      "reading": false,
+      "translation": false,
+      "pronunciation": false
+    }
+  }
+]

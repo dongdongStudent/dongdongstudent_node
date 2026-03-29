@@ -1,0 +1,140 @@
+{
+  "passages": [
+    {
+      "id": "001",
+      "title": "Learn Emotions in English",
+      "description": "通过图片学习各种表情的英语表达",
+      "category": "英语学习",
+      "difficulty": 1,
+      "totalQuestions": 0,
+      "content": [
+        {
+          "part": 1,
+          "image": "/pic/A/001_1.png",
+          "alt": "Happy face",
+          "text": "This face is happy.",
+          "translation": "这张脸很开心。"
+        },
+        {
+          "part": 2,
+          "image": "/pic/A/001_2.png",
+          "alt": "Sad face",
+          "text": "This face is sad.",
+          "translation": "这张脸很难过。"
+        },
+        {
+          "part": 3,
+          "image": "/pic/A/001_3.png",
+          "alt": "Sorry face",
+          "text": "This face is sorry.",
+          "translation": "这张脸很抱歉。"
+        },
+        {
+          "part": 4,
+          "image": "/pic/A/001_4.png",
+          "alt": "Excited face",
+          "text": "This face is excited.",
+          "translation": "这张脸很兴奋。"
+        },
+        {
+          "part": 5,
+          "image": "/pic/A/001_5.png",
+          "alt": "Scared face",
+          "text": "This face is scared.",
+          "translation": "这张脸很害怕。"
+        },
+        {
+          "part": 6,
+          "image": "/pic/A/001_6.png",
+          "alt": "Shy face",
+          "text": "This face is shy.",
+          "translation": "这张脸很害羞。"
+        },
+        {
+          "part": 7,
+          "image": "/pic/A/001_7.png",
+          "alt": "Mad face",
+          "text": "This face is mad.",
+          "translation": "这张脸很生气。"
+        },
+        {
+          "part": 8,
+          "image": "/pic/A/001_8.png",
+          "alt": "Sleepy face",
+          "text": "This face is sleepy.",
+          "translation": "这张脸很困。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "002",
+      "title": "Learn Baby Animals in English",
+      "description": "通过图片学习各种幼年动物的英语表达",
+      "category": "英语学习",
+      "difficulty": 1,
+      "totalQuestions": 0,
+      "content": [
+        {
+          "part": 1,
+          "image": "/pic/A/002_1.png",
+          "alt": "kitten",
+          "text": "This is a kitten.",
+          "translation": "这是一只小猫。"
+        },
+        {
+          "part": 2,
+          "image": "/pic/A/002_2.png",
+          "alt": "puppy",
+          "text": "This is a puppy.",
+          "translation": "这是一只小狗。"
+        },
+        {
+          "part": 3,
+          "image": "/pic/A/002_3.png",
+          "alt": "chick",
+          "text": "This is a chick.",
+          "translation": "这是一只小鸡。"
+        },
+        {
+          "part": 4,
+          "image": "/pic/A/002_4.png",
+          "alt": "cub",
+          "text": "This is a cub.",
+          "translation": "这是一只幼兽。"
+        },
+        {
+          "part": 5,
+          "image": "/pic/A/002_5.png",
+          "alt": "calf",
+          "text": "This is a calf.",
+          "translation": "这是一只小牛。"
+        },
+        {
+          "part": 6,
+          "image": "/pic/A/002_6.png",
+          "alt": "kid",
+          "text": "This is a kid.",
+          "translation": "这是一只小山羊。"
+        },
+        {
+          "part": 7,
+          "image": "/pic/A/002_7.png",
+          "alt": "lamb",
+          "text": "This is a lamb.",
+          "translation": "这是一只小羊。"
+        },
+        {
+          "part": 8,
+          "image": "/pic/A/002_8.png",
+          "alt": "foal",
+          "text": "This is a foal.",
+          "translation": "这是一只小马。"
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

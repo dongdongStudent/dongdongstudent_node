@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "username": "tanweifeng",
+    "bank": "53练习册",
+    "createdAt": "2026-03-27T16:40:34.740Z",
+    "lastActive": "2026-03-27T16:40:36.798Z",
+    "totalExtracts": 0,
+    "totalQuestionsAttempted": 0,
+    "totalCorrect": 0,
+    "totalWrong": 0,
+    "accuracy": 0,
+    "avgMastery": 0,
+    "practicedPassages": 1
+  },
+  "passages": {
+    "cloze_a1b2c3d4e5": {
+      "first_seen": "2026-03-27T16:40:34.765Z",
+      "last_practiced": "2026-03-27T16:40:36.798Z",
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "avg_mastery": 0,
+      "attempted_questions": 0,
+      "questions": {
+        "cloze_a1b2c3d4e5_q31": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q32": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q33": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q34": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q35": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q36": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q37": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q38": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q39": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        },
+        "cloze_a1b2c3d4e5_q40": {
+          "extract_count": 0,
+          "answer_count": 0,
+          "correct_count": 0,
+          "wrong_count": 0,
+          "accuracy": 0,
+          "mastery_level": 0,
+          "first_seen": "2026-03-27T16:40:34.765Z",
+          "last_practiced": "2026-03-27T16:40:36.798Z",
+          "last_result": null,
+          "history": [],
+          "time_stats": {
+            "avg_time": 0,
+            "fastest": 0,
+            "slowest": 0
+          }
+        }
+      }
+    }
+  }
+}

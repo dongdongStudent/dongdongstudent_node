@@ -1,0 +1,154 @@
+{
+  "animals": {
+    "chinese": "动物",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.223Z"
+  },
+  "unusual": {
+    "chinese": "不寻常的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.386Z"
+  },
+  "around": {
+    "chinese": "围绕",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.519Z"
+  },
+  "places": {
+    "chinese": "地点",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.662Z"
+  },
+  "small": {
+    "chinese": "小的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.802Z"
+  },
+  "also": {
+    "chinese": "也",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:38.935Z"
+  },
+  "body": {
+    "chinese": "身体",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:39.081Z"
+  },
+  "more": {
+    "chinese": "更多",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:39.218Z"
+  },
+  "all": {
+    "chinese": "全部的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:39.358Z"
+  },
+  "long": {
+    "chinese": "长的",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:28:39.496Z"
+  },
+  "among": {
+    "chinese": "在…中",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:56:39.467Z"
+  },
+  "even": {
+    "chinese": "甚至",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:56:39.629Z"
+  },
+  "nine": {
+    "chinese": "九",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T17:56:39.767Z"
+  },
+  "think about": {
+    "chinese": "考虑",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:10:03.293Z"
+  },
+  "octopuses": {
+    "chinese": "章鱼",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:10:03.453Z"
+  },
+  "octopus": {
+    "chinese": "章鱼",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:10:03.590Z"
+  },
+  "very": {
+    "chinese": "非常",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:10:03.728Z"
+  },
+  "there was": {
+    "chinese": "曾经有",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:35:54.712Z"
+  },
+  "more than": {
+    "chinese": "超过",
+    "pass": false,
+    "extraction_count": 0,
+    "correct_count": 0,
+    "wrong_count": 0,
+    "time": "2026-02-01T19:35:54.881Z"
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "中考",
+    "createdAt": "2026-03-04T08:59:50.269Z",
+    "lastActive": "2026-03-04T10:20:38.821Z",
+    "totalExtracts": 131,
+    "totalQuestionsAttempted": 131,
+    "totalCorrect": 92,
+    "totalWrong": 39,
+    "accuracy": 0.7,
+    "avgMastery": 0.87,
+    "practicedQuestions": 15
+  },
+  "questions": {
+    "001_a1b2c3": {
+      "extract_count": 13,
+      "answer_count": 13,
+      "correct_count": 8,
+      "wrong_count": 5,
+      "accuracy": 0.6153846153846154,
+      "mastery_level": 0.85,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:19:48.391Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": false,
+          "time": 6,
+          "userAnswer": "wolese",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "wolves",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 16,
+          "userAnswer": "a",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T09:40:23.330Z",
+          "result": true,
+          "time": 16,
+          "userAnswer": "wolves",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "wolves",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 10,
+          "userAnswer": "wolves",
+          "correctAnswer": "wolves"
+        },
+        {
+          "date": "2026-03-04T10:19:48.391Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "wolves",
+          "correctAnswer": "wolves"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 11,
+        "fastest": 5,
+        "slowest": 16
+      }
+    },
+    "002_a1b2c3": {
+      "extract_count": 13,
+      "answer_count": 13,
+      "correct_count": 10,
+      "wrong_count": 3,
+      "accuracy": 0.7692307692307693,
+      "mastery_level": 0.91,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:19:48.391Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": true,
+          "time": 14,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 12,
+          "userAnswer": "asd",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T09:41:02.147Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 10,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        },
+        {
+          "date": "2026-03-04T10:19:48.391Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "foxes",
+          "correctAnswer": "foxes"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 10.6,
+        "fastest": 8,
+        "slowest": 14
+      }
+    },
+    "003_a1b2c3": {
+      "extract_count": 13,
+      "answer_count": 13,
+      "correct_count": 10,
+      "wrong_count": 3,
+      "accuracy": 0.7692307692307693,
+      "mastery_level": 0.91,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:19:48.391Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 15,
+          "userAnswer": "a",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T09:41:02.147Z",
+          "result": true,
+          "time": 16,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 14,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        },
+        {
+          "date": "2026-03-04T10:19:48.391Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "babies",
+          "correctAnswer": "babies"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 13.9,
+        "fastest": 5,
+        "slowest": 19
+      }
+    },
+    "004_a1b2c3": {
+      "extract_count": 13,
+      "answer_count": 13,
+      "correct_count": 10,
+      "wrong_count": 3,
+      "accuracy": 0.7692307692307693,
+      "mastery_level": 0.91,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:19:48.391Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 15,
+          "userAnswer": "s",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T09:41:02.147Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        },
+        {
+          "date": "2026-03-04T10:19:48.391Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "careful",
+          "correctAnswer": "careful"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 9.3,
+        "fastest": 6,
+        "slowest": 15
+      }
+    },
+    "005_a1b2c3": {
+      "extract_count": 13,
+      "answer_count": 13,
+      "correct_count": 10,
+      "wrong_count": 3,
+      "accuracy": 0.7692307692307693,
+      "mastery_level": 0.91,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:19:48.391Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 11,
+          "userAnswer": "d",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T09:41:02.147Z",
+          "result": true,
+          "time": 14,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 18,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        },
+        {
+          "date": "2026-03-04T10:19:48.391Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "funny",
+          "correctAnswer": "funny"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 12.9,
+        "fastest": 5,
+        "slowest": 19
+      }
+    },
+    "006_d4e5f6": {
+      "extract_count": 12,
+      "answer_count": 12,
+      "correct_count": 8,
+      "wrong_count": 4,
+      "accuracy": 0.6666666666666666,
+      "mastery_level": 0.67,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:01:49.330Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:07:19.126Z",
+          "result": true,
+          "time": 16,
+          "userAnswer": "third",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": true,
+          "time": 17,
+          "userAnswer": "third",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "third",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 19,
+          "userAnswer": "f",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T09:41:02.147Z",
+          "result": false,
+          "time": 10,
+          "userAnswer": "the",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "third",
+          "correctAnswer": "third"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "third",
+          "correctAnswer": "third"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 14.6,
+        "fastest": 8,
+        "slowest": 19
+      }
+    },
+    "007_d4e5f6": {
+      "extract_count": 12,
+      "answer_count": 12,
+      "correct_count": 8,
+      "wrong_count": 4,
+      "accuracy": 0.6666666666666666,
+      "mastery_level": 0.87,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:01:49.330Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:07:19.126Z",
+          "result": true,
+          "time": 11,
+          "userAnswer": "winner",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": false,
+          "time": 18,
+          "userAnswer": "ds",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 7,
+          "userAnswer": "winner",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 13,
+          "userAnswer": "s",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T09:40:23.330Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "winner",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "winner",
+          "correctAnswer": "winner"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "winner",
+          "correctAnswer": "winner"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 10,
+        "fastest": 5,
+        "slowest": 18
+      }
+    },
+    "008_d4e5f6": {
+      "extract_count": 12,
+      "answer_count": 12,
+      "correct_count": 8,
+      "wrong_count": 4,
+      "accuracy": 0.6666666666666666,
+      "mastery_level": 0.87,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:01:49.330Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:07:19.126Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "carefully",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": false,
+          "time": 6,
+          "userAnswer": "a",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 18,
+          "userAnswer": "carefully",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 5,
+          "userAnswer": "d",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T09:40:23.330Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "carefully",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "carefully",
+          "correctAnswer": "carefully"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 19,
+          "userAnswer": "carefully",
+          "correctAnswer": "carefully"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 11,
+        "fastest": 5,
+        "slowest": 19
+      }
+    },
+    "009_d4e5f6": {
+      "extract_count": 12,
+      "answer_count": 12,
+      "correct_count": 8,
+      "wrong_count": 4,
+      "accuracy": 0.6666666666666666,
+      "mastery_level": 0.87,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:01:49.330Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:07:19.126Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "cloudy",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": false,
+          "time": 10,
+          "userAnswer": "a",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 12,
+          "userAnswer": "cloudy",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 17,
+          "userAnswer": "f",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T09:40:23.330Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "cloudy",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "cloudy",
+          "correctAnswer": "cloudy"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "cloudy",
+          "correctAnswer": "cloudy"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 11.9,
+        "fastest": 6,
+        "slowest": 17
+      }
+    },
+    "010_d4e5f6": {
+      "extract_count": 12,
+      "answer_count": 12,
+      "correct_count": 7,
+      "wrong_count": 5,
+      "accuracy": 0.5833333333333334,
+      "mastery_level": 0.83,
+      "first_seen": "2026-03-04T09:00:41.387Z",
+      "last_practiced": "2026-03-04T10:01:49.330Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T09:07:19.126Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "interested",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T09:09:27.783Z",
+          "result": false,
+          "time": 6,
+          "userAnswer": "a",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T09:11:10.529Z",
+          "result": true,
+          "time": 8,
+          "userAnswer": "interested",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T09:39:51.241Z",
+          "result": false,
+          "time": 8,
+          "userAnswer": "a",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T09:40:23.330Z",
+          "result": true,
+          "time": 6,
+          "userAnswer": "interested",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T09:58:42.734Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "interested",
+          "correctAnswer": "interested"
+        },
+        {
+          "date": "2026-03-04T10:01:49.330Z",
+          "result": true,
+          "time": 15,
+          "userAnswer": "interested",
+          "correctAnswer": "interested"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 8.3,
+        "fastest": 6,
+        "slowest": 15
+      }
+    },
+    "011_7f9a2b": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-04T10:03:38.216Z",
+      "last_practiced": "2026-03-04T10:03:38.216Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T10:03:38.216Z",
+          "result": true,
+          "time": 5,
+          "userAnswer": "unhealthy",
+          "correctAnswer": "unhealthy"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 5,
+        "fastest": 5,
+        "slowest": 5
+      }
+    },
+    "016_sandwich": {
+      "extract_count": 2,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-04T10:03:38.216Z",
+      "last_practiced": "2026-03-04T10:20:38.821Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T10:03:38.216Z",
+          "result": false,
+          "time": 6,
+          "userAnswer": "sandwichies",
+          "correctAnswer": "sandwiches"
+        },
+        {
+          "date": "2026-03-04T10:20:38.821Z",
+          "result": true,
+          "time": 10,
+          "userAnswer": "sandwiches",
+          "correctAnswer": "sandwiches"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 8,
+        "fastest": 6,
+        "slowest": 10
+      }
+    },
+    "018_fly": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-04T10:03:38.216Z",
+      "last_practiced": "2026-03-04T10:03:38.216Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T10:03:38.216Z",
+          "result": true,
+          "time": 13,
+          "userAnswer": "fly",
+          "correctAnswer": "fly"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 13,
+        "fastest": 13,
+        "slowest": 13
+      }
+    },
+    "024_danger": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-04T10:03:38.216Z",
+      "last_practiced": "2026-03-04T10:03:38.216Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T10:03:38.216Z",
+          "result": true,
+          "time": 12,
+          "userAnswer": "dangerous",
+          "correctAnswer": "dangerous"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 12,
+        "fastest": 12,
+        "slowest": 12
+      }
+    },
+    "038_hardly_ever": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-04T10:03:38.216Z",
+      "last_practiced": "2026-03-04T10:03:38.216Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-04T10:03:38.216Z",
+          "result": true,
+          "time": 7,
+          "userAnswer": "hardly ever",
+          "correctAnswer": "hardly ever"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 7,
+        "fastest": 7,
+        "slowest": 7
+      }
+    }
+  }
+}

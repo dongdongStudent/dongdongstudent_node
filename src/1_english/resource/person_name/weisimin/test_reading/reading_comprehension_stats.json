@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "阅读理解",
+    "createdAt": "2026-03-07T08:30:04.084Z",
+    "lastActive": "2026-03-20T00:30:52.762Z",
+    "totalExtracts": 4,
+    "totalQuestionsAttempted": 4,
+    "totalCorrect": 1,
+    "totalWrong": 3,
+    "accuracy": 0.25,
+    "avgMastery": 0.08,
+    "practicedPassages": 2
+  },
+  "passages": {
+    "rules_passage_001": {
+      "passageId": "rules_passage_001",
+      "extract_count": 1,
+      "last_practiced": "2026-03-20T00:30:52.762Z",
+      "questions": {
+        "rules_001_q26": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "rules_001_q27": {
+          "correct_count": 0,
+          "wrong_count": 1
+        },
+        "rules_001_q28": {
+          "correct_count": 1,
+          "wrong_count": 0
+        },
+        "rules_001_q29": {
+          "correct_count": 0,
+          "wrong_count": 1
+        }
+      },
+      "history": [
+        {
+          "date": "2026-03-07T08:31:05.540Z",
+          "timeSpent": 60,
+          "totalQuestions": 4,
+          "correctCount": 1,
+          "accuracy": 0.25,
+          "results": [
+            {
+              "questionId": "rules_001_q26",
+              "number": 26,
+              "isCorrect": false,
+              "correctAnswer": "C",
+              "userAnswer": "A"
+            },
+            {
+              "questionId": "rules_001_q27",
+              "number": 27,
+              "isCorrect": false,
+              "correctAnswer": "B",
+              "userAnswer": "C"
+            },
+            {
+              "questionId": "rules_001_q28",
+              "number": 28,
+              "isCorrect": true,
+              "correctAnswer": "B",
+              "userAnswer": "B"
+            },
+            {
+              "questionId": "rules_001_q29",
+              "number": 29,
+              "isCorrect": false,
+              "correctAnswer": "A",
+              "userAnswer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    "bob_conversation_passage_001": {
+      "passageId": "bob_conversation_passage_001",
+      "extract_count": 0,
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "questions": {},
+      "history": []
+    }
+  },
+  "questions": {
+    "rules_001_q26": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:30:04.115Z",
+      "last_practiced": "2026-03-09T07:09:27.501Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-07T08:31:05.540Z",
+          "result": false,
+          "time": 8,
+          "userAnswer": "A",
+          "correctAnswer": "C",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 8,
+        "fastest": 8,
+        "slowest": 8
+      }
+    },
+    "rules_001_q27": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:30:04.115Z",
+      "last_practiced": "2026-03-09T07:09:27.501Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-07T08:31:05.540Z",
+          "result": false,
+          "time": 13,
+          "userAnswer": "C",
+          "correctAnswer": "B",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 13,
+        "fastest": 13,
+        "slowest": 13
+      }
+    },
+    "rules_001_q28": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "accuracy": 1,
+      "mastery_level": 1,
+      "first_seen": "2026-03-07T08:30:04.115Z",
+      "last_practiced": "2026-03-09T07:09:27.501Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-07T08:31:05.540Z",
+          "result": true,
+          "time": 9,
+          "userAnswer": "B",
+          "correctAnswer": "B",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 9,
+        "fastest": 9,
+        "slowest": 9
+      }
+    },
+    "rules_001_q29": {
+      "extract_count": 1,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-07T08:30:04.115Z",
+      "last_practiced": "2026-03-09T07:09:27.501Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-07T08:31:05.540Z",
+          "result": false,
+          "time": 15,
+          "userAnswer": "C",
+          "correctAnswer": "A",
+          "passageId": "rules_passage_001"
+        }
+      ],
+      "time_stats": {
+        "avg_time": 15,
+        "fastest": 15,
+        "slowest": 15
+      }
+    },
+    "rules_001_q1": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:08:07.443Z",
+      "last_practiced": "2026-03-20T00:30:52.762Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "rules_001_q2": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:08:07.443Z",
+      "last_practiced": "2026-03-20T00:30:52.762Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "rules_001_q3": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:08:07.443Z",
+      "last_practiced": "2026-03-20T00:30:52.762Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "rules_001_q4": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:08:07.443Z",
+      "last_practiced": "2026-03-20T00:30:52.762Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "bob_001_q41": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:14:32.275Z",
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "bob_001_q42": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:14:32.275Z",
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "bob_001_q43": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:14:32.275Z",
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "bob_001_q44": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:14:32.275Z",
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    },
+    "bob_001_q45": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-19T19:14:32.275Z",
+      "last_practiced": "2026-03-19T19:14:32.275Z",
+      "last_result": null,
+      "history": [],
+      "time_stats": {
+        "avg_time": 0,
+        "fastest": 0,
+        "slowest": 0
+      }
+    }
+  }
+}

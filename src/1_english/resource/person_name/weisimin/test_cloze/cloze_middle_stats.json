@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "username": "weisimin",
+    "bank": "中考",
+    "createdAt": "2026-03-05T08:05:14.650Z",
+    "lastActive": "2026-03-21T21:59:33.080Z",
+    "totalExtracts": 53,
+    "totalQuestionsAttempted": 4,
+    "totalCorrect": 1,
+    "totalWrong": 3,
+    "accuracy": 0.25,
+    "avgMastery": 0.07,
+    "practicedQuestions": 7
+  },
+  "questions": {
+    "cloze_middle_004": {
+      "extract_count": 9,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-05T08:05:14.666Z",
+      "last_practiced": "2026-03-06T05:16:06.416Z",
+      "last_result": null,
+      "history": []
+    },
+    "cloze_middle_003": {
+      "extract_count": 9,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-05T08:11:32.179Z",
+      "last_practiced": "2026-03-05T11:21:38.571Z",
+      "last_result": null,
+      "history": []
+    },
+    "cloze_middle_005": {
+      "extract_count": 9,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-05T08:18:10.434Z",
+      "last_practiced": "2026-03-05T11:21:33.266Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T08:41:26.638Z",
+          "result": false,
+          "time": 86,
+          "userAnswer": {
+            "11": "D",
+            "12": "B",
+            "13": "A",
+            "14": "F",
+            "15": "G"
+          },
+          "correctAnswer": {
+            "11": "A",
+            "12": "B",
+            "13": "C",
+            "14": "D",
+            "15": "F"
+          }
+        }
+      ]
+    },
+    "cloze_middle_001": {
+      "extract_count": 10,
+      "answer_count": 2,
+      "correct_count": 1,
+      "wrong_count": 1,
+      "accuracy": 0.5,
+      "mastery_level": 0.5,
+      "first_seen": "2026-03-05T08:18:12.244Z",
+      "last_practiced": "2026-03-06T05:21:57.028Z",
+      "last_result": true,
+      "history": [
+        {
+          "date": "2026-03-05T09:37:30.064Z",
+          "result": false,
+          "time": 57,
+          "userAnswer": {
+            "11": "A",
+            "12": "B",
+            "13": "C",
+            "14": "D",
+            "15": "G"
+          },
+          "correctAnswer": {
+            "11": "B",
+            "12": "C",
+            "13": "F",
+            "14": "A",
+            "15": "D"
+          }
+        },
+        {
+          "date": "2026-03-05T09:38:33.493Z",
+          "result": true,
+          "time": 53,
+          "userAnswer": {
+            "11": "B",
+            "12": "C",
+            "13": "F",
+            "14": "A",
+            "15": "D"
+          },
+          "correctAnswer": {
+            "11": "B",
+            "12": "C",
+            "13": "F",
+            "14": "A",
+            "15": "D"
+          }
+        }
+      ]
+    },
+    "cloze_middle_002": {
+      "extract_count": 6,
+      "answer_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-05T08:18:12.244Z",
+      "last_practiced": "2026-03-05T11:20:56.757Z",
+      "last_result": false,
+      "history": [
+        {
+          "date": "2026-03-05T09:36:57.492Z",
+          "result": false,
+          "time": 55,
+          "userAnswer": {
+            "11": "E",
+            "12": "A",
+            "13": "F",
+            "14": "C",
+            "15": "D"
+          },
+          "correctAnswer": {
+            "11": "C",
+            "12": "A",
+            "13": "D",
+            "14": "B",
+            "15": "F"
+          }
+        }
+      ]
+    },
+    "cloze_pets_001": {
+      "extract_count": 0,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T05:21:07.284Z",
+      "last_practiced": "2026-03-06T05:21:07.284Z",
+      "last_result": null,
+      "history": []
+    },
+    "cloze_pets_002": {
+      "extract_count": 10,
+      "answer_count": 0,
+      "correct_count": 0,
+      "wrong_count": 0,
+      "accuracy": 0,
+      "mastery_level": 0,
+      "first_seen": "2026-03-06T05:24:54.708Z",
+      "last_practiced": "2026-03-21T21:59:33.079Z",
+      "last_result": null,
+      "history": []
+    }
+  }
+}
